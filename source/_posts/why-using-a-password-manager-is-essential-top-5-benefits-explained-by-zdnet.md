@@ -1,7 +1,7 @@
 ---
 title: "Why Using a Password Manager Is Essential: Top 5 Benefits Explained by ZDNet"
-date: 2025-01-08T05:40:16.742Z
-updated: 2025-01-10T01:05:32.359Z
+date: 2025-01-14T20:14:51.974Z
+updated: 2025-01-15T18:29:58.784Z
 tags:
   - password-manager
 categories:
@@ -105,6 +105,10 @@ Direct LinkEmbed Code
 
 Close Modal Dialog
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** recommends
 
 [The best password managers for business Everyone needs a password manager. It's the only way to maintain unique, hard-to-guess credentials for every secure site you and your team access daily.  Read now](https://www.zdnet.com/article/best-password-manager/)
@@ -161,10 +165,6 @@ In this article, I explain why I consider a password manager essential. I also t
 
 * **See: [Best password manager in 2021](https://www.zdnet.com/article/best-password-manager/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The case for password managers 
 
 You can choose from dozens of third-party password manager apps and services, both commercial and open source. Despite some differences in user experience, they are all similar in their core features. On a PC running Windows or Linux, on a Mac running MacOS, or on a mobile device, you install an app that manages a database containing sets of credentials (usernames, passwords, and other required details). The contents of the database are protected with AES-256 encryption. To unlock the password database, you enter a decryption key (your master password) that only you know, and then allow the program to fill in the saved credentials so you can sign in on a webpage or app. 
@@ -186,10 +186,6 @@ That architecture offers five distinct advantages over a DIY solution.
 * [Best antivirus software](https://www.zdnet.com/article/best-antivirus/)
 * [The fastest VPNs](https://www.zdnet.com/article/fastest-vpn/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1) Browser Integration 
 
 Most password managers include browser extensions that automatically prompt you to save credentials when you create a new account or sign in using those credentials for the first time on a device. That browser integration also allows you to automatically enter credentials when you visit a matching website and to update the saved credentials when you change your password.
@@ -197,7 +193,7 @@ Most password managers include browser extensions that automatically prompt you 
 Contrast that approach with the inevitable friction of a manual list. You don't need to find a file and add a password to it to save a new or changed set of credentials, and you don't need to find and open that same file to copy and paste your password. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2) Password Generation 
@@ -207,10 +203,6 @@ Every password manager worth its salted hash includes a password generator capab
 Most password managers also allow you to customize the length and complexity of a generated password so you can deal with sites that have peculiar password rules. 
 
 With the possible exceptions of [John Forbes Nash, Jr.](https://en.wikipedia.org/wiki/A%5FBeautiful%5FMind%5F%28film%29), and [Raymond Babbitt](https://en.wikipedia.org/wiki/Rain%5FMan), mere mortals are not capable of such feats of randomization. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3) Phishing Protection 
 
@@ -225,6 +217,10 @@ That phishing protection is probably the most underrated feature of all. If you 
 Password managers work across devices, including PCs, Macs, and mobile devices, with the option to sync your encrypted password database to the cloud. Access to that file and its contents can be secured with biometric authentication and 2FA. 
 
 By contrast, if you manage passwords in an encrypted file that's saved locally, you have to manually copy that file to other devices (or keep it in the cloud in a location under your personal control), and then make sure the contents of each copy stay in sync. More friction. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  5) Surveillance Safeguard 
 
@@ -247,6 +243,10 @@ And so you wind up keeping an encrypted list of passwords that are not exactly u
 **"If someone steals my password file, they have all my passwords."**
 
 No, they don't. They have an AES-256 encrypted blob that is, for all intents and purposes, useless gibberish. The only way to extract its secrets is with the decryption key, which you and you alone know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Security
 
@@ -282,6 +282,10 @@ If you're a journalist working on security issues, or an activist in a country w
 
 But even if you're not an obvious candidate for targeted attacks, you can be swept up in a website breach. That's why [Have I Been Pwned?](https://haveibeenpwned.com/) exists. It's easy enough for a compromised website to force you to reset your password, minimizing the risk of that breach, but if you've used that same combination of credentials elsewhere, you're at serious risk. And no matter how careful you are, you're always at risk of being fooled into handing over your credentials in a well-designed phishing attack.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Which password manager is right for you?
 
 Any password manager solution is better than none.
@@ -303,10 +307,6 @@ Finally, most commercial password managers include business plans that allow cen
 We've put together a list of the best free and paid options here: [Best Password Manager in 2021](https://www.zdnet.com/article/best-password-manager/). Each entry in this list includes pricing details as well as a link to security information. Every paid program offers a free trial, and we strongly recommend taking advantage of those trials to see if a program is right for you.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Related stories:
 
@@ -330,16 +330,22 @@ We've put together a list of the best free and paid options here: [Best Password
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ustream-review-and-alternatives/"><u>[Updated] 2024 Approved Ustream Review and Alternatives</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-navigating-thumbnail-sizes-for-youtube-content-excellence/"><u>[New] Navigating Thumbnail Sizes for YouTube Content Excellence</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-reimagining-communication-advanced-tactics-for-capturing-skype-calls/"><u>[New] Reimagining Communication Advanced Tactics for Capturing Skype Calls</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-leading-steadicams-for-professional-uav-filming/"><u>[Updated] Leading Steadicams for Professional UAV Filming</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-churning-up-channels-top-gear-list/"><u>2024 Approved Churning Up Channels Top Gear List</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-universal-video-concepts-the-10-simplest-ideas-everyone-can-execute/"><u>2024 Approved Universal Video Concepts The 10 Simplest Ideas Everyone Can Execute</u></a></li>
 <li><a href="https://app-tips.techidaily.com/celona-secures-60m-in-series-c-funding-drives-enterprise-5g-revolution-what-you-need-to-know/"><u>Celona Secures $60M in Series C Funding, Drives Enterprise 5G Revolution: What You Need to Know</u></a></li>
 <li><a href="https://app-tips.techidaily.com/cerebras-releases-revolutionary-wse-section-1-advanced-problem-on-antenna-ground-systems/"><u>Cerebras Releases Revolutionary WSE- # Section 1: Advanced Problem on Antenna Ground Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/data-analysis/"><u>Data Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-apples-unconventional-choice-no-exclamation-marks-on-their-site-insights-revealed-zdnet/"><u>Discovering Apple's Unconventional Choice: No Exclamation Marks on Their Site - Insights Revealed | ZDNet</u></a></li>
 <li><a href="https://app-tips.techidaily.com/dont-panic-windows-11-users-discover-5-effective-strategies-before-official-end-of-service-zdnet/"><u>Don't Panic, Windows 11 Users! Discover 5 Effective Strategies Before Official End of Service | ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-future-of-web-search-bings-ai-on-android-and-ios/"><u>Explore the Future of Web Search: Bing's AI on Android & iOS</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-initiate-flawless-zoom-sessions-today/"><u>In 2024, Initiate Flawless Zoom Sessions Today</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uncovering-the-secrets-of-effortless-iphone-podcast-downloads/"><u>In 2024, Uncovering the Secrets of Effortless iPhone Podcast Downloads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/secure-shots-with-a-steadier-gopro-video-technique-for-2024/"><u>Secure Shots with a Steadier GoPro Video Technique for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-mixer-streams-on-macos-a-step-by-step-guide/"><u>Mastering Mixer Streams on macOS A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-hurdles-in-ai-implementation-key-takeawives-from-deloitte-survey-zdnet/"><u>Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/reversing-windows-gpu-hang-addressing-error-code-0x887a0006/"><u>Reversing Window's GPU Hang: Addressing Error Code 0X887A0006</u></a></li>
 <li><a href="https://app-tips.techidaily.com/sonys-collaboration-with-ai-singapore-fuels-development-of-advanced-large-language-models/"><u>Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models</u></a></li>
 <li><a href="https://app-tips.techidaily.com/the-great-microsoft-teams-debacle-how-boss-clash-over-communication-tools-shook-an-office/"><u>The Great Microsoft Teams Debacle: How Boss Clash Over Communication Tools Shook an Office</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-realme-10t-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Realme 10T 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-desktop-distributions-reviewed-why-linux-mint-22-stands-out-above-the-rest/"><u>Top Desktop Distributions Reviewed - Why Linux Mint 22 Stands Out Above the Rest</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstuck-scroll-wheels-solving-common-issues-with-logitech-mice/"><u>Unstuck Scroll Wheels: Solving Common Issues with Logitech Mice</u></a></li>
 </ul></div>
 

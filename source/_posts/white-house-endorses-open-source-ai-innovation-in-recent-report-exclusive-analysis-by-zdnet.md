@@ -1,7 +1,7 @@
 ---
 title: White House Endorses Open Source AI Innovation in Recent Report – Exclusive Analysis by ZDNet
-date: 2025-01-07T02:06:44.253Z
-updated: 2025-01-10T04:08:34.537Z
+date: 2025-01-11T22:45:08.989Z
+updated: 2025-01-15T16:49:43.093Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,14 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-rapidly-evolving-yt-spaces-enhancing-cerebral-growth/"><u>[New] In 2024, Rapidly Evolving YT Spaces Enhancing Cerebral Growth</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-your-biz-game-youtube-channels-that-succeeded/"><u>[Updated] 2024 Approved Elevate Your Biz Game YouTube Channels That Succeeded</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boss-loses-cool-over-team-communication-mishaps-on-microsoft-teams/"><u>Boss Loses Cool Over Team Communication Mishaps on Microsoft Teams</u></a></li>
-<li><a href="https://app-tips.techidaily.com/collaborative-development-of-advanced-llms-by-sony-and-ai-singapore-announced-tech-news/"><u>Collaborative Development of Advanced LLMs by Sony & AI Singapore Announced | Tech News</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/improving-interaction-how-microsoft-can-enhance-usability-and-satisfy-customers/"><u>Improving Interaction: How Microsoft Can Enhance Usability and Satisfy Customers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-the-lip-reader-how-this-innovative-app-poses-a-threat-to-giants-like-microsoft-teams-and-zoom-zdnet-insight/"><u>The Rise of the Lip-Reader: How This Innovative App Poses a Threat to Giants Like Microsoft Teams and Zoom | ZDNet Insight</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-screencast-lifeline-crucial-knowledge-for-success-for-2024/"><u>The Screencast Lifeline Crucial Knowledge for Success for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-linux-distributions-ideal-for-developers-a-comprehensive-guide-by-techradar/"><u>Top 5 Linux Distributions Ideal for Developers: A Comprehensive Guide by TechRadar</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-the-winegard-fl5500a-solid-signal-strength-meets-premium-pricing-analysis/"><u>Unboxing the Winegard FL5500A: Solid Signal Strength Meets Premium Pricing Analysis</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-masterful-outros-and-descriptions-a-guide-to-excellence/"><u>[New] 2024 Approved Masterful Outros and Descriptions A Guide to Excellence</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-social-media-spotlight-top-tiktok-tweets/"><u>[Updated] In 2024, Social Media Spotlight Top TikTok Tweets</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-transform-your-channels-income-the-monetization-magic-with-500plus-fans/"><u>2024 Approved Transform Your Channel's Income The Monetization Magic with 500+ Fans</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/achieving-youtube-live-prominence-with-pro-level-tips/"><u>Achieving YouTube Live Prominence with Pro-Level Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-microsoft-recall-as-a-privacy-catastrophe-here-are-7-compelling-reasons-you-shouldnt-worry-zdnet/"><u>Debunking Microsoft Recall as a Privacy Catastrophe? Here Are 7 Compelling Reasons You Shouldn't Worry | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-essential-is-devops-for-staying-ahead-in-business-ensuring-safety-through-top-strategies-insights-from-zdnet/"><u>How Essential Is DevOps for Staying Ahead in Business: Ensuring Safety Through Top Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-major-cloud-services-aws-azure-and-google-cloud-for-a-hybrid-and-saas-strategy-insights-by-zdnet/"><u>In-Depth Analysis of Major Cloud Services: AWS, Azure, and Google Cloud for a Hybrid and SaaS Strategy | Insights by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-process-of-upgrading-your-system-to-ubuntu-2404-tips-and-tricks-from-zdnet/"><u>Mastering the Process of Upgrading Your System to Ubuntu 24.04: Tips and Tricks From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-realme-12plus-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme 12+ 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-woes-intensify-for-microsoft-as-launch-deadline-looms-expert-analysis-by-zdnet/"><u>Windows 11 Woes Intensify for Microsoft as Launch Deadline Looms – Expert Analysis by ZDNET</u></a></li>
 </ul></div>
 

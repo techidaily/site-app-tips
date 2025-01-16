@@ -1,7 +1,7 @@
 ---
 title: Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet
-date: 2025-01-03T00:41:13.659Z
-updated: 2025-01-10T05:53:45.996Z
+date: 2025-01-13T22:35:29.107Z
+updated: 2025-01-15T23:55:42.943Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-high-performance-graphics-displayed-by-asus-proart/"><u>[New] High-Performance Graphics Displayed by ASUS ProArt</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-from-twitter-to-facebook-sending-your-tweets-for-2024/"><u>[Updated] From Twitter to Facebook Sending Your Tweets for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-windows-10-users-guide-saving-mov-files-flawlessly/"><u>[Updated] In 2024, Windows 10 Users' Guide Saving .mov Files Flawlessly</u></a></li>
-<li><a href="https://facebook.techidaily.com/big-tech-backs-health-5m-to-combat-virus-outbreak/"><u>Big Tech Backs Health: $5M to Combat Virus Outbreak</u></a></li>
-<li><a href="https://app-tips.techidaily.com/challenges-for-ai-communication-in-multilingual-contexts-revealed-by-stanford-study-featured-on-zdnet/"><u>Challenges for AI Communication in Multilingual Contexts Revealed by Stanford Study, Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/edge-computing-boom-unpacking-how-this-trend-shapes-future-careers-insights-from-zdnet/"><u>Edge Computing Boom: Unpacking How This Trend Shapes Future Careers - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-generative-ai-enhances-productivity-and-reshapes-the-role-of-software-developers-zdnet-insights/"><u>How Generative AI Enhances Productivity and Reshapes the Role of Software Developers | ZDNet Insights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-x50iplus-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor X50i+?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/marketing-mastery-discerning-real-engagement-from-skewed-statistics-for-2024/"><u>Marketing Mastery Discerning Real Engagement From Skewed Statistics for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-mastery-your-complete-user-manual/"><u>Mondly Mastery: Your Complete User Manual</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-measuring-system-memory-performance-in-windows-10-and-11/"><u>Step-by-Step Guide: Measuring System Memory Performance in Windows 10 & 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-bulletproof-ai-watermarks-insights-from-zdnet/"><u>The Ultimate Guide to Bulletproof AI Watermarks: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-plans-of-2024-comprehensive-reviews-and-comparisons-techradar/"><u>Top-Ranked Web Hosting Plans of 2024: Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-profitability-with-generative-ai-understanding-roi-challenges-and-strategies-featured-in-zdnet/"><u>Unlocking Profitability with Generative AI: Understanding ROI Challenges and Strategies | Featured in ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-future-careers-surprising-new-tech-positions-with-yet-to-be-named-titles-insights-from-zdnet/"><u>Unveiling Future Careers: Surprising New Tech Positions with Yet-to-Be-Named Titles - Insights From ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oppo-a1-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Oppo A1 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-10-best-mp4-players-for-music-enthusiasts/"><u>[New] 10 Best MP4 Players for Music Enthusiasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-accumulating-prime-visuals-for-content-creation/"><u>[New] Accumulating Prime Visuals for Content Creation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-crafting-a-seamless-cross-share-experience-with-fb-and-igtv-for-2024/"><u>[New] Crafting a Seamless Cross-Share Experience with FB & IGTV for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-leading-5-gaming-screens-with-ps5-support/"><u>[New] Leading 5 Gaming Screens with PS5 Support</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-no-spend-guide-to-the-best-ae-template-hits-for-2024/"><u>[New] No-Spend Guide to the Best AE Template Hits for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-revolutionize-notes-with-mematic-software/"><u>[New] Revolutionize Notes with Mematic Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-solutions-combating-it-professional-burnout-and-alert-overload-with-technology-insights-from-zdnet/"><u>AI Solutions: Combating IT Professional Burnout & Alert Overload with Technology Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/banking-innovation-at-risk-cio-warns-against-reliance-on-easy-prompt-tech-in-favour-of-creative-geniuses/"><u>Banking Innovation at Risk: CIO Warns Against Reliance on Easy-Prompt Tech in Favour of Creative Geniuses</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-professional-edge-without-solely-focusing-on-ai-insights-for-todays-workforce/"><u>Elevate Your Professional Edge Without Solely Focusing on AI | Insights for Today's Workforce</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-synergy-how-ai-empowers-developers-and-business-teams-insights-from-zdnet/"><u>Enhancing Synergy: How AI Empowers Developers & Business Teams - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-samsungs-latest-6144tb-storage-solution-and-future-plans-for-a-12288tb-model/"><u>Exploring Samsung's Latest 61.44TB Storage Solution and Future Plans for a 122.88TB Model</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-emerging-companies-can-leverage-ai-models-to-capture-market-share-insights-from-zdnet/"><u>How Emerging Companies Can Leverage AI Models to Capture Market Share: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722959583005-master-the-update-fresh-drivers-for-hp-elitebook-query-solve-the-equation-x-plus-5-x2/"><u>Master the Update: Fresh Drivers for HP EliteBook # Query: Solve the Equation $X + 5 = X^2$.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-of-integrating-artificasternotext-ai-and-agile-methodologies-zdnet-reported-findings/"><u>Navigating the Complexities of Integrating Artificasternotext AI and Agile Methodologies - ZDNET Reported Findings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-rise-of-agent-ecosystems-in-artificial-intelligence-future-service-domination/"><u>Navigating the Rise of Agent Ecosystems in Artificial Intelligence: Future Service Domination</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prioritize-manager-training-before-ai-deployment-insights-from-zdnet/"><u>Prioritize Manager Training Before AI Deployment: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-work-how-ai-agents-forge-a-new-era-in-employment-insights-from-zdnet/"><u>Revolutionizing Work: How AI Agents Forge a New Era in Employment - Insights From ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nokia-c12-plus-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nokia C12 Plus with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/synergizing-your-brands-impact-on-facebook-linkedin-and-youtube/"><u>Synergizing Your Brand's Impact on Facebook, LinkedIn, and YouTube</u></a></li>
 </ul></div>
 

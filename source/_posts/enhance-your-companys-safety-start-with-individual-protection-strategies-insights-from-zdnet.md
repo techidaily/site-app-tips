@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Company's Safety: Start with Individual Protection Strategies - Insights From ZDNet"
-date: 2025-01-03T01:24:26.793Z
-updated: 2025-01-10T03:55:52.584Z
+date: 2025-01-10T18:36:52.581Z
+updated: 2025-01-15T19:36:43.067Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 Corporations aren't doing enough to improve their employees' personal security practices. Credentials remain the highest targeted data type as they are the gateway to ransomware and data theft. 61% of data breaches in 2021 involved the use of stolen and misused credentials. Bad actors took advantage of a global pandemic to increase the number of phishing attacks, the cause of stolen credentials in 36% of breaches -- a 9% increase over last year -- according to the [Verizon 2021 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdfx). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,22 +66,22 @@ Given how connected we all are, the rising demands of working anywhere, and incr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-perfect-patches-backgrounds-for-online-streaming/"><u>[New] Perfect Patches Backgrounds for Online Streaming</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-discovering-social-medias-top-5-innovations-in-fb-for-2024/"><u>[Updated] Discovering Social Media’s Top 5 Innovations in FB for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-trivial-talent-into-thriving-tv-subscribers-triumphs/"><u>[Updated] Transforming Trivial Talent Into Thriving TV (Subscribers) Triumphs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-6-cheap-4k-projectors-for-2024/"><u>Best 6 Cheap 4K Projectors for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-setting-up-and-accessing-kik-chat-app-for-windowsmac-users/"><u>Complete Tutorial: Setting Up & Accessing Kik Chat App for Windows/Mac Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/create-amazing-gifs-instantly-with-our-choice-of-the-10-best-free-apps-on-smartphones-iphone-and-android/"><u>Create Amazing GIFs Instantly with Our Choice of the 10 Best Free Apps on Smartphones (iPhone & Android)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/creating-anime-sounds-with-uwu-modifiers-top-three-speech-alteration-tools-for-fans/"><u>Creating Anime Sounds with UwU Modifiers: Top Three Speech Alteration Tools for Fans</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-and-installation-guide-how-to-set-up-tango-video-calls-and-chats/"><u>Download & Installation Guide: How To Set Up Tango Video Calls And Chats</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-4-app-solutions-for-diy-interior-and-exterior-painting-projects/"><u>Essential 4 App Solutions for DIY Interior and Exterior Painting Projects</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-edits-17-key-tools-to-revamp-images-effortlessly/"><u>Essential Edits 17 Key Tools to Revamp Images Effortlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-tips-harnessing-the-power-of-bings-intelligent-features-on-your-android-device/"><u>Expert Tips: Harnessing the Power of Bing's Intelligent Features on Your Android Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expertly-curated-list-the-ultimate-9plus1-video-streaming-solutions-for-android-devices/"><u>Expertly Curated List: The Ultimate 9+1 Video Streaming Solutions for Android Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-8-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 8 Plus in the Best Ways</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-moving-your-iphone-applications-seamlessly-between-iphones/"><u>Step-by-Step Guide: Moving Your iPhone Applications Seamlessly Between iPhones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192484-ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-tumblr-image-format-specifications/"><u>[New] Tumblr Image Format Specifications</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-canvas-magic-how-to-banish-the-unwanted-backdrop/"><u>[Updated] Canva's Magic How to Banish the Unwanted Backdrop</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-online-tale-creation-fundamentals/"><u>[Updated] In 2024, Mastering Online Tale Creation Fundamentals</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-perfect-chat-harmony-how-to-download-and-tailor-whatsapp-tones-for-2024/"><u>[Updated] Perfect Chat Harmony How to Download and Tailor WhatsApp Tones for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-the-void-seven-strategies-for-stabilizing-obs-studio-link/"><u>Avoiding the Void: Seven Strategies for Stabilizing OBS Studio Link</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/beginner-friendly-top-9-free-sound-editor-programs-for-creating-tunes/"><u>Beginner-Friendly Top 9 Free Sound Editor Programs for Creating Tunes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-android-file-organizers-expert-opinions-and-comprehensive-reviews/"><u>Best Android File Organizers - Expert Opinions & Comprehensive Reviews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194092-enhance-your-cinematic-journey-with-the-ultimate-list-of-15-vr-film-apps-for-mobile-devices/"><u>Enhance Your Cinematic Journey with the Ultimate List of 15 VR Film Apps for Mobile Devices!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-androids-leading-music-video-watching-tools-for-2024/"><u>Explore Android's Leading Music Video Watching Tools for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-6-mobile-text-defense-tools-to-shield-conversations-on-android-smartphones/"><u>Leading 6 Mobile Text Defense Tools to Shield Conversations on Android Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lumafusion-the-ultimate-top-pick-for-ios-video-editing-apps/"><u>LumaFusion: The Ultimate Top Pick for iOS Video Editing Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-fix-top-5-methods-for-forcing-a-close-on-stuck-mac-applications/"><u>Quick Fix: Top 5 Methods for Forcing a Close on Stuck Mac Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-on-android-rooting-using-elite-root-applications-both-gratis-and-subscription/"><u>Step-by-Step Tutorial on Android Rooting Using Elite ROOT Applications (Both Gratis and Subscription)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-aurora-hdr-experience-is-it-transformative/"><u>The Aurora HDR Experience Is It Transformative?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-time-worn-images-with-these-3-powerful-applications-for-modernizing-classic-photos/"><u>Transform Time-Worn Images with These 3 Powerful Applications for Modernizing Classic Photos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/turkeys-alphabet-simplified-a-pronunciation-and-reading-guide-for-newbies/"><u>Turkey's Alphabet Simplified: A Pronunciation & Reading Guide for Newbies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlimited-free-communication-tool-cross-platform-calling-and-text-service-for-smartphones-and-computers/"><u>Unlimited Free Communication Tool: Cross-Platform Calling & Text Service for Smartphones & Computers</u></a></li>
 </ul></div>
 

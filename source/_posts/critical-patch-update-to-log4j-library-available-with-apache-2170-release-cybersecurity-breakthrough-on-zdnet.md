@@ -1,7 +1,7 @@
 ---
 title: Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET
-date: 2025-01-05T06:12:24.657Z
-updated: 2025-01-10T02:28:29.142Z
+date: 2025-01-13T18:07:29.408Z
+updated: 2025-01-15T23:29:09.048Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -112,7 +112,7 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -190,16 +190,24 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-top-mobile-asmr-tools-essential-downloads/"><u>[New] 2024 Approved Top Mobile ASMR Tools Essential Downloads</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-perfectly-pair-audio-visual-delights-top-6-music-video-apps-for-android-for-2024/"><u>[Updated] Perfectly Pair Audio-Visual Delights Top 6 Music Video Apps for Android for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-full-potential-of-eva-ai-by-ex-journey-your-essential-chatbot-review-compiled/"><u>Discover the Full Potential of EVA AI by Ex Journey – Your Essential Chatbot Review Compiled!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-poco-x5-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Poco X5 Pro Phone? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevenlabs-ai-voice-generation-review-with-a-look-at-other-options/"><u>ElevenLabs AI: Voice Generation Review with a Look at Other Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-bing-chat-how-to-converse-using-cutting-edge-gpt-language-models-by-microsoft/"><u>Exploring Bing Chat: How to Converse Using Cutting-Edge GPT Language Models by Microsoft</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-testing-and-verdict-on-the-exceptional-netgear-nighthawk-c7000-range-extender/"><u>In-Depth Testing and Verdict on the Exceptional Netgear Nighthawk C7000 Range Extender</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-through-the-best-of-ai-conversational-agents-in-depth-review-of-chatgpt/"><u>Navigating Through The Best of AI Conversational Agents: In-Depth Review Of ChatGPT</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/not-as-robust-dissecting-the-features-of-the-tp-link-av1300-powerline-extender/"><u>Not as Robust? Dissecting the Features of the TP-Link AV1300 Powerline Extender</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-advanced-chatbot-innovations-combining-gpt-tech-with-astrological-insights/"><u>The Ultimate Guide to Advanced Chatbot Innovations Combining GPT Tech with Astrological Insights</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-expert-insights-switching-from-webp-to-jpg-format/"><u>[New] In 2024, Expert Insights Switching From WebP to JPG Format</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-seamless-sharing-twitch-links-on-your-fb-page-for-2024/"><u>[New] Seamless Sharing Twitch Links on Your FB Page for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-threefold-way-to-extract-and-save-youtubes-subtitles-srt/"><u>[New] The Threefold Way to Extract and Save YouTube's Subtitles (SRT)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-does-apples-m1-compare-to-traditional-editing-workstations/"><u>[Updated] How Does Apple’s M1 Compare to Traditional Editing Workstations?</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1-best-live-streaming-apps-discover-manycam-and-other-top-virtual-camera-solutions/"><u>1. Best Live Streaming Apps: Discover ManyCam and Other Top Virtual Camera Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevate-your-episodes-a-comprehensive-guide-to-sound-design-and-editing/"><u>2024 Approved Elevate Your Episodes A Comprehensive Guide to Sound Design and Editing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adobe-full-voice-booster-evaluation-techniques-for-superior-sound-quality/"><u>Adobe Full Voice Booster Evaluation: Techniques for Superior Sound Quality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/best-practices-for-downloading-asus-chipset-drivers-on-windows-pcs/"><u>Best Practices for Downloading ASUS Chipset Drivers on Windows PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961604346-effortless-installation-keeping-your-scansnap-up-to-date-on-pc/"><u>Effortless Installation: Keeping Your ScanSnap Up-to-Date on PC!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-leading-substitutes-for-voicemyai-your-guide-to-innovative-ai-voice-solutions/"><u>Explore the Leading Substitutes for voicemy.ai: Your Guide to Innovative AI Voice Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-leading-artificeintelligence-video-makers-for-image-based-production/"><u>In-Depth Analysis of Leading ArtificeIntelligence Video Makers for Image-Based Production</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-insight-on-avclabs-video-improvement-software-features-benefits-and-drawbacks/"><u>In-Depth Insight on AVCLabs Video Improvement Software: Features, Benefits & Drawbacks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-5-ai-technologies-for-transforming-grayscale-videos-into-full-color-masterpieces/"><u>Leading 5 AI Technologies for Transforming Grayscale Videos Into Full Color Masterpieces</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-3-video-to-text-conversion-software-a-comprehensive-guide/"><u>Top 3 Video-to-Text Conversion Software: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-substitutes-for-elevenlabs-explored-detailed-comparison-and-key-characteristics/"><u>Top 5 Substitutes for ElevenLabs Explored: Detailed Comparison and Key Characteristics</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-superior-substitutes-to-zapier-enhance-your-workflow-automation/"><u>Top 5 Superior Substitutes to Zapier: Enhance Your Workflow Automation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-exceptional-no-limit-character-ai-solutions-for-dynamic-experiences/"><u>Unveiling Exceptional No-Limit Character AI Solutions for Dynamic Experiences</u></a></li>
 </ul></div>
 

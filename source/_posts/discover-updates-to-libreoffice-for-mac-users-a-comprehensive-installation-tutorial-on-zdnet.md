@@ -1,7 +1,7 @@
 ---
 title: Discover Updates to LibreOffice for Mac Users – A Comprehensive Installation Tutorial on ZDNET
-date: 2025-01-03T20:59:17.119Z
-updated: 2025-01-09T22:22:18.585Z
+date: 2025-01-09T17:38:16.394Z
+updated: 2025-01-15T22:07:39.188Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-2023s-top-rated-facebook-live-viewing-software/"><u>[New] In 2024, 2023'S Top-Rated Facebook Live Viewing Software</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-a-comprehensive-analysis-mycams-video-capture-technology/"><u>[New] In 2024, A Comprehensive Analysis MyCam's Video Capture Technology</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-high-definition-chroma-blade-photography/"><u>[Updated] Exploring High-Definition Chroma Blade Photography</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-early-birds-guide-to-youtube-skip-these-8-potential-pitfalls/"><u>[Updated] The Early Bird's Guide to YouTube Skip These 8 Potential Pitfalls</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028640171-youtube/"><u>「YouTubeミュージックの安全なダウンロード手順ガイド」</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advanced-ai-load-management-in-new-kubernetes-version-unveiled-technews/"><u>Advanced AI Load Management in New Kubernetes Version Unveiled | TechNews</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-overcoming-error-87-for-successful-dll-loads/"><u>Comprehensive Guide: Overcoming Error 87 for Successful DLL Loads</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/cting-your-profit-share-in-youtube-short-creation-for-2024/"><u>Dissecting Your Profit Share in YouTube Short Creation for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-locating-misplaced-airpods-and-preventing-future-losses-zdnet/"><u>Effective Strategies for Locating Misplaced AirPods and Preventing Future Losses | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-the-best-2022-mind-mapping-solutions-and-software-as-ranked-by-zdnet-experts/"><u>Explore the Best 2022 Mind Mapping Solutions and Software as Ranked by ZDNet Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-artificeinvents-faster-software-development-cycles-and-the-complexities-behind-assessing-its-pace-as-reported-by-zdnet/"><u>How Artificeinvents Faster Software Development Cycles & The Complexities Behind Assessing Its Pace, as Reported by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/implications-of-embracing-decentralization-and-web3-technologies-for-businesses-an-in-depth-analysis-by-zdnet/"><u>Implications of Embracing Decentralization & Web3 Technologies for Businesses - An In-Depth Analysis by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/increased-patent-safeguards-for-linux-systems-oin-exclusivity-intensifies-skirts-ai-coverage-zdnet/"><u>INCREASED PATENT SAFEGUARDS FOR LINUX SYSTEMS: OIN EXCLUSIVITY INTENSIFIES, SKIRTS AI COVERAGE - ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/kubernetes-the-decade-journey-of-revolutionizing-cloud-computing-past-achievements-and-future-trends-zdnet/"><u>Kubernetes: The Decade Journey of Revolutionizing Cloud Computing - Past Achievements and Future Trends | ZDNet</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-refinement-of-music-files-on-mac-a-look-at-the-most-acclaimed-mp3-editors-for-2024/"><u>New Refinement of Music Files on Mac A Look at the Most Acclaimed MP3 Editors for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/organizing-chaos-a-comprehensive-guide-to-taming-linux-and-open-source-docs/"><u>Organizing Chaos: A Comprehensive Guide to Taming Linux & Open Source Docs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/organizing-chaos-streamlining-linux-and-open-source-docs-with-proven-solutions/"><u>Organizing Chaos: Streamlining Linux & Open Source Docs with Proven Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-uploading-images-from-iphone-to-windows-pc/"><u>Step-by-Step Guide: Uploading Images From iPhone to Windows PC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210761849-9781591798804-true-meditation/"><u>True Meditation | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-started-with-youtube-video-ad-building-without-spending/"><u>[New] In 2024, Get Started with YouTube Video Ad Building Without Spending</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-uniform-focus-in-teamblend-calls/"><u>[New] In 2024, The Ultimate Guide to Uniform Focus in Teamblend Calls</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-deadly-dominance-the-quintessential-zombie-gameplay/"><u>[Updated] 2024 Approved Deadly Dominance The Quintessential Zombie Gameplay</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-navigating-the-complexities-of-facebook-slideshow-tools-for-2024/"><u>[Updated] Navigating the Complexities of Facebook Slideshow Tools for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/before-its-too-late-exploring-five-strategies-to-maintain-your-windows-pc-zdnet/"><u>Before It's Too Late: Exploring Five Strategies to Maintain Your Windows 지원 제한되는 PC | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/digital-evolution-in-business-the-crucial-role-of-enterprise-architects/"><u>Digital Evolution in Business: The Crucial Role of Enterprise Architects</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-revival-how-openstack-and-kata-containers-gain-new-ground-in-tech-markets-zdnet-insights/"><u>Exploring the Revival: How OpenStack and Kata Containers Gain New Ground in Tech Markets - ZDNet Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-periscope-features-pricing-and-how-to-join/"><u>In 2024, Understanding Periscope Features, Pricing & How To Join</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-artificer-intelligence-the-next-gen-kubernetes-update-revealed-infotech-today/"><u>Leveraging Artificer Intelligence: The Next-Gen Kubernetes Update Revealed | InfoTech Today</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-recall-understanding-why-it-isnt-the-ultimate-privacy-disaster-top-7-insights-to-ease-your-concerns-zdnet/"><u>Microsoft Recall: Understanding Why It Isn't the 'Ultimate Privacy Disaster' – Top 7 Insights to Ease Your Concerns | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stay-organized-with-slackbot-your-ultimate-tutorial-for-setting-effective-reminders-in-slack/"><u>Stay Organized with Slackbot: Your Ultimate Tutorial for Setting Effective Reminders in Slack</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/syncopated-synths-selecting-top-quality-dj-templates-online-for-2024/"><u>Syncopated Synths Selecting Top Quality DJ Templates Online for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-zero-code-development-how-generative-ai-is-transforming-the-future-beyond-low-code/"><u>The Rise of Zero-Code Development: How Generative AI Is Transforming the Future Beyond Low-Code</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-you-should-think-about-aiops-check-out-these-7-key-points-according-to-zdnet/"><u>Why You Should Think About AIOps? Check Out These 7 Key Points According To ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-ai-project-expansion-explodes-to-ten-times-more-this-past-year-study-finds/"><u>ZDNet Reveals AI Project Expansion Explodes to Ten Times More This Past Year - Study Finds</u></a></li>
 </ul></div>
 

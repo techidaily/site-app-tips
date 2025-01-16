@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: How LastPass Leadership Addresses Safety Concerns Amidst Alarming Security Notifications | Explored by ZDNET"
-date: 2025-01-03T01:27:24.901Z
-updated: 2025-01-10T05:35:39.381Z
+date: 2025-01-10T21:26:02.666Z
+updated: 2025-01-15T17:30:00.376Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 Two LastPass vice presidents have released statements about the situation surrounding LastPass security issues that came to light this week. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Two LastPass vice presidents have released statements about the situation surrou
 [![web-browsers.jpg](https://www.zdnet.com/a/img/resize/86d91f7746b92a734c6f4130024638d05fe70bc2/2021/04/22/8feb3e5c-47fc-4cea-be35-4460e9f080ef/web-browsers.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best browsers for privacy Most people use Google Chrome as their default browser. But privacy is another matter for the online ad giant.  Read now](https://www.zdnet.com/article/best-browser-for-privacy/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Two days ago, hundreds of LastPass users took to [Twitter](https://twitter.com/technology%5Fgreg/status/1475600580521381889), [Reddit](https://www.reddit.com/r/Lastpass/comments/rpy0uq/recent%5Fsuccessful%5Flogin%5Fattempts%5Ffrom%5Fodd%5Fips/), [and other sites](https://news.ycombinator.com/item?id=29705957) to complain that they were getting alerts about their master password being used by someone who was not them. [Some reported](https://twitter.com/shift%5Fplusone/status/1475959354742525956) that even after changing their master password, someone tried to access their account again. 
@@ -84,18 +84,18 @@ Parent company LogMeIn announced just two weeks ago that it is [spinning off Las
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-complete-guide-timer-addition-to-video-broadcast-platforms/"><u>2024 Approved Complete Guide Timer Addition to Video Broadcast Platforms</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/authority-list-top-10-sports-and-football-streaming-applications-cutting-edge/"><u>Authority List Top 10 Sports & Football Streaming Applications, Cutting Edge</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-0xc0000022-explained-solutions-to-get-your-adobe-app-running-smoothly-again/"><u>Error 0xC0000022 Explained – Solutions to Get Your Adobe App Running Smoothly Again</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-x9a-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor X9a Location by Number | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782390-9781591438168-illuminations-of-hildegard-of-bingen-2nd-ed/"><u>Illuminations of Hildegard of Bingen (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/kasperskys-password-protector-exposed-generating-vulnerable-passwords-prone-to-brute-force-attacks-insights-from-zdnet/"><u>Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/major-ransomware-incident-strikes-leading-firm-superior-plus-in-natural-gas-industry-exclusive-details-on-zdnet/"><u>Major Ransomware Incident Strikes Leading Firm Superior Plus in Natural Gas Industry - Exclusive Details on ZDNET</u></a></li>
-<li><a href="https://win-data.techidaily.com/master-the-art-of-modifying-computer-timelines-with-windows-settings-insights-by-yl-computing-solutions/"><u>Master the Art of Modifying Computer Timelines with Windows Settings - Insights by YL Computing Solutions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-top-rated-free-avi-video-rotation-tools-updated/"><u>New 2024 Approved Top-Rated Free AVI Video Rotation Tools Updated</u></a></li>
-<li><a href="https://app-tips.techidaily.com/newly-launched-full-featured-1password-app-for-linux-enthusiasts-a-closer-look-tech-news/"><u>Newly Launched Full-Featured 1Password App for Linux Enthusiasts: A Closer Look - Tech News</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pinnacle-motorsport-replicas-top-5/"><u>Pinnacle Motorsport Replicas (Top 5)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-security-how-1passwords-new-feature-replaces-master-passwords-with-passkeys-insights-from-zdnet/"><u>Revolutionizing Security: How 1Password's New Feature Replaces Master Passwords with Passkeys - Insights From ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/strategic-interactions-marketers-guide-to-ethical-sharing/"><u>Strategic Interactions: Marketers' Guide to Ethical Sharing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-speed-kings-and-queens-of-2022-for-2024/"><u>[Updated] Speed Kings and Queens of 2022 for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/black-friday-exclusive-deal-unlock-savings-with-nordpass-premium-at-half-price-get-secure-passwords-now-zdnet-insider-tips/"><u>Black Friday Exclusive Deal: Unlock Savings with NordPass Premium at Half Price! Get Secure Passwords Now - ZDNet Insider Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bypassing-master-passwords-with-ease-discover-how-dashlane-enables-seamless-sign-ins-according-to-zdnet-analysis/"><u>Bypassing Master Passwords with Ease: Discover How Dashlane Enables Seamless Sign-Ins, According to ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ditching-lastpass-master-managing-passwords-with-icloud-on-windows-a-complete-guide-by-zdnet/"><u>Ditching LastPass? Master Managing Passwords with iCloud on Windows - A Complete Guide by ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-drivers-now-smooth-installation-for-your-microsoft-wireless-mouse-5000/"><u>Download Drivers Now! Smooth Installation for Your Microsoft Wireless Mouse 5000</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-apex-legends-cheating-flag-today-effortless-tips-to-get-back-in-action/"><u>Fix Your Apex Legends Cheating Flag Today: Effortless Tips to Get Back in Action</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-effective-elan-smbus-driver-installation-and-update-techniques-for-windows-systems/"><u>How To: Effective ELAN SMBus Driver Installation and Update Techniques for Windows Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-visualize-and-create-with-top-7-innovative-animation-suites/"><u>In 2024, Visualize & Create with Top 7 Innovative Animation Suites</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-protons-latest-feature-a-secure-password-vault-with-advanced-end-to-end-encryption-comprehensive-review-on-zdnet/"><u>Introducing Proton's Latest Feature: A Secure Password Vault with Advanced End-to-End Encryption - Comprehensive Review on ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/strategies-for-sustaining-viewer-interest-in-online-events-for-2024/"><u>Strategies for Sustaining Viewer Interest in Online Events for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unveiling-modernity-discover-these-top-10-digital-realms-for-artistic-font-styles-for-2024/"><u>Unveiling Modernity Discover These Top 10 Digital Realms for Artistic Font Styles for 2024</u></a></li>
 </ul></div>
 

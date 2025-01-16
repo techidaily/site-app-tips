@@ -1,7 +1,7 @@
 ---
 title: "The Myth of Untraceable Transactions Shattered: Bitcoin's Anonymity Revealed in Recent Paper"
-date: 2025-01-05T17:44:52.200Z
-updated: 2025-01-09T21:48:46.149Z
+date: 2025-01-10T01:07:31.511Z
+updated: 2025-01-15T16:30:20.117Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,20 +119,24 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-foray-into-video-fidelity-an-initialists-perspective/"><u>[New] In 2024, Foray Into Video Fidelity An Initialist's Perspective</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-what-are-your-rights-exploring-legalities-of-video-sharing-on-fb/"><u>[New] In 2024, What Are Your Rights? Exploring Legalities of Video Sharing on FB</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-step-by-step-crafting-bespo-pointed-video-closures-on-the-dashboard/"><u>[Updated] 2024 Approved Step-by-Step Crafting Bespo Pointed Video Closures on the Dashboard</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-from-blurry-snaps-to-stunning-shots-learn-lunapic-editing/"><u>2024 Approved From Blurry Snaps to Stunning Shots Learn LunaPic Editing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/adobe-full-voice-booster-evaluation-techniques-for-superior-sound-quality/"><u>Adobe Full Voice Booster Evaluation: Techniques for Superior Sound Quality</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-top-4-online-tools-to-remove-ai-generated-logos-and-watermarks-from-your-video-content/"><u>Best Top 4 Online Tools to Remove AI-Generated Logos & Watermarks From Your Video Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-deeplucas-ai-powered-video-creation-tool-unveiling-key-attributes-and-benefits-vs-drawbacks/"><u>Comprehensive Analysis of DeepLucas' AI-Powered Video Creation Tool - Unveiling Key Attributes & Benefits vs Drawbacks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/creator-to-critic-evaluating-video-value-across-platforms/"><u>From Creator to Critic Evaluating Video Value Across Platforms</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-instagram-enhancement-picture-posting-guide/"><u>In 2024, Instagram Enhancement Picture Posting Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-spirited-speeches-how-to-make-instagram-text-come-alive/"><u>In 2024, Spirited Speeches How to Make Instagram Text Come Alive</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-3-video-to-text-conversion-software-a-comprehensive-guide/"><u>Top 3 Video-to-Text Conversion Software: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-substitutes-for-elevenlabs-explored-detailed-comparison-and-key-characteristics/"><u>Top 5 Substitutes for ElevenLabs Explored: Detailed Comparison and Key Characteristics</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-superior-substitutes-to-zapier-enhance-your-workflow-automation/"><u>Top 5 Superior Substitutes to Zapier: Enhance Your Workflow Automation</u></a></li>
-<li><a href="https://fox-http.techidaily.com/tune-sharing-compliance-instagram-ip-codex/"><u>Tune-Sharing Compliance Instagram IP Codex</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-exceptional-no-limit-character-ai-solutions-for-dynamic-experiences/"><u>Unveiling Exceptional No-Limit Character AI Solutions for Dynamic Experiences</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-a-primer-on-using-azures-voice-to-text-service-for-2024/"><u>[New] A Primer on Using Azure's Voice-to-Text Service for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-android-users-the-top-6-video-downloaders-for-easy-access-for-2024/"><u>[New] Android Users The Top 6 Video Downloaders for Easy Access for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-current-lighting-infrastructure/"><u>[Updated] Current Lighting Infrastructure</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-launched-visuals-review-synopsis-for-2024/"><u>[Updated] Launched Visuals Review Synopsis for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-xplits-rival-software-for-effortless-splits/"><u>2024 Approved Xplit's Rival Software for Effortless Splits</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/crafting-a-hit-solo-podcast-trendsetting-tips-for-2024/"><u>Crafting a Hit Solo Podcast Trendsetting Tips for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/detailed-budget-insight-the-podcast-beginning-prices/"><u>Detailed Budget Insight The Podcast Beginning Prices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-20-most-popular-bluetooth-enabled-multiplayer-games-on-phones-and-tablets/"><u>Discover the Top 20 Most Popular Bluetooth-Enabled Multiplayer Games on Phones & Tablets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-8-ultimate-free-fax-applications-for-your-android-device/"><u>Discover the Top 8 Ultimate Free Fax Applications for Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-6-imovie-substitutes-for-your-android-smartphones-video-edits/"><u>Discover the Ultimate 6 iMovie Substitutes for Your Android Smartphone's Video Edits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-user-friendly-android-notes-applications-the-best-picks-you-need/"><u>Discover the Ultimate List of FREE, User-Friendly Android Notes Applications: The Best Picks You Need</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-the-ultimate-free-audiobook-library-now-compatible-with-ios-and-android-devices/"><u>Download the Ultimate Free Audiobook Library Now - Compatible with iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-started-with-tango-step-by-step-instructions-for-downloading-video-chatting-app/"><u>Get Started With Tango - Step-by-Step Instructions For Downloading Video Chatting App</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-realme-12-proplus-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Realme 12 Pro+ 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ranking-the-xbox-one-elite-series-2-controller-a-legacy-in-electronic-sports-equipment/"><u>Ranking the Xbox One Elite Series 2 Controller: A Legacy in Electronic Sports Equipment</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-idevice-software-challenges-tips-for-successful-ios-upgrades/"><u>Solving iDevice Software Challenges: Tips for Successful iOS Upgrades</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-high-memory-consumption-in-edges-webview2/"><u>Tackling High Memory Consumption in Edge's WebView2</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-best-free-morning-motivators-unique-alarm-apps-for-an-easy-start/"><u>Top 10 Best FREE Morning Motivators: Unique Alarm Apps for an Easy Start</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-6-essential-iphone-apps-for-restoring-lost-contact-information/"><u>Top 6 Essential iPhone Apps for Restoring Lost Contact Information</u></a></li>
 </ul></div>
 

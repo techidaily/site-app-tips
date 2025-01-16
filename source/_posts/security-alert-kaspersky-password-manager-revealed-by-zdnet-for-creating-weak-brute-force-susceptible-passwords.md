@@ -1,7 +1,7 @@
 ---
 title: "Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords"
-date: 2025-01-06T03:54:20.651Z
-updated: 2025-01-10T01:25:07.786Z
+date: 2025-01-09T22:50:28.173Z
+updated: 2025-01-15T23:38:49.093Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Suppose you are in the business of generating passwords, it would probably be a 
 In a [blog post](https://donjon.ledger.com/kaspersky-password-manager/) to cap off an almost two year saga, Ledger Donjon head of security research Jean-Baptiste Bédrune showed KPM was doing just that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,7 +66,7 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -92,22 +92,22 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-creating-synergy-how-youtube-aligns-with-brands/"><u>[Updated] 2024 Approved Creating Synergy How YouTube Aligns with Brands</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-how-to-install-handbrake-with-libdvdcss-on-macos-monterey-and-windows-11/"><u>1. How to Install Handbrake with Libdvdcss on macOS Monterey and Windows 11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-voyage-to-viral-fame-crafting-high-quality-content-as-a-travel-vlogger/"><u>2024 Approved Voyage to Viral Fame Crafting High-Quality Content as a Travel Vlogger</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-7ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone 7/iPad/iPod</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-10-mobile-games-hacking-tools-on-android-rooted-and-non-rooted-options/"><u>Best 10 Mobile Games Hacking Tools on Android: Rooted & Non-Rooted Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-3ds-emulator-apps-top-picks-for-windows-mac-ios-and-android/"><u>Best Free 3DS Emulator Apps: Top Picks for Windows, Mac, iOS & Android</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/como-hacer-un-clon-expres-del-disco-de-inicio-usb-en-sistema-operativo-windows-nuevo/"><u>Cómo Hacer Un Clon Exprés Del Disco De Inicio USB en Sistema Operativo Windows Nuevo</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-vsco-features-advantages-disadvantages-and-top-substitutes/"><u>Comprehensive Guide: Understanding VSCO – Features, Advantages, Disadvantages, and Top Substitutes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620195653-discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More</u></a></li>
-<li><a href="https://app-tips.techidaily.com/endless-interruptions-a-complete-guide-to-stopping-unsolicited-calls-on-your-smartphone/"><u>Endless Interruptions: A Complete Guide to Stopping Unsolicited Calls on Your Smartphone</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-windows-the-ultimate-5-optimization-aids/"><u>Maximize Windows: The Ultimate 5 Optimization Aids</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-successfully-install-and-play-wrc-10-for-windows-users/"><u>Resolved: How to Successfully Install and Play WRC 10 for Windows Users</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138547224-9789176371138-the-prophet-wisehouse-classics-edition/"><u>THE PROPHET (Wisehouse Classics Edition) | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-11-applicazioni-mac-per-masterizzare-i-disco-ottimizzate-per-la-scrittura-su-dvd/"><u>Top 11 Applicazioni Mac per Masterizzare I Disco Ottimizzate per La Scrittura Su DVD</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-15-mobile-workout-apps-ideal-for-both-ios-and-android-devices/"><u>Top 15 Mobile Workout Apps: Ideal for Both iOS & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-15-health-and-fitness-apps-compatible-with-apple-and-android-phones/"><u>Ultimate Selection of 15 Health and Fitness Apps Compatible with Apple & Android Phones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unraveling-the-mystery-of-the-bnsf-emulator-thorough-assessment-and-interpretation/"><u>Unraveling the Mystery of the BNSF Emulator: Thorough Assessment and Interpretation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eading-7-video-streaming-apps-to-enhance-your-youtube-mobile-experience/"><u>[New] Leading 7 Video Streaming Apps to Enhance Your YouTube Mobile Experience</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-screen-to-file-win10-professional-recorder/"><u>[Updated] 2024 Approved Screen to File Win10 Professional Recorder</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-complete-picture-toolwizs-app-masterclass/"><u>[Updated] The Complete Picture Toolwiz's App Masterclass</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-15-android-compatible-free-messaging-apps-a-comprehensive-guide/"><u>Best 15 Android-Compatible Free Messaging Apps: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-sms-automation-tools-top-10-applications-for-android-and-ios-devices/"><u>Best SMS Automation Tools: Top 10 Applications for Android & iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-10-iphone-applications-for-creating-stunning-gif-graphics/"><u>Best Top 10 iPhone Applications for Creating Stunning GIF Graphics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/canvas-hidden-power-ups-for-stunning-visuals/"><u>Canva's Hidden Power-Ups for Stunning Visuals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-14-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 14 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-default-network-configurations-in-ios-to-resolve-connectivity-issues/"><u>How to Restore Default Network Configurations in iOS to Resolve Connectivity Issues</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-yuva-2-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Lava Yuva 2 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1652055-9781476789750-outrageous-openness/"><u>Outrageous Openness | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-most-advanced-and-best-quality-pc-displays-on-the-market-202-text/"><u>The Most Advanced and Best Quality PC Displays on the Market, 202 [TEXT]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-ranking-of-the-top-messaging-applications-on-iphone-and-android-phones/"><u>The Ultimate Ranking of the Top Messaging Applications on iPhone and Android Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-mobile-app-the-ultimate-video-editing-tool-for-android-users/"><u>Top-Rated Mobile App: The Ultimate Video Editing Tool for Android Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-the-non-functioning-facebook-messenger-application/"><u>Troubleshooting Guide: Resolving Issues with the Non-Functioning Facebook Messenger Application</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth</u></a></li>
 </ul></div>
 

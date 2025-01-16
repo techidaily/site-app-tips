@@ -1,7 +1,7 @@
 ---
 title: Ditching LastPass? Master Managing Passwords with iCloud on Windows - A Complete Guide by ZDNet
-date: 2025-01-06T20:57:48.988Z
-updated: 2025-01-09T16:14:33.367Z
+date: 2025-01-13T18:19:49.768Z
+updated: 2025-01-15T22:54:17.496Z
 tags:
   - password-manager
 categories:
@@ -31,11 +31,11 @@ If you've been around for the past 10 or so years, you know that most services r
 
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use iCloud as a password manager on Windows
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open iCloud for Windows
 
@@ -46,6 +46,10 @@ Make sure you have [downloaded iCloud for your Windows PC](https://apps.microsof
 Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your iCloud Passwords
 
@@ -68,7 +72,7 @@ Make sure Passwords is on and click **Apply**.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Add browser extension
@@ -80,10 +84,6 @@ Once you click **Install Extension** in iCloud, you'll be able to add the **iClo
 Maria Diaz/ZDNET
 
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
 
@@ -101,6 +101,10 @@ Enter the verification code.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Try out the password manager
 
 After you set up iCloud for [Windows](https://www.zdnet.com/article/windows-11-22h2-how-to-get-microsofts-latest-os-update-and-whats-coming-next/) as a password manager and your browser extension, you can try it out by going to a website and trying to log in.
@@ -113,19 +117,15 @@ Like LastPass, the browser extension will let you fill in your login information
 
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ## How do you get iCloud for Windows?  
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How do I set up iCloud Keychain? 
 
@@ -167,18 +167,24 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-reverse-video-techniques-for-android-devices/"><u>[New] Reverse Video Techniques for Android Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-streamline-live-4-proven-recording-techniques-for-fb-for-2024/"><u>[New] Streamline Live 4 Proven Recording Techniques for FB for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-essential-voice-capturing-apps-for-ipads-3-top-picks-for-2024/"><u>[Updated] Essential Voice Capturing Apps for iPads #3 Top Picks for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/explore-1-6-gpu-power-tools-to-assess-on-your-pc/"><u>Explore #1-#6 GPU Power Tools to Assess on Your PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/getting-started-with-dashlane-understanding-costs-key-functionalities-and-initial-setup-steps-insights-from-zdnet/"><u>Getting Started with Dashlane: Understanding Costs, Key Functionalities & Initial Setup Steps - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-acid-pro-reviewed-comparable-professional-tools-explored/"><u>[Updated] ACID Pro Reviewed Comparable Professional Tools Explored</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/10-top-free-screen-recorder-mac-for-2024/"><u>10 Top Free Screen Recorder Mac for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/black-friday-exclusive-offer-save-big-with-a-50-discount-on-nordpass-premium-password-manager-zdnet-news/"><u>Black Friday Exclusive Offer: Save Big with a 50% Discount on NordPass Premium Password Manager | ZDNet News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-vision-unveiled-top-8-practical-applications/"><u>ChatGPT Vision Unveiled: Top 8 Practical Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-improved-performance-and-new-capabilities-with-the-updated-1password-mobile-version-now-live/"><u>Discover Improved Performance & New Capabilities with the Updated 1Password Mobile Version, Now Live!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-high-speed-8tb-samsung-t5-nvme-drive-for-less-than-half-price-on-amazon/"><u>Get Your Hands On The High-Speed 8TB Samsung T5 NVMe Drive for Less Than Half Price on Amazon</u></a></li>
 <li><a href="https://app-tips.techidaily.com/huge-sale-alert-score-50-off-on-nordpass-pro-top-tier-password-security-for-black-friday-2022-techsavvy-news/"><u>Huge Sale Alert: Score 50% Off on NordPass Pro - Top-Tier Password Security for Black Friday 2022 | TechSavvy News</u></a></li>
 <li><a href="https://app-tips.techidaily.com/huge-savings-alert-dashlane-premium-passwords-get-cut-in-half-score-a-50-discount/"><u>Huge Savings Alert: Dashlane Premium Passwords Get Cut in Half - Score a 50% Discount!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-e13withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto E13with/without a PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/journey-towards-facebooks-premium-verified-emblem-for-2024/"><u>Journey Towards Facebook's Premium Verified Emblem for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ground-rules-of-e-storytelling-techniques/"><u>In 2024, Ground Rules of E-Storytelling Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-spotlight-on-10-high-speed-growth-titles-to-inspire-you/"><u>In 2024, Spotlight on 10 High-Speed Growth Titles to Inspire You</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-choices-windows-11-hd-webcam-mini-dvs/"><u>In 2024, Top Choices Windows 11 HD Webcam Mini-DVs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-t2x-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo T2x 5G Phone</u></a></li>
 <li><a href="https://app-tips.techidaily.com/malware-distribution-tactics-uncovered-by-proofpoint-leveraging-popular-concerts-like-justin-bieber-and-the-weeknd-as-a-scam-vector/"><u>Malware Distribution Tactics Uncovered by Proofpoint: Leveraging Popular Concerts Like Justin Bieber and The Weeknd as a Scam Vector</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/mastering-universal-copy-paste-seamless-sharing-across-devices-and-enhancing-your-fitness-routine-with-indoor-cycling-insights-from-the-abbyy-expertise/"><u>Mastering Universal Copy-Paste: Seamless Sharing Across Devices & Enhancing Your Fitness Routine with Indoor Cycling - Insights From the ABBYY Expertise</u></a></li>
 <li><a href="https://app-tips.techidaily.com/maximize-security-for-up-to-10-users-using-1passwords-economical-monthly-plan-of-1995-discover-more-inside-zdnet/"><u>Maximize Security for Up to 10 Users Using 1Password's Economical Monthly Plan of $19.95 | Discover More Inside ZDNet</u></a></li>
-<li><a href="https://fox-info.techidaily.com/navigating-windows-8-movie-maker-like-a-pro-for-2024/"><u>Navigating Windows 8 Movie Maker Like a Pro for 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/mouse-troubles-find-solutions-for-a-locked-cursor-with-insights-from-yl-software-experts/"><u>Mouse Troubles? Find Solutions for a Locked Cursor with Insights From YL Software Experts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-pcs-graphics-for-reduced-frame-rate-fluctuations-and-enhanced-gameplay/"><u>Optimizing Your PC's Graphics for Reduced Frame Rate Fluctuations and Enhanced Gameplay</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-online-passwords-easily-get-a-whopping-3-month-trial-of-dashlane-premium-at-only-1-from-zdnet/"><u>Protect Online Passwords Easily: Get a Whopping 3-Month Trial of Dashlane Premium at Only $1 From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-over-150m-accounts-how-google-activated-two-factor-authentication-by-default/"><u>Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-free-password-managers-comprehensive-reviews-and-comparisons/"><u>Top Rated Free Password Managers - Comprehensive Reviews and Comparisons</u></a></li>
 </ul></div>
 

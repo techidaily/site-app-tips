@@ -1,7 +1,7 @@
 ---
 title: "Declutter Your Codebase: Fixing Disarray in Linux/Open Source Guides on ZDNet."
-date: 2025-01-07T19:08:44.094Z
-updated: 2025-01-09T21:44:36.652Z
+date: 2025-01-13T22:41:29.857Z
+updated: 2025-01-15T23:55:56.212Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-crown-jewels-of-online-watching-youtubes-treasures/"><u>[Updated] In 2024, Crown Jewels of Online Watching YouTube's Treasures</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-chatbot-bias-revealed-lingual-limitations-highlighted-by-new-stanford-research-insights-on-googles-language-barrier/"><u>AI Chatbot Bias Revealed: Lingual Limitations Highlighted by New Stanford Research - Insights on Google's Language Barrier</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asean-countries-set-to-boost-digital-market-with-stronger-regulations-reaching-2t-growth-by-2030-insights-from-zdnet/"><u>ASEAN Countries Set to Boost Digital Market with Stronger Regulations, Reaching $2T Growth by 2030 - Insights From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/banking-industry-leader-urges-innovative-thinking-over-easy-solutions-in-artificial-intelligence-insights-from-a-top-cio-zdnet/"><u>Banking Industry Leader Urges Innovative Thinking Over Easy Solutions in Artificial Intelligence - Insights From a Top CIO | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-point-and-click-the-transformation-of-ui-with-generative-artificial-intelligence/"><u>Beyond Point-and-Click: The Transformation of UI with Generative Artificial Intelligence</u></a></li>
-<li><a href="https://app-tips.techidaily.com/future-of-service-delivery-mastering-agent-ecosystems-in-the-age-of-ai/"><u>Future of Service Delivery: Mastering Agent Ecosystems in the Age of AI</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-generative-ai-could-increase-labor-demand-despite-efficiency-promises-insights-from-zdnet/"><u>How Generative AI Could Increase Labor Demand Despite Efficiency Promises: Insights From ZDNet</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/how-to-copy-partitions-from-one-hard-drive-to-another-in-windows-1011-a-comprehensive-guide/"><u>How to Copy Partitions From One Hard Drive to Another in Windows 10/11: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-best-flying-toys-for-kids-and-family-fun/"><u>In 2024, Best Flying Toys for Kids & Family Fun</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/samsung-ubd-k8500-2023-edition-analysis/"><u>Samsung UBD-K8500 2023 Edition Analysis</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/synchronized-success-audio-meets-visual-in-films/"><u>Synchronized Success Audio Meets Visual in Films</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transformacion-wav-a-mp3-proceso-libre-de-gatos-y-de-alta-fidelidad-online/"><u>Transformación Wav a Mp3: Proceso Libre De Gatos Y De Alta Fidelidad Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-your-device-potential-with-guidance-from-toms-hardware/"><u>Unleash Your Device Potential with Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-best-youtube-video-to-mp3-converter-for-2024/"><u>[New] 10 Best YouTube Video to Mp3 Converter for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-ultimate-discord-spoiler-tag-reference/"><u>[New] 2024 Approved The Ultimate Discord Spoiler Tag Reference</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-smoothly-lowering-sound-levels-using-garageband/"><u>[New] Smoothly Lowering Sound Levels Using Garageband</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-harmony-hearts-the-ideal-playlist-for-a-life-changing-kiss/"><u>[Updated] Harmony Hearts The Ideal Playlist for a Life-Changing Kiss</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transform-your-audience-engagement-with-ultimate-youtube-banner-guide/"><u>[Updated] Transform Your Audience Engagement with Ultimate YouTube Banner Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-hidden-gems-10-unique-facebook-meme-pages/"><u>2024 Approved Hidden Gems 10 Unique Facebook Meme Pages</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-citizen-developers-and-it-teams-alike-with-low-codeno-code-solutions/"><u>Empowering Citizen Developers & IT Teams Alike with Low-Code/No-Code Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolving-with-intelligence-how-low-code-and-no-code-platforms-are-adapting-to-ai-demands-an-expert-analysis-by-zdnet/"><u>Evolving with Intelligence: How Low-Code and No-Code Platforms Are Adapting to AI Demands – An Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-uncharted-territory-the-emergence-of-innovative-yet-to-be-named-careers-in-the-age-of-artifice-intelligence/"><u>Exploring Uncharted Territory: The Emergence of Innovative, Yet-to-Be-Named Careers in the Age of Artifice Intelligence</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/master-the-art-of-crafting-html5-ebooks-for-ios-devices-with-flip-pdf-effortless-tutorial-flipbuildercom/"><u>Master the Art of Crafting HTML5 eBooks for iOS Devices with Flip PDF – Effortless Tutorial [FlipBuilder.com]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-asymmetry-of-todays-live-tech-evolution-a-deep-dive-zdnet/"><u>Navigating the Asymmetry of Today's Live Tech Evolution: A Deep Dive | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-future-with-ai-agent-ecosystems-how-theyll-reshape-services-expert-analysis-by-zdnet/"><u>Navigating the Future with AI 'Agent Ecosystems': How They'll Reshape Services | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a05-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A05 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/swift-windows-document-reviewing-techniques/"><u>Swift Windows Document Reviewing Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-generative-ais-key-hurdle-demonstrating-tangible-returns-on-investment-insights-from-zdnet/"><u>Unveiling Generative AI's Key Hurdle: Demonstrating Tangible Returns on Investment – Insights From ZDNet</u></a></li>
 </ul></div>
 

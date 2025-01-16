@@ -1,7 +1,7 @@
 ---
 title: Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET
-date: 2025-01-07T17:56:13.556Z
-updated: 2025-01-09T19:21:48.981Z
+date: 2025-01-10T21:08:47.046Z
+updated: 2025-01-15T20:28:47.809Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-step-by-step-screenshot-guide-capturing-and-storing-hulu-content/"><u>[New] 2024 Approved Step-by-Step Screenshot Guide Capturing and Storing Hulu Content</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/adapting-cyber-defense-tactics-modernizing-security-expertise-amidst-outdated-infrastructure-challenges/"><u>Adapting Cyber Defense Tactics: Modernizing Security Expertise Amidst Outdated Infrastructure Challenges</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-sgs-green-transition-calls-increase-for-financing-ai-based-carbon-reduction-strategies-insights-from-zdnet/"><u>Boosting SG's Green Transition: Calls Increase for Financing AI-Based Carbon Reduction Strategies - Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-resolve-system-calls-fault-in-windows/"><u>Guide to Resolve System Calls Fault in Windows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-exemplary-audio-enhancing-programs-for-youtube-artists/"><u>In 2024, Exemplary Audio-Enhancing Programs for YouTube Artists</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202901163-league-of-legends-boost-trick-get-your-game-running-faster-now/"><u>League of Legends Boost Trick - Get Your Game Running Faster Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainty-of-ai-efficiency-insights-from-zdnet/"><u>Navigating the Uncertainty of AI Efficiency: Insights From ZDNet</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-the-world-of-srt-alteration-in-macos-systems-for-2024/"><u>Navigating the World of SRT Alteration in macOS Systems for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/securing-your-periscope-footage-expert-techniques-revealed/"><u>Securing Your Periscope Footage Expert Techniques Revealed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/singapore-invests-s24-billion-in-enhancing-ict-infrastructure-and-digital-solutions-insights-for-tech-leaders/"><u>Singapore Invests S$2.4 Billion in Enhancing ICT Infrastructure & Digital Solutions - Insights for Tech Leaders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-growing-dependence-of-your-enterprise-on-artificial-intelligence-understanding-the-role-of-multiple-ai-models/"><u>The Growing Dependence of Your Enterprise on Artificial Intelligence: Understanding the Role of Multiple AI Models</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-by-tech-gurus-zdnets-exclusive-insights/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews by Tech Gurus | ZDNet's Exclusive Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-a-comprehensive-review-of-tunefab-recorders/"><u>[Updated] In 2024, A Comprehensive Review of Tunefab Recorders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-team-synergy-how-ai-fuels-partnership-of-developers-and-business-stakeholders/"><u>Enhancing Team Synergy: How AI Fuels Partnership of Developers & Business Stakeholders</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-premium-features-on-a-budget-deep-dive-into-insignias-alexa-and-ultra-hd-fire-tv-ns-43df710na19/"><u>Experience Premium Features on a Budget: Deep Dive Into Insignia's Alexa & Ultra HD Fire TV NS-43DF710NA19</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-the-power-of-hundreds-of-ai-solutions-for-business-innovation-insights-by-zdnet/"><u>Harnessing the Power of Hundreds of AI Solutions for Business Innovation | Insights by ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-honor-magic-5-lite-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Honor Magic 5 Lite on Mac?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-11-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 11 Pro Max When Its Locked Within Seconds</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oppo-a1-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Oppo A1 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/outdated-automation-meets-modern-smart-tech-in-software-creation-unveiling-ais-role-zdnet/"><u>Outdated Automation Meets Modern Smart Tech in Software Creation: Unveiling AI's Role | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-cross-functional-cooperation-with-artificial-intelligence-in-development-and-commerce/"><u>Revolutionizing Cross-Functional Cooperation with Artificial Intelligence in Development and Commerce</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolving-landscape-generative-ais-impact-on-workforce-dynamics-and-software-development-roles-tech-analysis-by-zdnet/"><u>The Evolving Landscape: Generative AI's Impact on Workforce Dynamics & Software Development Roles | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-editor-showdown-filmora-vs-democracy-creator/"><u>The Ultimate Editor Showdown Filmora Vs. Democracy Creator</u></a></li>
 </ul></div>
 

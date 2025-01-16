@@ -1,7 +1,7 @@
 ---
 title: Repeated Security Incidents at LastPass - Latest Update From ZDNet
-date: 2025-01-06T17:37:32.516Z
-updated: 2025-01-10T04:21:50.763Z
+date: 2025-01-10T23:09:29.198Z
+updated: 2025-01-15T23:40:03.654Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,22 +81,18 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-exclusive-access-to-pinnacle-android-viewer/"><u>[New] Exclusive Access to Pinnacle Android Viewer</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-navigating-the-legality-of-facebooks-immediate-video-takedowns/"><u>2024 Approved Navigating the Legality of Facebook's Immediate Video Takedowns</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beamwidth/"><u>Beamwidth</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-efficiency-a-comprehensive-guide-to-essential-productivity-apps-and-techniques-for-streamlining-your-day-to-day-job/"><u>Boosting Efficiency: A Comprehensive Guide to Essential Productivity Apps & Techniques for Streamlining Your Day-to-Day Job</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-zte-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On ZTE Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-12-pro-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 12 Pro & iPad Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-creating-magnetic-storylines-for-your-vlog-videos/"><u>In 2024, Creating Magnetic Storylines for Your Vlog Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-exploring-the-features-of-vimeos-innovative-recorder/"><u>In 2024, Exploring the Features of Vimeo's Innovative Recorder</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-redmi-12-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Redmi 12 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/limited-offer-upgrade-to-professionals-edition-of-ashampoo-3d-cad-for-only-40-now-on-zdnet-shop/"><u>Limited Offer: Upgrade to Professionals Edition of Ashampoo 3D CAD for Only $40, Now On ZDNet Shop!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-4a-advanced-antenna-array-theory/"><u>Section 4A: Advanced Antenna Array Theory</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-triumph-unveiling-the-story-behind-an-engineers-app-that-outsmarts-mcdonalds-strategy-analysis-by-zdnet/"><u>Tech Triumph: Unveiling the Story Behind an Engineer’s App That Outsmarts McDonald's Strategy | Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-critical-90-day-evaluation-period-for-artificial-intelligence-innovations-insights-from-zdnet/"><u>The Critical 90-Day Evaluation Period for Artificial Intelligence Innovations: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-gain-renewed-interest-insights-from-zdnet/"><u>The Rising Popularity: How OpenStack & Kata Containers Gain Renewed Interest - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-new-potential-how-the-google-microsoft-collaboration-allows-windows-apps-to-thrive-on-chromebooks-zdnet/"><u>Unlocking New Potential: How the Google-Microsoft Collaboration Allows Windows Apps to Thrive on Chromebooks | ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-screencast-software-on-the-market-bandicam-vs-camtasia/"><u>[New] In 2024, Top Screencast Software on the Market Bandicam Vs. Camtasia</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-which-livestreaming-tool-wins-obs-or-bandicam-in-2024/"><u>[New] Which Livestreaming Tool Wins OBS or Bandicam, In 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726027470366-pc3/"><u>高品質音声保存PC用：流れる音を録むための最適ソリューション・ソフト3種</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/comment-supprimer-les-doubles-fichiers-identiques-dun-support-usb/"><u>Comment Supprimer Les Doubles Fichiers Identiques D'un Support USB?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-cyber-defense-how-juniper-networks-strengthens-its-sase-offerings-with-a-new-cloud-firewall-feature-tech-analysis-by-zdnet/"><u>Enhancing Cyber Defense: How Juniper Networks Strengthens Its SASE Offerings with a New Cloud Firewall Feature - Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-best-digital-signing-applications-a-zdnet-recommendation/"><u>Exploring the Best Digital Signing Applications: A ZDNet Recommendation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/impedance-matching/"><u>Impedance Matching</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-frequent-monetization-is-it-real-on-youtube/"><u>In 2024, Frequent Monetization Is It Real on YouTube?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-windows-10-top-five-strategies-to-consider-before-support-concludes-next-year-zdnet-insights/"><u>Navigating the Future of Windows 10: Top Five Strategies to Consider Before Support Concludes Next Year | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preparing-for-the-future-five-must-know-steps-as-microsofts-windows-support-nears-its-end-according-to-zdnet/"><u>Preparing for the Future: Five Must-Know Steps as Microsoft's Windows ^Support Nears Its End, According to ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ming-google-meet-a-step-by-step-youtube-tutorial-for-2024/"><u>Streaming Google Meet A Step-By-Step YouTube Tutorial for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-wins-gpt-clashes-with-bings-ai-and-google-bard/"><u>Who Wins? GPT Clashes with Bing's AI and Google Bard</u></a></li>
 </ul></div>
 

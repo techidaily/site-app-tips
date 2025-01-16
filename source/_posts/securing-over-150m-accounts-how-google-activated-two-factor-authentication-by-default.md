@@ -1,7 +1,7 @@
 ---
 title: "Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default"
-date: 2025-01-03T16:40:46.787Z
-updated: 2025-01-09T21:17:39.996Z
+date: 2025-01-08T18:37:29.781Z
+updated: 2025-01-15T17:20:33.981Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ Google [has auto enrolled](https://blog.google/technology/safety-security/reduci
 The initiative also involved requiring 2 million YouTube users to enable it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google
@@ -79,14 +79,14 @@ Google [announced](https://www.zdnet.com/article/by-end-of-2021-google-plans-to-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-practical-steps-for-disabling-youtube-channels-on-devices/"><u>[Updated] 2024 Approved Practical Steps for Disabling YouTube Channels on Devices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-recordings-doing-without-a-microphone/"><u>[Updated] In 2024, Elevate Your Recordings Doing Without a Microphone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-to-refined-the-ultimate-youtube-studio-editing-journey/"><u>[Updated] In 2024, From Raw to Refined The Ultimate YouTube Studio Editing Journey</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-instructions-on-how-to-exit-your-account-in-facebook-messenger/"><u>Easy Instructions on How to Exit Your Account in Facebook Messenger</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-instagram-tips-sharing-your-podcast-content/"><u>In 2024, Instagram Tips Sharing Your Podcast Content</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Preparation to Beat Giovani in Pokemon Go For Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-solution-effective-ways-to-repair-your-facebook-messaging-app-when-it-stops-working/"><u>Step-by-Step Solution: Effective Ways to Repair Your Facebook Messaging App When It Stops Working</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-18-most-popular-emoji-apps-for-iphones-and-android-phones/"><u>The Ultimate List of the 18 Most Popular Emoji Apps for iPhones and Android Phones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-android-app-locks-essential-guides-and-reviews/"><u>Top-Rated Android App Locks: Essential Guides and Reviews</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-10-pro-photoshop-tricks-for-newcomers-for-2024/"><u>[New] Top 10 Pro Photoshop Tricks for Newcomers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-12-best-html5-video-players-you-should-know/"><u>[Updated] 2024 Approved 12 Best Html5 Video Players You Should Know</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-audio-alchemy-excellent-picks-for-skype-ringtone-downloads/"><u>[Updated] 2024 Approved Audio Alchemy Excellent Picks for Skype Ringtone Downloads</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-avoiding-the-overflow-how-to-edit-your-pile-up-of-tiktok-drafts/"><u>[Updated] Avoiding the Overflow How to Edit Your Pile-Up of TikTok Drafts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/24-billion-allocation-for-advanced-ict-systems-and-e-services-by-singapore-expert-analysis-on-zdnet/"><u>$2.4 Billion Allocation for Advanced ICT Systems and E-Services by Singapore | Expert Analysis on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/combatting-tech-burnout-how-artificial-intelligence-offers-relief-to-it-professionals/"><u>Combatting Tech Burnout: How Artificial Intelligence Offers Relief to IT Professionals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovative-solutions-how-this-firms-ai-powered-tech-enhances-eco-friendly-smart-home-devices-insights-from-zdnet/"><u>Innovative Solutions: How This Firm's AI-Powered Tech Enhances Eco-Friendly Smart Home Devices - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/supreme-top-4k-tvs-for-gamers/"><u>Supreme Top 4K TVs for Gamers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-era-of-smart-coding-moving-past-basic-automation-to-ai-enhanced-software-creation-according-to-zdnet-experts/"><u>The Era of Smart Coding: Moving Past Basic Automation to AI-Enhanced Software Creation According to ZDNet Experts</u></a></li>
 </ul></div>
 

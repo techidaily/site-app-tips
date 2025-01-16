@@ -1,7 +1,7 @@
 ---
 title: "Debunking Bitcoin Privacy Myths: The Exposé That Shook Its Secrecy"
-date: 2025-01-04T23:03:04.493Z
-updated: 2025-01-10T00:21:55.717Z
+date: 2025-01-14T18:09:56.770Z
+updated: 2025-01-15T21:05:21.820Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,19 +119,18 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-learn-to-download-discord-videos-without-cost-on-all-devices/"><u>[New] 2024 Approved Learn to Download Discord Videos Without Cost on All Devices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-beyond-the-buzz-a-ranked-guide-to-non-vimeo-edits-for-2024/"><u>[New] Beyond the Buzz A Ranked Guide to Non-Vimeo Edits for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-prime-windows-snipper-apps-listed-at-5/"><u>[New] In 2024, Prime Windows Snipper Apps Listed at #5</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-mastering-macbook-air-beginners-guide-to-screen-recording/"><u>[New] Mastering MacBook Air Beginner's Guide to Screen Recording</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-resurrecting-windows-photo-viewer-a-compreehr-guide-for-win10-users/"><u>[Updated] Resurrecting Windows Photo Viewer - A Compreehr Guide for Win10 Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-unlocking-secure-vaults-a-guide-to-activating-bitwardens-master-password-prompt-feature/"><u>1. Unlocking Secure Vaults: A Guide to Activating Bitwarden's Master Password Prompt Feature</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-express-thumbnails-for-epic-battle-royale/"><u>2024 Approved Express Thumbnails for Epic Battle Royale</u></a></li>
-<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-at-wwdc-2022-a-new-era-of-authentication-begins-tech-news/"><u>Apple Unveils Revolutionary Passkey at WWDC 2022 - A New Era of Authentication Begins | Tech News</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/boost-your-sites-traffic-using-cutting-edge-cookiebot-solutions/"><u>Boost Your Site's Traffic Using Cutting-Edge Cookiebot Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-security-while-watching-the-hidden-dangers-of-weak-passwords-in-streaming-platforms-cyberwatchers-blog/"><u>Enhance Security While Watching: The Hidden Dangers of Weak Passwords in Streaming Platforms | CyberWatchers Blog</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exclusive-offer-on-jem-authenticator-and-password-manager-enhance-login-security-with-ease-dive-into-zdnet/"><u>Exclusive Offer on JEM Authenticator & Password Manager: Enhance Login Security with Ease - Dive Into ZDNet!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-12-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 12 Pro Max without Password?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/superior-plus-top-billion-dollar-natural-gas-provider-targeted-by-cyber-attack-insights-from-zdnet/"><u>Superior Plus, Top Billion-Dollar Natural Gas Provider, Targeted by Cyber Attack: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-stronger-passwords-are-essential-protect-your-streaming-service-account-now-techadvice/"><u>Why Stronger Passwords Are Essential: Protect Your Streaming Service Account Now | TechAdvice</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-achieve-the-perfect-look-youtubes-guide-to-video-aspect-ratios/"><u>[New] 2024 Approved Achieve the Perfect Look YouTube's Guide to Video Aspect Ratios</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-viral-video-evolution-youtubes-favorites/"><u>[New] 2024 Approved Viral Video Evolution YouTube's Favorites</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-free-diy-approaches-to-design-your-own-youtube-cards/"><u>[New] Free DIY Approaches to Design Your Own YouTube Cards</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlocking-instagrams-hidden-qanda-features/"><u>[New] Unlocking Instagram’s Hidden Q&A Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/another-cybersecurity-breach-lastpass-compromised-once-more/"><u>Another Cybersecurity Breach: LastPass Compromised Once More</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-viewership-responsibly-strategies-that-work/"><u>Boosting Viewership Responsibly Strategies That Work</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-patch-update-to-log4j-library-available-with-apache-2170-release-cybersecurity-breakthrough-on-zdnet/"><u>Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/defend-your-online-privacy-with-our-exclusive-offer-exceptional-vpn-and-password-management-services-for-a-limited-time-just-30-learn-how-on-zdnet/"><u>Defend Your Online Privacy with Our Exclusive Offer: Exceptional VPN and Password Management Services for a Limited Time, Just $30! Learn How on ZDNET</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-mastery-in-motion-transform-youtube-videos-into-expressive-gifs/"><u>In 2024, Mastery in Motion Transform YouTube Videos Into Expressive GIFs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-account-with-2fa-integrating-githubs-new-feature-using-iphone-and-android-devices/"><u>Secure Your Account with 2FA: Integrating GitHub's New Feature Using iPhone & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-digital-keykeeper-essential-steps-for-safer-password-management-zdnet/"><u>Securing Your Digital Keykeeper: Essential Steps for Safer Password Management | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-turning-on-the-bitwarden-security-prompt-for-your-master-key/"><u>Step-by-Step: Turning On the Bitwarden Security Prompt for Your Master Key</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-opengl-glitches-in-minecraft-expert-tips-and-tricks/"><u>Troubleshooting OpenGL Glitches in Minecraft: Expert Tips and Tricks</u></a></li>
 </ul></div>
 

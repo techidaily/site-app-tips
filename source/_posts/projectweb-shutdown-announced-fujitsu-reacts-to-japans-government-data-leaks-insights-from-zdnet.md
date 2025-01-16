@@ -1,7 +1,7 @@
 ---
 title: "ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet"
-date: 2025-01-06T22:27:30.318Z
-updated: 2025-01-09T19:03:11.547Z
+date: 2025-01-09T16:07:26.116Z
+updated: 2025-01-15T18:02:15.978Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,18 +68,14 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-achieve-creative-excellence-on-tiktok-with-easy-border-swapping-strategies/"><u>[New] 2024 Approved Achieve Creative Excellence on TikTok with Easy Border Swapping Strategies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-fundamentals-of-creating-persuasive-social-media-messages-for-2024/"><u>[Updated] Fundamentals of Creating Persuasive Social Media Messages for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-seamlessly-integrating-zoom-with-facebook-live/"><u>2024 Approved Seamlessly Integrating Zoom with Facebook Live</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/5-essential-productivity-hacks-for-streamlining-your-day-to-day-tasks-insights-from-zdnet/"><u>5 Essential Productivity Hacks for Streamlining Your Day-to-Day Tasks: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-to-switching-from-windows-to-linux-mint-easy-installation-steps/"><u>Complete Guide to Switching From Windows to Linux Mint - Easy Installation Steps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-top-4-open-source-slack-substitutes-to-elevate-your-teams-communication-game-explore-the-options-on-zdnet/"><u>Discover Top 4 Open-Source Slack Substitutes to Elevate Your Team's Communication Game - Explore the Options on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-updates-to-libreoffice-for-mac-users-a-comprehensive-installation-tutorial-on-zdnet/"><u>Discover Updates to LibreOffice for Mac Users – A Comprehensive Installation Tutorial on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-tech-experts-shape-the-future-of-non-tech-companies-insights-from-zdnet/"><u>How Tech Experts Shape the Future of Non-Tech Companies: Insights From ZDNet</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-lava-yuva-2-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Lava Yuva 2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-the-power-of-ai-crafting-compelling-business-proposals-with-gpt/"><u>Unlock the Power of AI: Crafting Compelling Business Proposals with GPT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-update-needed-microsofts-crucial-challenge-with-windows-10-countdown-begins/"><u>Urgent Update Needed: Microsoft's Crucial Challenge with Windows 10 Countdown Begins!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-balancing-acts-the-power-of-alternate-perspectives-in-crafting-engaging-reaction-videos-on-youtube-2-pov-method/"><u>[New] In 2024, Balancing Acts The Power of Alternate Perspectives in Crafting Engaging Reaction Videos on YouTube (2 POV Method)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-issues-with-your-steelseries-x70-mouse-pen-not-responding-detailed-tutorial-inside/"><u>Diagnosing and Repairing Issues with Your SteelSeries X70 Mouse Pen Not Responding – Detailed Tutorial Inside</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-anthropic-claude-mobile-application-now-available-company-unveils-new-business-strategy-tech-news-on-zdnet/"><u>Free Anthropic 'Claude' Mobile Application Now Available; Company Unveils New Business Strategy - Tech News on ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-framing-character-arcs-on-screen/"><u>In 2024, Framing Character Arcs on Screen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/purecurrent-evaluation-steady-hydrophone-clarity/"><u>PureCurrent Evaluation: Steady Hydrophone Clarity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-visionary-linus-torvalds-explores-ai-progress-rust-integration-and-linux-significance-with-zdnet/"><u>Tech Visionary Linus Torvalds Explores AI Progress, Rust Integration, and Linux Significance with ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unmasking-truthgpt-coins-credibility/"><u>Unmasking TruthGPT Coin's Credibility</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrade-journey-for-ubuntu-linux-2404-demystified-by-zdnet-experts/"><u>Upgrade Journey for Ubuntu Linux 24.04 Demystified by ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11s-recent-update-unleashes-exciting-novel-capabilities-insights-from-zdnet/"><u>Windows 11'S Recent Update Unleashes Exciting Novel Capabilities - Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Turning On the Bitwarden Security Prompt for Your Master Key"
-date: 2025-01-06T19:21:22.505Z
-updated: 2025-01-10T06:08:47.675Z
+date: 2025-01-08T22:20:56.980Z
+updated: 2025-01-15T18:02:45.152Z
 tags:
   - password-manager
 categories:
@@ -63,7 +63,7 @@ Because the password re-prompt doesn't prevent copying the password, it's not a 
 With that said, how do you enable the password re-prompt? Let me show you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable the Bitwarden password re-prompt
@@ -71,7 +71,7 @@ With that said, how do you enable the password re-prompt? Let me show you.
 **What you'll need:** The only things you need for this are a working instance of Bitwarded, either on a desktop or mobile device. The process also works on the web-based version. I'll demonstrate this on the desktop app, but the process is the same on all platforms.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Bitwarden and unlock your vault
@@ -79,7 +79,7 @@ With that said, how do you enable the password re-prompt? Let me show you.
 The first thing to do is open the Bitwarden app and unlock your vault.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open a vault item for editing
@@ -91,7 +91,7 @@ The edit button is the pencil directly to the right of the + button.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable the password re-prompt
@@ -109,7 +109,7 @@ Now, any time you want to view that password, you'll be prompted to type your Bi
 Keep going and add the re-prompt feature to any/all vault entries you believe need the extra layer of security. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A couple of extra steps
@@ -149,20 +149,20 @@ This may not stop unwanted users from copying and pasting your passwords, but it
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-eliminate-payment-for-cam-screen-recording-a-comparative-study/"><u>[New] 2024 Approved Eliminate Payment for Cam Screen Recording – A Comparative Study</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-aniworld-complete-app-audit-2024-edition/"><u>[New] AniWorld Complete App Audit - 2024 Edition</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-premier-virtual-music-gatherings/"><u>[New] Premier Virtual Music Gatherings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pro-photo-framegers-to-polish-pictures-online/"><u>[New] Pro Photo Framegers to Polish Pictures Online</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-30-proven-facebook-tricks-to-skyrocket-your-brand-for-2024/"><u>[New] Unveiling 30 Proven Facebook Tricks to Skyrocket Your Brand for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-photographers-guide-to-effective-watermarking/"><u>[Updated] Photographers' Guide to Effective Watermarking</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-pixels-to-power-the-ultra-hd-world-of-samsung-ue590/"><u>2024 Approved From Pixels to Power The Ultra HD World of Samsung UE590</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-6-secure-chat-guard-apps-for-safeguarding-text-communications-on-android-devices/"><u>Best 6 Secure Chat Guard Apps for Safeguarding Text Communications on Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620191401-comprehensive-evaluation-of-picplaypost-revolutionizing-digital-content-with-advanced-editing-features-for-videos-collages-and-more/"><u>Comprehensive Evaluation of PicPlayPost: Revolutionizing Digital Content with Advanced Editing Features for Videos, Collages, and More!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-y27-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-mobile-hotspot-enabler-applications-a-comprehensive-guide/"><u>Leading Mobile Hotspot Enabler Applications: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-choosing-iphone-scanners-and-transforming-your-documents/"><u>The Ultimate Guide to Choosing iPhone Scanners & Transforming Your Documents</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-20-high-earning-android-games-a-must-play-list-that-delivers-value/"><u>Top 20 High-Earning Android Games: A Must-Play List That Delivers Value</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-anonymized-messaging-services-the-leading-choices-for-private-communication/"><u>Top Anonymized Messaging Services: The Leading Choices for Private Communication</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-navigating-affinity-photos-features-to-excise-borders-effectively/"><u>[New] 2024 Approved Navigating Affinity Photo's Features to Excise Borders Effectively</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ultivating-a-brand-identity-youtube-visibility-without-spending/"><u>[New] Cultivating a Brand Identity YouTube Visibility without Spending</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-money-no-problem-heres-your-list-of-vfx-pages/"><u>2024 Approved No Money, No Problem! Here's Your List of VFX Pages</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-3ds-emulator-apps-top-picks-for-windows-mac-ios-and-android/"><u>Best Free 3DS Emulator Apps: Top Picks for Windows, Mac, iOS & Android</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-vsco-features-advantages-disadvantages-and-top-substitutes/"><u>Comprehensive Guide: Understanding VSCO – Features, Advantages, Disadvantages, and Top Substitutes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/delicious-directives-the-7-secrets-of-epic-food-vids/"><u>Delicious Directives The 7 Secrets of Epic Food Vids</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620195653-discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More</u></a></li>
+<li><a href="https://app-tips.techidaily.com/endless-interruptions-a-complete-guide-to-stopping-unsolicited-calls-on-your-smartphone/"><u>Endless Interruptions: A Complete Guide to Stopping Unsolicited Calls on Your Smartphone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/listensmart-beyond-dacast-choices/"><u>ListenSmart Beyond DaCast Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reap-the-benefits-of-bulk-directories-with-ease-in-windows-latest-os/"><u>Reap the Benefits of Bulk Directories with Ease in Window's Latest OS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-15-mobile-workout-apps-ideal-for-both-ios-and-android-devices/"><u>Top 15 Mobile Workout Apps: Ideal for Both iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-15-health-and-fitness-apps-compatible-with-apple-and-android-phones/"><u>Ultimate Selection of 15 Health and Fitness Apps Compatible with Apple & Android Phones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/uncover-the-secrets-to-reinstating-lost-nvidia-hd-audio-capabilities/"><u>Uncover the Secrets to Reinstating Lost NVIDIA HD Audio Capabilities</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-the-mystery-of-the-bnsf-emulator-thorough-assessment-and-interpretation/"><u>Unraveling the Mystery of the BNSF Emulator: Thorough Assessment and Interpretation</u></a></li>
 </ul></div>
 

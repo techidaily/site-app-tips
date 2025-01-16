@@ -1,7 +1,7 @@
 ---
 title: The Rise of Cloud Tech Vs. Current Dominance of On-Site Solutions - A Deep Dive with ZDNet
-date: 2025-01-06T17:25:42.759Z
-updated: 2025-01-10T02:25:57.677Z
+date: 2025-01-14T19:57:46.967Z
+updated: 2025-01-15T21:46:48.704Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-shorts-fund-how-to-maximize-your-earnings/"><u>[New] 2024 Approved YouTube Shorts Fund How to Maximize Your Earnings</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-art-of-soft-ending-sounds-in-premiere-pro-for-2024/"><u>[New] The Art of Soft-Ending Sounds in Premiere Pro for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dismantle-bots-elevate-youtube-watch-time/"><u>[Updated] 2024 Approved Dismantle Bots, Elevate YouTube Watch Time</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-cinematic-basics-unveiled-fundamental-shots-explained-clearly/"><u>[Updated] Cinematic Basics Unveiled Fundamental Shots Explained Clearly</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-glow-enhanced-video-a-right-move-for-hdr-crafting/"><u>[Updated] Glow-Enhanced Video A Right Move for HDR Crafting?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ipad-guide-creating-time-lapse-videos/"><u>[Updated] In 2024, IPad Guide Creating Time-Lapse Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-ai-horizons-decoding-the-titles-and-responsibilities-of-tomorrows-job-roles-defined-by-tech-progress/"><u>Beyond AI Horizons: Decoding the Titles and Responsibilities of Tomorrow's Job Roles Defined by Tech Progress</u></a></li>
-<li><a href="https://app-tips.techidaily.com/closing-the-gap-between-desire-and-effort-in-building-responsible-ai-unpacked-by-zdnets-latest-analysis/"><u>Closing the Gap Between Desire and Effort in Building Responsible AI - Unpacked by ZDNET's Latest Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experts-choose-the-superior-web-host-services-of-2024-in-depth-analysis-and-ratings-discover-with-zdnet/"><u>Experts Choose the Superior Web Host Services of 2024: In-Depth Analysis and Ratings | Discover with ZDNET</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 6s</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-ais-impact-on-job-markets-the-emergence-of-new-yet-to-be-defined-professional-titles-revealed-zdnet-insights/"><u>Navigating AI's Impact on Job Markets: The Emergence of New, Yet-to-Be-Defined Professional Titles Revealed | ZDNET Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/non-techies-embrace-ai-why-understanding-complicated-networks-requires-diverse-educational-strategies-zdnet/"><u>Non-Techies, Embrace AI: Why Understanding Complicated Networks Requires Diverse Educational Strategies | ZDNET</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-pubg-server-latency-problems-tips-and-tricks-for-optimal-performance/"><u>Overcoming PUBG Server Latency Problems - Tips & Tricks for Optimal Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preparing-leaders-for-ai-integration-essential-steps-recommended-by-zdnet/"><u>Preparing Leaders for AI Integration: Essential Steps Recommended by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-solution-for-the-missing-update-error-on-windows-os-0x80070003/"><u>Swift Solution for the Missing Update Error on Windows OS (0X80070003)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-emergence-of-immediate-innovation-a-disparate-spread-across-industries/"><u>The Emergence of Immediate Innovation - A Disparate Spread Across Industries.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-quest-for-ethical-artificial-intelligence-why-more-action-needed-despite-universal-agreement-insights-from-zdnet/"><u>The Quest for Ethical Artificial Intelligence: Why More Action Needed Despite Universal Agreement? Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-secret-behind-open-source-magnetism-for-elite-innovators-a-deep-dive-with-zdnets-perspective/"><u>The Secret Behind Open Source Magnetism for Elite Innovators - A Deep Dive with ZDNet's Perspective</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expand-your-online-realm-harnessing-youtube-insights-powerfully-for-2024/"><u>[New] Expand Your Online Realm Harnessing YouTube Insights Powerfully for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/xplore-the-best-free-youtube-video-editor-apps-for-android-for-2024/"><u>[New] Explore the Best Free YouTube Video Editor Apps for Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-future-of-virtual-game-viewership-income/"><u>[New] In 2024, Future of Virtual Game Viewership Income</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-total-360-giroptic-vr-capture-examination/"><u>2024 Approved Total 360 Giroptic VR Capture Examination</u></a></li>
+<li><a href="https://app-tips.techidaily.com/as-the-skills-shortage-in-data-analytics-intensifies-discover-how-a-forward-thinking-enterprise-is-addressing-it-zdnet/"><u>As the Skills Shortage in Data Analytics Intensifies, Discover How a Forward-Thinking Enterprise Is Addressing It | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/busting-top-5-fallacies-surrounding-the-profitability-of-data-sharing-techwise-insights/"><u>Busting Top 5 Fallacies Surrounding the Profitability of Data Sharing | TechWise Insights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/free-and-open-source-video-capturing-tools-for-2024/"><u>Free & Open Source Video Capturing Tools for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/m4r-to-m4a-in-a-snap-top-strategies-for-effortless-audio-format-transformation-online-and-offline/"><u>M4R to M4A in a Snap! Top Strategies for Effortless Audio Format Transformation (Online & Offline)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-routines-for-disorganized-youtube-playlists/"><u>Quick Routines for Disorganized YouTube Playlists</u></a></li>
+<li><a href="https://app-tips.techidaily.com/surpassing-artificial-intelligence-the-rapid-rise-of-the-next-tech-trend/"><u>Surpassing Artificial Intelligence: The Rapid Rise of the Next Tech Trend</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-real-deal-on-pursuing-a-career-as-a-devops-professional-pros-cons-and-challenges-techinsights/"><u>The Real Deal on Pursuing a Career as a DevOps Professional – Pros, Cons & Challenges | TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-of-low-codeno-code-development-understanding-whos-ready-to-embrace-it-perspectives-by-zdnet/"><u>The Rising Popularity of Low-Code/No-Code Development: Understanding Who's Ready to Embrace It | Perspectives by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-ui-interactions-the-rise-of-generative-ai-and-the-end-of-traditional-cursor-controls-insights-from-zdnet/"><u>Transforming UI Interactions: The Rise of Generative AI and the End of Traditional Cursor Controls - Insights From ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oneplus-nord-n30-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your OnePlus Nord N30 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

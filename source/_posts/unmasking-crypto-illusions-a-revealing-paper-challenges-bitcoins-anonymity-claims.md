@@ -1,7 +1,7 @@
 ---
 title: "Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims"
-date: 2025-01-05T03:58:13.069Z
-updated: 2025-01-09T20:41:22.645Z
+date: 2025-01-11T21:12:50.449Z
+updated: 2025-01-15T19:26:13.132Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,22 +119,22 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-top-10-free-os-compatible-videography-applications-for-2024/"><u>[New] Top 10 Free, OS-Compatible Videography Applications for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-20-open-access-free-pubg-montages/"><u>[Updated] In 2024, Top 20 Open Access, Free PUBG Montages</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-3dlut-mobility-boost-image-and-video-quality/"><u>2024 Approved 3DLUT Mobility Boost Image & Video Quality</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-a-close-look-at-t-series-revenue-from-online-channels/"><u>2024 Approved A Close Look at T-Series Revenue From Online Channels</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-anime-inspired-shorts-top-20-trends-on-tiktok/"><u>2024 Approved Anime-Inspired Shorts Top 20 Trends on TikTok</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-photographing-for-youtube-the-ultimate-instructions/"><u>2024 Approved Photographing for YouTube The Ultimate Instructions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-guide-to-creating-beautifully-stretched-time-videos-online/"><u>2024 Approved The Essential Guide to Creating Beautifully Stretched Time Videos Online</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/eliminating-blemishes-in-image-downloads/"><u>Eliminating Blemishes in Image Downloads</u></a></li>
 <li><a href="https://app-tips.techidaily.com/exploring-rusts-role-in-linux-projects-with-linus-torvalds-a-glimpse-into-his-routine-and-macbook-experience-zdnet/"><u>Exploring Rust's Role in Linux Projects with Linus Torvalds: A Glimpse Into His Routine and MacBook Experience - ZDNet</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y100a-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y100A Devices | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oppo-reno-10-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo Reno 10 Pro 5G Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://app-tips.techidaily.com/introducing-codenotarys-sbom-solution-for-kubernetes-ensuring-security-and-compliance/"><u>Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance</u></a></li>
 <li><a href="https://app-tips.techidaily.com/introducing-linux-kernel-v65-a-comprehensive-look-at-its-latest-groundbreaking-capabilities-techworld/"><u>Introducing Linux Kernel v6.5: A Comprehensive Look at Its Latest Groundbreaking Capabilities | TechWorld</u></a></li>
 <li><a href="https://app-tips.techidaily.com/latest-tech-tip-seamless-transition-how-to-move-from-linux-mint-to-mint-21-efficiently/"><u>Latest Tech Tip: Seamless Transition - How To Move From Linux Mint to Mint 21 Efficiently!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/lightning-fast-photo-reader-for-pcs-for-2024/"><u>Lightning-Fast Photo Reader for PCs for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/macs-top-5-mkv-decoder-software-for-2024/"><u>Mac's Top 5 MKV Decoder Software for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-remedies-for-when-discord-opaque-features-fail/"><u>Quick Remedies for When Discord Opaque Features Fail</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lifting-the-curse-the-invisible-direct-x-disruption-solved-in-leagues/"><u>Lifting the Curse: The Invisible Direct X Disruption Solved in Leagues</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/pristine-videos-best-android-and-iphone-apps-for-watermarks/"><u>Pristine Videos Best Android & iPhone Apps for Watermarks</u></a></li>
 <li><a href="https://app-tips.techidaily.com/revealed-employee-testimonial-why-you-might-prefer-not-to-work-at-apple-according-to-insiders/"><u>Revealed: Employee Testimonial – Why You Might Prefer Not to Work at Apple According to Insiders</u></a></li>
 <li><a href="https://app-tips.techidaily.com/rising-power-of-citizen-developers-in-driving-enterprise-software-innovation/"><u>Rising Power of Citizen Developers in Driving Enterprise Software Innovation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-desktop-distributions-reviewed-why-linux-mint-22-stands-out-above-the-rest/"><u>Top Desktop Distributions Reviewed - Why Linux Mint 22 Stands Out Above the Rest</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-shelldll-error-a-comprehensive-guide/"><u>Solving 'Shell.dll' Error: A Comprehensive Guide</u></a></li>
 <li><a href="https://app-tips.techidaily.com/top-rated-accounting-programs-finding-the-perfect-match/"><u>Top Rated Accounting Programs : Finding the Perfect Match!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862693831-unleash-gaming-power-save-big-and-grab-hp-omens-transcend-14-with-rtx-displayed-in-oled-brilliance-300-off/"><u>Unleash Gaming Power: Save Big & Grab HP Omen's Transcend 14 with RTX, Displayed in OLED Brilliance - $300 Off</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-short-window-of-success-in-ai-implementations-lessons-from-a-zdnet-perspective/"><u>Understanding the Short Window of Success in AI Implementations - Lessons From a ZDNet Perspective</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How Canonical's Revolutionary 'Distroless' Images Transform Enterprise Security: A Deep Dive - TechInsights"
-date: 2025-01-08T16:26:59.883Z
-updated: 2025-01-09T19:00:27.799Z
+date: 2025-01-15T01:30:25.280Z
+updated: 2025-01-15T16:34:10.904Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elite-7-cameras-elevating-interactive-learning-vlogs-and-tutorials/"><u>[New] 2024 Approved Elite 7 Cameras Elevating Interactive Learning Vlogs & Tutorials</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unleashing-hidden-media-from-your-connected-friends/"><u>[New] 2024 Approved Unleashing Hidden Media From Your Connected Friends</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafted-by-professionals-best-free-mobile-editors-for-android/"><u>[New] In 2024, Crafted by Professionals Best Free Mobile Editors for Android</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-loves-epic-tales-the-finest-9-weddings-on-youtube-and-vimeo/"><u>[New] Love's Epic Tales The Finest 9 Weddings on YouTube & Vimeo</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-downsides-of-artifice-intelligence-in-code-creation-with-zdnets-analysis/"><u>Exploring the Downsides of Artifice Intelligence in Code Creation with ZDNet's Analysis</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-performers-the-leading-8k-camera-lineup/"><u>In 2024, Best Performers The Leading 8K Camera Lineup</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-order-in-the-world-of-linuxopen-source-resources-strategies-for-clarity-and-efficiency/"><u>Mastering Order in the World of Linux/Open Source Resources: Strategies for Clarity and Efficiency</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-the-most-typical-challenges-in-using-chatgpt-effectively/"><u>Overcoming the Most Typical Challenges in Using ChatGPT Effectively</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solution/"><u>Solution</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-covid-19-immunization-control-systems-a-comprehensive-guide-by-zdnet/"><u>Top Rated COVID-19 Immunization Control Systems: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-iphone-users-learn-simple-screen-recording-now/"><u>[New] In 2024, Iphone Users, Learn Simple Screen Recording Now</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-concealing-confidentiality-blurring-identity-in-recordings/"><u>[Updated] In 2024, Concealing Confidentiality Blurring Identity in Recordings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/accelerate-your-coding-process-using-generative-ai-understanding-potential-pitfalls/"><u>Accelerate Your Coding Process Using Generative AI: Understanding Potential Pitfalls</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bridging-the-gap-with-palm-2-for-superior-bard-ai/"><u>Bridging the Gap with PaLM 2 for Superior Bard AI</u></a></li>
+<li><a href="https://app-tips.techidaily.com/crafting-your-path-in-technology-insights-from-an-industry-giant-the-aerospace-sector-explored-by-zdnet/"><u>Crafting Your Path in Technology: Insights From an Industry Giant - The Aerospace Sector Explored by ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-apps-for-effective-mac-sniping-for-2024/"><u>Essential Apps for Effective Mac Sniping for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-growth-surge-how-openstack-and-kata-containers-regain-popularity-among-businesses-zdnet-insights/"><u>Exploring the Growth Surge: How OpenStack & Kata Containers Regain Popularity Among Businesses | ZDNet Insights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-common-youtube-shorts-when-thumbnails-disappear-without-notice/"><u>In 2024, Common YouTube Shorts When Thumbnails Disappear Without Notice</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-elevate-your-account-25-top-instagram-tags-for-maximum-engagement/"><u>In 2024, Elevate Your Account 25 Top Instagram Tags for Maximum Engagement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-best-full-hd-action-cameras-below-100/"><u>In 2024, Top 5 Best Full HD Action Cameras Below $100</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/leveraging-intelligent-automation-how-smarter-robots-manage-complex-unstructured-information-with-abbyy-innovations/"><u>Leveraging Intelligent Automation: How Smarter Robots Manage Complex, Unstructured Information with ABBYY Innovations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-in-linux-and-free-tech-docs-unveiling-the-clear-path-to-clarity/"><u>Organizing Chaos in Linux & Free Tech Docs: Unveiling The Clear Path to Clarity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-popularity-of-ops-transforming-it-landscapes-and-introducing-fresh-challenges-insights-from-tech-giants/"><u>Rising Popularity of 'Ops': Transforming IT Landscapes and Introducing Fresh Challenges - Insights From Tech Giants</u></a></li>
+<li><a href="https://app-tips.techidaily.com/scaling-up-with-anthropi-how-the-latest-claude-update-empowers-businesses-globally-insights-from-zdnet/"><u>Scaling Up with AnthroPi: How the Latest Claude Update Empowers Businesses Globally - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-crucial-role-of-it-departments-in-shaping-modern-customer-journeys-a-perspective-by-zdnet/"><u>The Crucial Role of IT Departments in Shaping Modern Customer Journeys: A Perspective by ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windows11cd/"><u>Windows11でおすすめの音楽プレーヤー５つ選び！CD、ハイレゾ再生対応</u></a></li>
 </ul></div>
 

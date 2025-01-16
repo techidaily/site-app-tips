@@ -1,7 +1,7 @@
 ---
 title: "Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight"
-date: 2025-01-04T00:01:13.143Z
-updated: 2025-01-10T02:03:08.609Z
+date: 2025-01-12T01:09:54.913Z
+updated: 2025-01-16T00:23:29.931Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 ## Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,22 +77,22 @@ Check Point Research
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-break-the-ice-how-to-make-a-hit-youtube-reaction-in-just-15-minutes-or-less/"><u>[New] 2024 Approved Break the Ice - How to Make a Hit YouTube Reaction in Just 15 Minutes or Less</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-identifying-and-understanding-touchless-technologies/"><u>[New] In 2024, Identifying and Understanding Touchless Technologies</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-securely-capturing-and-storing-itunes-media-content/"><u>[Updated] 2024 Approved Securely Capturing and Storing iTunes Media Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unlocking-instagram-memories-with-these-apps/"><u>[Updated] 2024 Approved Unlocking Instagram Memories with These Apps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cooking-chronicles-video-production-insights/"><u>[Updated] In 2024, Cooking Chronicles Video Production Insights</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726028114902-mp4/"><u>大容量メディアを効率的にMP4形式へ:オンラインツールとオフライン方法</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-step-by-step-guide-for-igtv-video-submission/"><u>[New] 2024 Approved Step-by-Step Guide for IGTV Video Submission</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-framefusion-pro-8-crafting-digital-masterpieces/"><u>2024 Approved FrameFusion Pro 8 Crafting Digital Masterpieces</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-select-websites-propelling-youtube-media/"><u>2024 Approved Select Websites Propelling YouTube Media</u></a></li>
 <li><a href="https://app-tips.techidaily.com/complete-steps-to-transition-from-windows-to-linux-mint-for-optimized-performance-cnet/"><u>Complete Steps to Transition From Windows to Linux Mint for Optimized Performance | C|Net</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/eardial-hifi-earplug-review/"><u>EarDial HiFi Earplug Review</u></a></li>
 <li><a href="https://app-tips.techidaily.com/evolution-of-dev-responsibilities-as-seen-by-agnes-ro-of-atlassian-expert-analysis-on-zdnet/"><u>Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y78-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y78 5G Users</u></a></li>
 <li><a href="https://app-tips.techidaily.com/introducing-codenotarys-sbom-solution-a-revolution-in-managing-dependencies-on-kubernetes-insights-from-zdnet/"><u>Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet</u></a></li>
 <li><a href="https://app-tips.techidaily.com/navigating-the-shift-to-cloud-infrastructure-amidst-an-era-of-persistent-on-premises-systems-insights-from-zdnet/"><u>Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET</u></a></li>
 <li><a href="https://app-tips.techidaily.com/organizing-chaos-streamlining-linux-and-open-source-docs-solutions-from-zdnet/"><u>Organizing Chaos: Streamlining Linux & Open Source Docs - Solutions From ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/power-packed-film-titles-for-inner-growth-and-strength/"><u>Power-Packed Film Titles for Inner Growth & Strength</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-updating-logitech-c92-webcam-software-for-windows-users/"><u>Step-by-Step Guide to Updating Logitech C92# Webcam Software for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-black-friday-2022-exclusive-offer-on-gigabytes-premium-ultra-wide-curved-monitor-for-gamers-at-up-to-80-off-smartdealstech/"><u>Score Big Savings: Black Friday 2022 Exclusive Offer on Gigabyte’s Premium Ultra-Wide Curved Monitor for Gamers at Up to $80 Off! | SmartDealsTech</u></a></li>
+<li><a href="https://facebook.techidaily.com/scrutinizing-social-media-ads-a-plea-for-more-robust-anti-fraud-measures/"><u>Scrutinizing Social Media Ads: A Plea for More Robust Anti-Fraud Measures</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-best-laptops-for-video-editing/"><u>The Best Laptops for Video Editing</u></a></li>
 <li><a href="https://app-tips.techidaily.com/the-impending-crisis-for-microsofts-windows-10-a-race-against-time-reviewed-by-zdnet/"><u>The Impending Crisis for Microsoft's Windows 10: A Race Against Time Reviewed by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-selecting-a-quality-projector-what-you-need-to-know/"><u>The Ultimate Guide to Selecting a Quality Projector – What You Need to Know</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-crm-platforms-of-2022-revealed-see-whos-leading-in-customer-engagement-zdnet/"><u>Top CRM Platforms of 2022 Revealed: See Who's Leading in Customer Engagement - ZDNet</u></a></li>
 <li><a href="https://app-tips.techidaily.com/ultimate-list-leading-antivirus-programs-according-to-zdnet/"><u>Ultimate List: Leading Antivirus Programs , According to ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-short-window-of-success-in-ai-implementations-lessons-from-a-zdnet-perspective/"><u>Understanding the Short Window of Success in AI Implementations - Lessons From a ZDNet Perspective</u></a></li>
 </ul></div>
 

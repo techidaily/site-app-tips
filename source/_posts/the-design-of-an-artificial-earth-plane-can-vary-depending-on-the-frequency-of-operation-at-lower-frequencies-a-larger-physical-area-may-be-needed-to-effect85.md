@@ -1,7 +1,7 @@
 ---
 title: The Design of an Artificial Earth Plane Can Vary Depending on the Frequency of Operation; at Lower Frequencies, a Larger Physical Area May Be Needed to Effectively Reflect Radio Waves.
-date: 2025-01-09T04:51:06.881Z
-updated: 2025-01-09T23:02:03.651Z
+date: 2025-01-09T17:33:38.974Z
+updated: 2025-01-16T00:54:29.797Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,15 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unlocking-potential-your-guide-to-obs-android-broadcasts/"><u>[New] In 2024, Unlocking Potential Your Guide to OBS Android Broadcasts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cognitive-network-advancements-from-arista-enter-mainstream-sectors-a-deep-dive-tech-insights/"><u>Cognitive Network Advancements From Arista Enter Mainstream Sectors: A Deep Dive - Tech Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-techniques-to-preserve-and-share-moments-playing-ps4-with-screenshots/"><u>Easy Techniques to Preserve and Share Moments Playing PS4 with Screenshots</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-elite-learning-management-solutions-rated-by-tech-experts-at-zdnet/"><u>Explore Elite Learning Management Solutions Rated by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-google-pixel-fold-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Google Pixel Fold?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-c53-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme C53 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-acid-pro-alternatives-the-ultimate-review-series/"><u>In 2024, ACID Pro Alternatives The Ultimate Review Series</u></a></li>
-<li><a href="https://app-tips.techidaily.com/langchains-revolutionary-approach-to-making-genai-truly-beneficial-as-featured-on-zdnet/"><u>LangChain's Revolutionary Approach to Making GenAI Truly Beneficial, as Featured on ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-maze-of-ps5-wireless-troubleshooting/"><u>Navigating the Maze of PS5 Wireless Troubleshooting</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-latest-features-of-macos-sonoma-your-ultimate-guide-all-tips-and-insights-from-zdnet/"><u>Unveiling the Latest Features of macOS Sonoma: Your Ultimate Guide - All Tips and Insights From ZDNet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-wizardry-of-images-elevate-your-snapchat-with-edits-for-2024/"><u>[New] The Wizardry of Images Elevate Your Snapchat with Edits for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-xcom-2-crash-on-windows/"><u>[SOLVED] XCOM 2 Crash on Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-best-practices-to-speed-up-or-slow-down-music-in-spotify/"><u>[Updated] Best Practices to Speed Up or Slow Down Music in Spotify</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-echoes-of-the-past-the-top-10-youtube-sources-for-history-lovers/"><u>[Updated] In 2024, Echoes of the Past The Top 10 YouTube Sources for History Lovers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagrams-video-selfie-truthfulness-a-critical-look/"><u>[Updated] In 2024, Instagram's Video Selfie Truthfulness – A Critical Look</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-the-new-world-of-facebook-updates-for-2024/"><u>[Updated] Navigating the New World of Facebook Updates for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-workplace-productivity-with-these-4-free-slack-replacements-embrace-opensource-collaborative-tools-as-featured-by-zdnet/"><u>Boost Your Workplace Productivity with These 4 Free Slack Replacements: Embrace Opensource Collaborative Tools, as Featured by ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/essential-tips-building-an-instagram-money-machine/"><u>Essential Tips Building an Instagram Money Machine</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-downsides-of-artifice-intelligence-in-code-creation-with-zdnets-analysis/"><u>Exploring the Downsides of Artifice Intelligence in Code Creation with ZDNet's Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/finding-order-in-the-disarray-of-linuxopen-source-manuals-the-ultimate-fix/"><u>Finding Order in the Disarray of Linux/Open Source Manuals - The Ultimate Fix!</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-anonymity-the-underestimated-edge-in-managing-todays-digital-workforce-zdnet/"><u>Leveraging Anonymity: The Underestimated Edge in Managing Today's Digital Workforce | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-order-in-the-world-of-linuxopen-source-resources-strategies-for-clarity-and-efficiency/"><u>Mastering Order in the World of Linux/Open Source Resources: Strategies for Clarity and Efficiency</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mastering-secure-data-removal-with-techniques-from-stellar-experts/"><u>Mastering Secure Data Removal with Techniques From Stellar Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mimo-systems-leverage-antenna-arrays-to-multiply-the-capacity-of-wireless-channels-by-transmitting-different-data-streams-over-multiple-spatial-paths-simult77/"><u>MIMO Systems Leverage Antenna Arrays to Multiply the Capacity of Wireless Channels by Transmitting Different Data Streams over Multiple Spatial Paths Simultaneously.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-expenses-in-gen-ai-education-risk-assessment-lags-behind-according-to-recent-stanford-study-insights-on-cost-and-safety/"><u>Rising Expenses in Gen AI Education: Risk Assessment Lags Behind According to Recent Stanford Study - Insights on Cost & Safety</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solution/"><u>Solution</u></a></li>
 </ul></div>
 

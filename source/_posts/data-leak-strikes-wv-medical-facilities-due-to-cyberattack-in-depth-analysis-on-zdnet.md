@@ -1,7 +1,7 @@
 ---
 title: Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet
-date: 2025-01-04T05:18:38.983Z
-updated: 2025-01-10T02:10:16.166Z
+date: 2025-01-11T16:01:17.680Z
+updated: 2025-01-15T18:27:58.509Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 ## Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Executive guide
@@ -20,7 +20,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 [![phishing-header.jpg](https://www.zdnet.com/a/img/resize/ac019af4c6d0d000921065b0769387a86a4afe61/2017/09/04/fc1528a9-ecf2-4e2a-b743-91f06206a23e/phishing-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) What is phishing? Everything you need to know to protect yourself from scam emails and more Don't click on that email! Find everything you need to know in this phishing guide including how to protect yourself from one of the most common forms of cyber attack.  Read now](https://www.zdnet.com/article/what-is-phishing-how-to-protect-yourself-from-scam-emails-and-more/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A hospital system in West Virginia has [suffered](https://www.prnewswire.com/news-releases/monongalia-health-system-inc-investigates-and-addresses-data-security-incident-301449436.html) a data breach resulting from a phishing attack, which gave hackers access to several email accounts. 
@@ -74,20 +74,18 @@ Mon Health started sending breach notification letters to victims on December 21
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boosting-buzz-and-views-masterful-strategies-for-youtube-success/"><u>[New] 2024 Approved Boosting Buzz & Views Masterful Strategies for YouTube Success</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-charting-a-course-through-youtubes-maker-domain/"><u>[Updated] Charting a Course Through YouTube's Maker Domain</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-s17e-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/conversione-aac-a-mp3m4a-online-gratuita-con-movavi/"><u>Conversione AAC a MP3/M4A OnLine Gratuita Con Movavi</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024!</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/effective-techniques-to-keep-your-data-private-in-windows-tips-from-yl-software-experts/"><u>Effective Techniques to Keep Your Data Private in Windows - Tips From YL Software Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-methods-to-transform-avi-files-for-streamlined-playback-on-iphone-ipad-and-ipod-via-itunes/"><u>Effortless Methods to Transform AVI Files for Streamlined Playback on iPhone, iPad & iPod via iTunes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-tips-for-resolving-unrecognized-devices-making-itunes-recognize-your-iphone-ipad-or-ipod-again/"><u>Expert Tips For Resolving Unrecognized Devices: Making iTunes Recognize Your iPhone, iPad, or iPod Again</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-70-lite-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-evaluation-of-hdr-quality-with-luminance/"><u>In 2024, The Evaluation of HDR Quality with Luminance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-the-issue-of-non-syncing-tunes-from-itunes-to-ios-devices/"><u>Solving the Issue of Non-Syncing Tunes From iTunes to iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transferring-your-itunes-collection-from-computer-to-external-hard-drive/"><u>Step-by-Step Guide: Transferring Your iTunes Collection From Computer to External Hard Drive</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/sync-up-songs-and-screenshots-on-snapchat/"><u>Sync-Up Songs and Screenshots on Snapchat</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-12-replacements-for-itunes-on-pc-and-mac-in-2n34-best-options-explored/"><u>Top 12 Replacements for iTunes on PC and Mac in 2N34 - Best Options Explored</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-adobe-premiere-pro-101-for-youtube-clips-and-edits/"><u>[New] In 2024, Adobe Premiere Pro 101 for YouTube Clips and Edits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-draw-eyes-to-your-subject-iphone-photo-tips-with-leading-lines/"><u>[Updated] Draw Eyes to Your Subject IPhone Photo Tips with Leading Lines</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-innovative-chroma-techniques-for-stunning-visual-storytelling/"><u>[Updated] Innovative Chroma Techniques for Stunning Visual Storytelling</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-digital-comedy-in-the-metaverse/"><u>[Updated] Mastering the Art of Digital Comedy in the Metaverse</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-users-perspective-on-senuti-software-with-ideal-substitutes-compatible-with-pc-and-apple-devices/"><u>A User's Perspective on Senuti Software with Ideal Substitutes Compatible with PC and Apple Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expanding-storage-for-xbox-one-with-external-hard-drives-tips-and-tricks/"><u>Expanding Storage for Xbox One with External Hard Drives: Tips & Tricks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620278690-get-your-favorite-songs-and-movies-for-free-directly-from-itunes-no-cost-at-all/"><u>Get Your Favorite Songs and Movies for Free Directly From iTunes – No Cost at All!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-completely-erase-irrelevant-applications-from-itunes-for-good/"><u>How To Completely Erase Irrelevant Applications From iTunes for Good</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620278349-revamp-your-itunes-collection-with-these-proven-techniques-for-inserting-album-images/"><u>Revamp Your iTunes Collection with These Proven Techniques for Inserting Album Images!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-lost-conversations-a-step-by-step-guide-to-recovering-deleted-messages-in-itunes/"><u>Reviving Lost Conversations: A Step-by-Step Guide to Recovering Deleted Messages in iTunes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-windows-11s-best-mp3-recorders-ranking-the-top-6-for-flawless-file-conversion/"><u>Ultimate Guide to Windows 11'S Best MP3 Recorders: Ranking the Top 6 for Flawless File Conversion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-step-by-step-tutorial-restoring-your-itunes-collection-like-a-pro/"><u>Ultimate Step-by-Step Tutorial: Restoring Your iTunes Collection Like a Pro</u></a></li>
 </ul></div>
 

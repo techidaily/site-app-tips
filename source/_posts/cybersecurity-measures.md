@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity Measures
-date: 2025-01-05T20:05:44.527Z
-updated: 2025-01-09T18:25:24.655Z
+date: 2025-01-11T19:03:30.276Z
+updated: 2025-01-15T23:17:10.396Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,16 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-full-analysis-of-t5-eyes-exceptional-action-recording/"><u>[Updated] Full Analysis of T5 Eye's Exceptional Action Recording</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-precision-in-every-frame-top-9-tips-for-vr-filmmaking/"><u>[Updated] Precision in Every Frame Top 9 Tips for VR Filmmaking</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-customize-and-captivate-thumbnail-magic-for-shorts/"><u>2024 Approved Customize & Captivate Thumbnail Magic for Shorts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016310671-fix-the-silent-problem-in-jabra-g435-wireless-earbuds-comprehensive-fixes-here/"><u>Fix the Silent Problem in Jabra G435 Wireless Earbuds – Comprehensive Fixes Here!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-does-open-source-shape-ethical-ai-development-exploring-perspectives-on-zdnet/"><u>How Does Open Source Shape Ethical AI Development? Exploring Perspectives on ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/kubernetes-enhanced-with-codenotarys-new-software-bill-of-materials-service-the-latest-update-featured-by-zdnet/"><u>Kubernetes Enhanced with Codenotary’s New Software Bill of Materials Service - The Latest Update Featured by ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-file-explorer-strategies-for-windows-11/"><u>Reviving File Explorer: Strategies for Windows 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-changing-landscape-for-software-engineers-perspectives-by-atlassians-agnes-ro-on-zdnet/"><u>The Changing Landscape for Software Engineers: Perspectives by Atlassian's Agnes Ro on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-roadmap-for-integrating-artificial-intelligence-in-businesses-intels-forecast-featuring-zdnet-report/"><u>The Roadmap for Integrating Artificial Intelligence in Businesses: Intel's Forecast [Featuring ZDNet Report]</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-14-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 14 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-ultimate-list-low-cost-high-definition-cameras/"><u>[New] In 2024, Ultimate List Low-Cost, High Definition Cameras</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-google-ar-decorations-and-their-competing-products/"><u>[Updated] 2024 Approved Google AR Decorations & Their Competing Products</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-pro-3-the-latest-in-action-cameras-from-ion/"><u>[Updated] Exploring the Pro 3 - The Latest in Action Cameras From ION</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying/"><u>2024 Approved Pay Attention Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-financial-rewards-top-priorities-for-open-source-professionals-seeking-new-opportunities/"><u>Beyond Financial Rewards: Top Priorities for Open-Source Professionals Seeking New Opportunities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cinematic-highlights-of-2-movies-a-must-watch-list-for-hollywood-fans/"><u>Cinematic Highlights of 2# Movies : A Must-Watch List for Hollywood Fans</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-troubleshooting-steps-for-persistent-firefox-freezes/"><u>Comprehensive Troubleshooting Steps for Persistent Firefox Freezes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pop-7-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pop 7 Pro Bootloader Easily</u></a></li>
+<li><a href="https://app-tips.techidaily.com/new-microsoft-software-refresh-risks-boosting-office-stress-levels-says-zdnet-analysis/"><u>New Microsoft Software Refresh Risks Boosting Office Stress Levels, Says ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-professionals-drained-yet-hopeful-positive-trends-from-zdnet-analysis/"><u>Tech Professionals Drained Yet Hopeful: Positive Trends From ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-purpose-of-an-artificial-earth-plane-in-antenna-systems-can-be-similar-to-that-of-natural-ground-when-it-comes-to-reflecting-radio-waves-and-improving-s78/"><u>The Purpose of an Artificial Earth Plane in Antenna Systems Can Be Similar to that of Natural Ground when It Comes to Reflecting Radio Waves and Improving Signal Quality.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-professional-screen-recorders-for-2nite-expert-analysis-from-zdnet/"><u>The Ultimate List of Professional Screen Recorders for 2Nite: Expert Analysis From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-windows-essential-tips-for-upgrading-to-a-pro-edition-with-zdnets-expert-advice/"><u>Unlocking the Power of Windows: Essential Tips for Upgrading to a Pro Edition with ZDNet's Expert Advice</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-zero-to-hero-top-online-animation-makers-for-beginners/"><u>Updated From Zero to Hero Top Online Animation Makers for Beginners</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsofts-window-of-opportunity-shrinks-as-they-race-against-time-on-windows-11-tech-analysis/"><u>Urgent Challenge: Microsoft's Window of Opportunity Shrinks as They Race Against Time on Windows 11 | Tech Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/what-drives-open-source-talent-unveiling-the-essential-non-monetary-wants-in-their-job-quest-zdnet/"><u>What Drives Open-Source Talent? Unveiling the Essential Non-Monetary Wants in Their Job Quest | ZDNET</u></a></li>
 </ul></div>
 

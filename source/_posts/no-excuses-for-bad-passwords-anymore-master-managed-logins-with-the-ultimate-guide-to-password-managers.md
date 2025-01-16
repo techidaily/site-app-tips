@@ -1,7 +1,7 @@
 ---
 title: No Excuses for Bad Passwords Anymore - Master Managed Logins with the Ultimate Guide to Password Managers
-date: 2025-01-06T16:51:21.194Z
-updated: 2025-01-09T18:32:18.383Z
+date: 2025-01-10T22:26:28.886Z
+updated: 2025-01-15T22:51:00.709Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Tell me, what is the password for your bank account? If you can rattle off that password without thinking, chances are pretty good it's not nearly strong enough. Any password you can memorize (unless you have an amazing memory) is probably weak. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -38,7 +38,7 @@ Of course, at this point, you're thinking, "I don't want to have to memorize a b
 Let's step back a bit.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does this even work?
@@ -113,15 +113,22 @@ You've been warned.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-a-deep-dive-into-luts-for-image-enhancement/"><u>[Updated] 2024 Approved A Deep Dive Into LUTs for Image Enhancement</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-pinpoint-premium-video-keywords-on-youtube/"><u>[Updated] In 2024, How to Pinpoint Premium Video Keywords on YouTube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-art-of-captivating-valorant-video-thumbnails-on-youtube/"><u>[Updated] In 2024, The Art of Captivating Valorant Video Thumbnails on YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-activation-key-unlock-full-version-of-winx-dvd-ripper-official-download-guide/"><u>Free Activation Key: Unlock Full Version of WinX DVD Ripper - Official Download Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-to-eliminating-the-icloud-security-code-without-using-your-apple-id/"><u>Guide to Eliminating the iCloud Security Code Without Using Your Apple ID</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620263951-locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-ios-photography-tips-on-managing-camera-roll-photo-library-and-pictures/"><u>Navigating iOS Photography: Tips on Managing Camera Roll, Photo Library, and Pictures</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-removing-your-pics-photos-and-images-from-icloud-securely/"><u>Step-by-Step Guide: Removing Your Pics, Photos & Images From iCloud Securely</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-phone-stores-where-to-find-the-perfect-mobile-device/"><u>Top Phone Stores: Where to Find the Perfect Mobile Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-fix-for-mir4-stalling-performance-on-your-computer-best-practices/"><u>Ultimate Fix for MIR4 Stalling Performance on Your Computer: Best Practices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-aural-ascendancy-mastering-sound-integration-on-reels/"><u>[New] In 2024, Aural Ascendancy Mastering Sound Integration on Reels</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-secrets-of-professional-level-iptv-capturing/"><u>[New] In 2024, Secrets of Professional-Level IPTV Capturing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-6-straightforward-abodes-blueprints-in-mc-world/"><u>[New] Top 6 Straightforward Abodes Blueprints in MC World</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-m1-pro-and-m1-max-a-comparative-insight-into-apples-latest-chips/"><u>[Updated] In 2024, M1 Pro and M1 Max - A Comparative Insight Into Apple's Latest Chips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-speed-watchers-24-hrs-youtube-chart-leaders/"><u>[Updated] Speed Watchers 24-Hrs YouTube Chart Leaders</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-and-installing-rtx-2070-super-graphics-card-drivers-on-your-pc-with-windows-1011/"><u>Getting & Installing RTX 2070 Super Graphics Card Drivers on Your PC with Windows 10/11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-remove-icloud-backup-data-from-your-iphone-pc-or-mac-save-storage/"><u>How to Remove iCloud Backup Data From Your iPhone, PC, or Mac: Save Storage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-icloud-security-efficiently-disconnect-across-devices-with-our-3-step-process/"><u>Mastering iCloud Security: Efficiently Disconnect Across Devices with Our 3 Step Process</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-persistent-sound-dropouts-on-windows-11-systems-effectively/"><u>Resolving Persistent Sound Dropouts on Windows 11 Systems Effectively</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revive-your-whatsapp-chats-with-icloud-backup-step-by-step-guide/"><u>Revive Your WhatsApp Chats with iCloud Backup: Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-managing-and-exporting-icloud-keychain-credentials-on-a-mac-computer/"><u>Step-by-Step Tutorial: Managing and Exporting iCloud Keychain Credentials on a Mac Computer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-samsung-gear-s3-frontier-reviewing-a-hefty-collection-of-smartwatch-capabilities/"><u>The Ultimate Guide to Samsung Gear S^3 Frontier: Reviewing a Hefty Collection of Smartwatch Capabilities</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-of-icloud-keychain-functionality-and-retrieving-your-data-on-iphone/"><u>The Ultimate Walkthrough of iCloud Keychain Functionality & Retrieving Your Data on iPhone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-the-ultimate-guide/"><u>Tom's Tech Hub: The Ultimate Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-4-methods-for-effortlessly-transferring-your-iphone-photos-to-icloud-a-complete-guide/"><u>Top 4 Methods for Effortlessly Transferring Your iPhone Photos to iCloud: A Complete Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-step-by-step-guide-how-to-effortlessly-backup-and-sync-your-iphone-with-icloud/"><u>Ultimate Step-by-Step Guide: How to Effortlessly Backup and Sync Your iPhone with iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-icloud-keychain-a-complete-guide-to-unlocking-your-iphones-secure-storage/"><u>Understanding iCloud Keychain: A Complete Guide to Unlocking Your iPhone's Secure Storage</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Rocky Linux Receives Major Backing with CIQ as Principal Supporter - Insights From the Tech Community
-date: 2025-01-04T16:40:10.305Z
-updated: 2025-01-10T05:32:22.416Z
+date: 2025-01-14T17:49:50.448Z
+updated: 2025-01-15T21:56:23.842Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -176,21 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-dissecting-the-livestream-battlefield-twitch-vs-youtube/"><u>[New] 2024 Approved Dissecting the Livestream Battlefield Twitch vs YouTube</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-film-techniques-flawless-virtual-backdrops-integration/"><u>[Updated] 2024 Approved Instagram Film Techniques Flawless Virtual Backdrops Integration</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-drive-engagement-crafting-an-animated-subscribe-button-in-filmoras-step-by-step-guide-for-2024/"><u>[Updated] Drive Engagement Crafting an Animated Subscribe Button in Filmora's Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-fun-at-no-cost-top-quality-gratuitous-meme-templates/"><u>[Updated] In 2024, Fun at No Cost Top Quality, Gratuitous Meme Templates</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-prime-gpus-for-sharp-4k-image-display/"><u>[Updated] In 2024, Prime GPUs for Sharp 4K Image Display</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-privacy-purposed-selecting-best-insta-watchers/"><u>[Updated] In 2024, Privacy-Purposed Selecting Best Insta Watchers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/amplifying-the-role-of-it-professionals-in-shaping-customer-satisfaction-expert-analysis-by-zdnet/"><u>Amplifying the Role of IT Professionals in Shaping Customer Satisfaction | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-cutting-edge-enhancements-in-microsofts-latest-windows-11-upgrade-on-zdnet/"><u>Discover the Cutting-Edge Enhancements in Microsoft's Latest Windows 11 Upgrade on ZDNet</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-faulty-drivers-may-affect-your-graphics-card-performance-insights-from-yl-computing/"><u>How Faulty Drivers May Affect Your Graphics Card Performance - Insights From YL Computing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-enhancing-clarity-for-tiny-treasures-in-minecraft/"><u>In 2024, Enhancing Clarity for Tiny Treasures in Minecraft</u></a></li>
-<li><a href="https://techtrends.techidaily.com/innovative-ways-to-keep-track-of-tasks-using-slack-reminders/"><u>Innovative Ways to Keep Track of Tasks Using Slack Reminders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-cloud-service-giants-an-in-depth-look-at-aws-microsoft-azure-and-google-clouds-hybrid-saas-offerings-zdnet-analysis/"><u>Leading Cloud Service Giants: An In-Depth Look at AWS, Microsoft Azure, and Google Cloud's Hybrid, SaaS Offerings - ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-windows-11-vms-expert-tips-for-optimal-configuration-wisdom-directly-from-zdnets-pros/"><u>Mastering Windows 11 VMs: Expert Tips for Optimal Configuration - Wisdom Directly From ZDNet's Pros</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-obstacles-in-ai-precision-and-reliability-for-todays-developers-expert-analysis-at-zdnet/"><u>Overcoming Obstacles in AI Precision & Reliability for Today's Developers | Expert Analysis at ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-industry-handbook-zdnet-insights/"><u>Revolutionizing UX with XR, Digital Twins & Spatial Tech: A Comprehensive Industry Handbook | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-linux-65-revolutionary-updates-and-improvements-detailed-digital-trends/"><u>Unveiling Linux 6.5: Revolutionary Updates and Improvements Detailed | Digital Trends</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quick-steps-to-document-your-youtube-creations/"><u>[New] 2024 Approved Quick Steps to Document Your YouTube Creations</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-effective-youtube-banners-pros-and-cons-to-avoid/"><u>[New] In 2024, Effective YouTube Banners Pros and Cons to Avoid</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-simplify-storytelling-transform-vimeo-into-captivating-gifs-for-2024/"><u>[New] Simplify Storytelling Transform Vimeo Into Captivating GIFs for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-stream-a-pre-recorded-video-live-on-facebook-for-2024/"><u>[Updated] How to Stream A Pre-Recorded Video Live on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-get-the-facts-about-youtube-keyword-research/"><u>2024 Approved Get the Facts About YouTube Keyword Research</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beamforming-techniques-enable-antenna-arrays-to-direct-energy-towards-specific-users-or-locations-enhancing-signal-strength-and-reducing-interference-in-tho83/"><u>Beamforming Techniques Enable Antenna Arrays to Direct Energy Towards Specific Users or Locations, Enhancing Signal Strength and Reducing Interference in Those Areas.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-leading-mac-applications-of-202amoeba-the-intriguing-life-cycle-of-paramecia-by-dr-emily-waters/"><u>Discover the Leading Mac Applications of 202Amoeba: The Intriguing Life Cycle of Paramecia by Dr. Emily Waters</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-enhanced-ai-workload-management-in-recent-kubernetes-update-key-features-unveiled/"><u>Exploring Enhanced AI Workload Management in Recent Kubernetes Update: Key Features Unveiled</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209846466-9780648002383-lucky-astrology-aquarius/"><u>Lucky Astrology - Aquarius | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-mastering-the-art-of-freezing-rows-and-columns-in-microsoft-excel/"><u>Step-by-Step Guide: Mastering the Art of Freezing Rows & Columns in Microsoft Excel</u></a></li>
 </ul></div>
 

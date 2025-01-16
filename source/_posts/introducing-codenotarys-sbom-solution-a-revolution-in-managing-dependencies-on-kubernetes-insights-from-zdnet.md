@@ -1,7 +1,7 @@
 ---
 title: "Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet"
-date: 2025-01-03T06:18:04.513Z
-updated: 2025-01-10T05:04:27.808Z
+date: 2025-01-14T20:40:45.117Z
+updated: 2025-01-15T23:02:25.621Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,14 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-techniques-for-efficient-utilization-of-zooms-whiteboard-feature/"><u>[New] 2024 Approved Essential Techniques for Efficient Utilization of Zoom's Whiteboard Feature</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-top-5-ios-friendly-apps-unlocking-facebooks-richest-media-library/"><u>[New] Top 5 iOS-Friendly Apps Unlocking Facebook's Richest Media Library</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-chromatic-magic-for-your-digital-photography/"><u>[Updated] Chromatic Magic for Your Digital Photography</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-cutting-edge-channels-to-watch-in-a-post-tiktok-world/"><u>[Updated] In 2024, Cutting Edge Channels to Watch in a Post-TikTok World</u></a></li>
-<li><a href="https://app-tips.techidaily.com/finding-reliable-artificial-intelligence-watermarks-insights-from-zdnet/"><u>Finding Reliable Artificial Intelligence Watermarks: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-will-artificial-intelligence-impact-future-careers-in-cybersecurity-challenges-and-opportunities/"><u>How Will Artificial Intelligence Impact Future Careers in Cybersecurity?: Challenges & Opportunities</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-100-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor 100 FRP</u></a></li>
-<li><a href="https://app-tips.techidaily.com/singapores-push-investing-in-ai-and-green-tech-transformation-insights-from-zdnet/"><u>Singapore's Push: Investing in AI & Green Tech Transformation - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-data-as-key-ingredient-in-crafting-smart-ai-solutions-strategies-for-completing-your-technological-jigsaw/"><u>Unveiling Data as Key Ingredient in Crafting Smart AI Solutions: Strategies for Completing Your Technological Jigsaw</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-expertise-in-mobile-lut-apps/"><u>[New] In 2024, Expertise in Mobile LUT Apps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/anthem-loading-screen-stuck-heres-how-to-get-out-of-the-neverending-boot-sequence/"><u>Anthem Loading Screen Stuck? Here's How to Get Out of the Neverending Boot Sequence!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-spearheads-the-surge-in-non-cash-payments-anticipated-global-reach-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Cash Payments: Anticipated Global Reach of $1.6 Trillion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/attracting-global-tech-pioneers-the-power-of-open-source-zdnet/"><u>Attracting Global Tech Pioneers: The Power of Open Source | ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/boosting-security-becoming-a-page-admin/"><u>Boosting Security: Becoming a Page Admin</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-knowledge-chasm-in-artifice-intelligence-through-robust-data-management-tips-and-techniques/"><u>Bridging the Knowledge Chasm in Artifice Intelligence Through Robust Data Management - Tips and Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-ai-innovation-challenge-expansion-in-the-cybersecurity-workforce-exploring-perspectives-with-zdnet/"><u>Can AI Innovation Challenge Expansion in the Cybersecurity Workforce? Exploring Perspectives with ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/does-chatgpt-improve-through-interactions-with-users/"><u>Does ChatGPT Improve Through Interactions With Users?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-leaders-top-6-strategies-for-enhancing-executive-technological-proficiency-zdnet/"><u>Empowering Leaders: Top 6 Strategies for Enhancing Executive Technological Proficiency | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-manager-education-prior-to-enterprise-ai-adoption-lessons-by-zdnet/"><u>Essential Manager Education Prior to Enterprise AI Adoption - Lessons by ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-moto-g-stylus-2023-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Motorola Moto G Stylus (2023) Devices</u></a></li>
+<li><a href="https://fox-place.techidaily.com/lyrx-version-1602-karaoke-application-new-release-available-now-on-pcdj/"><u>LYRX Version 1.6.0.2 Karaoke Application - New Release Available Now on PCDJ!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-professional-success-in-an-ai-driven-world-insights-from-industry-leaders/"><u>Navigating Professional Success in an AI-Driven World: Insights From Industry Leaders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/southwest-passengers-excited-as-delta-reveals-bland-update-whats-at-stake-for-the-airlines-industry/"><u>Southwest Passengers Excited as Delta Reveals Bland Update: What's at Stake for the Airlines Industry?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-epic-tale-retold-a-review-of-spyros-rekindled-saga-packed-with-unprecedented-worth/"><u>The Epic Tale Retold: A Review of Spyro's Rekindled Saga, Packed With Unprecedented Worth</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-advantages-chatgpt-ios-vs-web-apps/"><u>Top 6 Advantages: ChatGPT iOS Vs. Web Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/user-friendly-guide-choosing-the-best-battery-google-wireless-nest-doorbell-model/"><u>User-Friendly Guide: Choosing the Best Battery Google Wireless Nest Doorbell Model</u></a></li>
 </ul></div>
 

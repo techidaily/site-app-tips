@@ -1,7 +1,7 @@
 ---
 title: "Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks"
-date: 2025-01-07T23:23:12.787Z
-updated: 2025-01-09T20:24:33.401Z
+date: 2025-01-14T01:24:04.161Z
+updated: 2025-01-16T00:43:44.118Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -114,7 +114,7 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -141,7 +141,7 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -189,19 +189,18 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-discover-top-30-steadicam-choices-for-superior-dslr-footage-for-2024/"><u>[New] Discover Top 30 Steadicam Choices for Superior DSLR Footage for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/4-essential-strategies-to-retrieve-and-rebuild-ios-apps-using-apples-icloud-services/"><u>4 Essential Strategies to Retrieve and Rebuild iOS Apps Using Apple's iCloud Services</u></a></li>
-<li><a href="https://app-tips.techidaily.com/android-performance-booster-fast-track-your-phone-with-efficient-task-killing/"><u>Android Performance Booster: Fast Track Your Phone with Efficient Task Killing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-intensified-push-in-ai-technology-discover-the-impressive-features-of-new-machine-learning-models-zdnet/"><u>Apple's Intensified Push in AI Technology: Discover the Impressive Features of New Machine Learning Models | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-and-premium-high-speed-camera-applications-for-both-iphone-and-android-users/"><u>Best Free and Premium High-Speed Camera Applications for Both iPhone and Android Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-fortnite-status-through-playstation-5/"><u>Elevating Fortnite Status Through PlayStation 5</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/enhancing-iphone-x-usability-fixing-face-id-issues/"><u>Enhancing iPhone X Usability Fixing Face ID Issues</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Max Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/learning-excel-from-scratch-top-6-skills-you-need-to-get-started/"><u>Learning Excel From Scratch? Top 6 Skills You Need to Get Started!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-your-pcs-failure-to-boot-successfully/"><u>Step-by-Step Guide: Correcting Your PC’s Failure to Boot Successfully</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-4-innovative-loop-video-creators-best-apps-for-android-and-ios/"><u>Top 4 Innovative Loop Video Creators: Best Apps for Android and iOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-proven-methods-to-seamlessly-transform-epub-into-text-files-a-comprehensive-guide/"><u>Top 7 Proven Methods to Seamlessly Transform ePub Into Text Files: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-audio-troubles-in-halo-infinity-step-by-step/"><u>Ultimate Fixes for Audio Troubles in Halo Infinity - Step by Step</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-list-of-versatile-swf-players-for-all-your-windows-macos-android-and-ios-systems/"><u>Ultimate List of Versatile SWF Players for All Your Windows, MacOS, Android and iOS Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-elite-speedy-window-image-reader-tool/"><u>[Updated] Elite Speedy Window Image Reader Tool</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevate-your-edm-game-with-free-state-of-the-art-beat-detectors/"><u>2024 Approved Elevate Your EDM Game with FREE, State-of-the-Art Beat Detectors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-5-sd-card-apps-for-optimal-file-management-on-your-android-device/"><u>Best 5 SD Card Apps for Optimal File Management on Your Android Device</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-bang-for-your-buck-in-depth-review-of-the-tcl-50s425-50-uhd-roku-smart-tv-2019/"><u>Best Bang for Your Buck: In-Depth Review of the TCL 50S425 50 UHD Roku Smart TV (2019)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-walkthrough-for-recovering-purchased-applications-and-unlocking-in-game-purchases-in-android-systems/"><u>Complete Walkthrough for Recovering Purchased Applications & Unlocking In-Game Purchases in Android Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-productivity-connect-two-displays-to-your-m3-macbook-pro-similar-features-to-m3-macbook-air-showcased/"><u>Enhance Your Productivity: Connect Two Displays to Your M3 MacBook Pro - Similar Features to M3 MacBook Air Showcased</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-excellent-gps-software-for-android-devices-a-comprehensive-guide/"><u>Free Excellent GPS Software for Android Devices - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-paper-to-cloud-preserving-old-family-photographs-for-2024/"><u>From Paper to Cloud Preserving Old Family Photographs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-microsofts-innovations-into-win11/"><u>Integrating Microsoft's Innovations Into Win11</u></a></li>
+<li><a href="https://techidaily.com/optimized-with-cookiebot-technology-enhance-your-websites-performance/"><u>Optimized with Cookiebot Technology: Enhance Your Website's Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-your-problems-with-non-launching-of-call-of-duty-modern-warfare-ii/"><u>Solving Your Problems with Non-Launching of Call of Duty: Modern Warfare II</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-video-editing-tool-master-color-grading-with-ioss-top-application/"><u>Top Rated Video Editing Tool: Master Color Grading with iOS's Top Application</u></a></li>
 </ul></div>
 

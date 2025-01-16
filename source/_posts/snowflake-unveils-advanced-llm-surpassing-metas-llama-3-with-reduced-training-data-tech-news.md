@@ -1,7 +1,7 @@
 ---
 title: Snowflake Unveils Advanced LLM Surpassing Meta's LLaMA 3 with Reduced Training Data | Tech News
-date: 2025-01-04T01:55:29.330Z
-updated: 2025-01-10T05:22:01.723Z
+date: 2025-01-09T01:01:52.398Z
+updated: 2025-01-15T21:23:38.065Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-enjoy-high-quality-pc-audio-recording-install-x-recorder/"><u>[New] 2024 Approved Enjoy High-Quality PC Audio Recording - Install X-Recorder</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-insider-tips-maximizing-youtube-edits-with-finalcut-pro/"><u>[New] 2024 Approved Insider Tips Maximizing YouTube Edits with FinalCut Pro</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/erfect-timing-for-on-screen-dialogue-in-your-youtube-productions-for-2024/"><u>[New] Perfect Timing for On-Screen Dialogue in Your YouTube Productions for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/achieving-synergy-how-tech-and-business-are-finally-joining-forces-today-zdnet/"><u>Achieving Synergy: How Tech & Business Are Finally Joining Forces Today | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-to-asus-main-board-drivers-download-and-install-procedure-for-window-users/"><u>Complete Guide to ASUS Main Board Drivers: Download & Install Procedure for Window Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-progressive-upgrades-during-artificial-intelligence-revolution-its-pledge-as-featured-on-zdnet/"><u>Embracing Progressive Upgrades During Artificial Intelligence Revolution: IT's Pledge as Featured on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-guide-converting-and-editing-pdf-files-using-google-docs/"><u>Free Guide: Converting and Editing PDF Files Using Google Docs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-best-gaming-experience-with-updated-nvidia-rtx-3070-graphics-card-drivers-on-windows-operating-systems/"><u>Get the Best Gaming Experience with Updated NVIDIA RTX 3070 Graphics Card Drivers on Windows Operating Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y28-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y28 5G Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-scsi-software-integration-for-you/"><u>Instant SCSI Software Integration for You</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-edge-in-hyperconvergence-the-elite-vendors-featured-on-zdnet/"><u>Leading Edge in Hyperconvergence: The Elite Vendors , Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-hybrid-cloud-challenges-with-the-latest-enhancements-of-red-hats-enterprise-linux-distribution/"><u>Mastering Hybrid Cloud Challenges with the Latest Enhancements of Red Hat's Enterprise Linux Distribution</u></a></li>
-<li><a href="https://app-tips.techidaily.com/side-lobes-and-back-lobes/"><u>Side Lobes and Back Lobes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolving-job-landscape-with-ai-how-technology-replaces-and-creates-opportunities-in-training-and-ethics-insights-for-tomorrows-workforce-zdnet/"><u>The Evolving Job Landscape with AI: How Technology Replaces and Creates Opportunities in Training & Ethics | Insights for Tomorrow's Workforce | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-and-tricks-to-enhance-gaming-performance-on-windows-11/"><u>Ultimate Tips & Tricks to Enhance Gaming Performance on Windows 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-new-release-of-robust-enduring-linux-kernel-for-extended-lifetime-support/"><u>ZDNet Exclusive: New Release of Robust, Enduring Linux Kernel for Extended Lifetime Support</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-fbstream-viewer-extractor-for-2024/"><u>[New] FbStream Viewer Extractor for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hake-the-sound-mobile-beats-best-ripplers/"><u>[New] Shake the Sound Mobile Beats' Best Ripplers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-insta-stardom-15-effortless-steps-towards-rapid-and-sustained-fame-for-2024/"><u>[Updated] Unlocking Insta Stardom 15 Effortless Steps Towards Rapid and Sustained Fame for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-solutions-to-find-your-apple-iphone-15-plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>3 Solutions to Find Your Apple iPhone 15 Plus Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-take-on-iphone-15-a-must-have-upgrade-for-tech-professionals-and-beyond-insights/"><u>Expert Take on iPhone 15: A Must-Have Upgrade for Tech Professionals and Beyond - Insights</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/exploring-options-for-mp3-download-cat-noises-and-more/"><u>Exploring Options for MP3 Download Cat Noises and More</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-anonymity-the-key-to-empowering-todays-remote-teams-zdnet/"><u>Harnessing Anonymity: The Key to Empowering Today’s Remote Teams | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-low-code-solutions-can-boost-your-companys-appeal-insights-from-zdnet/"><u>How Low-Code Solutions Can Boost Your Company's Appeal: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-streamline-your-linuxopen-source-knowledge-base-for-clarity-and-efficiency-expert-insights-and-solutions/"><u>How to Streamline Your Linux/Open-Source Knowledge Base for Clarity & Efficiency: Expert Insights and Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/intro-to-coursera-levelsets-competency-evaluations-the-latest-update-explained-by-zdnet/"><u>Intro to Coursera LevelSets Competency Evaluations - The Latest Update Explained by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/missing-in-action-the-elusive-free-windows-10-enhancement-program/"><u>Missing in Action: The Elusive Free Windows 10 Enhancement Program</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-modifying-your-windows-11-keyboard-layout/"><u>Securely Modifying Your Windows 11 Keyboard Layout</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-to-elevate-your-system-from-windows-home-to-professional-the-ultimate-benefits-explained/"><u>Step-by-Step Guide to Elevate Your System From Windows Home to Professional – The Ultimate Benefits Explained</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-10-sketch-tools-ideal-for-chromebook-users-for-2024/"><u>Top 10 Sketch Tools Ideal for Chromebook Users for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-11-must-have-applications-and-services-for-windowsmac-users-insights-from-zdnet/"><u>Top 11 Must-Have Applications & Services for Windows/Mac Users - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transparency-in-tech-swiss-fed-government-goes-full-open-source-for-software-development/"><u>Transparency in Tech: Swiss Fed Government Goes Full Open Source for Software Development</u></a></li>
 </ul></div>
 

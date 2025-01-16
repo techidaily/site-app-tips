@@ -1,7 +1,7 @@
 ---
 title: Gartner Reveals Half of Generative AI Initiatives End in Failure - Insights From ZDNet
-date: 2025-01-03T23:21:56.743Z
-updated: 2025-01-09T21:59:30.913Z
+date: 2025-01-12T16:46:20.446Z
+updated: 2025-01-16T01:24:55.930Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-tips-for-incorporating-songs-into-social-media-video-content/"><u>[Updated] Tips for Incorporating Songs Into Social Media Video Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/end-of-an-era-what-to-do-with-your-windows-10-computer-explore-5-alternatives/"><u>End of an Era: What to Do with Your Windows 10 Computer - Explore 5 Alternatives</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fix-facebook-snap-glitches-stories-upload-woes/"><u>In 2024, Fix Facebook Snap Glitches Stories Upload Woes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-save-instastories-infinite-the-liberation-app/"><u>In 2024, Save InstaStories Infinite The Liberation App</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-cloud-platforms-reviewed-comparing-aws-microsoft-azure-and-google-cloud-exploring-hybrid-saas-options-on-zdnet/"><u>Leading Cloud Platforms Reviewed: Comparing AWS, Microsoft Azure, & Google Cloud – Exploring Hybrid, SaaS Options on ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-made-easy-discover-the-power-of-manycam-as-your-go-to-virtual-camera-solution/"><u>Live Streaming Made Easy: Discover the Power of ManyCam as Your Go-To Virtual Camera Solution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedies-to-resolve-screen-size-settings-issues-on-pcs/"><u>Remedies to Resolve Screen Size Settings Issues on PCs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-3b-five-facts-about-antenna-radiation-patterns/"><u>Section 3B: Five Facts About Antenna Radiation Patterns</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-getting-rid-of-deceptive-windows-security-warnings/"><u>Step-by-Step Guide: Getting Rid of Deceptive Windows Security Warnings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tidying-up-linux-and-open-source-manuals-discover-the-ultimate-fix/"><u>Tidying Up Linux & Open Source Manuals: Discover the Ultimate Fix!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-recommended-web-hosts-of-2024-comprehensive-expert-analysis-and-rankings-techradar/"><u>Top Recommended Web Hosts of 2024: Comprehensive Expert Analysis & Rankings - TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-alert-microsoft-faces-critical-challenge-with-windows-10-only-a-year-leftzdnet/"><u>Urgent Alert: Microsoft Faces Critical Challenge with Windows 10 - Only a Year Left![ZDNet]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-crisis-looms-for-microsoft-only-a-year-remaining-to-address-major-issues-insights-from-zdnet/"><u>Windows 11 Crisis Looms for Microsoft - Only a Year Remaining to Address Major Issues | Insights From ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211107664-9780762482887-women-of-tarot/"><u>Women of Tarot | Free Book</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-post-tweets-on-facebook/"><u>[New] 2024 Approved How to Post Tweets on Facebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-softening-sonic-surge-gradual-volume-reduction-tutorial-for-2024/"><u>[Updated] Softening Sonic Surge Gradual Volume Reduction Tutorial for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-solutions-to-cut-down-discords-hefty-cpu-usage-in-todays-tech-landscape/"><u>Comprehensive Solutions to Cut Down Discord's Hefty CPU Usage in Today’s Tech Landscape</u></a></li>
+<li><a href="https://app-tips.techidaily.com/edit-pdf-documents-at-no-cost-with-google-docs-a-step-by-step-tutorial/"><u>Edit PDF Documents at No Cost with Google Docs: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-leading-screen-recording-solutions-review-by-techradar/"><u>Exploring the Leading Screen Recording Solutions : Review by TechRadar</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-6-plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How to Change Your Apple iPhone 6 Plus Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-epson-perfection-v500-with-new-drivers-grab-them-here/"><u>How to Update Epson Perfection V500 with New Drivers – Grab Them Here!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-integration-how-to-access-and-utilize-gpt-4-with-chatgpt/"><u>Immediate Integration: How to Access and Utilize GPT-4 with ChatGPT</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/e-mastery-establishing-your-brands-youtube-outlet-for-2024/"><u>Mobile Mastery Establishing Your Brand's YouTube Outlet for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-gray-areas-of-ai-development-why-transparency-matters-more-than-ever/"><u>Navigating the Gray Areas of AI Development: Why Transparency Matters More Than Ever</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-trend-of-low-code-and-no-code-development-its-impact-on-changing-tech-roles-discovered-with-zdnet/"><u>Rising Trend of Low-Code & No-Code Development: Its Impact on Changing Tech Roles - Discovered with ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-frozen-conflict-resolve-cold-war-games-persistent-loading-glitches/"><u>Solving the Frozen Conflict: Resolve Cold War Game's Persistent Loading Glitches</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-transformation-of-business-tech-tools-amidst-rising-ai-dominance-zdnet/"><u>The Future Transformation of Business Tech Tools Amidst Rising AI Dominance | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-silent-launch-of-microsofts-new-tool-triggers-global-uproar-tech-news-insight/"><u>The Silent Launch of Microsoft's New Tool Triggers Global Uproar | Tech News Insight</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/1716379431862-why-does-instagram-keep-flipping-my-video/"><u>Why Does Instagram Keep Flipping My Video</u></a></li>
 </ul></div>
 

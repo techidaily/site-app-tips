@@ -1,7 +1,7 @@
 ---
 title: Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report
-date: 2025-01-07T20:57:49.931Z
-updated: 2025-01-09T21:38:45.688Z
+date: 2025-01-08T19:11:58.463Z
+updated: 2025-01-15T16:55:14.379Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,22 +81,19 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/aximizing-engagement-avoiding-common-youtube-thumbnail-errors-for-2024/"><u>[New] Maximizing Engagement Avoiding Common YouTube Thumbnail Errors for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-essentials-of-creating-a-personalized-twitter-account/"><u>[New] The Essentials of Creating a Personalized Twitter Account</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-no-cost-video-conferencing-apps-cross-system-friendly/"><u>[Updated] 2024 Approved Best No-Cost Video Conferencing Apps Cross-System Friendly</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-elite-virtual-storage-service-ranking/"><u>[Updated] 2024 Approved Elite Virtual Storage Service Ranking</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-dynamic-scripting-for-videos/"><u>2024 Approved Dynamic Scripting for Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-repair-tips-for-when-your-surface-pro-loses-its-wi-fi-signal/"><u>DIY Repair Tips for When Your Surface Pro Loses Its Wi-Fi Signal</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dont-compromise-on-security-upgrade-your-password-for-safe-streaming-experience-cybersafetynews/"><u>Don't Compromise on Security: Upgrade Your Password for Safe Streaming Experience | CyberSafetyNews</u></a></li>
-<li><a href="https://app-tips.techidaily.com/forgetting-passwords-fuels-growing-demand-for-biometric-security-solutions/"><u>Forgetting Passwords Fuels Growing Demand for Biometric Security Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guarding-againnst-stealthy-cryptocurrency-miners-safe-torrenting-tips-for-spider-man-no-way-home-with-advice-by-zdnet-experts/"><u>Guarding Againnst Stealthy Cryptocurrency Miners: Safe Torrenting Tips for 'Spider-Man: No Way Home' With Advice by ZDNet Experts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-nokia-c300-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Nokia C300 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/infinite-visual-vaults-blend-zero-cost-sky-spaces-with-premium-packages/"><u>Infinite Visual Vaults Blend Zero-Cost Sky Spaces With Premium Packages</u></a></li>
-<li><a href="https://app-tips.techidaily.com/instagram-examining-the-questions-of-trust-and-authenticity/"><u>Instagram: Examining the Questions of Trust and Authenticity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/proofpoint-reveals-how-cybercriminals-exploit-fans-desire-for-justin-bieber-and-the-weeknd-events-to-propagate-malware/"><u>Proofpoint Reveals How Cybercriminals Exploit Fans' Desire for Justin Bieber & The Weeknd Events to Propagate Malware</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-devices-with-ease-apples-new-passkey-revealed-at-wwdc-zdnet-insights/"><u>Secure Your Devices with Ease: Apple's New Passkey Revealed at WWDC | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-biometrics-as-users-struggle-with-password-fatigue-insights-from-zdnet-analysis/"><u>The Rise of Biometrics as Users Struggle with Password Fatigue: Insights From ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-password-management-secrets-with-dashlane-costs-capabilities-and-starting-guide-techinsight/"><u>Unlocking Password Management Secrets with Dashlane: Costs, Capabilities & Starting Guide | TechInsight</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mastering-the-art-of-professional-gopro-cinematography/"><u>[New] 2024 Approved Mastering the Art of Professional Gopro Cinematography</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-a-nostalgic-journey-through-time-with-stop-motion-classics/"><u>[New] In 2024, A Nostalgic Journey Through Time with Stop-Motion Classics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solution-found-black-ops-cold-war-launch-xbox-trouble/"><u>[SOLUTION FOUND] Black Ops Cold War Launch - Xbox Trouble</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-game-of-thrones-ringtones-premier-download-websites-ranked/"><u>[Updated] Game of Thrones Ringtones Premier Download Websites Ranked</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-making-memories-sing-visual-plus-auditory-blend/"><u>[Updated] In 2024, Making Memories Sing Visual + Auditory Blend</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-save-big-on-data-stash-with-these-30-no-cost-up-to-1tbplus-cloud-services/"><u>[Updated] Save Big on Data Stash with These 30 No-Cost, Up to 1TB+ Cloud Services</u></a></li>
+<li><a href="https://win-hot.techidaily.com/getting-value-from-past-windows-1-releases-tips-and-tricks/"><u>Getting Value From Past Windows 1# Releases: Tips & Tricks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/massive-data-compromise-at-oregon-medical-practice-750k-patients-impacted-details-revealed-by-digi-journal/"><u>Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-security-how-dashlane-enables-logins-without-a-main-password-according-to-zdnet/"><u>Revolutionizing Digital Security: How Dashlane Enables Logins Without a Main Password, According to ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/saving-game-moments-top-5-techniques-on-win10/"><u>Saving Game Moments Top 5 Techniques on Win10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/security-alert-kaspersky-password-manager-revealed-by-zdnet-for-creating-weak-brute-force-susceptible-passwords/"><u>Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords</u></a></li>
+<li><a href="https://app-tips.techidaily.com/superior-plus-top-billion-dollar-natural-gas-provider-targeted-by-cyber-attack-insights-from-zdnet/"><u>Superior Plus, Top Billion-Dollar Natural Gas Provider, Targeted by Cyber Attack: Insights From ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformation-mp4-vers-mov-en-ligne-sans-frais-guide-complet/"><u>Transformation MP4 Vers MOV en Ligne Sans Frais - Guide Complet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-stronger-passwords-are-essential-protect-your-streaming-service-account-now-techadvice/"><u>Why Stronger Passwords Are Essential: Protect Your Streaming Service Account Now | TechAdvice</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Safeguarding Your Password Vault - Insights From ZDNet
-date: 2025-01-02T21:46:27.741Z
-updated: 2025-01-10T04:25:48.261Z
+date: 2025-01-09T23:01:40.189Z
+updated: 2025-01-15T16:26:07.953Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ Creating and remembering a unique and complex password for each of your accounts
 A good password manager will create, store, and apply strong and complex passwords across the board, thereby securing your accounts. I've used a password manager for years and wouldn't be able to juggle all my online accounts without it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -46,7 +46,7 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -66,7 +66,7 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -90,7 +90,7 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -139,19 +139,20 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-instaphoto-tips-for-seamless-sharing/"><u>2024 Approved InstaPhoto Tips for Seamless Sharing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/anonymous-story-consumption-navigating-through-instagram-stories-on-desktopmobile-free/"><u>Anonymous Story Consumption Navigating Through Instagram Stories on Desktop/Mobile [Free]</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-infinix-hot-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Hot 30 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-ways-to-master-boomerang-feature-across-ios-android-and-web-platforms/"><u>Effortless Ways to Master Boomerang Feature Across iOS, Android & Web Platforms</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-easily-disable-flipbuilders-web-design-toolbar-a-step-by-step-guide/"><u>How to Easily Disable FlipBuilder's Web Design Toolbar: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-galaxy-xcover-7-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Galaxy XCover 7</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-deciphering-instagram-stories-what-youre-not-seeing-as-a-viewer/"><u>In 2024, Deciphering Instagram Stories What You're Not Seeing as a Viewer</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-slowly-fading-the-beat-a-pro-guide-for-audio-easing/"><u>In 2024, Slowly Fading the Beat A Pro Guide for Audio Easing</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-role-of-analytics-in-youtube-shorts-management/"><u>In 2024, The Role of Analytics in YouTube Shorts Management</u></a></li>
-<li><a href="https://windows11.techidaily.com/speedy-excel-operations-restored-a-guide-for-windows-users/"><u>Speedy Excel Operations Restored: A Guide for Windows Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-best-multiplayer-bluetooth-games-for-android-and-ios-devices/"><u>The Ultimate List of Best Multiplayer Bluetooth Games for Android & iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-11-audio-enhancement-applications-for-video-editing-on-mobile-devices-and-desktop-systems/"><u>Top 11 Audio Enhancement Applications for Video Editing on Mobile Devices and Desktop Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-6-must-have-android-contact-widget-apps-of-2024-a-comprehensive-guide/"><u>Top 6 Must-Have Android Contact Widget Apps of 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-10-leading-music-organizers-for-all-your-platform-needs-windows-mac-iphone-and-android/"><u>Ultimate Selection of 10 Leading Music Organizers for All Your Platform Needs: Windows, Mac, iPhone & Android</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streamline-your-gaming-with-xbox-screen-recorders/"><u>[New] 2024 Approved Streamline Your Gaming with Xbox Screen Recorders</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-steer-clear-of-vr-nausea-essential-precautions/"><u>[New] In 2024, Steer Clear of VR Nausea Essential Precautions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-skyrocketing-subscribers-free-techniques-for-youtube-success/"><u>[Updated] 2024 Approved Skyrocketing Subscribers Free Techniques for YouTube Success</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-comprehensive-walkthrough-setting-up-your-first-wirecast-livestream-to-youtube-for-2024/"><u>[Updated] A Comprehensive Walkthrough Setting Up Your First WireCast Livestream to Youtube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hasty-steps-ios-photos-and-videos-on-windows/"><u>[Updated] Hasty Steps IOS Photos & Videos on Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-seamless-blending-android-tips-for-multi-video-editing/"><u>[Updated] In 2024, Seamless Blending Android Tips for Multi-Video Editing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-mobile-messaging-platforms-top-picks-for-ios-and-android-devices/"><u>Best 10 Mobile Messaging Platforms: Top Picks for iOS and Android Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/cambia-facilmente-i-tuoi-gif-a-video-mp4-gratuitamente-usando-il-convertitore-video-movevid-gratis-ed-efficiente/"><u>Cambia Facilmente I Tuoi GIF a Video MP4 Gratuitamente Usando Il Convertitore Video MoveVid - Gratis Ed Efficiente</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creative-loops-made-easy-with-the-top-4-mobile-apps-for-android-and-ios-users/"><u>Creative Loops Made Easy with the Top 4 Mobile Apps for Android and iOS Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-guide-sending-video-messages-on-skype-and-whatsapp/"><u>Easy Guide: Sending Video Messages on Skype and WhatsApp</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-a-seamless-transition-sharing-tiktok-videos-with-twitter/"><u>In 2024, A Seamless Transition Sharing TikTok Videos with Twitter</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-metaverse-odyssey-a-list-of-sci-fi-films-taking-you-beyond-earth/"><u>In 2024, Metaverse Odyssey A List of Sci-Fi Films Taking You Beyond Earth</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stay-secure-and-connected-top-11-mobile-apps-for-hands-free-text-reading/"><u>Stay Secure and Connected: Top 11 Mobile Apps for Hands-Free Text Reading</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-accessing-whatsapp-anonymously-without-providing-your-phone-number/"><u>Step-by-Step Instructions: Accessing WhatsApp Anonymously Without Providing Your Phone Number</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-instant-messaging-a-comprehensive-overview/"><u>Understanding Instant Messaging: A Comprehensive Overview</u></a></li>
 </ul></div>
 

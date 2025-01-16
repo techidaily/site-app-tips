@@ -1,7 +1,7 @@
 ---
 title: "Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet"
-date: 2025-01-04T01:08:20.464Z
-updated: 2025-01-10T01:26:59.335Z
+date: 2025-01-09T22:26:16.876Z
+updated: 2025-01-15T18:05:05.999Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Suppose you are in the business of generating passwords, it would probably be a 
 In a [blog post](https://donjon.ledger.com/kaspersky-password-manager/) to cap off an almost two year saga, Ledger Donjon head of security research Jean-Baptiste Bédrune showed KPM was doing just that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,7 +66,7 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -92,18 +92,18 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-alternatives-spotlighted-by-az-screen-recorder/"><u>[Updated] In 2024, Alternatives Spotlighted by AZ Screen Recorder</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-gamegazers-graphic-guide/"><u>[Updated] In 2024, GameGazer's Graphic Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-track-lost-friends-on-instagram/"><u>2024 Approved Track Lost Friends on Instagram</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2024s-ultimate-guide-to-free-password-management-tools-professional-insights-and-ratings/"><u>2024'S Ultimate Guide to Free Password Management Tools: Professional Insights & Ratings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-f04-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy F04 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/color-command-center-expert-transformation-techniques/"><u>Color Command Center Expert Transformation Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-new-samsung-galaxy-ring-whats-the-damage-when-can-you-buy-it-tech-details-inside/"><u>Exploring the New Samsung Galaxy Ring: What's the Damage? When Can You Buy It? Tech Details Inside!</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/infographic-mind-numbing-youtube-factsfigures-and-statistics-2017/"><u>Infographic - Mind Numbing YouTube Facts,Figures and Statistics 2017</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/next-gen-power-in-a-small-package-meet-the-geekom-ax8-mini-pc-compatible-with-newest-intel-and-amd-processors/"><u>Next-Gen Power in a Small Package: Meet the GeekOm AX8 Mini PC Compatible With Newest Intel & AMD Processors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-top-rated-vpn-and-password-manager-bundle-at-an-unbeatable-price-of-only-30-find-out-more-zdnet/"><u>Secure Your Digital Life: Top-Rated VPN & Password Manager Bundle at an Unbeatable Price of Only $30 - Find Out More [ZDNET]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-entire-staff-with-1password-unlock-ultimate-protection-for-only-1995-monthly-it-business-solutions/"><u>Securing Your Entire Staff with 1Password - Unlock Ultimate Protection for Only $19.95 Monthly | IT Business Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-resolution-for-the-high-cpu-consumption-by-iastordatasvc-on-your-win11-pc/"><u>Step-by-Step Resolution for the High CPU Consumption by IAstorDataSvc on Your Win11 PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-macos-privacy-easy-steps-to-retrieve-stored-passwords-from-apples-keychain/"><u>Unlocking macOS Privacy: Easy Steps to Retrieve Stored Passwords From Apple’s Keychain</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-10-best-luts-for-adobe-lightroom/"><u>[Updated] 10 Best LUTs for Adobe LightRoom</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-exploring-facebooks-newest-feature-evolution/"><u>[Updated] In 2024, Exploring Facebook's Newest Feature Evolution</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-multimedia-content-putting-photos-together-on-insta-story/"><u>[Updated] Mastering Multimedia Content Putting Photos Together on Insta Story</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1password-analysis-is-this-top-tier-password-solution-a-smart-investment-insights-from-tech-experts/"><u>1Password Analysis: Is This Top-Tier Password Solution a Smart Investment? - Insights From Tech Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-twitter-presence-a-comprehensive-guide-to-growing-your-follower-count/"><u>Boost Your Twitter Presence: A Comprehensive Guide to Growing Your Follower Count</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1728496479134-error-404-unable-to-locate-the-webpage-youre-looking-for/"><u>Error 404: Unable to Locate the Webpage You're Looking For</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-v30-lite-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo V30 Lite 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/jokes-aplenty-incorrante-guide-to-snapchats-cartoon-filters-for-2024/"><u>Jokes Aplenty Incorrante Guide to Snapchat's Cartoon Filters for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-security-my-experience-with-top-passwordless-password-manager-tools-the-clear-winner/"><u>Mastering Security: My Experience with Top Passwordless Password Manager Tools – The Clear Winner!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/oregon-healthcare-provider-alerts-over-half-a-million-clients-about-major-security-incident-tech-news/"><u>Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/pixelpilot-photovideo-slide-show-for-macos/"><u>PixelPilot Photovideo Slide Show for macOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/west-virginia-hospital-data-compromised-following-phishing-scheme-insights-by-zdnet/"><u>West Virginia Hospital Data Compromised Following Phishing Scheme - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zerofoxs-strategic-acquisition-of-idx-and-merger-with-landf-forms-a-mega-14b-cybersecurity-giant-insights-from-zdnet/"><u>ZeroFox's Strategic Acquisition of IDX and Merger with L&F Forms a Mega $1.4B Cybersecurity Giant - Insights From ZDNet</u></a></li>
 </ul></div>
 

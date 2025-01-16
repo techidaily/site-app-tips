@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Fortifying Your Password Vault Against Threats | ZDNet"
-date: 2025-01-04T17:58:13.693Z
-updated: 2025-01-09T18:49:02.981Z
+date: 2025-01-12T18:31:55.701Z
+updated: 2025-01-15T23:52:05.908Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ Creating and remembering a unique and complex password for each of your accounts
 A good password manager will create, store, and apply strong and complex passwords across the board, thereby securing your accounts. I've used a password manager for years and wouldn't be able to juggle all my online accounts without it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -46,7 +46,7 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -66,7 +66,7 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -90,7 +90,7 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -139,18 +139,14 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-ultimate-guide-to-converting-speech-to-text-with-google-docs/"><u>[Updated] 2024 Approved The Ultimate Guide to Converting Speech to Text with Google Docs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evolution-of-intelligence-openais-gpt-story/"><u>Evolution of Intelligence: OpenAI's GPT Story</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-diagnose-and-rectify-not-verified-website-connections-for-better-security/"><u>Guide to Diagnose and Rectify 'Not Verified' Website Connections for Better Security</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-12-pro-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 12 Pro 4G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-securely-transfer-whatsapp-pictures-from-ios-and-android-devices-without-losing-a-bit-explore-these-3-effective-strategies/"><u>How to Securely Transfer WhatsApp Pictures From iOS and Android Devices without Losing a Bit - Explore These 3 Effective Strategies</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/iphone-photography-boosted-by-ios-11-features-for-2024/"><u>IPhone Photography Boosted by iOS 11 Features for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/cting-data-while-transforming-youtube-videos-into-mp3-files-for-2024/"><u>Protecting Data While Transforming YouTube Videos Into MP3 Files for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/swift-solutions-retrieving-your-lost-whatsapp-messages-on-iphone-with-simple-techniques/"><u>Swift Solutions: Retrieving Your Lost WhatsApp Messages on iPhone with Simple Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-science-behind-effective-slug-lines-for-2024/"><u>The Science Behind Effective Slug Lines for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-on-restoring-past-whatsapp-dialogues-and-mastering-the-art-of-unarchiving-texts/"><u>The Ultimate Tutorial on Restoring Past WhatsApp Dialogues & Mastering the Art of Unarchiving Texts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/update-your-contact-info-a-step-by-step-guide-to-changing-your-phone-number-on-whatsapp/"><u>Update Your Contact Info: A Step-by-Step Guide to Changing Your Phone Number on WhatsApp</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-final-cut-pro-x-compression-made-easy-a-beginners-handbook/"><u>Updated In 2024, Final Cut Pro X Compression Made Easy A Beginners Handbook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-pioneering-websites-for-modern-letterforms/"><u>[Updated] 2024 Approved Pioneering Websites for Modern Letterforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-top-underground-sources-for-smart-fb-memes/"><u>[Updated] 2024 Approved Top Underground Sources for Smart FB Memes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-complete-guide-restoring-lost-messages-in-whatsapp/"><u>A Complete Guide: Restoring Lost Messages in WhatsApp</u></a></li>
+<li><a href="https://windows11.techidaily.com/capitalizing-on-windows-capabilities-for-macos/"><u>Capitalizing on Windows Capabilities for macOS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-avoid-watermarks-in-stock-purchases/"><u>In 2024, How To Avoid Watermarks in Stock Purchases</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-your-messages-comprehensive-guide-on-recovering-whatsapp-backups-from-google-drive-on-ios-devices/"><u>Reviving Your Messages: Comprehensive Guide on Recovering WhatsApp Backups From Google Drive on iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamlessly-shifting-conversations-moving-whatsapp-information-from-android-devices-to-iphones/"><u>Seamlessly Shifting Conversations: Moving WhatsApp Information From Android Devices to iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-4-simple-methods-for-securing-your-whatsapp-chats-on-ios-devices/"><u>Top 4 Simple Methods for Securing Your WhatsApp Chats on iOS Devices</u></a></li>
 </ul></div>
 

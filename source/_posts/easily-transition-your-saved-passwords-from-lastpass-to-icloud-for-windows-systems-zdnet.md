@@ -1,7 +1,7 @@
 ---
 title: Easily Transition Your Saved Passwords From LastPass to iCloud for Windows Systems | ZDNet
-date: 2025-01-02T20:04:05.167Z
-updated: 2025-01-09T16:54:41.763Z
+date: 2025-01-13T23:13:46.928Z
+updated: 2025-01-15T23:43:15.351Z
 tags:
   - password-manager
 categories:
@@ -19,10 +19,6 @@ Image: Maria Diaz/ZDNET
 
 An [Apple ID](https://www.zdnet.com/article/your-friends-could-help-stop-you-getting-locked-out-of-your-apple-id/) gives you access to many perks within the Apple software ecosystem, and one of them is [Keychain](https://www.zdnet.com/article/how-to-locate-a-password-with-the-macos-keychain/): iCloud's password manager. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
@@ -37,10 +33,6 @@ But how can I remember all these passwords if I can't even remember my significa
 
 ## How to use iCloud as a password manager on Windows
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open iCloud for Windows
 
 Go to your Start menu and open iCloud for Windows. Adding iCloud for Windows to your computer lets you manage your passwords from your PC and generate verification codes when an account needs [two-factor authentication](https://www.zdnet.com/article/two-factor-authentication-is-a-great-idea-but-not-enough-people-are-using-it/) (2FA).
@@ -52,7 +44,7 @@ Go to the Start menu and open iCloud for Windows.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Sign in to your iCloud Passwords
@@ -66,7 +58,7 @@ Sign in with your Apple ID and password.
 Image: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make sure Passwords is on and click Apply
@@ -88,6 +80,10 @@ Once you click **Install Extension** in iCloud, you'll be able to add the **iClo
 Maria Diaz/ZDNET
 
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
 
@@ -119,6 +115,10 @@ Like LastPass, the browser extension will let you fill in your login information
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do you get iCloud for Windows?  
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
@@ -130,7 +130,7 @@ iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/arti
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
@@ -167,16 +167,22 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check-it-out-here/"><u>[Updated] 2024 Approved How to Preview Off-Facebook Activities and Should I Leave It On? Check It Out Here</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-a-brief-guide-to-kickstarting-conversations-on-instagram/"><u>[Updated] A Brief Guide to Kickstarting Conversations on Instagram</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/automatic-feeding-made-simple-with-petsafes-six-meal-servitor-ensure-a-regular-diet-for-pets/"><u>Automatic Feeding Made Simple with PetSafe's Six-Meal Servitor – Ensure a Regular Diet for Pets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-audio-equalizer-applications-for-android-top-5-picks/"><u>Best FREE Audio Equalizer Applications for Android: Top 5 Picks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620195426-download-fun-and-trending-facebook-messenger-stickers-now/"><u>Download Fun & Trending Facebook Messenger Stickers Now!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-latest-canon-rebel-t7-kit-innovations/"><u>Evaluating the Latest Canon Rebel T7 Kit Innovations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-apples-device-management-insights-into-mdm-and-platform-implementation-strategies/"><u>Explore Apple's Device Management: Insights Into MDM and Platform Implementation Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-windows-1110-bluetooth-stuttering-a-step-by-step-guide-to-smooth-sound/"><u>Fix Your Window's 11/10 Bluetooth Stuttering: A Step-by-Step Guide to Smooth Sound</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/from-words-to-memos-iphone-sound-guide-for-2024/"><u>From Words to Memos IPhone Sound Guide for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-assessment-of-apple-music-pricing-structure-advantagesdisadvantages-and-how-to-get-started/"><u>In-Depth Assessment of Apple Music: Pricing Structure, Advantages/Disadvantages, and How to Get Started</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y78plus-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y78+? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-how-to-correct-fisheye-lens-distortion-from-gopro-footage-for-2024/"><u>[Updated] How to Correct Fisheye (Lens Distortion) From GoPro Footage for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-complete-obs-android-manual-for-professionals/"><u>2024 Approved The Complete OBS Android Manual for Professionals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-free-android-chat-applications-ranked-from-1-to-10/"><u>Discover the Ultimate Selection of Free Android Chat Applications: Ranked From #1 to #10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-ways-to-master-boomerang-feature-across-ios-android-and-web-platforms/"><u>Effortless Ways to Master Boomerang Feature Across iOS, Android & Web Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-road-safety-with-the-11-most-effective-apps-for-handsfree-sms-access/"><u>Enhance Road Safety with the 11 Most Effective Apps for Handsfree SMS Access</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/from-memories-to-reels-building-stellar-slideshows-for-facebook-for-2024/"><u>From Memories to Reels Building Stellar SlideShows for Facebook for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-6-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 6 GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-leading-titles-in-editing-webcam-videos-effectively/"><u>In 2024, Leading Titles in Editing Webcam Videos Effectively</u></a></li>
+<li><a href="https://network-issues.techidaily.com/max-screen-quality-restored-on-windows/"><u>Max Screen Quality Restored on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-vivo-y27-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Vivo Y27 5G</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/screen-recording-techniques-for-windows-8-users/"><u>Screen Recording Techniques for Windows 8 Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-11-superior-sound-integration-tools-for-adding-music-and-voice-to-videos-across-android-ios-mac-and-pc-platforms/"><u>The Ultimate List of 11 Superior Sound Integration Tools for Adding Music & Voice to Videos Across Android, iOS, Mac & PC Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-biometric-lock-screen-applications-for-your-android-device/"><u>Top 10 Biometric Lock Screen Applications for Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-11-audio-enhancement-applications-for-video-editing-on-mobile-devices-and-desktop-systems/"><u>Top 11 Audio Enhancement Applications for Video Editing on Mobile Devices and Desktop Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-6-must-have-android-contact-widget-apps-of-2024-a-comprehensive-guide/"><u>Top 6 Must-Have Android Contact Widget Apps of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-a54-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy A54 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-10-leading-music-organizers-for-all-your-platform-needs-windows-mac-iphone-and-android/"><u>Ultimate Selection of 10 Leading Music Organizers for All Your Platform Needs: Windows, Mac, iPhone & Android</u></a></li>
 </ul></div>
 

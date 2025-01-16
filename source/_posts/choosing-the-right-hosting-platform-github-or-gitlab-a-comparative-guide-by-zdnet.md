@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Right Hosting Platform: GitHub or GitLab? - A Comparative Guide by ZDNet"
-date: 2025-01-09T00:16:12.831Z
-updated: 2025-01-09T17:14:35.685Z
+date: 2025-01-10T16:22:04.095Z
+updated: 2025-01-15T21:37:27.268Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,16 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhancing-your-stream-5-key-techniques-for-gamers-for-2024/"><u>[New] Enhancing Your Stream 5 Key Techniques for Gamers for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-experts-choice-the-best-of-all-8k-cameras/"><u>[Updated] Expert's Choice The Best of All 8K Cameras</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-melodies-that-matter-instagram-music-guide/"><u>[Updated] In 2024, Melodies that Matter Instagram Music Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-beginners-guide-to-ps4-game-broadcasting-with-obs/"><u>2024 Approved Beginner's Guide to PS4 Game Broadcasting with OBS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-professional-edge-without-solely-focusing-on-ai-insights-for-todays-workforce/"><u>Elevate Your Professional Edge Without Solely Focusing on AI | Insights for Today's Workforce</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-synergy-how-ai-empowers-developers-and-business-teams-insights-from-zdnet/"><u>Enhancing Synergy: How AI Empowers Developers & Business Teams - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-emerging-companies-can-leverage-ai-models-to-capture-market-share-insights-from-zdnet/"><u>How Emerging Companies Can Leverage AI Models to Capture Market Share: Insights From ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-xiaomi-redmi-12-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Xiaomi Redmi 12 to Protect Your Individual Information</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-of-integrating-artificasternotext-ai-and-agile-methodologies-zdnet-reported-findings/"><u>Navigating the Complexities of Integrating Artificasternotext AI and Agile Methodologies - ZDNET Reported Findings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-rise-of-agent-ecosystems-in-artificial-intelligence-future-service-domination/"><u>Navigating the Rise of Agent Ecosystems in Artificial Intelligence: Future Service Domination</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/smart-strategies-for-utilizing-b-roll-footage-effectively/"><u>Smart Strategies for Utilizing B-Roll Footage Effectively</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unleashing-the-full-potential-of-webcams/"><u>[New] 2024 Approved Unleashing the Full Potential of Webcams</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/29-how-to-record-free-webinars-with-ease-and-precision-for-2024/"><u>29 How-To Record Free Webinars with Ease and Precision for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-12-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-myths-gpts-immutable-state/"><u>Debunking Myths: GPT's Immutable State</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-top-tech-pioneers-are-harnessing-the-power-of-open-source-for-groundbreaking-innovations-explore-with-zdnet/"><u>How Top Tech Pioneers Are Harnessing the Power of Open Source for Groundbreaking Innovations | Explore with ZDNET</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ace-the-challenge-leading-escape-room-contests/"><u>In 2024, Ace the Challenge Leading Escape Room Contests</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-c67-4g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme C67 4G FRP Bypass</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-of-integrating-agile-with-artificial-intelligence-development-latest-research-reveals-complications-zdnet/"><u>Navigating the Challenges of Integrating Agile with Artificial Intelligence Development - Latest Research Reveals Complications | ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-honor-90-gt-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Honor 90 GT.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapore-invests-s24-billion-in-enhancing-ict-infrastructure-and-digital-service-offerings-technews/"><u>Singapore Invests S$2.4 Billion in Enhancing ICT Infrastructure & Digital Service Offerings | TechNews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-work-unpacking-edge-technologys-impact-on-professional-advancement-with-zdnet/"><u>The Future of Work: Unpacking Edge Technology's Impact on Professional Advancement with ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-paradox-of-productivity-is-generative-ai-causing-extra-jobs-according-to-zdnet/"><u>The Paradox of Productivity: Is Generative AI Causing Extra Jobs, According to ZDNet?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-tech-specs-with-toms-insights/"><u>The Ultimate Guide to Tech Specs with Tom's Insights</u></a></li>
 </ul></div>
 

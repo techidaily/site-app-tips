@@ -1,7 +1,7 @@
 ---
 title: Tech Visionary Linus Torvalds Explores AI Progress, Rust Integration, and Linux Significance with ZDNET
-date: 2025-01-05T18:45:34.036Z
-updated: 2025-01-10T00:30:15.933Z
+date: 2025-01-14T21:14:20.400Z
+updated: 2025-01-15T17:22:52.451Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-understanding-the-transformations-in-vegaspro-19/"><u>[New] In 2024, Understanding the Transformations in VegasPro '19</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-12-best-html5-video-players-you-should-know/"><u>[Updated] 12 Best Html5 Video Players You Should Know</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-virtual-city-escapades-a-list-of-flavorful-pals-to-gta-v/"><u>2024 Approved Virtual City Escapades - A List of Flavorful Pals to GTA V</u></a></li>
-<li><a href="https://app-tips.techidaily.com/anthropic-unveils-the-next-generation-of-enterprise-scale-ai-with-its-advanced-claude-initiative-insights-from-zdnet/"><u>Anthropic Unveils the Next Generation of Enterprise-Scale AI with Its Advanced Claude Initiative - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-productivity-leverage-the-new-copilot-enhancements-to-excel-at-prompt-writing-on-microsoft/"><u>Boost Your Productivity: Leverage the New Copilot Enhancements to Excel at Prompt Writing on Microsoft</u></a></li>
-<li><a href="https://app-tips.techidaily.com/directivity/"><u>Directivity</u></a></li>
-<li><a href="https://facebook.techidaily.com/exploring-photodnas-purpose-and-mechanics/"><u>Exploring PhotoDNA's Purpose & Mechanics</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-7-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 7 Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-s18-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo S18 Pro</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-oneplus-nord-3-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On OnePlus Nord 3 5G? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linus-torvalds-shares-insights-on-using-rust-in-the-linux-world-work-habits-and-living-with-an-intel-powered-macbook-air-zdnet/"><u>Linus Torvalds Shares Insights on Using Rust in the Linux World: Work Habits & Living with an Intel-Powered MacBook Air - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-overwhelm-in-tech-careers-bright-spots-amidst-professional-burnout/"><u>Navigating the Overwhelm in Tech Careers: Bright Spots Amidst Professional Burnout</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-business-exploring-how-blockchain-decentralization-and-web3-revolutionize-enterprises/"><u>The Future of Business: Exploring How Blockchain, Decentralization & Web3 Revolutionize Enterprises</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-a79-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo A79 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-sql-training-programs-explore-the-best-online-courses-on-zdnet/"><u>Top-Ranked SQL Training Programs: Explore the Best Online Courses on ZDNet</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/transforming-success-effortless-tactics-to-change-vlc-format-into-mp4/"><u>Transforming Success: Effortless Tactics to Change VLC Format Into MP4</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-ux-with-xr-digital-twins-and-spatial-tech-your-essential-business-roadmap-insights-from-zdnet/"><u>Transforming UX with XR, Digital Twins & Spatial Tech: Your Essential Business Roadmap - Insights From ZDNet</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-12-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zoom-vs-microsoft-teams-meet-your-astonishing-lip-reading-challenger-breaking-news-from-zdnet/"><u>Zoom Vs. Microsoft Teams? Meet Your Astonishing Lip-Reading Challenger - Breaking News From ZDNet!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-how-much-does-youtube-pay-for-1-million-views/"><u>[New] In 2024, How Much Does YouTube Pay for 1 Million Views</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nokia-c110-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nokia C110 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-google-pixel-7a-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Google Pixel 7a?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/influence-of-seo-on-youtube-video-popularity-for-2024/"><u>Influence of SEO on YouTube Video Popularity for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-ubuntu-2404-enhancements-with-expert-tips-from-zdnets-guide/"><u>Mastering Ubuntu 24.04 Enhancements with Expert Tips From ZDNet's Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-system-administration-how-red-hat-integrates-ai-for-enhanced-efficiency/"><u>Revolutionizing System Administration: How Red Hat Integrates AI for Enhanced Efficiency</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solution-to-hp-inkjet-non-operational-on-win11/"><u>Solution to HP Inkjet Non-Operational on Win11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-turmoil-unpacking-russias-invasion-effects-on-ukraines-it-landscape-analysis-by-zdnet/"><u>Tech Turmoil: Unpacking Russia's Invasion Effects on Ukraine's IT Landscape | Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-shift-to-non-techies-leading-enterprise-tech-revolution-insights-from-zdnet/"><u>The Shift to Non-Techies Leading Enterprise Tech Revolution – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-identity-management-solutions-of-2022-expert-reviews-and-comparisons/"><u>Top-Rated Identity Management Solutions of 2022: Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-chromebook-zoom-capabilities-for-2024/"><u>Unlocking Chromebook Zoom Capabilities for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-amazons-cutting-edge-ai-benchmark-assessing-relevance-answers-and-contextual-groundings/"><u>Unveiling Amazon's Cutting-Edge AI Benchmark: Assessing Relevance, Answers & Contextual Groundings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-flight-in-depth-analysis-of-dji-phantom-4-for-2024/"><u>Unveiling Flight In-Depth Analysis of DJI Phantom 4 for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-open-source-expertise-and-linux-mastery-remain-highly-sought-after-despite-challenging-financial-climates-insights-from-zdnet/"><u>Why Open-Source Expertise & Linux Mastery Remain Highly Sought After, Despite Challenging Financial Climates - Insights From ZDNet</u></a></li>
 </ul></div>
 

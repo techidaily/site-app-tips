@@ -1,7 +1,7 @@
 ---
 title: "Security Champions Earn Big: Bugcrowd Raises Bounty Ceiling to $1M – What ZDNET Reports on Cybersecurity Incentives"
-date: 2025-01-08T21:33:21.722Z
-updated: 2025-01-09T19:17:57.724Z
+date: 2025-01-10T17:18:51.667Z
+updated: 2025-01-16T01:22:27.970Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 The company averages about $900 per reward, but 1Password CEO Jeff Shiner said the company hopes to "attract another layer of outside expertise to make sure our systems are as secure as possible." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -70,21 +70,18 @@ The company also has an internal "Eyes of the Month program" for their employees
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-fundamental-concepts-of-cyber-narratives/"><u>[Updated] Fundamental Concepts of Cyber Narratives</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-surpassing-the-ranks-essential-factors-uncovered/"><u>2024 Approved Surpassing the Ranks Essential Factors Uncovered</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-fongo-voip-solution-evaluation-in-canada/"><u>Comprehensive Fongo VoIP Solution Evaluation in Canada</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-wifi-passcode-retrieval-app-manage-and-discover-your-androids-network-credentials-effortlessly/"><u>Free WiFi Passcode Retrieval App: Manage & Discover Your Android's Network Credentials Effortlessly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-your-favorite-android-games-on-lockdown-the-ultimate-list-of-20-free-full-version-apks-to-download-today/"><u>Get Your Favorite Android Games on Lockdown: The Ultimate List of 20 Free, Full-Version APKs to Download Today!</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/illumination-innovations-advanced-lighting-in-video-making-for-2024/"><u>Illumination Innovations Advanced Lighting in Video Making for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-landscape-of-motion-sensing-technology/"><u>In 2024, Navigating the Landscape of Motion Sensing Technology</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-world-of-pixiz-turning-stills-into-storytelling-video/"><u>In 2024, Navigating the World of Pixiz Turning Stills Into Storytelling Video</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-innovations-in-audio-production-adding-subtle-fading-techniques-to-your-toolkit/"><u>New 2024 Approved Innovations in Audio Production Adding Subtle Fading Techniques to Your Toolkit</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/sculpt-visual-jokes-adobe-memes-guide/"><u>Sculpt Visual Jokes Adobe Memes Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synthesizing-new-dimensions-via-chatai/"><u>Synthesizing New Dimensions via ChatAI</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-vn-video-editor-advantages-disadvantages-and-best-replacement-options/"><u>The Ultimate Guide to VN Video Editor: Advantages, Disadvantages, and Best Replacement Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-clips-with-this-exceptional-android-video-editing-software/"><u>Transform Your Clips with This Exceptional Android Video Editing Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-admin-utility-remove-disable-and-manage-rooted-device-applications-easily/"><u>Ultimate Admin Utility: Remove, Disable, and Manage Rooted Device Applications Easily</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unified-chat-and-call-features-on-magicapp-compatible-with-iphone-android-and-pc/"><u>Unified Chat & Call Features on MagicApp - Compatible with iPhone, Android & PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/what-exactly-is-instant-messaging-an-in-depth-guide/"><u>What Exactly Is Instant Messaging? An In-Depth Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-hdr-and-4k-perfection-with-asus-proart-monitor/"><u>[New] Unveiling HDR & 4K Perfection with ASUS ProArt Monitor</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/affordable-email-campaigns-with-massmail-the-ideal-choice-for-smb-growth-strategies/"><u>Affordable Email Campaigns with MassMail: The Ideal Choice for SMB Growth Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-corrupted-files-in-windows-10-and-11/"><u>Fixes for Corrupted Files in Windows 10 and 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breaking-down-advertising-budgets-on-youtube/"><u>In 2024, Breaking Down Advertising Budgets on YouTube</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-8-gold-text-wonders-in-the-vast-world-of-3d-sites/"><u>In 2024, Top 8 Gold-Text Wonders in the Vast World of 3D Sites</u></a></li>
+<li><a href="https://app-tips.techidaily.com/laugh-out-loud-portraits-top-12-witty-face-photo-effects-for-both-android-and-iphone/"><u>Laugh Out Loud Portraits: Top 12 Witty Face Photo Effects for Both Android & iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-optimization-tools-to-supercharge-your-android-experience/"><u>Top 10 Optimization Tools to Supercharge Your Android Experience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-iphone-security-software-simplify-your-login-process-with-our-best-recommended-password-manager/"><u>Top-Rated iPhone Security Software: Simplify Your Login Process with Our Best Recommended Password Manager</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193804-transform-your-clips-with-this-exceptional-android-video-editing-software/"><u>Transform Your Clips with This Exceptional Android Video Editing Software!</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-the-enigma-of-fbs-secretive-users/"><u>Unraveling the Enigma of Fb's Secretive Users</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers on Windows 11 & 10 & 7</u></a></li>
 </ul></div>
 

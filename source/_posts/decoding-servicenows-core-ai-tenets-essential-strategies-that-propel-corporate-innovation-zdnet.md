@@ -1,7 +1,7 @@
 ---
 title: "Decoding ServiceNow’s Core AI Tenets: Essential Strategies That Propel Corporate Innovation | ZDNET"
-date: 2025-01-04T19:18:28.349Z
-updated: 2025-01-10T04:35:59.540Z
+date: 2025-01-09T00:44:21.394Z
+updated: 2025-01-15T17:44:25.314Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-initiate-interactive-storytelling-with-windows-11s-movie-maker/"><u>[New] 2024 Approved Initiate Interactive Storytelling with Windows 11'S Movie Maker</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-voice-over-recording-for-videos/"><u>[New] 2024 Approved Mastering Voice-Over Recording for Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-messenger-maestros-guide-to-capturing-social-media-videos/"><u>[New] The Messenger Maestro's Guide to Capturing Social Media Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channeling-success-the-personal-brand-strategy-for-youtubers/"><u>[Updated] 2024 Approved Channeling Success The Personal Brand Strategy for YouTubers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-expertly-curated-list-of-top-9-virtual-mic-recorder-systems-23/"><u>[Updated] In 2024, Expertly Curated List of Top 9 Virtual Mic Recorder Systems ('23)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-large-scale-industries-how-anthropics-revolutionary-claude-plan-transforms-business-ai-capabilities-featured-on-zdnet/"><u>Empowering Large-Scale Industries: How Anthropic's Revolutionary Claude Plan Transforms Business AI Capabilities | Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-development-work-is-changing-a-conversation-with-atlassians-agnes-ro-as-spotted-on-zdnet/"><u>How Development Work Is Changing: A Conversation with Atlassian's Agnes Ro, as Spotted on ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leveraging-design-thinking-for-closer-alignment-of-it-experts-with-user-centric-solutions-a-zdnet-perspective/"><u>Leveraging Design Thinking for Closer Alignment of IT Experts with User-Centric Solutions: A ZDNet Perspective</u></a></li>
-<li><a href="https://app-tips.techidaily.com/pioneering-beyond-standard-llms-in-artificial-intelligence-development-insights-from-an-ai-scientist-at-zdnet/"><u>Pioneering Beyond Standard LLMs in Artificial Intelligence Development | Insights From an AI Scientist at ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210926309-9781903353363-the-family-legacy/"><u>The Family Legacy | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unraveling-complexity-streamlining-linux-and-community-guides-for-effortless-understanding/"><u>Unraveling Complexity: Streamlining Linux & Community Guides for Effortless Understanding</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-simplify-your-content-creation-mobile-friendly-youtube-channel-setup-guide/"><u>[New] In 2024, Simplify Your Content Creation Mobile-Friendly YouTube Channel Setup Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-religious-ringtones-for-daily-devotion-and-driving/"><u>[New] Religious Ringtones for Daily Devotion and Driving</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-beginner-to-expert-in-funimate/"><u>[Updated] From Beginner to Expert in Funimate</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-elite-15-luts-transforming-gopro-action-footage/"><u>2024 Approved Elite 15 LUTs Transforming GoPro Action Footage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-magic-of-motion-in-video-text-elements/"><u>2024 Approved Unlock the Magic of Motion in Video Text Elements</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-installation-instructions-for-the-tmdb-addon-in-kodi-now-supporting-nexus-platforms/"><u>Easy Installation Instructions for the TMDB Addon in Kodi, Now Supporting Nexus Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-the-future-the-latest-white-house-findings-support-open-source-artificial-intelligence-insights-from-zdnet/"><u>Embracing the Future: The Latest White House Findings Support Open-Source Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-cto-forecasts-major-shifts-in-cloud-computing-strategies-insights-from-tech-leaders/"><u>Expert CTO Forecasts Major Shifts in Cloud Computing Strategies - Insights From Tech Leaders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-future-with-linus-insights-on-artificebotics-rust-programming-and-why-linux-is-crucial-zdnet/"><u>Exploring the Future with Linus: Insights on Artificebotics, Rust Programming, and Why Linux Is Crucial | ZDNET</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/eye-candy-index-the-top-8-videos/"><u>Eye Candy Index The Top 8 Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/an-edge-in-views-with-these-5-youtube-thumbnail-creators-for-2024/"><u>Gain an Edge in Views with These 5 YouTube Thumbnail Creators for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-design-thinking-bridges-the-gap-between-tech-professionals-and-enhanced-customer-experiences-insights-from-zdnet/"><u>How Design Thinking Bridges the Gap Between Tech Professionals and Enhanced Customer Experiences - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transitioning-from-windows-home-to-pro-tips-advantages-and-how-to-digital-insight-hub/"><u>Transitioning From Windows Home to Pro - Tips, Advantages & How-To | Digital Insight Hub</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Critical Security Flaw Found in Popular Linux Tool Curl - Fixes Deployed by Developers
-date: 2025-01-05T01:06:15.398Z
-updated: 2025-01-09T22:07:13.070Z
+date: 2025-01-14T16:39:32.213Z
+updated: 2025-01-15T17:44:44.475Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-seamlessly-personalize-your-youtube-shorts-with-custom-thumbnails/"><u>[New] In 2024, Seamlessly Personalize Your Youtube Shorts with Custom Thumbnails</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-orchestrating-the-soundscape-finding-perfect-background-tunes/"><u>[New] Orchestrating the Soundscape Finding Perfect Background Tunes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-calendar-imprinting-techniques-in-photography/"><u>[Updated] In 2024, Calendar Imprinting Techniques in Photography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-screen-time-treasure-summers-top-10-gems/"><u>2024 Approved The Ultimate Screen Time Treasure Summer’s Top 10 Gems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-reno-10-proplus-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo Reno 10 Pro+ 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/banking-on-innovation-cio-demands-visionary-thinkers-over-easy-prompt-compositions-for-advancing-ai/"><u>Banking on Innovation: CIO Demands Visionary Thinkers Over Easy Prompt Compositions for Advancing AI</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-you-master-artificial-intelligence-without-technical-expertise-the-need-for-multidisciplinary-approaches-in-tackling-complex-systems-insights-from-zdnet53/"><u>Can You Master Artificial Intelligence Without Technical Expertise? The Need for Multidisciplinary Approaches in Tackling Complex Systems - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/direct-entry-into-your-channel-simplifying-the-follow-button-creation/"><u>Direct Entry Into Your Channel Simplifying the Follow Button Creation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-paradox-how-generative-ai-could-increase-labor-demand-despite-efficiency-goals/"><u>Exploring the Paradox: How Generative AI Could Increase Labor Demand Despite Efficiency Goals</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-root-of-tech-industry-burnout-causes-and-solutions/"><u>Exploring the Root of Tech Industry Burnout: Causes & Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-extended-review-straightforward-implementation-of-hdr/"><u>In 2024, Extended Review Straightforward Implementation of HDR</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-pova-5-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Pova 5 ProFRP Lock</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/incorporating-ai-into-fitness-coaching-the-ultimate-guide-to-chatgpt-for-personalized-workouts/"><u>Incorporating AI Into Fitness Coaching: The Ultimate Guide to ChatGPT for Personalized Workouts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-sustainability-in-iot-with-artificial-intelligence-company-x-unveils-green-innovation-for-smart-homes-featured-on-zdnet/"><u>Revolutionizing Sustainability in IoT with Artificial Intelligence | Company X Unveils Green Innovation for Smart Homes, Featured on ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-streaming-tutorial-installing-apple-tv-on-amazon-fire-stick/"><u>Seamless Streaming Tutorial: Installing Apple TV on Amazon Fire Stick</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-finance-projected-growth-of-cashless-transactions-at-16t-with-asia-paving-the-way-zdnet-analysis/"><u>The Future of Finance: Projected Growth of Cashless Transactions at $1.6T with Asia Paving the Way | ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-potential-of-artificial-intelligence-strategies-for-new-entrants-in-todays-markets-zdnet-analysis/"><u>Unlocking the Potential of Artificial Intelligence: Strategies for New Entrants in Today's Markets | ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-trustworthy-ai-watermarking-strategies-with-expert-advice-on-zdnet/"><u>Unveiling Trustworthy AI Watermarking Strategies with Expert Advice on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/upgrading-singapores-digital-landscape-24b-allocation-for-ict-improvements-and-online-services-expansion-infotech-insights/"><u>Upgrading Singapore's Digital Landscape: $2.4B Allocation for ICT Improvements and Online Services Expansion | InfoTech Insights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-3-copywriting-structure-for-facebook-ads/"><u>[New] 2024 Approved 3 Copywriting Structure for Facebook Ads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-attention-grabber-designer/"><u>[New] Innovative Attention Grabber Designer</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-best-websites-and-software-to-add-frames-to-photos/"><u>[Updated] In 2024, Best Websites and Software to Add Frames to Photos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-how-technological-advancements-contribute-to-staff-burnout-and-strategies-for-improvement-zdnet/"><u>Exploring How Technological Advancements Contribute to Staff Burnout and Strategies for Improvement | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-unexpected-how-ai-is-shaping-unprecedented-job-roles-and-their-mysterious-titles-zdnet-analysis/"><u>Exploring the Unexpected: How AI Is Shaping Unprecedented Job Roles and Their Mysterious Titles | ZDNET Analysis</u></a></li>
+<li><a href="https://fox-info.techidaily.com/gigglesgateway-leading-online-portals-for-chuckling-calls/"><u>GigglesGateway Leading Online Portals for Chuckling Calls</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-adding-captions-to-youtube-clips/"><u>In 2024, Step-by-Step Adding Captions to YouTube Clips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-future-of-ai-in-business-essential-read-for-singapores-smb-workforce-training-expert-advice-by-zdnet/"><u>Mastering the Future of AI in Business: Essential Read for Singapore's SMB Workforce Training – Expert Advice by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/professional-picks-optimal-laptops-for-cutting-edge-video-editing-in-depth-analysis-pcmag/"><u>Professional Picks: Optimal Laptops for Cutting-Edge Video Editing - In-Depth Analysis | PCMag</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-jobs-with-ai-unveiling-the-endless-possibilities-and-changes-by-zdnet-experts/"><u>The Future of Jobs with AI: Unveiling the Endless Possibilities & Changes by ZDNet Experts</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-g310-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia G310 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/whats-next-for-apple-in-gaming-inside-scoop-on-their-latest-game-mode-innovation-insights-and-predictions/"><u>What's Next for Apple in Gaming? Inside Scoop on Their Latest Game Mode Innovation - Insights & Predictions</u></a></li>
 </ul></div>
 

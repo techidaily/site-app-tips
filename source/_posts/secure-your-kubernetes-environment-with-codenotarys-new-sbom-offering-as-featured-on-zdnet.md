@@ -1,7 +1,7 @@
 ---
 title: Secure Your Kubernetes Environment with Codenotary’s New SBOM Offering, as Featured on ZDNet
-date: 2025-01-07T21:56:44.467Z
-updated: 2025-01-10T03:16:23.290Z
+date: 2025-01-09T01:05:55.827Z
+updated: 2025-01-15T16:40:57.927Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-8-economical-video-call-applications-cross-system-compatibility/"><u>[New] 2024 Approved Top 8 Economical Video Call Applications Cross-System Compatibility</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-complete-guide-to-iphone-sound-personalization/"><u>[Updated] The Complete Guide to iPhone Sound Personalization</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-heroic-quests-ranking-gaming-epics-in-action-adventure/"><u>2024 Approved Heroic Quests Ranking Gaming Epics in Action-Adventure</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-illumination-innovations-advanced-lighting-in-video-making/"><u>2024 Approved Illumination Innovations Advanced Lighting in Video Making</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-showdown-alert-dates-rumors-and-news-everything-on-your-radar/"><u>Apple Showdown Alert! Dates, Rumors & News: Everything on Your Radar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/as-the-skills-shortage-in-data-analytics-intensifies-discover-how-a-forward-thinking-enterprise-is-addressing-it-zdnet/"><u>As the Skills Shortage in Data Analytics Intensifies, Discover How a Forward-Thinking Enterprise Is Addressing It | ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/end-the-endless-rebooting-effective-solutions-for-your-windows-10-woes/"><u>End the Endless Rebooting: Effective Solutions for Your Windows 10 Woes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-enhanced-rules-accelerate-the-2-trill-cuartos-de-dolares-in-aseans-digital-economy-by-2030-analysis-on-zdnet/"><u>How Enhanced Rules Accelerate the $2 Trill Cuartos De Dólares in ASEAN's Digital Economy By 2030, Analysis on ZDNET</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-crafting-engaging-dialogues-for-your-vlog-showcase/"><u>In 2024, Crafting Engaging Dialogues for Your Vlog Showcase</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Lava Blaze 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/it-hand-held-tight-exploring-how-minimal-coding-tools-are-changing-software-development-landscapes-zdnet/"><u>IT Hand-Held Tight?: Exploring How Minimal-Coding Tools Are Changing Software Development Landscapes | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-showcasing-hidden-ios-applications-again/"><u>Master the Art of Showcasing Hidden iOS Applications Again</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-your-path-to-becoming-an-influential-c-level-executive-in-artificial-intelligence/"><u>Navigating Your Path to Becoming an Influential C-Level Executive in Artificial Intelligence.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pictureweaver-2021-seamless-photo-video-mix/"><u>PictureWeaver 2021 Seamless Photo-Video Mix</u></a></li>
-<li><a href="https://app-tips.techidaily.com/study-reveals-challenges-at-the-intersection-of-ai-innovation-and-agile-methodologies-insights-from-zdnet/"><u>Study Reveals Challenges at the Intersection of AI Innovation and Agile Methodologies: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/surpassing-artificial-intelligence-the-rapid-rise-of-the-next-tech-trend/"><u>Surpassing Artificial Intelligence: The Rapid Rise of the Next Tech Trend</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-real-deal-on-pursuing-a-career-as-a-devops-professional-pros-cons-and-challenges-techinsights/"><u>The Real Deal on Pursuing a Career as a DevOps Professional – Pros, Cons & Challenges | TechInsights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rising-popularity-of-low-codeno-code-development-understanding-whos-ready-to-embrace-it-perspectives-by-zdnet/"><u>The Rising Popularity of Low-Code/No-Code Development: Understanding Who's Ready to Embrace It | Perspectives by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-ui-interactions-the-rise-of-generative-ai-and-the-end-of-traditional-cursor-controls-insights-from-zdnet/"><u>Transforming UI Interactions: The Rise of Generative AI and the End of Traditional Cursor Controls - Insights From ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-next-level-game-monitoring-software-beyond-the-fbx-standard/"><u>[Updated] 2024 Approved Next Level Game Monitoring Software Beyond the FBX Standard</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-short-form-spectrum-youtube-meets-tiktok/"><u>[Updated] In 2024, Short-Form Spectrum YouTube Meets TikTok</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-entertainment-alert-dive-into-sing-along-bliss-with-karaoke-usa-for-less-than-150/"><u>Affordable Entertainment Alert: Dive Into Sing-Along Bliss with Karaoke USA for Less than $150</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/easy-fix-restoring-damaged-mp4mov-videos-with-vlc-media-player/"><u>Easy Fix: Restoring Damaged MP4/MOV Videos with VLC Media Player</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960183420-get-your-gigabyte-gc-wb867d-graphics-card-drivers-here/"><u>Get Your Gigabyte GC-WB867D Graphics Card Drivers Here</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-servicenow-embraces-ai-fundamentals-for-competitive-advantage-insights-and-implications-for-business-growth-zdnet/"><u>How ServiceNow Embraces AI Fundamentals for Competitive Advantage – Insights & Implications for Business Growth | ZDNET</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-phantom-v-flip-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Phantom V Flip Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/juniper-networks-enhances-security-with-new-cloud-based-firewall-in-unified-secure-access-service-edge-portfolio/"><u>Juniper Networks Enhances Security with New Cloud-Based Firewall in Unified Secure Access Service Edge Portfolio</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/live-webcam-broadcast-the-power-of-vlc-technology/"><u>Live Webcam Broadcast The Power of VLC Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-future-the-pivotal-role-of-enterprise-architects-in-todays-tech-evolution-zdnet/"><u>Mastering the Future: The Pivotal Role of Enterprise Architects in Today's Tech Evolution | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-new-era-of-work-a-deep-dive-into-enterprise-transformation-through-decentralized-technologies-and-web3/"><u>Navigating the New Era of Work: A Deep Dive Into Enterprise Transformation Through Decentralized Technologies and Web3</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-shift-from-on-premises-infrastructure-to-cloud-dominance/"><u>Navigating the Shift From On-Premises Infrastructure to Cloud Dominance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-most-efficient-to-do-list-applications-techradar/"><u>Top 10 Most Efficient To-Do List Applications - TechRadar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-screen-capture-tools-comprehensive-guide-pcmag/"><u>Top-Rated Screen Capture Tools: Comprehensive Guide - PCMag</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turing-test-decoded-prospects-for-excellence/"><u>Turing Test Decoded: Prospects for Excellence</u></a></li>
 </ul></div>
 

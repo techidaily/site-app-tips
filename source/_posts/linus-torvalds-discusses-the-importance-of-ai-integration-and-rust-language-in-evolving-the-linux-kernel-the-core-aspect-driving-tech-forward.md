@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses the Importance of AI Integration and Rust Language in Evolving the Linux Kernel - The Core Aspect Driving Tech Forward
-date: 2025-01-04T05:25:17.112Z
-updated: 2025-01-10T06:01:55.514Z
+date: 2025-01-10T20:10:00.552Z
+updated: 2025-01-15T21:19:58.911Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-cutting-edge-text-configuration-techniques/"><u>[New] In 2024, Cutting-Edge Text Configuration Techniques</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-swipe-for-success-the-art-of-flipping-videos-on-instagram/"><u>[Updated] In 2024, Swipe for Success The Art of Flipping Videos on Instagram</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-ultimate-guide-to-timing-your-wedding-in-10-top-apps/"><u>2024 Approved Ultimate Guide to Timing Your Wedding, in 10 Top Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/capture-every-click-essential-screen-recorders-for-modern-browsers-for-2024/"><u>Capture Every Click Essential Screen Recorders for Modern Browsers for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-business-with-low-code-solutions-how-they-boost-employer-appeal/"><u>Elevate Your Business with Low-Code Solutions: How They Boost Employer Appeal</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/experience-ultra-clarity-in-xiaomis-screen-capture-technology-for-2024/"><u>Experience Ultra Clarity in Xiaomi's Screen Capture Technology for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explosive-expansion-of-lowno-code-tech-sector-signals-evolving-job-landscape-insights-from-zdnet/"><u>Explosive Expansion of Low/No-Code Tech Sector Signals Evolving Job Landscape: Insights From ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-a05s-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy A05s</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximize-efficiency-on-chromebooks-discover-essential-navigation-tricks-and-performance-boosters-zdnet/"><u>Maximize Efficiency on Chromebooks: Discover Essential Navigation Tricks & Performance Boosters | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-job-market-the-persistent-value-of-open-source-expertise-and-linux-knowledge-in-challenging-economic-times-insights-from-zdnet/"><u>Navigating the Job Market: The Persistent Value of Open Source Expertise & Linux Knowledge in Challenging Economic Times - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ranking-the-best-artificial-intelligence-prompt-providers-for-your-needs/"><u>Ranking the Best Artificial Intelligence Prompt Providers for Your Needs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-guide-to-revamping-your-windows-11-sign-in-with-passwords-over-pins/"><u>The Guide to Revamping Your Windows 11 Sign-In with Passwords Over PINs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-innovators-flocking-to-open-source-projects-a-deep-dive-zdnet/"><u>Top Innovators Flocking to Open Source Projects - A Deep Dive | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-tech-executive-forecasts-major-evolution-in-cloud-computing-strategies-insights-from-zdnet/"><u>Top Tech Executive Forecasts Major Evolution in Cloud Computing Strategies – Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/work-anywhere-discover-how-onedrives-new-offline-feature-keeps-you-productive-no-matter-where-you-are/"><u>Work Anywhere: Discover How OneDrive's New Offline Feature Keeps You Productive, No Matter Where You Are</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-implementing-exact-timestamp-features-for-youtube/"><u>[New] Implementing Exact Timestamp Features for YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-seamless-audio-visual-synchronization-in-premiere-pro/"><u>[New] Seamless Audio-Visual Synchronization in Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unraveling-friends-pixels-speed-up-searches/"><u>[Updated] 2024 Approved Unraveling Friends' Pixels Speed Up Searches</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-revealing-the-invisible-an-organized-exploration-of-youtubes-secrets/"><u>2024 Approved Revealing the Invisible An Organized Exploration of YouTube's Secrets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-poor-or-nonexistent-ground-system-can-lead-to-reduced-radiation-efficiency-increased-noise-levels-and-potentially-dangerous-rf-exposure/"><u>A Poor or Nonexistent Ground System Can Lead to Reduced Radiation Efficiency, Increased Noise Levels, and Potentially Dangerous RF Exposure.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/act-now-uncover-the-five-essential-strategies-for-windows-11-users-before-microsoft-discontinues-support-zdnet-tech-analysis/"><u>Act Now: Uncover the Five Essential Strategies for Windows 11 Users Before Microsoft Discontinues Support | ZDNet Tech Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-at-the-helm-unveiling-the-top-8-productive-chrome-extensions/"><u>AI at the Helm: Unveiling the Top 8 Productive Chrome Extensions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cognitive-network-technology-debuts-in-midrange-market-via-arista-innovations-tech-news/"><u>Cognitive Network Technology Debuts in Midrange Market via Arista Innovations | Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/emerging-tech-trends-top-developer-roles-and-key-coding-languages-shaping-the-future-insights-from-zdnet/"><u>Emerging Tech Trends: Top Developer Roles & Key Coding Languages Shaping the Future - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-vulnerability-escalates-with-generative-ai-says-crowdstrike-chief-technology-officer-zdnet-insights/"><u>Enterprise Vulnerability Escalates with Generative AI, Says CrowdStrike Chief Technology Officer | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-from-toms-equipment-hub-for-savvy-gamers-and-pros/"><u>Expert Advice From Tom's Equipment Hub for Savvy Gamers and Pros</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/firing-your-tile/"><u>Firing Your Tile</u></a></li>
+<li><a href="https://extra-information.techidaily.com/grasping-av1-starters-guidebook/"><u>Grasping AV1 Starter's Guidebook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-of-upgrading-from-ubuntu-linux-2310-to-2404-a-step-by-step-guide/"><u>Navigating the Challenges of Upgrading From Ubuntu Linux 23.10 to 24.04 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-steps-for-capturing-youtube-livestreams-using-your-desktop/"><u>Quick Steps for Capturing YouTube Livestreams Using Your Desktop</u></a></li>
+<li><a href="https://app-tips.techidaily.com/red-hat-enterprise-linux-release-and-hybrid-cloud/"><u>Red Hat, Enterprise Linux Release, and Hybrid Cloud.</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/seamlessly-manage-your-macs-files-a-simple-guide-to-cutting-and-pasting-documents-efficiently/"><u>Seamlessly Manage Your Mac's Files: A Simple Guide to Cutting & Pasting Documents Efficiently</u></a></li>
+<li><a href="https://app-tips.techidaily.com/side-lobe-control/"><u>Side Lobe Control</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranking-customer-relationship-management-tools-of-2022-ideal-options-for-small-and-medium-businesses-zdnet-insights/"><u>Top-Ranking Customer Relationship Management Tools of 2022: Ideal Options for Small & Medium Businesses - ZDNet Insights</u></a></li>
 </ul></div>
 

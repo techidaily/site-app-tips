@@ -1,7 +1,7 @@
 ---
 title: "Another Cybersecurity Breach: LastPass Compromised Once More"
-date: 2025-01-07T01:17:58.328Z
-updated: 2025-01-09T19:40:01.045Z
+date: 2025-01-09T21:18:02.782Z
+updated: 2025-01-15T20:13:05.989Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,16 +81,14 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oppo-reno-9a-unlock-without-password-by-drfone-android/"><u>5 Solutions For Oppo Reno 9A Unlock Without Password</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bing-chat-explored-in-depth-insights-on-ai-and-gpt-4-integration/"><u>Bing Chat Explored: In-Depth Insights on AI and GPT-4 Integration</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-your-channels-a-guide-to-best-youtube-seo-resources/"><u>Boost Your Channels A Guide to Best YouTube SEO Resources</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-to-chatgpt-2024-unveiling-key-functionalities-and-resolving-internal-errors/"><u>Complete Guide to ChatGPT 2024: Unveiling Key Functionalities and Resolving Internal Errors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-everything-you-need-to-know-about-the-renamed-eva-ai-bot-formerly-known-as-ex-journey/"><u>Discover Everything You Need to Know About the Renamed EVA AI Bot: Formerly Known as Ex Journey</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-elite-choice-in-chatbots-why-chatgpt-reigns-supreme-a-comprehensive-analysis/"><u>Discover the Elite Choice in Chatbots: Why ChatGPT Reigns Supreme - A Comprehensive Analysis</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/harnessing-the-power-of-cookiebot-for-seamless-user-tracking-and-personalization/"><u>Harnessing the Power of Cookiebot for Seamless User Tracking and Personalization</u></a></li>
-<li><a href="https://fox-access.techidaily.com/jokegenius-get-the-best-meme-app-for-2024/"><u>JokeGenius - Get the Best Meme App for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/proiphone-close-ups-unlocking-stunning-image-potential-for-2024/"><u>Proiphone Close-Ups Unlocking Stunning Image Potential for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-poco-x6-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Poco X6 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-winter-wonder-how-soundbot-sb210-delivers-quality-audio-at-its-best-performance-levels/"><u>Unpacking the Winter Wonder: How Soundbot SB210 Delivers Quality Audio at Its Best Performance Levels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-navigating-the-process-of-voice-over-recording-in-media-production/"><u>[Updated] 2024 Approved Navigating the Process of Voice-Over Recording in Media Production</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-olympic-snowboard-x-sprint-highlights-22/"><u>[Updated] Olympic Snowboard X Sprint Highlights '22</u></a></li>
+<li><a href="https://app-tips.techidaily.com/5-advanced-ai-solutions-dominating-the-market-in-automatic-video-editing-technology/"><u>5 Advanced AI Solutions Dominating the Market in Automatic Video Editing Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-elevenlabs-discovering-four-remarkable-alternatives-an-in-depth-analysis-of-their-unique-features/"><u>Beyond ElevenLabs: Discovering Four Remarkable Alternatives - An In-Depth Analysis of Their Unique Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-chatgpt-for-enhanced-emotional-health-and-wellness/"><u>Choosing ChatGPT for Enhanced Emotional Health and Wellness</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-adobes-full-voice-amplifier-features-and-tips/"><u>Comprehensive Guide to Adobe's Full Voice Amplifier: Features & Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-stable-diffusions-text-to-image-generative-ai/"><u>Comprehensive Guide: Understanding Stable Diffusion's Text-to-Image Generative AI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-stylus-and-touch-gestures-when-they-appear-disabled-on-the-monitor/"><u>How to Enable Stylus and Touch Gestures When They Appear Disabled on the Monitor</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/viral-velocity-15-dynamic-steps-to-skyrocketing-follower-count-and-fame-on-instagram-for-2024/"><u>Viral Velocity 15 Dynamic Steps to Skyrocketing Follower Count and Fame on Instagram for 2024</u></a></li>
 </ul></div>
 

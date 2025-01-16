@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Potential: The Role of Expertise and Protection in Advancing Cloud-Native Platforms, According to ZDNet"
-date: 2025-01-07T19:31:52.829Z
-updated: 2025-01-10T03:30:29.737Z
+date: 2025-01-14T17:09:31.938Z
+updated: 2025-01-15T19:42:31.673Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-eradicate-errors-in-facebook-feed-updates/"><u>[New] In 2024, Eradicate Errors in Facebook Feed Updates</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-streamline-action-camera-upgrades-what-to-buy/"><u>[New] Streamline Action Camera Upgrades What to Buy</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-visual-journey-samsungs-ue590-reviewed-for-2024/"><u>[New] The Ultimate Visual Journey - Samsung's UE590 Reviewed for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-total-gigabytes-for-an-entirety-of-daily-films/"><u>[New] Total Gigabytes for an Entirety of Daily Films</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-still-shots-from-video-using-photos-on-windows-10/"><u>2024 Approved Capture Still Shots From Video Using Photos on Windows 10</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-employer-appeal-with-low-code-solutions-insights-from-zdnet/"><u>Boosting Employer Appeal with Low-Code Solutions: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ceo-flips-out-over-team-usage-on-microsoft-teams-office-chaos-unleashed/"><u>CEO Flips Out Over Team Usage on Microsoft Teams - Office Chaos Unleashed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-does-the-conflict-between-russia-and-ukraine-endanger-information-technology-in-ukraine-insights-and-predictions/"><u>How Does the Conflict Between Russia and Ukraine Endanger Information Technology in Ukraine? Insights & Predictions.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-snowflakes-latest-language-model-outshines-metas-llama-less-training-greater-efficiency-zdnet/"><u>How Snowflake's Latest Language Model Outshines Meta's LLaMA 지침 - Less Training, Greater Efficiency | ZDNET</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-the-entrepreneurs-blueprint-for-profiting-from-video-content/"><u>In 2024, The Entrepreneur's Blueprint for Profiting From Video Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/innovating-communication-technology-sony-research-joins-forces-with-ai-singapore-for-advanced-large-language-model-development-zdnet-insights/"><u>Innovating Communication Technology: Sony Research Joins Forces with AI Singapore for Advanced Large Language Model Development | ZDNET Insights</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-communication-with-vivaldi-introducing-a-superior-mail-client-experience-digital-trends/"><u>Revolutionizing Communication with Vivaldi - Introducing a Superior Mail Client Experience | Digital Trends</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-elevate-your-job-search-the-best-video-resume-makers-free-templates/"><u>Updated In 2024, Elevate Your Job Search The Best Video Resume Makers (Free Templates)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-beyond-vimeo-a-compilation-of-premier-video-editors/"><u>[New] 2024 Approved Beyond Vimeo A Compilation of Premier Video Editors</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-boosting-tiktok-engagement-using-zoom-features/"><u>[Updated] In 2024, Boosting TikTok Engagement Using Zoom Features</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-s23plus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel S23+ Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/aomeis-pxe-boot-tool-simplified-steps-for-booting-windows/"><u>Aomei's PXE Boot Tool: Simplified Steps for Booting Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-communication-enhancing-rocketchat-functionality-through-app-add-ons/"><u>Boost Your Communication: Enhancing Rocket.Chat Functionality Through App Add-Ons</u></a></li>
+<li><a href="https://win-help.techidaily.com/gratis-losungen-zum-sichern-ihrer-handykarten-sds-zwei-effiziente-strategien/"><u>Gratis Lösungen Zum Sichern Ihrer Handykarten-SDs: Zwei Effiziente Strategien</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonizing-startech-with-multiple-windows-versions/"><u>Harmonizing StarTech with Multiple Windows Versions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-microsoft-working-on-windows-12-insider-tips-and-unforeseen-projections-digitalchronicle/"><u>Is Microsoft Working on Windows 12? Insider Tips and Unforeseen Projections | DigitalChronicle</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionize-user-interaction-using-xr-virtual-replicas-and-immersive-computing-a-strategic-enterprise-handbook-zdnet/"><u>Revolutionize User Interaction Using XR, Virtual Replicas, and Immersive Computing: A Strategic Enterprise Handbook [ZDNET]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/square-and-cash-app-downtime-essential-info-for-entrepreneurs-tech-news/"><u>Square and Cash App Downtime: Essential Info for Entrepreneurs | Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-the-tangled-web-of-linuxopen-source-documentation-solutions-for-clarity/"><u>Taming the Tangled Web of Linux/Open Source Documentation: Solutions for Clarity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-secure-enterprise-deployments-with-canonicals-distroless-linux-solutions-cybertechdaily/"><u>The Future of Secure Enterprise Deployments with Canonical's Distroless Linux Solutions | CyberTechDaily</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/ultimate-collection-of-comedy-central-videos-in-various-formats-for-easy-download-including-mp4-flv-and-others/"><u>Ultimate Collection of Comedy Central Videos in Various Formats for Easy Download - Including MP4, FLV & Others</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-of-free-stock-image-websites-for-2024/"><u>Updated The Ultimate List of Free Stock Image Websites for 2024</u></a></li>
 </ul></div>
 

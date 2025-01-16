@@ -1,7 +1,7 @@
 ---
 title: Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET
-date: 2025-01-08T20:11:21.640Z
-updated: 2025-01-09T22:43:42.251Z
+date: 2025-01-09T20:14:27.083Z
+updated: 2025-01-15T17:10:56.930Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,24 +68,20 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-bringing-anime-characters-to-life-jujutsu-kaisen-for-tiktok/"><u>[New] Bringing Anime Characters to Life Jujutsu Kaisen for TikTok</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-channel-boosting-strategies-effortless-sponsorship-securing-tips-for-2024/"><u>[New] Channel Boosting Strategies Effortless Sponsorship Securing Tips for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-delving-into-backward-image-analysis-techniques-for-fb-users/"><u>[New] Delving Into Backward Image Analysis Techniques for FB Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-snapshots-of-life-compreenasive-guide-to-capturing-the-journey-of-playing-sims-4/"><u>[New] Snapshots of Life Compreenasive Guide to Capturing the Journey of Playing Sims 4</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-uncomplicated-technique-changing-vocal-pattern-in-winos/"><u>[New] Uncomplicated Technique Changing Vocal Pattern in WinOS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-comprehensive-guide-to-top-ae-extensions/"><u>[Updated] In 2024, Comprehensive Guide to Top AE Extensions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/genuine-insight-into-lightcut-the-ultimate-ai-powered-video-editor-for-your-mobile-devices-android-and-ios/"><u>Genuine Insight Into LightCut: The Ultimate AI-Powered Video Editor for Your Mobile Devices (Android & iOS)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/innovative-approaches-to-photo-sharpening-with-photopeas-background-cutting/"><u>Innovative Approaches to Photo Sharpening with Photopea's Background Cutting</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revitalize-your-iphone-four-effective-methods-to-recover-data-from-icloud/"><u>Revitalize Your iPhone: Four Effective Methods to Recover Data From iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/say-goodbye-to-nuisance-phonecalls-effective-strategies-for-call-blocking-on-ios-and-android-devices/"><u>Say Goodbye to Nuisance Phonecalls: Effective Strategies for Call-Blocking on iOS & Android Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/steelseries-arctis-5-microphone-fixes-issue-solved-expert-advice-included/"><u>SteelSeries Arctis 5 Microphone Fixes: [ISSUE SOLVED] - Expert Advice Included</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-creating-and-sharing-video-calls-via-skype-whatsapp/"><u>Step-by-Step Tutorial: Creating & Sharing Video Calls via Skype, WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-android-lock-screen-widgets-simplify-your-access-with-these-handpicked-free-and-premium-options/"><u>Top 10 Android Lock Screen Widgets: Simplify Your Access with These Handpicked Free and Premium Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-25-best-iphone-video-editors-a-comprehensive-guide-from-iphone-x-to-iphone-5/"><u>Top 25 Best iPhone Video Editors: A Comprehensive Guide From iPhone X to iPhone 5</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-xvid-video-player-guide-ideal-choice-for-pcs-macs-smartphones-and-tablets/"><u>Ultimate Xvid Video Player Guide: Ideal Choice for PCs, Macs, Smartphones & Tablets!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/uncover-secrets-of-stealthy-iphone-programs-strategies-and-methods/"><u>Uncover Secrets of Stealthy iPhone Programs: Strategies and Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620190018-unlock-free-iphone-and-android-entertainment-with-appcake-get-all-your-favorite-cracked-apps-and-games-now/"><u>Unlock Free iPhone & Android Entertainment with AppCake - Get All Your Favorite Cracked Apps & Games Now</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-professional-results-without-the-professionals-diy-movie-making-for-beginners/"><u>Updated Professional Results Without the Professionals DIY Movie Making for Beginners</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-decoding-the-science-of-hash-optimization-for-game-streaming-for-2024/"><u>[New] Decoding the Science of Hash Optimization for Game Streaming for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ulse-of-innovation-selecting-top-quality-dj-visual-downloads-for-2024/"><u>[New] Pulse of Innovation Selecting Top-Quality DJ Visual Downloads for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-screen-streaming-showdown-whos-the-champion-in-2024-obs-or-shadowgl/"><u>[New] Screen Streaming Showdown Who's the Champion, In 2024 OBS or ShadowGL?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/mooth-streaming-selective-stabilizer-guidebook/"><u>[New] Smooth Streaming Selective Stabilizer Guidebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-guide-to-enhancing-post-reach-via-hashtags-on-instagram/"><u>[New] The Ultimate Guide to Enhancing Post Reach via Hashtags on Instagram</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620191219-7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-graphically-advanced-game-emulators-high-quality-visuals-and-optimal-frame-rates/"><u>Best Graphically Advanced Game Emulators: High-Quality Visuals & Optimal Frame Rates</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-uwu-text-to-speech-apps-mastering-anime-character-vocalization-techniques/"><u>Best UwU Text-to-Speech Apps: Mastering Anime Character Vocalization Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/concealing-applications-a-step-by-step-guide-for-android-ios-devices/"><u>Concealing Applications: A Step-by-Step Guide for Android, iOS Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-video-game-lore-with-ai-help/"><u>Enhancing Video Game Lore with AI Help</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-latin-to-modern-expressions-romance-languages/"><u>From Latin to Modern Expressions: Romance Languages</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-redownload-or-restore-your-bought-apps-and-in-app-items-on-ios/"><u>Step-by-Step Guide: Redownload or Restore Your Bought Apps & In-App Items on iOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-xvid-media-player-compatible-with-windows-macos-android-and-iphone/"><u>Top Rated Xvid Media Player: Compatible with Windows, MacOS, Android & iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transitioning-audio-realms-in-reapers-bouncing-beats/"><u>Transitioning Audio Realms in Reaper's Bouncing Beats</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silence-solutions-for-g435-headset-lacking-audio/"><u>Troubleshooting Silence: Solutions for G435 Headset Lacking Audio</u></a></li>
 </ul></div>
 

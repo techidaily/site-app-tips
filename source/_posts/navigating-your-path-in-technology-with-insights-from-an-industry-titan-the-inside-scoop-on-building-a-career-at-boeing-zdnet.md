@@ -1,7 +1,7 @@
 ---
 title: Navigating Your Path in Technology with Insights From an Industry Titan - The Inside Scoop on Building a Career at Boeing [ZDNet]
-date: 2025-01-03T16:59:36.029Z
-updated: 2025-01-10T04:38:03.257Z
+date: 2025-01-14T00:21:59.025Z
+updated: 2025-01-15T21:38:52.762Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-essential-top-6-digital-engagement-channels-for-companies-for-2024/"><u>[New] Essential Top 6 Digital Engagement Channels for Companies for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-understanding-youtubes-monetization-schedule/"><u>[New] In 2024, Understanding YouTube's Monetization Schedule</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2023s-top-pick-of-affordable-live-stream-tech-for-every-platform-user-for-2024/"><u>2023'S Top Pick of Affordable Live Stream Tech for Every Platform User for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-cloud-storage-pricing-comparison-and-best-price-recommendations/"><u>2024 Approved Cloud Storage Pricing Comparison and Best Price Recommendations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-the-best-elearning-software-of-2023-detailed-comparisons-and-insights-zdnet/"><u>Explore the Best eLearning Software of 2023 - Detailed Comparisons and Insights | ZDNet</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-12-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone 12?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-confirms-engineers-enthusiasm-for-windows-11-insights-from-zdnet/"><u>Microsoft Confirms Engineers' Enthusiasm for Windows 11: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-xr-and-spatial-tech-how-digital-twins-enhance-ux-for-businesses-insights-from-zdnet/"><u>Navigating XR & Spatial Tech: How Digital Twins Enhance UX for Businesses - Insights From ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209661285-9781547575312-o-pai-de-megan-adoece/"><u>O Pai de Megan Adoece | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/resending-deleted-messages-in-microsoft-outlook-a-step-by-step-guide-techradar/"><u>Resending Deleted Messages in Microsoft Outlook: A Step-by-Step Guide - TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simplify-development-enhance-hiring-potential-the-power-of-low-code-technologies-in-recruitment/"><u>Simplify Development, Enhance Hiring Potential - The Power of Low-Code Technologies in Recruitment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-packed-tutorial-for-a-nonfunctional-steelseries-arctis-pro-microphone/"><u>Solution-Packed Tutorial for a Nonfunctional SteelSeries Arctis Pro Microphone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-6-must-have-task-management-tools-reviews-by-tech-experts/"><u>Top 6 Must-Have Task Management Tools : Reviews by Tech Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranking-screen-capture-tools-and-applications-a-comprehensive-review-by-zdnet/"><u>Top-Ranking Screen Capture Tools & Applications - A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-unfreezing-call-of-duty-vanguard-gameplay-smoothly/"><u>Troubleshooting Tips for Unfreezing Call of Duty: Vanguard Gameplay Smoothly</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unlock-social-media-secrets-with-instagram-insights-for-2024/"><u>Unlock Social Media Secrets with Instagram Insights for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-security-flaw-exposed-in-linuxs-essential-curl-utility-with-immediate-patch-available-report-by-zdnet/"><u>Urgent Security Flaw Exposed in Linux's Essential Curl Utility, with Immediate Patch Available | Report by ZDNET</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-from-undiscovered-to-famous-the-seo-playbook-for-your-podcast/"><u>[Updated] From Undiscovered to Famous The SEO Playbook for Your Podcast</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unlocking-content-potential-through-youtube-aspect-ratios/"><u>2024 Approved Unlocking Content Potential Through YouTube Aspect Ratios</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-ai-responsibly-with-open-source-innovations-insights-from-zdnet/"><u>Advancing AI Responsibly with Open Source Innovations - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/fortify-your-digital-space-safeguarding-homesme-pcs-with-microsofts-security-solutions/"><u>Fortify Your Digital Space: Safeguarding Home/SME PCs with Microsoft's Security Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/immutable-linux-explained-how-a-static-system-can-enhance-your-it-infrastructure/"><u>Immutable Linux Explained: How a Static System Can Enhance Your IT Infrastructure</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/innovative-management-solutions-for-multilingualism/"><u>Innovative Management Solutions for Multilingualism</u></a></li>
+<li><a href="https://app-tips.techidaily.com/insecurity-in-linux-based-systems-latest-findings-reveal-yes-with-potential-fixes-insights-from-a-new-study-zdnet/"><u>Insecurity in Linux-Based Systems: Latest Findings Reveal Yes with Potential Fixes - Insights From a New Study | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-microsofts-new-release-bound-to-irk-users-or-surprise-them-positively-insights-from-zdnet/"><u>Is Microsoft's New Release Bound to Irk Users, or Surprise Them Positively? Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-process-steps-to-add-your-domain-securely-on-mac-os-xs-mail-application/"><u>Mastering the Process: Steps to Add Your Domain Securely on Mac OS X's Mail Application</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-latest-feature-ignites-controversy-unseen-release-sparks-user-backlash/"><u>Microsoft's Latest Feature Ignites Controversy – Unseen Release Sparks User Backlash</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171600737-ps3s-secrets-no-microphones-allowed-here/"><u>Ps3's Secrets: No Microphones Allowed Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-freeze-issues-on-iphones-step-by-step-troubleshooting-tips/"><u>Resolving Freeze Issues on iPhones: Step-by-Step Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steer-clear-from-malware-the-dangers-hidden-in-the-google-bard-app/"><u>Steer Clear From Malware: The Dangers Hidden in the Google Bard App</u></a></li>
 </ul></div>
 

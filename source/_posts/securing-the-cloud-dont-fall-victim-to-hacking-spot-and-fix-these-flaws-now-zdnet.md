@@ -1,7 +1,7 @@
 ---
 title: "Securing the Cloud: Don’t Fall Victim to Hacking - Spot and Fix These Flaws Now! | ZDNet"
-date: 2025-01-05T01:01:06.845Z
-updated: 2025-01-09T17:53:52.709Z
+date: 2025-01-14T18:31:36.151Z
+updated: 2025-01-15T23:06:20.814Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -116,7 +116,7 @@ Analysis of identity and access management (IAM) polices taking into account hun
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -137,7 +137,7 @@ Another practice that isn't helping IT departments is [poor password security](h
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### special feature
@@ -157,7 +157,7 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -183,18 +183,22 @@ IT departments should also consider whether regular accounts need administrator 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-capture-and-craft-premium-coverings-for-iphonesandroid/"><u>[New] 2024 Approved Capture and Craft Premium Coverings for iPhones/Android</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-dealing-with-copyright-infringement-notices-on-youtube-for-2024/"><u>[Updated] Dealing with Copyright Infringement Notices on YouTube for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-trailer-treasure-chest/"><u>2024 Approved Ultimate Trailer Treasure Chest</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-and-fair-evaluation-of-airwatch-your-ultimate-guide/"><u>Comprehensive and Fair Evaluation of AirWatch - Your Ultimate Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-factual-inshot-video-editing-tool-of-2024-a-must-see/"><u>Discover the Top Factual InShot Video Editing Tool of 2024 - A MUST-SEE!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-and-use-the-free-ogg-media-player-compatible-with-pc-and-mac/"><u>Download & Use the Free OGG Media Player Compatible with PC & Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-photography-skills-discover-5-remarkable-tools-for-upgrading-and-perfecting-images-beyond-remini/"><u>Elevate Your Photography Skills: Discover 5 Remarkable Tools for Upgrading and Perfecting Images Beyond Remini</u></a></li>
-<li><a href="https://blog-min.techidaily.com/enhance-your-broadcasts-using-manycams-advanced-virtual-webcam-features/"><u>Enhance Your Broadcasts Using ManyCam's Advanced Virtual Webcam Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/harmonizing-audio-and-visuals-in-win11/"><u>Harmonizing Audio and Visuals in Win11</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Additional Tips About Sinnoh Stone For Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-15-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 15</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-vision-into-reality-windows-11-video-creation-for-2024/"><u>Transform Your Vision Into Reality Windows 11 Video Creation for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193087-ultimate-review-of-the-shotcut-app-unveil-its-features-and-benefits-now/"><u>Ultimate Review of the Shotcut App: Unveil Its Features and Benefits Now!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-buy-subscribers-wisely-watch-your-numbers-soar/"><u>[New] Buy Subscribers Wisely, Watch Your Numbers Soar</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-meme-crafters-den/"><u>[New] In 2024, Meme Crafter's Den</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-ranking-of-free-easy-to-use-image-overlay-apps-on-smartphones/"><u>[New] In 2024, Ranking of Free, Easy-to-Use Image Overlay Apps on Smartphones</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-precision-techniques-in-spinning-and-fusing-android-videography-for-2024/"><u>[New] Precision Techniques in Spinning & Fusing Android Videography for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unbeatable-deals-on-top-quality-budget-friendly-asmr-mics/"><u>[New] Unbeatable Deals on Top Quality, Budget-Friendly ASMR Mics</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-craft-compelling-fb-video-ads-free-toolkit-included/"><u>[Updated] Craft Compelling FB Video Ads - Free Toolkit Included</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-android-projector-applications-top-8-picks-for-seamless-wireless-connection/"><u>Best Android Projector Applications: Top 8 Picks for Seamless Wireless Connection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-analyzing-the-features-of-picku-app-and-its-affordable-photoshop-substitutes/"><u>Comprehensive Guide: Analyzing the Features of PickU App and Its Affordable Photoshop Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-on-converting-gif-files-to-apng-format-with-software-such-as-ezgif-and-aiseesoft/"><u>Comprehensive Tutorial on Converting GIF Files to APNG Format with Software Such as Ezgif & Aiseesoft</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193990-experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-ultimate-5-choices-of-wi-fi-based-chat-applications-for-effortless-texting-online/"><u>Exploring the Ultimate 5 Choices of Wi-Fi Based Chat Applications for Effortless Texting Online</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-8-must-have-multi-window-programs-for-android-phones-and-tablets/"><u>The Ultimate List of 8 Must-Have Multi-Window Programs for Android Phones & Tablets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-13-kostenlose-skarmprogram-for-olofoner-movavi/"><u>Top 13 Kostenlose Skärmprogram För Olofoner - Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/turbocharged-learning-techniques-for-global-lingua-franca/"><u>Turbocharged Learning Techniques for Global Lingua Franca</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-full-simplemdm-must-know-reviews-for-your-ios-and-mac-experience/"><u>Unveiling Full SimpleMDM: Must-Know Reviews for Your iOS and Mac Experience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-vita-your-ultimate-guide-to-mastering-the-cutting-edge-video-editor/"><u>Unveiling the Power of VITA: Your Ultimate Guide to Mastering the Cutting-Edge Video Editor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/yuneecs-typhoon-h-unmasked-detailed-uav-analysis/"><u>Yuneec's Typhoon H Unmasked Detailed UAV Analysis</u></a></li>
 </ul></div>
 

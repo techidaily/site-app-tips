@@ -1,7 +1,7 @@
 ---
 title: "Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal"
-date: 2025-01-05T04:18:10.156Z
-updated: 2025-01-10T00:24:18.160Z
+date: 2025-01-14T20:34:28.221Z
+updated: 2025-01-16T00:48:16.446Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/0a9719ddcbae5c52ddb9477f8674bda6f7443fbaa
 The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it suffered a ransomware attack in July that led to the breach of sensitive employee and patient information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it
 [![2020-03-18-at-12-23-32-pm.jpg](https://www.zdnet.com/a/img/resize/3c34ebf72342b1f0704550e1e2edf445f0628572/2020/03/18/7c2e2258-7566-4e66-9059-a1a8aedf00b4/2020-03-18-at-12-23-32-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best security key While robust passwords help you secure your valuable online accounts, hardware-based two-factor authentication takes that security to the next level.  Read now](https://www.zdnet.com/article/best-security-key/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The breach involves the information of 750,000 patients and 522 current and former OAG employees. 
@@ -90,17 +90,22 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-techniques-to-perfectly-transcribe-ppts/"><u>[New] In 2024, Techniques to Perfectly Transcribe PPTs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-insights-on-integrating-chatgpt-in-health-advice/"><u>7 Insights on Integrating ChatGPT in Health Advice</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/budget-friendly-vixia-camcorder-spotlight-the-r800/"><u>Budget-Friendly VIXIA Camcorder Spotlight: The R800</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-most-effective-cross-platform-chat-applications-for-ios-and-android-devices/"><u>Discover the Most Effective Cross-Platform Chat Applications for iOS and Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-8-leading-projector-apps-for-effortless-wi-fi-hookup-on-your-android-device/"><u>Discover the Ultimate List of 8 Leading Projector Apps for Effortless Wi-Fi Hookup on Your Android Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-tricks-for-bypassing-android-restrictions-in-just-a-few-taps/"><u>Effortless Tricks for Bypassing Android Restrictions in Just a Few Taps</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/rapid-bengali-lessons-daily/"><u>Rapid Bengali Lessons (Daily)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rescue-your-precious-moments-a-list-of-the-best-6-iphone-photography-recovery-tools/"><u>Rescue Your Precious Moments: A List of the Best 6 iPhone Photography Recovery Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-your-windows-zone-visible-or-not/"><u>Securing Your Windows Zone, Visible or Not</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategic-changes-to-login-credentials-on-win-11/"><u>Strategic Changes to Login Credentials on Win 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/twofold-tongue-techniques/"><u>Twofold Tongue Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-review-of-the-shotcut-app-unveil-its-features-and-benefits-now/"><u>Ultimate Review of the Shotcut App: Unveil Its Features and Benefits Now</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-pro-photographers-choices-ranking-the-top-6-4k-dslrs/"><u>[New] In 2024, Pro Photographers’ Choices Ranking the Top 6 4K DSLRs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-gmail-and-zoom-for-productive-video-collaboration/"><u>[New] Navigating Gmail and Zoom for Productive Video Collaboration</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-choosing-screen-clarity-is-ultrawide-or-uhd-4k-better/"><u>2024 Approved Choosing Screen Clarity Is UltraWide or UHD 4K Better?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-expertly-crafted-drama-hub/"><u>2024 Approved Expertly Crafted Drama Hub</u></a></li>
+<li><a href="https://win-answers.techidaily.com/burning-iso-files-to-dvd-in-windows-top-2-no-cost-techniques-for-windows-11-and-earlier-versions/"><u>Burning ISO Files to DVD in Windows - Top 2 No-Cost Techniques for Windows 11 & Earlier Versions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-and-assessment-unveiling-the-power-of-vllo-video-editor/"><u>Comprehensive Analysis & Assessment: Unveiling the Power of VLLO Video Editor</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-evaluation-the-picku-application-and-comparable-no-cost-image-editing-solutions/"><u>Expert Evaluation: The PickU Application & Comparable No-Cost Image Editing Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-advanced-concepts-in-googles-mobile-device-management-mdm-and-its-future-capabilities-a-comprehensive-guide/"><u>Explore Advanced Concepts in Google's Mobile Device Management (MDM) and Its Future Capabilities – A Comprehensive Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-se-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone SE? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/innovative-tools-for-high-definition-gaming-logging-beyond-fbx-for-2024/"><u>Innovative Tools for High-Definition Gaming Logging Beyond FBX for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-tips-effective-techniques-to-preserve-all-your-iphone-app-data/"><u>Quick Tips: Effective Techniques to Preserve All Your iPhone App Data</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-g2-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-8-exceptional-multitasking-applications-for-your-android-device/"><u>Top 8 Exceptional Multitasking Applications for Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-top-rated-mobile-phone-video-editing-software-with-kinemaster-features/"><u>Ultimate Guide: Top Rated Mobile Phone Video Editing Software with KineMaster Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-of-top-10-android-game-cracking-apps-work-with-or-without-root-access/"><u>Ultimate List of Top 10 Android Game Cracking Apps - Work with or without Root Access</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-secure-android-app-protectors-find-out-which-ones-rank-the-highest/"><u>Ultimate Selection of Secure Android App Protectors – Find Out Which Ones Rank the Highest</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-guide-to-downloading-usb-c-drivers-for-windows-11-users/"><u>Updated Guide to Downloading USB-C Drivers for Windows 11 Users</u></a></li>
 </ul></div>
 

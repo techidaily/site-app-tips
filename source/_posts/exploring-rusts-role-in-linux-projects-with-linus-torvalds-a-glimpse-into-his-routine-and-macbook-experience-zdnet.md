@@ -1,7 +1,7 @@
 ---
 title: "Exploring Rust's Role in Linux Projects with Linus Torvalds: A Glimpse Into His Routine and MacBook Experience - ZDNet"
-date: 2025-01-06T04:41:05.070Z
-updated: 2025-01-10T01:28:17.314Z
+date: 2025-01-13T21:54:56.163Z
+updated: 2025-01-15T19:17:03.826Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/company-names-revolutionary-ai-for-sustainable-smart-appliances-spotlight-on-zdnet-review/"><u>[Company Name]'s Revolutionary AI for Sustainable Smart Appliances: Spotlight on ZDNET Review</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ptimal-video-posting-frequency-for-increased-youtube-popularity-for-2024/"><u>[New] Optimal Video Posting Frequency for Increased YouTube Popularity for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-proactive-ways-to-record-breathtaking-live-sports-games-for-2024/"><u>[New] Proactive Ways to Record Breathtaking Live Sports Games for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capturing-clarity-perfecting-image-description-via-text-in-pcmac/"><u>[Updated] Capturing Clarity Perfecting Image Description via Text in PC/Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-manager-training-essential-before-introducing-artificial-intelligence-in-business-insights-from-zdnet/"><u>1. Manager Training Essential Before Introducing Artificial Intelligence in Business: Insights From ZDNet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-alternate-avenues-a-compilation-of-non-gta-games/"><u>2024 Approved Alternate Avenues A Compilation of Non-GTA Games</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-marketing-crews-embrace-advanced-tech-zdnet-insights/"><u>AI Integration: One-Third of Marketing Crews Embrace Advanced Tech | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-ais-horizon-discover-the-accelerating-wave-of-emerging-technologies/"><u>Beyond AI's Horizon: Discover the Accelerating Wave of Emerging Technologies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-ai-evolution-is-pushing-the-limits-of-todays-tech-infrastructure-insights-from-zdnet/"><u>How AI Evolution Is Pushing the Limits of Today's Tech Infrastructure: Insights From ZDNet</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y78-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y78 5G Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-fintech-figures-demand-thinking-revolution-not-simple-prompts-to-shape-ai-future/"><u>Leading Fintech Figures Demand Thinking Revolution, Not Simple Prompts, to Shape AI Future</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/modern-warfare-3-pc-stability-issues-heres-how-to-troubleshoot-and-resolve-them/"><u>Modern Warfare 3 PC Stability Issues? Here's How to Troubleshoot and Resolve Them</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-age-of-artificial-intelligence-strategies-for-tech-experts-to-excel-in-their-careers-zdnet/"><u>Navigating the Age of Artificial Intelligence: Strategies for Tech Experts to Excel in Their Careers | ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-sea-of-thieves-not-starting-problems-for-a-smooth-sailing-adventure/"><u>Overcoming Sea of Thieves Not Starting Problems for a Smooth Sailing Adventure</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/ssdwindows-10-os2/"><u>SSDへのWindows 10 OS設定:上位2つの導入方法を解禄する</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/strategic-animation-techniques-to-boost-your-facebook-ad-roi/"><u>Strategic Animation Techniques to Boost Your Facebook Ad ROI</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-ai-how-multiple-machine-learning-models-will-power-your-business-according-to-zdnet/"><u>The Future Is AI: How Multiple Machine Learning Models Will Power Your Business, According to ZDNet</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/turbocharge-youtube-videos-efficient-rendering-fast-transfer-for-2024/"><u>Turbocharge YouTube Videos Efficient Rendering, Fast Transfer for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-singapore-advocates-for-financial-backing-of-ai-integration-and-carbon-neutral-goals/"><u>ZDNet Exclusive: Singapore Advocates for Financial Backing of AI Integration and Carbon-Neutral Goals</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-essential-tips-for-enhancing-posts-on-snapchat-for-2024/"><u>[Updated] Essential Tips for Enhancing Posts on Snapchat for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-picks-video-grabbers-on-microsofts-os/"><u>2024 Approved Top Picks Video Grabbers on Microsoft's OS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-c-suite-digital-literacy-a-guide-to-tech-education-in-six-steps-zdnet/"><u>Advancing C-Suite Digital Literacy: A Guide to Tech Education in Six Steps | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-dominates-the-surge-in-non-cash-payments-expected-to-reach-16-trillion-zdnet-insights/"><u>Asia Dominates the Surge in Non-Cash Payments Expected to Reach $1.6 Trillion | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-streamlined-regulations-are-boosting-aseans-path-to-a-2t-digital-economy-by-2030-featured-on-zdnet/"><u>How Streamlined Regulations Are Boosting ASEAN's Path to a $2T Digital Economy by 2030, Featured on ZDNET</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-hue-shifts-a-guide-to-efficient-photoshop-corrections/"><u>In 2024, Mastering Hue Shifts A Guide to Efficient Photoshop Corrections</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-visual-detail-with-kinemasters-zooming-features/"><u>In 2024, Optimizing Visual Detail with Kinemaster’s Zooming Features</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-6-plus-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 6 Plus Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovating-for-sustainability-ais-role-in-developing-next-gen-green-smart-appliances-exclusive-report/"><u>Innovating for Sustainability: AI's Role in Developing Next-Gen Green Smart Appliances | Exclusive Report</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-challenges-in-ai-for-profitable-ventures-expert-tips-by-zdnet/"><u>Navigating Challenges in AI for Profitable Ventures | Expert Tips by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainties-of-ai-outputs-and-reliability-in-modern-tech-challenges/"><u>Navigating the Uncertainties of AI Outputs & Reliability in Modern Tech Challenges</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-meizu-21-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Meizu 21 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-balance-between-ai-advancements-and-job-expansion-within-the-cybersecurity-sector-insights-from-zdnet/"><u>The Balance Between AI Advancements and Job Expansion Within the Cybersecurity Sector: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-headphones-at-unbeatable-prices-march-2024-savings-guide/"><u>Top-Rated Headphones at Unbeatable Prices: March 2024 Savings Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Where Is the Best Place to Catch Dratini On Apple iPhone 7 | Dr.fone</u></a></li>
 </ul></div>
 

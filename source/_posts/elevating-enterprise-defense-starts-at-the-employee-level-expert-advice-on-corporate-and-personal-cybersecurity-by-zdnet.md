@@ -1,7 +1,7 @@
 ---
 title: Elevating Enterprise Defense Starts at the Employee Level – Expert Advice on Corporate and Personal Cybersecurity by ZDNet
-date: 2025-01-07T19:50:41.750Z
-updated: 2025-01-09T22:46:22.640Z
+date: 2025-01-14T16:42:45.595Z
+updated: 2025-01-15T18:16:49.587Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Corporations aren't doing enough to improve their employees' personal security practices. Credentials remain the highest targeted data type as they are the gateway to ransomware and data theft. 61% of data breaches in 2021 involved the use of stolen and misused credentials. Bad actors took advantage of a global pandemic to increase the number of phishing attacks, the cause of stolen credentials in 36% of breaches -- a 9% increase over last year -- according to the [Verizon 2021 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdfx). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,19 +66,22 @@ Given how connected we all are, the rising demands of working anywhere, and incr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-your-vlogs-with-high-quality-editing-premiere-pro-style/"><u>[New] In 2024, Elevating Your Vlogs with High-Quality Editing - Premiere Pro Style</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-zenful-grooves-top-20-tranquil-country-beats-for-stress-free-dancing-tiktok/"><u>[New] In 2024, Zenful Grooves Top 20 Tranquil Country Beats for Stress-Free Dancing (TikTok)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-mastering-the-use-of-screencastify-app-step-by-step-guide/"><u>[Updated] Mastering the Use of Screencastify App Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-ways-to-keep-your-apps-private-on-smartphones-and-tablets-android-and-apple/"><u>Effective Ways to Keep Your Apps Private on Smartphones & Tablets (Android & Apple)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-outputs-in-devices-with-realtek-sound-cards/"><u>Fixing Silent Outputs in Devices with Realtek Sound Cards</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193676-get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-most-effective-android-management-software-from-pc-updated-top-picks/"><u>The Most Effective Android Management Software From PC - Updated Top Picks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-free-online-and-mobile-apps-for-crafting-hilarious-memes-effortlessly/"><u>Top Free Online & Mobile Apps for Crafting Hilarious Memes Effortlessly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-applications-for-seamlessly-casting-your-iphone-display-onto-tv-or-computer/"><u>Top-Rated Applications for Seamlessly Casting Your iPhone Display Onto TV or Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-setting-up-advanced-gmail-rules-for-specific-needs/"><u>Ultimate Guide to Setting Up Advanced Gmail Rules for Specific Needs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-immediate-advantages-with-ios-153-update-without-delay/"><u>Unlock Immediate Advantages with iOS 15.3 - Update Without Delay</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-what-software-does-youtube-vloggers-use-and-what-is-the-best-free-video-editing-software-for-vlogger-beginners-in-this-article-youll-find-5-best-vlo/"><u>Updated What Software Does YouTube Vloggers Use? And What Is the Best Free Video Editing Software for Vlogger Beginners? In This Article, Youll Find 5 Best Vlog Video Editing Software. You Can Now Choose Th for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-emoji-tips-for-yt-comments-a-quick-guide/"><u>[New] In 2024, Emoji Tips for YT Comments A Quick Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-perfect-your-audio-iphone-voice-memo-processing/"><u>[New] Perfect Your Audio IPhone Voice Memo Processing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-effortless-audio-collection-from-your-imac-for-2024/"><u>[Updated] Effortless Audio Collection From Your iMac for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-can-you-legally-capture-video-from-youtube/"><u>[Updated] In 2024, Can You Legally Capture Video From YouTube?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-classroom-visuals-cutting-edge-video-edits-for-teachers/"><u>[Updated] In 2024, Classroom Visuals Cutting Edge Video Edits for Teachers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-cleansing-apps-for-iphone-top-free-options-for-enhanced-performance/"><u>Best Cleansing Apps for iPhone: Top Free Options for Enhanced Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-effortless-videodownloads-on-pinterest-with-5-best-tools-for-2024/"><u>Experience Effortless Videodownloads on Pinterest with 5 Best Tools for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expertly-curated-list-the-ultimate-9plus1-video-streaming-solutions-for-android-devices/"><u>Expertly Curated List: The Ultimate 9+1 Video Streaming Solutions for Android Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-beauty-vlogs-from-basics-to-brilliance-launching-a-youtube-channel/"><u>In 2024, Beauty Vlogs From Basics to Brilliance Launching a YouTube Channel</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-office-design-evolution-trends-and-practices-for-maximum-output/"><u>In 2024, Office Design Evolution Trends and Practices for Maximum Output</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-vn-video-editor-benefits-drawbacks-and-top-substitutes/"><u>In-Depth Analysis: VN Video Editor - Benefits, Drawbacks & Top Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/plant-root-exudates-as-modulators-of-soil-microbiota-diversity-and-function/"><u>Plant Root Exudates as Modulators of Soil Microbiota Diversity and Function</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-moving-your-iphone-applications-seamlessly-between-iphones/"><u>Step-by-Step Guide: Moving Your iPhone Applications Seamlessly Between iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-free-gba-emulators-your-ultimate-guide-to-playing-game-boy-advance-titles-on-pc/"><u>Top 5 Free GBA Emulators: Your Ultimate Guide to Playing Game Boy Advance Titles on PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-file-management-apps-for-android-user-reviews-and-comparisons/"><u>Top-Rated File Management Apps for Android: User Reviews and Comparisons</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-everyone-needs-to-try-the-newly-updated-factual-inshot-editor-unleash-your-creativity/"><u>Why Everyone Needs to Try the Newly Updated Factual InShot Editor - Unleash Your Creativity!</u></a></li>
 </ul></div>
 

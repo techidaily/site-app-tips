@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Russian Aggression on Ukraine's Tech Sector: Potential Risks and Concerns"
-date: 2025-01-07T02:27:21.770Z
-updated: 2025-01-09T21:12:17.644Z
+date: 2025-01-13T19:36:32.228Z
+updated: 2025-01-15T16:51:51.678Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-five-trailblazers-shaping-the-webs-audiovideo-landscape/"><u>[New] Five Trailblazers Shaping the Web's Audio/Video Landscape</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigate-the-world-of-video-conferencing/"><u>[New] Navigate the World of Video Conferencing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-how-to-add-music-to-a-video-on-iphone-3-free-ways/"><u>[Updated] How to Add Music to a Video on iPhone [3 FREE WAYS]</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g14-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-lightspeed-on-openshift-the-intelligent-ai-companion-for-your-kubernetes-clusters-zdnet/"><u>Discover Lightspeed on OpenShift – The Intelligent AI Companion for Your Kubernetes Clusters | ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-fixes-for-unrecognized-audio-devices-on-your-windows-laptop-or-desktop/"><u>Easy Fixes for Unrecognized Audio Devices on Your Windows Laptop or Desktop</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/enlarge-facebook-videos-to-full-screen-for-impact/"><u>Enlarge Facebook Videos to Full Screen for Impact</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experts-choose-the-leading-network-surveillance-software-comprehensive-review-and-selection-guide-techinsight/"><u>Experts Choose the Leading Network Surveillance Software : Comprehensive Review and Selection Guide | TechInsight</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-rising-popularity-of-rust-and-importance-of-linux-kernel-in-modern-computing/"><u>Linus Torvalds Discusses Rising Popularity of Rust & Importance of Linux Kernel in Modern Computing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-new-release-a-game-changer-or-annoyance-find-out-how-it-stacks-up-zdnet/"><u>Microsoft's New Release: A Game Changer or Annoyance? Find Out How It Stacks Up [ZDNet]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-overlap-of-kernel-issues-and-cybersecurity-in-linux-environments-strategies-to-maintain-safety/"><u>Navigating the Overlap of Kernel Issues & Cybersecurity in Linux Environments - Strategies to Maintain Safety</u></a></li>
-<li><a href="https://app-tips.techidaily.com/prepare-for-windows-10-eol-explore-five-essential-upgrades-or-migrations-options-now-zdnet-insights/"><u>Prepare for Windows 10 EOL: Explore Five Essential Upgrades or Migrations Options Now | ZDNet Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-swap-out-chars-for-newlines-in-notepad-plusplus/"><u>Step-by-Step Guide: Swap Out Chars for Newlines in Notepad ++</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-recommended-mac-software-insights-from-zdnet/"><u>Top Recommended Mac Software - Insights From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-freezing-problems-during-windows-10-launch/"><u>Understanding and Repairing Freezing Problems During Windows 10 Launch</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-red-hats-lightspeed-an-advanced-ai-solution-tailored-for-kubernetes-admins-with-openshift-zdnet/"><u>Unveiling Red Hat’s Lightspeed: An Advanced AI Solution Tailored for Kubernetes Admins with OpenShift | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/where-is-microsofts-promised-free-windows-10-update-now/"><u>Where Is Microsoft's Promised Free Windows 10 Update Now?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-and-easy-building-attractive-youtube-intros-without-expense/"><u>[New] 2024 Approved Free & Easy Building Attractive YouTube Intros without Expense</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-ultimate-non-discord-communication-solutions/"><u>[New] In 2024, Ultimate Non-Discord Communication Solutions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-step-by-step-guide-moving-youtube-content-to-dailymotion/"><u>[Updated] Step-by-Step Guide Moving YouTube Content to Dailymotion</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-mastering-immersive-video-expert-techniques-to-enhance-your-360-edits-in-premierepro/"><u>2024 Approved Mastering Immersive Video Expert Techniques to Enhance Your 360° Edits in PremierePro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-developer-productivity-and-endurance-with-github-copilot-a-zdnet-insight/"><u>Advancing Developer Productivity & Endurance with GitHub Copilot - A ZDNet Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-evolution-of-developer-roles-insights-from-atlassians-agnes-ro-featured-in-zdnet/"><u>Exploring the Evolution of Developer Roles: Insights From Atlassian’s Agnes Ro – Featured in ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guidelines-for-reducing-shake-in-mobile-videos-for-2024/"><u>Guidelines for Reducing Shake in Mobile Videos for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-motorola-moto-g13-screen-sharing-drfone-by-drfone-android/"><u>How To Do Motorola Moto G13 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-the-free-windows-10-update-still-available-detailed-insights-from-zdnet/"><u>Is the Free Windows 10 Update Still Available? Detailed Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-cloud-native-futures-unveiling-skillsets-and-enhanced-security-in-emerging-platforms-insights-from-zdnet/"><u>Navigating Cloud-Native Futures: Unveiling Skillsets & Enhanced Security in Emerging Platforms - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-operating-environment-for-device-interfaces/"><u>Optimizing Windows Operating Environment for Device Interfaces</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-guide-to-sharpening-distorted-monitors/"><u>Quick Guide to Sharpening Distorted Monitors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-converting-your-computer-from-windows-to-linux-mint-for-beginners/"><u>Step-by-Step Tutorial: Converting Your Computer From Windows to Linux Mint for Beginners</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/syncing-webcam-footage-with-screen-recording-for-2024/"><u>Syncing Webcam Footage with Screen Recording for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transferring-iphone-pictures-seamlessly-onto-a-windows-machine-complete-tutorial/"><u>Transferring iPhone Pictures Seamlessly Onto a Windows Machine - Complete Tutorial</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Phishers' Favorite Targets Revealed: How DHL, Microsoft & WhatsApp Top SEO Lists for Brand Fraud | ZDNet Insights"
-date: 2025-01-02T17:48:07.621Z
-updated: 2025-01-10T05:36:05.772Z
+date: 2025-01-13T23:43:21.823Z
+updated: 2025-01-15T18:45:55.965Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 ## Phishers' Favorite Targets Revealed: How DHL, Microsoft & WhatsApp Top SEO Lists for Brand Fraud | ZDNet Insights
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,22 +77,22 @@ Check Point Research
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-step-by-step-guide-to-applying-new-colors-and-textures-on-past-media/"><u>[New] 2024 Approved Step-by-Step Guide to Applying New Colors & Textures on Past Media</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-compress-iphone-videos-how-to-shorten-without-quality-loss/"><u>2024 Approved Compress iPhone Videos How to Shorten Without Quality Loss</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-your-drones-visual-potential-essential-gimbal-selection-tips/"><u>2024 Approved Maximize Your Drones' Visual Potential Essential Gimbal Selection Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-10-mobile-messaging-platforms-top-picks-for-ios-and-android-devices/"><u>Best 10 Mobile Messaging Platforms: Top Picks for iOS and Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/creative-loops-made-easy-with-the-top-4-mobile-apps-for-android-and-ios-users/"><u>Creative Loops Made Easy with the Top 4 Mobile Apps for Android and iOS Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-guide-sending-video-messages-on-skype-and-whatsapp/"><u>Easy Guide: Sending Video Messages on Skype and WhatsApp</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ating-dailymotion-vs-youtube-profitability/"><u>Evaluating Dailymotion vs YouTube Profitability</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-essential-hashtags-the-must-use-list-for-todays-social-media-success/"><u>In 2024, Essential Hashtags The Must-Use List for Today's Social Media Success</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-numbers-a-comprehensive-triad-strategy-for-monitoring-your-youtube-profitability/"><u>In 2024, Navigating Numbers A Comprehensive Triad Strategy for Monitoring Your YouTube Profitability</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-7-plus-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 7 Plus</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-iphone-maintenance-programs-unlock-premium-features-without-cost/"><u>Leading iPhone Maintenance Programs: Unlock Premium Features without Cost</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-7-5-ways-to-get-into-a-locked-iphone-7-drfone-by-drfone-ios/"><u>Locked Out of iPhone 7? 5 Ways to get into a Locked iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo A18? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/stay-secure-and-connected-top-11-mobile-apps-for-hands-free-text-reading/"><u>Stay Secure and Connected: Top 11 Mobile Apps for Hands-Free Text Reading</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-accessing-whatsapp-anonymously-without-providing-your-phone-number/"><u>Step-by-Step Instructions: Accessing WhatsApp Anonymously Without Providing Your Phone Number</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-instant-messaging-a-comprehensive-overview/"><u>Understanding Instant Messaging: A Comprehensive Overview</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-a-comprehensive-guide-to-facebooks-full-screen-feature/"><u>[New] A Comprehensive Guide to Facebook's Full Screen Feature</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-step-by-step-guide-to-crafting-your-own-insta-tones/"><u>[Updated] 2024 Approved Step-By-Step Guide to Crafting Your Own Insta Tones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-vidas-power-for-film-and-video-professionals/"><u>[Updated] Unveiling Vida's Power for Film and Video Professionals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-embracing-the-edge-how-surge-in-edge-computing-devices-shapes-future-careers-techworld/"><u>1. Embracing the Edge: How Surge in Edge Computing Devices Shapes Future Careers | TechWorld</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-converting-your-fb-videos-to-shareable-mp3-music/"><u>2024 Approved Converting Your Fb Videos to Shareable MP3 Music</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Oppo Reno 10 Pro 5G.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-insiders-guide-to-crafting-powerful-youtube-banners/"><u>In 2024, The Insider's Guide to Crafting Powerful YouTube Banners</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-t2-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo T2 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/maximizing-profits-on-youtube-the-latest-policy/"><u>Maximizing Profits on YouTube The Latest Policy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tackling-the-accountability-gap-in-artificial-intelligence-development/"><u>Tackling the Accountability Gap in Artificial Intelligence Development</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-ai-watermarking-solutions-revealed-on-zdnet/"><u>The Definitive Guide to AI Watermarking Solutions - Revealed on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-work-how-ai-agents-define-the-new-era-and-transform-employment-landscape-permanently-insights-from-zdnet/"><u>The Future of Work: How AI Agents Define the New Era and Transform Employment Landscape Permanently - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-role-of-multiple-ai-systems-in-business-success-understanding-the-trends-with-zdnets-analysis/"><u>The Role of Multiple AI Systems in Business Success: Understanding the Trends with ZDNET's Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-unseen-challenge-in-conversational-ai-stanford-highlights-english-centric-flaws-in-modern-chatbots-zdnet/"><u>The Unseen Challenge in Conversational AI: Stanford Highlights English-Centric Flaws in Modern Chatbots | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-work-how-ai-agents-mark-a-new-era-of-innovation-and-permanent-shifts-in-employment-landscape/"><u>Transforming Work: How AI Agents Mark a New Era of Innovation and Permanent Shifts in Employment Landscape</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unpacking-the-irony-of-automation-when-artificnial-intelligence-spurs-more-work-not-less-zdnet-insights/"><u>Unpacking the Irony of Automation: When Artificnial Intelligence Spurs More Work, Not Less | ZDNET Insights</u></a></li>
 </ul></div>
 

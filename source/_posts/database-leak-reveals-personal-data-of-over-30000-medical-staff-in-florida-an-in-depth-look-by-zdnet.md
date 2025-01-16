@@ -1,7 +1,7 @@
 ---
 title: "Database Leak Reveals Personal Data of Over 30,000 Medical Staff in Florida: An In-Depth Look by ZDNet"
-date: 2025-01-04T02:51:05.636Z
-updated: 2025-01-09T23:51:50.714Z
+date: 2025-01-10T16:27:40.215Z
+updated: 2025-01-15T19:25:20.830Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ More than 30,000 US healthcare workers' personal information was recently expose
 Fowler [discovered](https://www.websiteplanet.com/blog/galeapp-leak-report/) a database run by Gale Healthcare Solutions with 170,239 exposed records that included names, emails, home addresses, photos and in some cases, Social Security Numbers as well as tax documents. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -100,24 +100,15 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-effortless-youtube-live-with-step-by-step-obs-guide-for-beginners-for-2024/"><u>[New] Effortless YouTube Live with Step-by-Step OBS Guide for Beginners for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-art-of-video-popularity-secrets-for-youtube-stardom-for-2024/"><u>[New] The Art of Video Popularity Secrets for YouTube Stardom for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-your-ultimate-method-for-mobile-igtv-downloads-for-2024/"><u>[New] Your Ultimate Method for Mobile IGTV Downloads for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-eyemosaic-the-essential-photo-patcher/"><u>[Updated] 2024 Approved EyeMosaic The Essential Photo Patcher</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-how-to-watch-facebook-live-on-roku/"><u>[Updated] How to Watch Facebook Live on Roku?</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-master-your-first-steps-in-using-tiktok-macpc-edition/"><u>[Updated] In 2024, Master Your First Steps in Using TikTok Mac/PC Edition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-revitalize-disappearing-watch-preview/"><u>[Updated] Revitalize Disappearing Watch Preview</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-transformative-image-processing-auto-smart-hdr-3-and-4-insights-for-2024/"><u>[Updated] Transformative Image Processing Auto, Smart HDR 3 & 4 Insights for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-privacy-with-easy-steps-to-protect-your-whatsapp-accounts-on-smartphones/"><u>Enhance Privacy with Easy Steps to Protect Your WhatsApp Accounts on Smartphones</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/exclusive-selection-of-vr-for-drone-pilots/"><u>Exclusive Selection of VR for Drone Pilots</u></a></li>
-<li><a href="https://app-tips.techidaily.com/fix-your-whatsapp-problems-with-our-expert-assistance-step-by-step-guide/"><u>Fix Your WhatsApp Problems with Our Expert Assistance - Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-enable-and-use-whatsapp-securely-with-alternative-identifiers-instead-of-your-phone-number/"><u>How to Enable and Use WhatsApp Securely with Alternative Identifiers Instead of Your Phone Number</u></a></li>
-<li><a href="https://app-tips.techidaily.com/irrevocable-deletion-of-whatsapp-on-iphones-a-comprehensive-tutorial/"><u>Irrevocable Deletion of WhatsApp on iPhones: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preserve-your-whatsapp-images-flawlessly-top-3-methods-for-saving-photos-across-ios-and-android-without-quality-compromise/"><u>Preserve Your WhatsApp Images Flawlessly: Top 3 Methods for Saving Photos Across iOS & Android Without Quality Compromise</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-fixes-how-to-securely-restore-deleted-whatsapp-conversations-on-iphone-devices/"><u>Quick Fixes: How to Securely Restore Deleted WhatsApp Conversations on iPhone Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-for-enabling-and-performing-a-whatsapp-backup-to-icloud/"><u>The Ultimate Tutorial for Enabling and Performing a WhatsApp Backup to iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-high-quality-whatsapp-video-converter-tools-you-need/"><u>Top 5 High-Quality WhatsApp Video Converter Tools You Need</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-strategies-sending-oversized-videos-with-ease-from-an-iphone-using-whatsapp/"><u>Top Strategies: Sending Oversized Videos with Ease From an iPhone Using WhatsApp</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/totv-multimedia-player-wmp-alternative/"><u>TOTV Multimedia Player WMP Alternative</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-ultimate-plugins-list-after-effects-edition/"><u>[New] 2024 Approved Ultimate Plugins List After Effects Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-eye-on-the-social-scene-top-tweets-of-2023/"><u>[Updated] 2024 Approved Eye on the Social Scene Top Tweets of 2023</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-unveiling-youtube-shorts-money-making-mechanisms/"><u>[Updated] Unveiling YouTube Shorts Money-Making Mechanisms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-strategies-to-resolve-android-whatsapp-backup-issues-top-5-tips/"><u>Best Strategies to Resolve Android WhatsApp Backup Issues: Top 5 Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620197018-expert-tips-for-retrieving-lost-whatsapp-data-on-ios-recover-texts-images-movies-and-sounds-easily/"><u>Expert Tips for Retrieving Lost WhatsApp Data on iOS - Recover Texts, Images, Movies & Sounds Easily!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-effortlessly-backup-and-restore-whatsapp-messages-from-one-android-phone-to-another/"><u>How to Effortlessly Backup and Restore WhatsApp Messages From One Android Phone to Another</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-12-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 12 Without Passcode Easily</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revise-your-mobile-details-easily-the-ultimate-walkthrough-for-switching-numbers-on-whatsapp/"><u>Revise Your Mobile Details Easily: The Ultimate Walkthrough for Switching Numbers on WhatsApp</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/sculpting-waterway-content-with-flair-for-2024/"><u>Sculpting Waterway Content with Flair for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-to-reactivate-your-hp-laptops-camera-in-windows-11/"><u>Solutions to Reactivate Your HP Laptop's Camera in Windows 11</u></a></li>
 </ul></div>
 

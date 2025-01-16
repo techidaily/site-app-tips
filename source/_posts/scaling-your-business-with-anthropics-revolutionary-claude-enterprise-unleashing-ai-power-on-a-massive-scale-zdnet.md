@@ -1,7 +1,7 @@
 ---
 title: "Scaling Your Business with Anthropic's Revolutionary Claude Enterprise: Unleashing AI Power on a Massive Scale | ZDNet"
-date: 2025-01-03T17:34:40.274Z
-updated: 2025-01-10T05:41:58.429Z
+date: 2025-01-09T20:26:18.328Z
+updated: 2025-01-15T19:38:53.130Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-creative-anime-characters-and-scenes-for-viral-tiktoks/"><u>[New] In 2024, Creative Anime Characters & Scenes for Viral TikToks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-srt-fundamentals-explored-in-detail-and-clarity/"><u>[New] SRT Fundamentals Explored in Detail and Clarity</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-streamlined-conversion-of-youtube-content-for-2024/"><u>[Updated] Streamlined Conversion of YouTube Content for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/act-now-uncover-the-five-essential-strategies-for-windows-11-users-before-microsoft-discontinues-support-zdnet-tech-analysis/"><u>Act Now: Uncover the Five Essential Strategies for Windows 11 Users Before Microsoft Discontinues Support | ZDNet Tech Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cognitive-network-technology-debuts-in-midrange-market-via-arista-innovations-tech-news/"><u>Cognitive Network Technology Debuts in Midrange Market via Arista Innovations | Tech News</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-alternative-to-appleankers-magsafe-wallets-on-steep-discount-zdnet-review/"><u>Discover the Ultimate Alternative to Apple/Anker's Magsafe Wallets on Steep Discount - ZDNet Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/emerging-tech-trends-top-developer-roles-and-key-coding-languages-shaping-the-future-insights-from-zdnet/"><u>Emerging Tech Trends: Top Developer Roles & Key Coding Languages Shaping the Future - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enterprise-vulnerability-escalates-with-generative-ai-says-crowdstrike-chief-technology-officer-zdnet-insights/"><u>Enterprise Vulnerability Escalates with Generative AI, Says CrowdStrike Chief Technology Officer | ZDNET Insights</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/followers-and-likes-hack-top-25-instagram-hashtags-unveiled/"><u>Followers and Likes Hack Top 25 Instagram Hashtags Unveiled</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-nord-ce-3-lite-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Nord CE 3 Lite 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ultimate-online-call-and-group-communication-hubs/"><u>In 2024, Ultimate Online Call & Group Communication Hubs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-of-upgrading-from-ubuntu-linux-2310-to-2404-a-step-by-step-guide/"><u>Navigating the Challenges of Upgrading From Ubuntu Linux 23.10 to 24.04 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-tips-for-an-enduring-xbox-controlling-experience/"><u>Power Tips for an Enduring Xbox Controlling Experience</u></a></li>
-<li><a href="https://app-tips.techidaily.com/red-hat-enterprise-linux-release-and-hybrid-cloud/"><u>Red Hat, Enterprise Linux Release, and Hybrid Cloud.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/side-lobe-control/"><u>Side Lobe Control</u></a></li>
-<li><a href="https://driver-install.techidaily.com/solving-win98-network-issues-the-ultimate-fix-it-guide/"><u>Solving Win98 Network Issues - The Ultimate Fix-It Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranking-customer-relationship-management-tools-of-2022-ideal-options-for-small-and-medium-businesses-zdnet-insights/"><u>Top-Ranking Customer Relationship Management Tools of 2022: Ideal Options for Small & Medium Businesses - ZDNet Insights</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-master-the-art-of-mobile-movie-watching-with-top-10-ios-apps/"><u>[New] 2024 Approved Master the Art of Mobile Movie Watching with Top 10 iOS Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-choosing-the-right-video-sharing-platform-tiktok-vs-youtubes-shorts/"><u>[Updated] 2024 Approved Choosing the Right Video Sharing Platform TikTok vs YouTubes' Shorts?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-calculating-expenses-in-your-yt-marketing-strategy-for-2024/"><u>[Updated] Calculating Expenses in Your YT Marketing Strategy for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-guide-to-adding-creative-closure-in-vimeo-videos-for-2024/"><u>[Updated] Guide to Adding Creative Closure in Vimeo Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-unlock-your-full-potential-with-zd-softwares-advanced-screenshot-techniques/"><u>[Updated] In 2024, Unlock Your Full Potential with ZD Software's Advanced Screenshot Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-engineers-simple-app-shames-mcdonalds-tech-a-closer-look-at-the-fast-food-giants-missteps/"><u>1. Engineer’s Simple App Shames McDonald's Tech: A Closer Look at the Fast-Food Giant's Missteps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-the-orchard-discovering-enhanced-fulfillment-in-non-apple-workplaces-zdnet/"><u>Beyond the Orchard: Discovering Enhanced Fulfillment in Non-Apple Workplaces | ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/die-top-5-besten-video-bearbeitungswerkzeuge-fur-windows-11-und-10-ihre-perfekte-auswahl/"><u>Die Top-5 Besten Video-Bearbeitungswerkzeuge Für Windows 11 Und 10: Ihre Perfekte Auswahl</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-citizen-developers-in-modern-business-workflows/"><u>Empowering Citizen Developers in Modern Business Workflows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beginners-blueprint-for-zoom-engagements/"><u>In 2024, Beginner’s Blueprint for Zoom Engagements</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-your-productivity-with-ubuntu-2204-a-powerful-desktop-os-from-zdnet/"><u>Maximize Your Productivity with Ubuntu 22.04: A Powerful Desktop OS From ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/nighttime-novelties-with-vocalists-recommended-guide/"><u>Nighttime Novelties with Vocalists Recommended Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-itel-s23-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Itel S23 Screen | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transforming-your-windows-home-into-professional-grade-with-an-easy-upgrade/"><u>Step-by-Step Guide: Transforming Your Windows Home Into Professional Grade with an Easy Upgrade</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-ai-how-langchain-revolutionizes-generative-assistance/"><u>Unleashing the Power of AI: How LangChain Revolutionizes Generative Assistance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrading-windows-home-to-a-pro-license-essential-tips-and-reasons-for-the-switch-techexpertise-hub/"><u>Upgrading Windows Home to a Pro License: Essential Tips & Reasons for the Switch | TechExpertise Hub</u></a></li>
+<li><a href="https://app-tips.techidaily.com/your-windows-11-journey-explore-your-five-last-choices-before-microsoft-phases-out-support/"><u>Your Windows 11 Journey: Explore Your Five Last Choices Before Microsoft Phases Out Support</u></a></li>
 </ul></div>
 

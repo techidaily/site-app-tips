@@ -1,7 +1,7 @@
 ---
 title: Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet
-date: 2025-01-07T19:46:47.220Z
-updated: 2025-01-09T20:24:16.833Z
+date: 2025-01-10T16:31:54.802Z
+updated: 2025-01-15T18:28:39.463Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -112,7 +112,7 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -190,16 +190,22 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-elevate-online-media-selecting-the-best-5-quality-boosters/"><u>[New] Elevate Online Media Selecting the Best 5 Quality Boosters</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastery-of-instagram-videography-blueprint-for-robust-marketing-plans/"><u>[New] In 2024, Mastery of Instagram Videography Blueprint for Robust Marketing Plans</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chuckling-chords-crafting-top-tier-meme-content-for-2024/"><u>Chuckling Chords Crafting Top-Tier Meme Content for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-on-cloud-storage-protecting-data-for-ipads-pro-mini-and-air-via-icloud/"><u>Complete Tutorial on Cloud Storage: Protecting Data for iPads (Pro, Mini, and Air) via iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620264535-how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-premier-selection-of-small-form-factor-pcs-for-gamers/"><u>The Premier Selection of Small Form Factor PCs for Gamers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-of-icloud-keychain-functionality-and-retrieving-your-data-on-iphone/"><u>The Ultimate Walkthrough of iCloud Keychain Functionality & Retrieving Your Data on iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-4-methods-for-effortlessly-transferring-your-iphone-photos-to-icloud-a-complete-guide/"><u>Top 4 Methods for Effortlessly Transferring Your iPhone Photos to iCloud: A Complete Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-icloud-keychain-a-complete-guide-to-unlocking-your-iphones-secure-storage/"><u>Understanding iCloud Keychain: A Complete Guide to Unlocking Your iPhone's Secure Storage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-tailored-ending-scenes-get-em-for-free/"><u>[New] 2024 Approved Tailored Ending Scenes - Get 'Em for Free</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nlocking-collective-watch-strategies-for-multiple-channels-for-2024/"><u>[New] Unlocking Collective Watch Strategies for Multiple Channels for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unrivaled-tale-composers-hub-for-2024/"><u>[New] Unrivaled Tale Composers Hub for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/beat-the-wait-winning-strategies-to-fasten-upstart-in-win11/"><u>Beat The Wait: Winning Strategies to Fasten Upstart in Win11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-steps-to-view-and-manage-photos-and-files-across-devices-with-icloud/"><u>Easy Steps to View and Manage Photos & Files Across Devices with iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-email-eradication-mastery-discover-the-best-techniques-and-tips-to-delete-successfully/"><u>ICloud Email Eradication Mastery: Discover the Best Techniques & Tips to Delete Successfully</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-email-update-tutorial-how-to-easily-alter-your-current-icloud-id/"><u>ICloud Email Update Tutorial: How To Easily Alter Your Current iCloud ID</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-photo-sharing-a-beginners-complete-step-by-step-tutorial/"><u>ICloud Photo Sharing: A Beginner's Complete Step-by-Step Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264324-lost-something-in-your-icloud-storage-master-the-art-of-icloud-backup-data-retrieval/"><u>Lost Something in Your iCloud Storage? Master the Art of iCloud Backup Data Retrieval!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/methods-for-overcoming-icloud-lock-screen-hurdles-techniques-with-and-without-apple-account-access/"><u>Methods for Overcoming iCloud Lock Screen Hurdles: Techniques with and without Apple Account Access</u></a></li>
+<li><a href="https://app-tips.techidaily.com/recover-deleted-whatsapp-messages-using-icloud-a-comprehensive-tutorial/"><u>Recover Deleted WhatsApp Messages Using iCloud: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-overcoming-bsod-errors-in-windows-10-efficiently/"><u>Step-by-Step Guide: Overcoming BSOD Errors in Windows 10 Efficiently</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-fixing-rocket-league-game-crashes-in-2nd4/"><u>Top Strategies: Fixing Rocket League Game Crashes in 2nD4</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-hearthstone-pc-crashes-solutions-and-tips/"><u>Troubleshooting Hearthstone PC Crashes - Solutions and Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-icloud-message-accessibility-a-comprehensive-approach-for-enabling-your-emails/"><u>Troubleshooting iCloud Message Accessibility: A Comprehensive Approach for Enabling Your Emails</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/upgrade-your-media-experience-transforming-video-clarity-from-standard-to-high-definition-on-both-windows-and-macos-systems/"><u>Upgrade Your Media Experience: Transforming Video Clarity From Standard to High Definition on Both Windows & macOS Systems</u></a></li>
 </ul></div>
 

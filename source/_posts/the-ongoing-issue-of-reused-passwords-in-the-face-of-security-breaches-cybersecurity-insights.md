@@ -1,7 +1,7 @@
 ---
 title: The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights
-date: 2025-01-03T02:15:23.098Z
-updated: 2025-01-10T04:58:14.257Z
+date: 2025-01-09T23:55:50.740Z
+updated: 2025-01-15T19:38:41.049Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -114,7 +114,7 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -141,7 +141,7 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -189,24 +189,24 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-unlocking-youtube-sponsor-opportunities-via-famebit-methods/"><u>[New] 2024 Approved Unlocking YouTube Sponsor Opportunities via FameBit Methods</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-windows-11s-fresh-perspectives-explored/"><u>[Updated] Windows 11'S Fresh Perspectives Explored</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/comparing-easy-flexible-recording-tools-for-mac-users/"><u>Comparing Easy, Flexible Recording Tools for Mac Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dont-let-your-windows-1-be-left-in-the-lurch-discover-your-five-options-before-support-concludes-zdnet-insight/"><u>Don't Let Your Windows 지정 1 컴퓨터 Be Left in the Lurch - Discover Your Five Options Before Support Concludes | ZDNet Insight</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-wifi-experience-on-windows-comprehensive-tutorials-for-drivers-update-in-win10-and-win11/"><u>Enhance Your WiFi Experience on Windows: Comprehensive Tutorials for Drivers Update in Win10 & Win11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-cyber-defense-how-juniper-networks-strengthens-its-sase-offerings-with-a-new-cloud-firewall-feature-tech-analysis-by-zdnet/"><u>Enhancing Cyber Defense: How Juniper Networks Strengthens Its SASE Offerings with a New Cloud Firewall Feature - Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/tial-tactics-for-youtube-success-in-25-ways/"><u>Essential Tactics for YouTube Success in 25 Ways</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-picks-for-the-ultimate-to-do-list-software-of-2023-features-and-comparisons/"><u>Expert Picks for the Ultimate To-Do List Software of 2023 – Features and Comparisons</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-best-digital-signing-applications-a-zdnet-recommendation/"><u>Exploring the Best Digital Signing Applications: A ZDNet Recommendation</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-corrupted-windows-store-caches-effective-strategies-and-solutions/"><u>Fix Corrupted Windows Store Caches: Effective Strategies and Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-recover-lost-game-content-in-steam-win11-edition/"><u>How to Recover Lost Game Content in Steam, Win11 Edition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/impedance-matching/"><u>Impedance Matching</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-fade-perfection-quick-tips-and-tricks/"><u>In 2024, Fade Perfection Quick Tips and Tricks</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-15-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 15 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/lenovos-4-top-recording-methods-made-simple/"><u>Lenovo's 4 Top Recording Methods Made Simple</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-windows-10-top-five-strategies-to-consider-before-support-concludes-next-year-zdnet-insights/"><u>Navigating the Future of Windows 10: Top Five Strategies to Consider Before Support Concludes Next Year | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/switching-to-linux-mint-from-windows-a-comprehensive-guide-techrepublic/"><u>Switching to Linux Mint From Windows: A Comprehensive Guide | TechRepublic</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-antivirus-protection-a-comprehensive-guide-by-zdnet/"><u>Top Rated Antivirus Protection : A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-slack-for-enhanced-teamwork-and-productivity-insider-strategies-from-zdnets-latest-guide/"><u>Unlocking the Power of Slack for Enhanced Teamwork and Productivity: Insider Strategies From ZDNet's Latest Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-top-10-pro-photoshop-tricks-for-newcomers/"><u>[New] Top 10 Pro Photoshop Tricks for Newcomers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-elevate-snaps-with-precision-boomerang-techniques/"><u>[Updated] 2024 Approved Elevate Snaps with Precision Boomerang Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-prime-focus-systems-ultimate-4k-dslr-rig-guide/"><u>[Updated] 2024 Approved Prime Focus Systems Ultimate 4K DSLR Rig Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/antenna-impedance-matching-is-essential-not-only-for-efficient-power-transfer-but-also-because-mismatches-can-distort-the-radiation-pattern-due-to-standing-81/"><u>Antenna Impedance Matching Is Essential Not only for Efficient Power Transfer but Also because Mismatches Can Distort the Radiation Pattern Due to Standing Waves on Transmission Lines.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-gap-between-tech-specialists-and-user-experiences-with-innovative-design-strategies/"><u>Bridging the Gap Between Tech Specialists and User Experiences with Innovative Design Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creating-effective-reminders-using-slackbot-a-step-by-step-guide-on-slack/"><u>Creating Effective Reminders Using Slackbot: A Step-by-Step Guide on Slack</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/effortless-strategies-to-detect-duplicate-and-phony-likes-for-2024/"><u>Effortless Strategies to Detect Duplicate and Phony Likes for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211272507-9798869275578-heavenly-hemp/"><u>Heavenly Hemp | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-vital-are-it-specialists-for-modern-businesses-operating-without-technology-insights-from-a-zdnet-perspective/"><u>How Vital Are IT Specialists for Modern Businesses Operating Without Technology? Insights From a ZDNET Perspective</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-xs-max-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone XS Max Activation Lock</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-hands-free-tips-saving-instagram-stories-as-videos/"><u>In 2024, Hands-Free Tips Saving Instagram Stories as Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oneplus-ace-3-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from OnePlus Ace 3 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-next-gen-cloud-infrastructures-for-skills-development-and-robust-security-in-modern-applications/"><u>Leveraging Next-Gen Cloud Infrastructures for Skills Development and Robust Security in Modern Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-faces-critical-deadline-for-fixing-windows-10-issues-just-one-year-left-to-rectify-technewszdnet/"><u>Microsoft Faces Critical Deadline for Fixing Windows 10 Issues – Just One Year Left to Rectify | TechNewsZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-todays-it-landscape-balancing-cloud-innovation-with-current-on-premise-realities-techinsights/"><u>Navigating Today's IT Landscape: Balancing Cloud Innovation with Current On-Premise Realities | TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/sonys-ai-initiative-collaborates-with-ai-singapore-on-next-gen-language-models-unveiling-the-partnership/"><u>Sony's AI Initiative Collaborates with AI Singapore on Next-Gen Language Models: Unveiling the Partnership</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-gateway-to-textual-ingenuity-with-openai-apis/"><u>The Gateway to Textual Ingenuity with OpenAI APIs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-c51-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme C51 Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-majority-of-ai-projects-falter-predicts-gartner-the-future-of-generative-tech/"><u>ZDNet Exclusive: Majority of AI Projects Falter, Predicts Gartner | The Future of Generative Tech</u></a></li>
 </ul></div>
 

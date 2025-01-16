@@ -1,7 +1,7 @@
 ---
 title: "Open-Source Mandate: Switzerland's Federal Govt. Moves All Software Public"
-date: 2025-01-07T05:27:06.288Z
-updated: 2025-01-09T18:30:23.474Z
+date: 2025-01-11T22:21:06.249Z
+updated: 2025-01-15T17:37:12.160Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-elevate-photography-experience-on-windows-11-adding-filters-and-music-integration/"><u>[New] Elevate Photography Experience on Windows 11 Adding Filters & Music Integration</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-most-engaging-sandbox-gaming-titles/"><u>[New] In 2024, The Most Engaging Sandbox Gaming Titles</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-quick-visuals-accompanied-by-audio/"><u>[New] Quick Visuals Accompanied by Audio</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unleash-the-power-of-your-youtube-channel-with-expert-editing-techniques/"><u>[Updated] 2024 Approved Unleash the Power of Your YouTube Channel with Expert Editing Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-streamlined-simplicity-ayts-quick-ways-to-blur-background-for-2024/"><u>[Updated] Streamlined Simplicity AYT's Quick Ways to Blur Background for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-expanding-rocketchat-capabilities-a-guide-to-integrating-powerful-applications/"><u>1. Expanding Rocket.Chat Capabilities: A Guide to Integrating Powerful Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2022s-leading-hyperconverged-systems-vendors-comprehensive-analysis-and-reviews-on-zdnet/"><u>2022'S Leading Hyperconverged Systems Vendors: Comprehensive Analysis and Reviews on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beamforming/"><u>Beamforming</u></a></li>
-<li><a href="https://win-popular.techidaily.com/effortless-pdf-printing-in-windows-demystified-by-experts-at-yl-software/"><u>Effortless PDF Printing in Windows Demystified by Experts at YL Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-pc-with-windows-home-to-pro-a-step-by-step-guide-and-benefits-techexplorer/"><u>Elevate Your PC with Windows Home to Pro: A Step-by-Step Guide and Benefits | TechExplorer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/eminent-linux-professionals-support-ciq-in-launch-of-new-rocky-linux-distribution/"><u>Eminent Linux Professionals Support CIQ in Launch of New Rocky Linux Distribution</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-humor-hubbub-top-7-cheeky-content-concepts-for-laughter-lovers/"><u>In 2024, Humor Hubbub Top 7 Cheeky Content Concepts for Laughter Lovers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-to-connecting-email-services-with-onlyoffice-for-enhanced-collaboration/"><u>Step-by-Step Guide to Connecting Email Services with ONLYOFFICE for Enhanced Collaboration</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-launching-a-video-channel-dedicated-to-new-and-used-product-reviews/"><u>[New] 2024 Approved Launching a Video Channel Dedicated to New and Used Product Reviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-turning-still-memories-into-moments-in-motion/"><u>[New] Turning Still Memories Into Moments in Motion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-with-microsoft-a-step-by-step-guide-on-upgrading-to-windows-pro-edition-and-its-advantages/"><u>Advancing with Microsoft: A Step-by-Step Guide on Upgrading to Windows Pro Edition & Its Advantages</u></a></li>
+<li><a href="https://app-tips.techidaily.com/continuity-of-microsoft-365-support-for-office-2016-and-2019-what-to-expect-in-the-coming-year-zdnet/"><u>Continuity of Microsoft 365 Support for Office 2016 & 2019: What to Expect in the Coming Year | ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-video-quality-on-tiktok-via-zoom/"><u>Enhancing Video Quality on TikTok via Zoom</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/evaluation-of-fb-video-shapes-for-2024/"><u>Evaluation of FB Video Shapes for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-alternatives-to-explore-as-microsofts-support-for-windows-10-concludes-insights-from-zdnet/"><u>Five Alternatives to Explore as Microsoft's Support for Windows 10 Concludes - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-last-resort-options-for-your-windows-10-system-as-microsoft-ends-support/"><u>Five Last Resort Options for Your Windows 10 System as Microsoft Ends Support</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-design-thinking-bridges-the-gap-between-technology-professionals-and-enhancing-customer-experiences-insights-from-zdnet/"><u>How Design Thinking Bridges the Gap Between Technology Professionals and Enhancing Customer Experiences: Insights From ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-best-motivational-films-to-fuel-your-ambition/"><u>In 2024, The Best Motivational Films to Fuel Your Ambition</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rectifying-mov-playback-issues-on-macs/"><u>Rectifying MOV Playback Issues on Macs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reviews-of-razers-gaming-accessory-unleashing-powerful-wi-fi-connectivity/"><u>Reviews of Razer's Gaming Accessory - Unleashing Powerful Wi-Fi Connectivity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-industry-with-xr-the-role-of-digital-twins-in-advanced-user-experience-expert-analysis-by-zdnet/"><u>Revolutionizing Industry with XR: The Role of Digital Twins in Advanced User Experience | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trick-to-conceal-after-dim-display-in-power-options/"><u>Trick to Conceal 'After Dim Display' In Power Options</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win7-inkjet-fix-successful/"><u>Win7 Inkjet Fix Successful</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Access Control Systems
-date: 2025-01-05T20:15:04.146Z
-updated: 2025-01-09T19:09:26.077Z
+date: 2025-01-14T20:33:46.671Z
+updated: 2025-01-15T21:55:39.620Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-peering-into-pixels-with-polaroids-camplus-action-device/"><u>[New] Peering Into Pixels with Polaroid's Cam+ Action Device</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-premium-mini-drones-for-enthusiasts/"><u>[Updated] 2024 Approved Premium Mini-Drones for Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-dominate-facebook-traffic-with-innovative-video-strategies/"><u>[Updated] Dominate Facebook Traffic with Innovative Video Strategies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-camera-for-videos-mirrorless-vs-dslr-showdown/"><u>[Updated] In 2024, Best Camera for Videos Mirrorless Vs. DSLR Showdown</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-microsoft-unveils-hololens-the-augmented-reality-evolution/"><u>[Updated] In 2024, Microsoft Unveils HoloLens The Augmented Reality Evolution</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-sleepy-screenplays-for-nights-end/"><u>[Updated] Sleepy Screenplays for Night's End</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-step-by-step-process-for-iphone-voice-memo-creation-for-2024/"><u>[Updated] Step-by-Step Process for iPhone Voice Memo Creation for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/assess-your-expertise-on-coursera-discover-the-latest-from-zdnets-coverage-of-levelset-proficiency-exams/"><u>Assess Your Expertise on Coursera – Discover the Latest From ZDNet's Coverage of LevelSet Proficiency Exams</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-anthrop-through-the-new-claude-plan-equips-companies-for-success-by-harnessing-large-scale-ai-superpowers-techzine/"><u>How Anthrop, Through the New Claude Plan, Equips Companies for Success by Harnessing Large-Scale AI Superpowers | TechZine</u></a></li>
-<li><a href="https://app-tips.techidaily.com/latest-breakthroughs-in-5g-networking-and-edge-tech-trends-top-picks-from-todays-market-zdnet/"><u>Latest Breakthroughs in 5G Networking & Edge Tech Trends: Top Picks From Today's Market (ZDNet)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-6s-5-ways-to-get-into-a-locked-apple-iphone-6s-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 6s? 5 Ways to get into a Locked Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-stealthy-update-ignites-consumer-backlash-an-in-depth-analysis/"><u>Microsoft's Stealthy Update Ignites Consumer Backlash - An In-Depth Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-upcoming-release-a-blessing-or-a-curse-unveiled-insights-from-zdnet/"><u>Microsoft's Upcoming Release: A Blessing or a Curse? Unveiled Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/open-sources-role-in-advancing-responsible-ai-development-expert-analysis-by-zdnet/"><u>Open Source's Role in Advancing Responsible AI Development | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-7-compelling-advantages-of-implementing-aiops-in-your-it-strategy/"><u>The Definitive Guide to 7 Compelling Advantages of Implementing AIOps in Your IT Strategy</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-rewind-and-play-the-quintet-of-best-opposite-direction-melodies-for-2024/"><u>Updated Rewind and Play The Quintet of Best Opposite-Direction Melodies for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-reveals-ai-ventures-skyrocket-by-a-factor-of-ten-in-the-last-year-industry-report/"><u>ZDNet Reveals AI Ventures Skyrocket by a Factor of Ten in the Last Year - Industry Report</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-9-powerful-youtube-video-downloader-for-android-for-2024/"><u>[Updated] 9 Powerful YouTube Video Downloader for Android for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-seamless-integration-setting-up-email-in-your-onlyoffice-environment-tips-and-tricks/"><u>1. Seamless Integration: Setting Up Email in Your ONLYOFFICE Environment - Tips & Tricks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-video-editor-battle-filmora-versus-democracy-creator/"><u>2024 Approved Top Video Editor Battle Filmora versus Democracy Creator</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-guide-to-owc-mercury-pro-drives-speed-quality-and-best-results/"><u>A Comprehensive Guide to OWC Mercury Pro Drives - Speed, Quality & Best Results</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-hottest-tech-skills-best-platforms-for-mastering-key-programming-languages-now/"><u>Discover the Hottest Tech Skills: Best Platforms for Mastering Key Programming Languages Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-checkpoints-integrating-ai-assisted-mental-support-via-chatgpt/"><u>Essential Checkpoints: Integrating AI-Assisted Mental Support via ChatGPT</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-p1006-drivers-here-full-software-support-and-updates/"><u>Get Your HP P1006 Drivers Here: Full Software Support & Updates</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-crafting-engaging-sims-4-gameplay-videos/"><u>In 2024, Crafting Engaging Sims 4 Gameplay Videos</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1725290413988-macdvd/"><u>Mac用DVDリッピングガイド:ベストなソフト選びと操作手順</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-honor-x50-gt-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Honor X50 GT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamlessly-share-your-iphone-pictures-with-your-windows-computer-a-comprehensive-tutorial/"><u>Seamlessly Share Your iPhone Pictures with Your Windows Computer: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-servicenows-four-fundamental-ai-concepts-impactful-insights-for-modern-enterprises/"><u>Understanding ServiceNow's Four Fundamental AI Concepts: Impactful Insights for Modern Enterprises</u></a></li>
 </ul></div>
 

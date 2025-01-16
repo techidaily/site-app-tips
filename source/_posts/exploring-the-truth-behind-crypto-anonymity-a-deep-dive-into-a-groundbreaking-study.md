@@ -1,7 +1,7 @@
 ---
 title: Exploring the Truth Behind Crypto Anonymity – A Deep Dive Into a Groundbreaking Study
-date: 2025-01-06T02:48:46.916Z
-updated: 2025-01-09T21:48:45.557Z
+date: 2025-01-14T22:31:39.044Z
+updated: 2025-01-15T16:26:19.300Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,18 +119,22 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-captivating-channels-spotlight-on-the-most-popular-female-creators/"><u>[New] In 2024, Captivating Channels Spotlight on the Most Popular Female Creators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-in-depth-skype-audio-capture-guide-with-obs-software/"><u>[New] In 2024, In-Depth Skype Audio Capture Guide with OBS Software</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-virtual-enterprise-integrating-vr-tech-in-commerce/"><u>[New] In 2024, Virtual Enterprise Integrating VR Tech in Commerce</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-through-the-best-tools-to-monitor-instagram-metrics-effectively-for-2024/"><u>[New] Navigating Through the Best Tools to Monitor Instagram Metrics Effectively for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-satirical-images-jestjokes-studio/"><u>[New] Satirical Images JestJokes Studio</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192575-best-6-exceptional-contact-widget-apps-for-android-ranked/"><u>Best 6 Exceptional Contact Widget Apps for Android - Ranked</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discovering-the-most-anticipated-new-features-of-ios-18-at-apples-wwdc-202n-ai-leads-the-charge/"><u>Discovering the Most Anticipated New Features of iOS 18 at Apple's WWDC 202N - AI Leads the Charge!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ideal-calendar-solutions-best-complimentary-and-premium-options-for-iphones/"><u>Ideal Calendar Solutions: Best Complimentary and Premium Options for iPhones</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-depth-look-at-fraps-screen-capture/"><u>In-Depth Look at Fraps Screen Capture</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-step-by-step-guide-how-to-quickly-unlock-your-android-device-with-easy-hacks/"><u>Simple Step-by-Step Guide: How to Quickly Unlock Your Android Device with Easy Hacks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-ultimate-guide-to-achieving-flawless-screens-in-adobe-captivity/"><u>The Ultimate Guide to Achieving Flawless Screens in Adobe Captivity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-25-leading-video-editing-apps-for-every-ios-device-including-models-15-x8-6-5/"><u>The Ultimate List of the 25 Leading Video Editing Apps for Every iOS Device, Including Models 15-X/8-6-5</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-speak-with-elegance-on-chrome-top-picks-for-web-based-voice-transformers-for-2024/"><u>[New] Speak with Elegance on Chrome Top Picks for Web-Based Voice Transformers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-compilation-of-devout-ringtones/"><u>[New] The Ultimate Compilation of Devout Ringtones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-cutting-edge-green-tools-shaping-film-for-2024/"><u>[Updated] Cutting Edge Green Tools Shaping Film for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-gamers-guide-to-high-quality-live-recording/"><u>[Updated] Gamers' Guide to High-Quality Live Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-skypes-premier-audio-capture-solutions/"><u>[Updated] In 2024, Skype's Premier Audio Capture Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-platforms-and-tools-for-discreet-message-exchange/"><u>Best Free Platforms & Tools for Discreet Message Exchange</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-adding-emojis-on-your-android-device/"><u>Complete Guide: Adding Emojis on Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-best-ipad-video-players-for-2n4-a-guide-to-downloading-reliable-solutions/"><u>Discover the Best iPad Video Players for 2N4: A Guide to Downloading Reliable Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-5-must-try-free-cellphone-locator-applications/"><u>Discover the Ultimate List of 5 Must-Try Free Cellphone Locator Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-list-of-top-10-mobile-backup-solutions-for-iphones-and-android-phones/"><u>Essential List of Top 10 Mobile Backup Solutions for iPhones and Android Phones</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/essential-tips-for-resolving-the-storportsys-bsod-error-on-windows-10-computers/"><u>Essential Tips for Resolving the Storport.sys BSOD Error on Windows 10 Computers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-assessment-and-user-reviews-for-the-vizmato-software-suite/"><u>In-Depth Assessment & User Reviews for the Vizmato Software Suite</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/qled-vs-oled-tvs-understanding-the-key-distinctions/"><u>QLED Vs. OLED TVs: Understanding the Key Distinctions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-installing-and-using-kik-messenger-on-pcsmacs/"><u>Step-by-Step Guide: Installing & Using Kik Messenger on PCs/Macs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-10-reliable-data-backup-apps-for-ios-and-android-devices/"><u>The Ultimate Guide: Top 10 Reliable Data Backup Apps for iOS & Android Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/reviews-youtube-app-performance-on-phones-for-2024/"><u>User Reviews YouTube App Performance on Phones for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
 </ul></div>
 

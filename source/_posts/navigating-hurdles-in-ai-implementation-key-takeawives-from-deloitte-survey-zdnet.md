@@ -1,7 +1,7 @@
 ---
 title: "Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET"
-date: 2025-01-03T18:19:49.897Z
-updated: 2025-01-10T00:21:40.595Z
+date: 2025-01-14T23:31:13.212Z
+updated: 2025-01-15T18:51:07.904Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-best-sonic-selection-software-for-android-users/"><u>[Updated] Best Sonic Selection Software for Android Users</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-revolutionizing-reality-best-vr-gadgets-today/"><u>[Updated] Revolutionizing Reality Best VR Gadgets Today</u></a></li>
-<li><a href="https://win-studio.techidaily.com/0x81000019/"><u>「シャドウコピーに失敗（エラー0x81000019）:修正方法とトラブルシューティングガイド」</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/4-gen-2-enhances-low-cost-smartphone-performance/"><u>4 Gen 2 Enhances Low-Cost Smartphone Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-integration-by-one-third-of-marketing-teams-explored-insights-from-zdnet/"><u>AI Integration by One-Third of Marketing Teams Explored: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/aseans-transformative-digital-policies-propel-towards-a-2-trillion-tech-market-by-2030-insights-from-zdnet/"><u>ASEAN's Transformative Digital Policies Propel Towards a $2 Trillion Tech Market by 2030 - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/becoming-an-effective-tech-team-leader-by-understanding-the-core-business-strategies-for-success-on-zdnet/"><u>Becoming an Effective Tech Team Leader by Understanding the Core Business | Strategies for Success on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-drags-the-revolution-of-uis-with-generative-ai-insights-for-tomorrows-tech/"><u>Beyond Clicks and Drags: The Revolution of UIs with Generative AI – Insights for Tomorrow's Tech</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-errors-in-the-configuration-segment-for-services/"><u>Resolving Errors in the Configuration Segment for Services</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/runners-essentials-a-guide-to-the-top-chronograph-wrist-companions-of-2024/"><u>Runner's Essentials: A Guide to the Top Chronograph Wrist Companions of 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolution-of-code-how-artificnial-intelligence-surpasses-traditional-methods-exploring-modern-trends-with-zdnet/"><u>The Evolution of Code: How Artificnial Intelligence Surpasses Traditional Methods - Exploring Modern Trends with ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tiny-film-plot-proposal/"><u>Tiny Film Plot Proposal</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-6s-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 6s With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-how-to-revert-macos-from-latest-to-classic-el-capitan/"><u>[New] 2024 Approved How to Revert MacOS From Latest to Classic - El Capitan</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unlocking-your-phones-potential-with-custom-android-audio-alerts/"><u>2024 Approved Unlocking Your Phone's Potential with Custom Android Audio Alerts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-boost-minecraft-playability-and-reduce-pc-lag/"><u>Expert Tips to Boost Minecraft Playability and Reduce PC Lag</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixing-common-problems-with-freemake-video-converter-for-smooth-performance/"><u>Fixing Common Problems with Freemake Video Converter for Smooth Performance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-ai-evolution-is-pushing-the-limits-of-todays-tech-infrastructure-insights-from-zdnet/"><u>How AI Evolution Is Pushing the Limits of Today's Tech Infrastructure: Insights From ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-leveraging-whiteboards-across-ios-android-and-desktop-zoom-sessions/"><u>In 2024, Leveraging Whiteboards Across iOS, Android & Desktop Zoom Sessions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-fintech-figures-demand-thinking-revolution-not-simple-prompts-to-shape-ai-future/"><u>Leading Fintech Figures Demand Thinking Revolution, Not Simple Prompts, to Shape AI Future</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-age-of-artificial-intelligence-strategies-for-tech-experts-to-excel-in-their-careers-zdnet/"><u>Navigating the Age of Artificial Intelligence: Strategies for Tech Experts to Excel in Their Careers | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-ai-how-multiple-machine-learning-models-will-power-your-business-according-to-zdnet/"><u>The Future Is AI: How Multiple Machine Learning Models Will Power Your Business, According to ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-latest-iphone-16s-unique-features-highlighted-by-zdnet-make-now-the-perfect-time-to-upgrade/"><u>Why the Latest iPhone 16'S Unique Features, Highlighted by ZDNet, Make Now the Perfect Time to Upgrade!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-singapore-advocates-for-financial-backing-of-ai-integration-and-carbon-neutral-goals/"><u>ZDNet Exclusive: Singapore Advocates for Financial Backing of AI Integration and Carbon-Neutral Goals</u></a></li>
 </ul></div>
 

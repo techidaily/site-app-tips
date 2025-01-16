@@ -1,7 +1,7 @@
 ---
 title: Data Analysis
-date: 2025-01-06T21:54:38.632Z
-updated: 2025-01-10T01:28:46.460Z
+date: 2025-01-10T21:34:15.771Z
+updated: 2025-01-15T22:54:32.480Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,14 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-step-by-step-funimate-video-retrieval/"><u>[Updated] 2024 Approved Step-by-Step Funimate Video Retrieval</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-sunshine-strategies-to-lighten-up-android-videos/"><u>2024 Approved Sunshine Strategies to Lighten up Android Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-dj-how-does-machine-curated-music-stack-up-against-human-selection/"><u>AI DJ: How Does Machine-Curated Music Stack Up Against Human Selection?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-biz-marketers-now-utilizing-artificial-intelligence-insights-from-zdnet/"><u>AI Integration: One-Third of Biz Marketers Now Utilizing Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-broadcoms-official-bluetooth-software-compatible-with-windows-1187/"><u>Get Broadcom's Official Bluetooth Software Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-x100-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo X100 Pro</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/moving-pictures-from-iphone-to-windows-pc-the-ultimate-how-to-for-users-of-all-versions/"><u>Moving Pictures From iPhone to Windows PC: The Ultimate How-To for Users of All Versions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-singapores-2nbillion-commitment-to-supercharge-its-it-infrastructure-and-elevate-digital-solutions-tech-insight/"><u>Unveiling Singapore's $2.nBillion Commitment to Supercharge Its IT Infrastructure and Elevate Digital Solutions | Tech Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-pull-of-open-source-for-global-leaders-in-innovation/"><u>ZDNet Explores the Pull of Open Source for Global Leaders in Innovation</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-expert-list-superior-gaming-live-options/"><u>[New] 2024 Approved Expert List Superior Gaming Live Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/as-the-need-for-data-talent-expands-one-organizations-proactive-approach-to-skill-development-zdnet/"><u>As the Need for Data Talent Expands, One Organization's Proactive Approach to Skill Development | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-for-singaporean-small-businesses-harnessing-genai-for-employee-development-zdnet/"><u>Comprehensive Guide for Singaporean Small Businesses: Harnessing GenAI for Employee Development | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolution-of-innovation-identifying-a-revolutionary-5g-application-surpassing-traditional-connectivity-boundaries-zdnet/"><u>Evolution of Innovation: Identifying a Revolutionary 5G Application Surpassing Traditional Connectivity Boundaries | ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013381433-fall-guys-for-pc-resolve-freezing-problems-quickly/"><u>Fall Guys for PC - Resolve Freezing Problems Quickly!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-ai-is-revolutionizing-teamwork-among-developers-and-business-professionals-insights-from-zdnet/"><u>How AI Is Revolutionizing Teamwork Among Developers and Business Professionals - Insights From ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nt-guide-image-to-thumbnail-magic-for-your-youtube-channel-for-2024/"><u>Instant Guide Image-To-Thumbnail Magic for Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-surge-of-edge-computing-devices-implications-for-professional-growth-and-opportunities-zdnet/"><u>Navigating the Surge of Edge Computing Devices: Implications for Professional Growth and Opportunities | ZDNet</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-an-ode-to-open-source-audio-selecting-tunes-for-captivating-montage-videos/"><u>New An Ode to Open Source Audio Selecting Tunes for Captivating Montage Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prepare-your-leaders-why-managerial-training-is-key-for-successful-ai-integration/"><u>Prepare Your Leaders: Why Managerial Training Is Key for Successful AI Integration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-ui-with-ai-the-end-of-traditional-interfaces-zdnet-insights/"><u>Revolutionizing UI with AI: The End of Traditional Interfaces | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-150-apple-gift-card-when-purchasing-a-macipad-for-education-learn-the-trickszdnet/"><u>Secure Your $150 Apple Gift Card When Purchasing a Mac/iPad for Education - Learn the Tricks![ZDNet]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-fixing-issues-when-trying-to-start-modern-warfare-2/"><u>Solved: Fixing Issues When Trying To Start Modern Warfare 2</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-shared-link-system-and-functionality/"><u>Understanding ChatGPT’s Shared Link System and Functionality</u></a></li>
 </ul></div>
 

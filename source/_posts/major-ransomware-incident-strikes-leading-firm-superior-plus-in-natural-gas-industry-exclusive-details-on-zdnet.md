@@ -1,7 +1,7 @@
 ---
 title: Major Ransomware Incident Strikes Leading Firm Superior Plus in Natural Gas Industry - Exclusive Details on ZDNET
-date: 2025-01-06T04:49:03.824Z
-updated: 2025-01-09T17:01:03.358Z
+date: 2025-01-12T17:45:54.374Z
+updated: 2025-01-16T00:37:15.041Z
 tags:
   - password-manager
 categories:
@@ -72,24 +72,20 @@ Deputy Attorney General Lisa Monaco [said during a press conference](https://twi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-stream-ready-steam-gameplay-filming-guide/"><u>[New] In 2024, Stream-Ready Steam Gameplay Filming Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-insights-into-instagrams-maxed-out-videos/"><u>[Updated] 2024 Approved Insights Into Instagram's Maxed-Out Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use/"><u>[Updated] Top Tech Stream Cam Gear Reviewed for YouTube & Facebook Use</u></a></li>
-<li><a href="https://app-tips.techidaily.com/another-cyber-attack-on-lastpass-revealed-by-zdnets-latest-report/"><u>Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report</u></a></li>
-<li><a href="https://fox-access.techidaily.com/crafting-tomorrows-art-today-the-finest-9-resources-for-3d-typographic-exploration-for-2024/"><u>Crafting Tomorrow's Art Today The Finest 9 Resources for 3D Typographic Exploration for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/exploring-hardware-issue-resolution-does-microsoft-windows-offer-built-in-diagnostics-tools/"><u>Exploring Hardware Issue Resolution: Does Microsoft Windows Offer Built-In Diagnostics Tools?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-macos-sierra-enhancement-guide-step-by-step-upgrades/"><u>In 2024, MacOS Sierra Enhancement Guide Step-by-Step Upgrades</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-protons-latest-innovation-a-fully-secured-password-safe-with-unbreakable-end-to-end-encryption/"><u>Introducing Proton's Latest Innovation: A Fully Secured Password Safe With Unbreakable End-to-End Encryption</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimizing-group-discussions-with-ai-a-guide-to-using-chatgpt-in-virtual-meetings/"><u>Optimizing Group Discussions with AI: A Guide to Using ChatGPT in Virtual Meetings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protonmail-unveils-new-secure-password-management-tool-featuring-military-grade-encryption/"><u>ProtonMail Unveils New Secure Password Management Tool Featuring Military-Grade Encryption</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protonmail-unveils-secure-password-manager-featuring-military-grade-encryption-latest-tech-news-on-zdnet/"><u>ProtonMail Unveils Secure Password Manager Featuring Military-Grade Encryption - Latest Tech News on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-and-simplify-enhance-safety-and-convenience-of-your-online-accounts-with-our-top-rated-30-password-manager-zdnet-recommended/"><u>Secure & Simplify: Enhance Safety & Convenience of Your Online Accounts with Our Top-Rated $30 Password Manager (ZDNet Recommended)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-entire-team-with-1password-unbeatable-group-plan-at-just-1995month-explore-the-benefits-on-zdnet/"><u>Secure Your Entire Team with 1Password: Unbeatable Group Plan at Just $19.95/Month - Explore the Benefits on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-and-activating-the-bitwarden-master-password-reminder-a-step-by-step-guide/"><u>Understanding & Activating the Bitwarden Master Password Reminder: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-virtual-frontier-flicks-the-most-inspiring-sci-fi-metaverse-movies/"><u>[New] Virtual Frontier Flicks The Most Inspiring Sci-Fi Metaverse Movies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unleashing-your-potential-saving-instagram-stories-like-a-pro/"><u>[Updated] 2024 Approved Unleashing Your Potential Saving Instagram Stories Like a Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-decoding-instagrams-verification-system/"><u>2024 Approved Decoding Instagram's Verification System</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-technology-at-wwdc-2022-zdnets-exclusive-coverage/"><u>Apple Unveils Revolutionary Passkey Technology at WWDC 2022 - ZDNet's Exclusive Coverage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cryptocom-executive-addresses-user-concerns-following-major-31m-security-breach-insights-from-zdnet/"><u>Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-ace-2v-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Ace 2V in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/huge-black-friday-blowout-get-nordpass-premium-at-half-price-secure-your-passwords-now/"><u>Huge Black Friday Blowout! Get NordPass Premium at Half Price - Secure Your Passwords Now!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/optimizing-service-upkeep-with-template-based-interaction-scripts/"><u>Optimizing Service Upkeep with Template-Based Interaction Scripts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-wallets-1password-joins-forces-with-brex-to-simplify-secure-transactions-according-to-zdnet-coverage/"><u>Revolutionizing Digital Wallets: 1Password Joins Forces with Brex to Simplify Secure Transactions, According to ZDNet Coverage</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-earning-youtube-star-globally/"><u>Top Earning YouTube Star Globally</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-phishing-scams-impersonating-leaders-dhl-microsoft-and-whatsapp-in-the-spotlight/"><u>Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

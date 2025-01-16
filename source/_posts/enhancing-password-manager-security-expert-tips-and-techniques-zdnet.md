@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]"
-date: 2025-01-07T00:00:05.046Z
-updated: 2025-01-10T03:47:46.607Z
+date: 2025-01-11T00:29:42.317Z
+updated: 2025-01-15T18:48:09.542Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ Creating and remembering a unique and complex password for each of your accounts
 A good password manager will create, store, and apply strong and complex passwords across the board, thereby securing your accounts. I've used a password manager for years and wouldn't be able to juggle all my online accounts without it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -46,7 +46,7 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -66,7 +66,7 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -90,7 +90,7 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -139,17 +139,21 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-rated-desktop-video-recorders-for-pcmac/"><u>[Updated] Top-Rated Desktop Video Recorders for PC/Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/10-best-ai-powered-chatbots-that-will-transform-how-you-communicate/"><u>10 Best AI-Powered Chatbots That Will Transform How You Communicate</u></a></li>
-<li><a href="https://app-tips.techidaily.com/chatgpt-2024-ultimate-review-unpacking-advanced-features-and-solving-internal-server-malfunctions/"><u>ChatGPT 2024 Ultimate Review: Unpacking Advanced Features and Solving Internal Server Malfunctions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-elevenlabs-generative-voice-ai-options-and-reviews/"><u>Comprehensive Analysis of ElevenLabs' Generative Voice AI: Options & Reviews</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-lighting-evolution-exclusive-deal-on-the-powerful-yn560iv/"><u>Experience Lighting Evolution - Exclusive Deal on the Powerful YN560IV</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-insights-into-youtube-shorts-business-model/"><u>In 2024, Insights Into YouTube Shorts Business Model</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-review-of-elevenlabs-genai-vs-other-voice-generation-technologies/"><u>In-Depth Review of ElevenLabs' GenAI Vs. Other Voice Generation Technologies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/inteligencia-artificial-en-interpolacion-de-fotogramas-incrementando-la-rendimiento-de-fps-y-transiciones-sin-escalonamiento-visual/"><u>Inteligencia Artificial en Interpolación De Fotogramas: Incrementando La Rendimiento De FPS Y Transiciones Sin Escalonamiento Visual</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-14-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your iPhone 14</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-cellphone-bargains-in-march-2024-insider-tips-by-zdnet/"><u>Top Cellphone Bargains in March 2024 - Insider Tips by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/worried-about-your-data-with-chatgpt-learn-the-steps-to-disable-participation/"><u>Worried About Your Data with ChatGPT? Learn the Steps to Disable Participation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-evaluating-recmeisters-innovation-in-video-capture/"><u>[New] 2024 Approved Evaluating Recmeister's Innovation in Video Capture</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-artistic-horizons-scouting-the-finest-8-drawing-apps-for-iphones/"><u>[New] In 2024, Artistic Horizons Scouting the Finest 8 Drawing Apps for iPhones</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-smooth-steam-gaming-recordings-guide/"><u>[Updated] 2024 Approved Smooth Steam Gaming Recordings Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-5-artificial-intelligence-applications-for-enhancing-monochrome-footage/"><u>Best Top 5 Artificial Intelligence Applications for Enhancing Monochrome Footage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-ranked-automated-video-editing-tools-discover-the-5-leading-ai-applications/"><u>Best Top-Ranked Automated Video Editing Tools: Discover the 5 Leading AI Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-artificial-intelligence-highlight-videos-essentials-and-software/"><u>Comprehensive Guide to Artificial Intelligence Highlight Videos: Essentials & Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-monicas-artificial-intelligence-powers-and-effective-strategies-for-utilizing-chatgpt/"><u>Discover Monica's Artificial Intelligence Powers and Effective Strategies for Utilizing ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-top-5-alternatives-to-voicemyai-for-crafting-artificial-intelligence-powered-voice-assistants/"><u>Discover Top 5 Alternatives to voicemy.ai for Crafting Artificial Intelligence-Powered Voice Assistants</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-analysis-avclabs-video-boosting-technology-advantages-and-limitations/"><u>Expert Analysis: AVClabs' Video Boosting Technology - Advantages & Limitations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-blend-incorporating-linktree-into-your-tiktok-about-section/"><u>In 2024, Flawless Blend Incorporating Linktree Into Your TikTok About Section</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-infinix-note-30i-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Infinix Note 30i Is Unlocked</u></a></li>
+<li><a href="https://app-tips.techidaily.com/optimize-task-management-with-these-5-outstanding-zapier-replacements/"><u>Optimize Task Management with These 5 Outstanding Zapier Replacements</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-voice-chat-obstacles-in-among-us-a-pc-players-handbook/"><u>Overcoming Voice Chat Obstacles in Among Us: A PC Player's Handbook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-blur-and-background-erasure-in-photography/"><u>The Ultimate Guide to Blur and Background Erasure in Photography</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-when-davinci-resolve-refuses-to-start-in-windows/"><u>Troubleshooting Tips for When DaVinci Resolve Refuses to Start in Windows</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/troubleshooting-your-pcs-monitor-problems-under-windows-os-expert-tips-from-yl-software/"><u>Troubleshooting Your PC's Monitor Problems Under Windows OS - Expert Tips From YL Software</u></a></li>
 </ul></div>
 

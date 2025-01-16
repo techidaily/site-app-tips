@@ -1,7 +1,7 @@
 ---
 title: Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models
-date: 2025-01-07T17:09:15.335Z
-updated: 2025-01-09T17:09:59.964Z
+date: 2025-01-10T18:39:09.438Z
+updated: 2025-01-15T17:29:27.610Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-drones-buying-guide-thing-you-need-to-know-before-buying-a-drone/"><u>[New] In 2024, Drones Buying Guide Thing You Need to Know Before Buying a Drone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-spark-your-audience-with-best-video-content-ideas/"><u>[Updated] Spark Your Audience with Best Video Content Ideas</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/accelerating-video-conversion-youtube-to-mpeg-edition-for-2024/"><u>Accelerating Video Conversion YouTube to MPEG Edition for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/blueprinting-breathtaking-cinematic-sketches/"><u>Blueprinting Breathtaking Cinematic Sketches</u></a></li>
-<li><a href="https://app-tips.techidaily.com/devops-engineering-career-the-complete-picture-pros-cons-and-challenges/"><u>DevOps Engineering Career: The Complete Picture - Pros, Cons & Challenges</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-correcting-corrupted-file-issues-in-latest-windows-operating-systems/"><u>Expert Advice: Correcting Corrupted File Issues in Latest Windows Operating Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-sony-xperia-10-v-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Sony Xperia 10 V</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/kalk-cake-the-hybrid-motorcycle-blending-commute-and-recreation-in-style-insights-from-zdnet/"><u>Kalk Cake - The Hybrid Motorcycle Blending Commute & Recreation in Style: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-ai-expertise-for-non-programmers-the-need-for-multifaceted-learning-in-complex-environments-zdnet/"><u>Navigating AI Expertise for Non-Programmers - The Need for Multifaceted Learning in Complex Environments | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-old-school-it-systems-key-insights-for-managing-outdated-technologies-and-avoiding-migration-pitfalls/"><u>Navigating Old-School IT Systems: Key Insights for Managing Outdated Technologies and Avoiding Migration Pitfalls</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-pitfalls-of-outdated-systems-a-lesson-from-a-failed-technology-migration-zdnet/"><u>Navigating the Pitfalls of Outdated Systems: A Lesson From a Failed Technology Migration | ZDNet</u></a></li>
-<li><a href="https://extra-support.techidaily.com/rapid-file-transformation-from-srt-to-text-in-minutes-for-2024/"><u>Rapid File Transformation From SRT to Text in Minutes for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revitalizing-the-tech-workforce-how-ai-tools-mitigate-job-stress-and-enhance-focus-for-it-experts-learn-from-zdnets-expert-analysis/"><u>Revitalizing the Tech Workforce: How AI Tools Mitigate Job Stress and Enhance Focus for IT Experts | Learn From ZDNet's Expert Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-journey-to-becoming-a-chief-artificial-intelligence-officer-insights-and-strategies-for-success/"><u>The Journey to Becoming a Chief Artificial Intelligence Officer - Insights and Strategies for Success</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-urgent-need-for-upgraded-skills-in-cybersecurity-teams-facing-legacy-system-hurdles/"><u>The Urgent Need for Upgraded Skills in Cybersecurity Teams Facing Legacy System Hurdles</u></a></li>
-<li><a href="https://facebook.techidaily.com/uniting-minds-or-building-careers-the-social-platform-dilemma/"><u>Uniting Minds or Building Careers? The Social Platform Dilemma</u></a></li>
-<li><a href="https://app-tips.techidaily.com/when-ai-growth-meets-agile-practices-uncovering-challenges-through-latest-studies-zdnet/"><u>When AI Growth Meets Agile Practices: Uncovering Challenges Through Latest Studies | ZDNET</u></a></li>
-<li><a href="https://win-popular.techidaily.com/wie-loschst-du-wiederherstellungsdateien-in-deiner-systemdatei-detaillierte-anleitung/"><u>Wie Löschst Du Wiederherstellungsdateien in Deiner Systemdatei? Detaillierte Anleitung!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-reveals-how-many-marketing-departments-are-leveraging-artificer-intelligence-now/"><u>ZDNet Reveals How Many Marketing Departments Are Leveraging Artificer Intelligence Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/company-names-revolutionary-ai-for-sustainable-smart-appliances-spotlight-on-zdnet-review/"><u>[Company Name]'s Revolutionary AI for Sustainable Smart Appliances: Spotlight on ZDNET Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-premier-photography-frame-selection-24/"><u>[Updated] In 2024, The Premier Photography Frame Selection '24</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-understanding-the-revenue-process-for-t-series-on-youtube/"><u>[Updated] In 2024, Understanding the Revenue Process for T-Series on YouTube</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-manager-training-essential-before-introducing-artificial-intelligence-in-business-insights-from-zdnet/"><u>1. Manager Training Essential Before Introducing Artificial Intelligence in Business: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-marketing-crews-embrace-advanced-tech-zdnet-insights/"><u>AI Integration: One-Third of Marketing Crews Embrace Advanced Tech | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-ais-horizon-discover-the-accelerating-wave-of-emerging-technologies/"><u>Beyond AI's Horizon: Discover the Accelerating Wave of Emerging Technologies</u></a></li>
+<li><a href="https://win11.techidaily.com/canva-tutorial-mastering-video-sound-adjustments-eliminating-or-incorporating-audio-seamlessly/"><u>Canva Tutorial: Mastering Video Sound Adjustments - Eliminating or Incorporating Audio Seamlessly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-laserjet-1018-driver-download/"><u>HP LaserJet 1018 Driver Download</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-find-n3-flip-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-4k-all-in-one-touch-screen-desktops-for-2024/"><u>Top 4K All-in-One Touch Screen Desktops for 2024</u></a></li>
 </ul></div>
 

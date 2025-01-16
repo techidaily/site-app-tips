@@ -1,7 +1,7 @@
 ---
 title: LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News
-date: 2025-01-04T04:47:50.152Z
-updated: 2025-01-09T17:01:20.671Z
+date: 2025-01-09T18:00:16.450Z
+updated: 2025-01-16T01:19:52.140Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ LogMeIn [announced](https://www.logmein.com/newsroom/press-release/2021/logmein-
 The cloud-based solutions company explained that the move allows LastPass to invest heavily in "customer experience, go-to-market functions and engineering" as a way to improve its "organic growth in password management," Single Sign-On (SSO) and multi-factor authentication (MFA). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -86,20 +86,19 @@ In a message to users, LastPass reiterated that it could "strategically increase
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-quick-realignment-youtube-on-mac-display-ratio/"><u>[New] 2024 Approved Quick Realignment YouTube on Mac Display Ratio</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-graphics-genesis-radeon-reclaimed/"><u>[New] In 2024, Graphics Genesis Radeon Reclaimed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-master-video-transformation-a-complete-guide-to-rotating-in-vlc/"><u>[Updated] 2024 Approved Master Video Transformation A Complete Guide to Rotating in VLC</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-online-platforms-embedding-video-playlists-from-youtube/"><u>[Updated] 2024 Approved Online Platforms Embedding Video Playlists From YouTube</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-zte-blade-a73-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on ZTE Blade A73 5G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advanced-audio-capture-and-conversion-made-simple-by-otters-latest-teams-software-update-explore-features-on-zdnet/"><u>Advanced Audio Capture and Conversion Made Simple by Otter's Latest Teams Software Update | Explore Features on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/before-its-too-late-discover-5-essential-steps-to-prepare-your-windows-e-pc-for-post-support-era-expert-advice-from-zdnet/"><u>Before It's Too Late: Discover 5 Essential Steps to Prepare Your Windows E PC for Post-Support Era | Expert Advice From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-windows-10-update-initiative-where-did-it-go/"><u>Free Windows 10 Update Initiative: Where Did It Go?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-recover-disappearing-desktop-icons-on-your-windows-10-pc-a-step-by-step-guide/"><u>How to Recover Disappearing Desktop Icons on Your Windows 10 PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-your-cloud-storage-how-to-link-google-drive-to-slack-efficiently/"><u>Integrating Your Cloud Storage: How to Link Google Drive to Slack Efficiently</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/linksys-wrt1900acs-open-source-wi-fi-router-review/"><u>Linksys WRT1900ACS Open Source Wi-Fi Router Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-of-ai-powered-code-writing-pros-and-cons-explained-insights-from-zdnet/"><u>Navigating the Complexities of AI-Powered Code Writing: Pros and Cons Explained - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/side-and-back-lobes-are-usually-undesirable-as-they-represent-radiation-in-directions-that-do-not-contribute-to-effective-communication-and-can-cause-interf86/"><u>Side and Back Lobes Are Usually Undesirable as They Represent Radiation in Directions that Do Not Contribute to Effective Communication and Can Cause Interference.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-battle-for-dominance-in-the-web-browsing-realm-who-leads/"><u>The Battle for Dominance in the Web Browsing Realm: Who Leads?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-discover-the-top-4k-video-editing-platforms-for-professionals/"><u>Updated Discover the Top 4K Video Editing Platforms for Professionals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-clip-weaver-workshop-for-2024/"><u>[New] Clip Weaver Workshop for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-10-no-cost-digital-video-editors-the-2023-guide/"><u>[New] Top 10 No-Cost Digital Video Editors The 2023 Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-becoming-an-insta-star-with-simple-steps/"><u>[Updated] 2024 Approved Becoming an Insta-Star with Simple Steps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-hp-envy-27-leading-edge-4k-monitor-review/"><u>[Updated] In 2024, HP Envy 27 Leading Edge 4K Monitor Review</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-key-video-makers-in-the-asmr-space/"><u>[Updated] In 2024, Key Video Makers in the ASMR Space</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-screenpause-recorder-tutorial/"><u>[Updated] In 2024, ScreenPause Recorder Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-top-benefits-of-embracing-aiops-why-you-need-to-make-the-switch/"><u>Exploring the Top Benefits of Embracing AIOps: Why You Need to Make the Switch</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ai-pitfalls-8-reasons-why-content-creators-cant-solely-depend-on-chatbots/"><u>Navigating AI Pitfalls: 8 Reasons Why Content Creators Can't Solely Depend on Chatbots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section/"><u>Section</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-impact-of-russian-aggression-on-ukraines-tech-sector-potential-risks-and-concerns/"><u>The Impact of Russian Aggression on Ukraine's Tech Sector: Potential Risks and Concerns</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-vmwares-power-get-your-hands-on-the-free-personal-versions-of-fusion-pro-and-workstation-pro-zdnet/"><u>Unlocking VMware's Power: Get Your Hands on the Free Personal Versions of Fusion Pro & Workstation Pro | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-deadline-microsoft-must-resolve-major-windows-10-issues-within-just-one-year-insights-from-zdnet/"><u>Urgent Deadline: Microsoft Must Resolve Major Windows 10 Issues Within Just One Year, Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-ultimate-ranking-the-leading-antivirus-solutions/"><u>ZDNet's Ultimate Ranking: The Leading Antivirus Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet
-date: 2025-01-04T02:42:17.588Z
-updated: 2025-01-09T18:44:01.432Z
+date: 2025-01-11T19:23:09.738Z
+updated: 2025-01-15T22:58:30.449Z
 tags:
   - password-manager
 categories:
@@ -31,6 +31,10 @@ If you've been around for the past 10 or so years, you know that most services r
 
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use iCloud as a password manager on Windows
 
 ## 1\. Open iCloud for Windows
@@ -54,7 +58,7 @@ Sign in with your Apple ID and password.
 Image: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make sure Passwords is on and click Apply
@@ -68,7 +72,7 @@ Make sure Passwords is on and click **Apply**.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Add browser extension
@@ -80,10 +84,6 @@ Once you click **Install Extension** in iCloud, you'll be able to add the **iClo
 Maria Diaz/ZDNET
 
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
 
@@ -113,19 +113,19 @@ Like LastPass, the browser extension will let you fill in your login information
 
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do you get iCloud for Windows?  
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How do I set up iCloud Keychain? 
 
@@ -167,18 +167,24 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-platform-picks-for-prominent-content-creators/"><u>[New] In 2024, Platform Picks for Prominent Content Creators</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-maximize-your-hd-vids-experience-the-ultimate-android-apps-list/"><u>[New] Maximize Your Hd Vids Experience The Ultimate Android Apps List</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-perfecting-youtube-shorts-step-by-step-video-production-tips/"><u>[Updated] 2024 Approved Perfecting YouTube Shorts Step-by-Step Video Production Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/come-velocemente-converte-i-tuoi-file-mkv-in-mp4-di-alta-qualita-senza-perdite/"><u>Come Velocemente Converte I Tuoi File MKV in MP4 Di Alta Qualità Senza Perdite</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-transferring-your-icloud-password-vault-on-and-off-macos/"><u>Comprehensive Guide: Transferring Your iCloud Password Vault on and Off macOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-steps-to-view-and-manage-photos-and-files-across-devices-with-icloud/"><u>Easy Steps to View and Manage Photos & Files Across Devices with iCloud</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-features-upgrades-for-chatgpt-plugin-hub/"><u>Essential Features Upgrades for ChatGPT Plugin Hub</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-s24-ultra-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy S24 Ultra Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/icloud-email-update-tutorial-how-to-easily-alter-your-current-icloud-id/"><u>ICloud Email Update Tutorial: How To Easily Alter Your Current iCloud ID</u></a></li>
-<li><a href="https://app-tips.techidaily.com/icloud-photo-sharing-a-beginners-complete-step-by-step-tutorial/"><u>ICloud Photo Sharing: A Beginner's Complete Step-by-Step Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620264324-lost-something-in-your-icloud-storage-master-the-art-of-icloud-backup-data-retrieval/"><u>Lost Something in Your iCloud Storage? Master the Art of iCloud Backup Data Retrieval!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-chromebook-2-in-depth-analysis-and-portability/"><u>Samsung Galaxy Chromebook 2 - In-Depth Analysis and Portability</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-icloud-message-accessibility-a-comprehensive-approach-for-enabling-your-emails/"><u>Troubleshooting iCloud Message Accessibility: A Comprehensive Approach for Enabling Your Emails</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-teacher-technology-cutting-edge-classroom-recorders-of-the-year/"><u>[Updated] 2024 Approved Teacher Technology Cutting-Edge Classroom Recorders of the Year</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-green-blueprint-planning-for-a-resilient-urban-future/"><u>[Updated] Green Blueprint Planning for a Resilient Urban Future</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-music-infused-content-sharing-strategies-for-facebook/"><u>[Updated] Music-Infused Content Sharing Strategies for Facebook</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-a18-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo A18 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/avoid-music-chaos-a-detailed-walkthrough-on-updatingreinstalling-itunes-while-preserving-your-library/"><u>Avoid Music Chaos: A Detailed Walkthrough on Updating/Reinstalling iTunes While Preserving Your Library</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-on-moving-your-itunes-media-library-onto-an-external-storage-device-for-mac-and-pc-users/"><u>Complete Tutorial on Moving Your iTunes Media Library Onto an External Storage Device for Mac and PC Users</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/discover-why-your-pc-may-be-sluggish-expert-insights-from-yl-computings-tech-experts/"><u>Discover Why Your PC May Be Sluggish: Expert Insights From YL Computing's Tech Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-anytime-anythnough-how-to-get-past-or-latest-itunes-versions-for-pcs-and-apple-devices-without-paying-a-dime/"><u>Download Anytime, Anythnough: How to Get Past or Latest iTunes Versions for PCs and Apple Devices Without Paying a Dime</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-steps-removing-redundant-songs-from-your-itunes-library/"><u>Easy Steps: Removing Redundant Songs From Your iTunes Library</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-favorite-songs-and-movies-for-free-directly-from-itunes-no-cost-at-all/"><u>Get Your Favorite Songs and Movies for Free Directly From iTunes – No Cost at All</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-recover-lost-contacts-from-your-iphones-itunes-backup/"><u>How to Recover Lost Contacts From Your iPhone's iTunes Backup</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oppo-a58-4g-by-drfone-android/"><u>How to Show Wi-Fi Password on Oppo A58 4G</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-selections-top-10-sports-streaming-apps-soccer-focus-for-2024/"><u>Innovative Selections Top 10 Sports Streaming Apps, Soccer Focus for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rectifying-gopro-video-warping-a-step-by-step-guide/"><u>Rectifying GoPro Video Warping A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revive-your-ipad-top-3-strategies-to-restore-connectivity-with-itunes/"><u>Revive Your iPad: Top 3 Strategies to Restore Connectivity with iTunes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/shaking-no-more-evaluating-photoshops-anti-shake-feature-for-2024/"><u>Shaking No More Evaluating Photoshop's Anti-Shake Feature for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-effective-tips-for-when-itunes-refuses-to-start-up/"><u>Troubleshooting Guide: Effective Tips for When iTunes Refuses to Start Up</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-how-to-fix-apple-music-not-syncing-to-your-iphone-ipad-or-ipod/"><u>Troubleshooting: How to Fix Apple Music Not Syncing to Your iPhone, iPad or iPod</u></a></li>
 </ul></div>
 

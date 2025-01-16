@@ -1,7 +1,7 @@
 ---
 title: "How Do Firms Grapple with Harnessing Generative AI: Insights From a New Deloitte Study Highlights Challenges - Featured on ZDNet"
-date: 2025-01-05T18:11:05.039Z
-updated: 2025-01-10T05:14:36.639Z
+date: 2025-01-12T16:25:05.287Z
+updated: 2025-01-16T00:06:58.974Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,16 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-quick-tutorial-incorporate-snap-camera-in-microsoft-teams-chats/"><u>[Updated] Quick Tutorial Incorporate Snap Camera in Microsoft Teams Chats</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-brawlers-domain-vs-twitch-territory-for-2024/"><u>[Updated] The Brawler's Domain Vs. Twitch Territory for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-maximizing-impact-a-compreehensive-guide-for-setting-and-assessing-fb-in-stream-ads/"><u>2024 Approved Maximizing Impact A Compreehensive Guide for Setting & Assessing FB In-Stream Ads</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asia-spearheads-the-surge-in-non-cash-payments-forecasted-reach-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Cash Payments: Forecasted Reach of $1.6 Trillion</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-steps-to-perform-a-complete-factory-reset-on-your-hp-laptop/"><u>Comprehensive Guide: Steps to Perform a Complete Factory Reset on Your HP Laptop</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-supercomputers-are-pivotal-in-chinas-quest-for-a-revolutionary-digital-metamorphosis/"><u>How Supercomputers Are Pivotal in China's Quest for a Revolutionary Digital Metamorphosis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-top-tech-pioneers-are-harnessing-the-power-of-open-source-for-groundbreaking-innovations-explore-with-zdnet/"><u>How Top Tech Pioneers Are Harnessing the Power of Open Source for Groundbreaking Innovations | Explore with ZDNET</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/merge-music-and-graphics-in-ppt-for-2024/"><u>Merge Music and Graphics in PPT for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-of-integrating-agile-with-artificial-intelligence-development-latest-research-reveals-complications-zdnet/"><u>Navigating the Challenges of Integrating Agile with Artificial Intelligence Development - Latest Research Reveals Complications | ZDNet</u></a></li>
-<li><a href="https://win-updates.techidaily.com/titre-seo-lemergence-du-secteur-de-lintelligence-comprendre-les-entreprises-intelligentes/"><u>Titre SEO: L'émergence Du Secteur De L'intelligence : Comprendre Les Entreprises Intelligentes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-and-resolving-non-functional-synaptics-mousetouchscreen-drivers-on-windows-10/"><u>Troubleshooting and Resolving Non-Functional Synaptics Mouse/Touchscreen Drivers on Windows 10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlock-creative-potential-adding-sound-to-your-instagram-stories/"><u>[New] 2024 Approved Unlock Creative Potential Adding Sound to Your Instagram Stories</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-conquering-viewersphere-channels-that-rule-the-net/"><u>[Updated] 2024 Approved Conquering Viewersphere Channels that Rule the Net</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-streamline-your-soundtrack-selection-for-youtube/"><u>[Updated] In 2024, Streamline Your Soundtrack Selection for YouTube</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-innovations-reshaping-the-future-of-software-development-the-productivity-shift-unveiled-codedigest/"><u>AI Innovations Reshaping the Future of Software Development - The Productivity Shift Unveiled | CodeDigest</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-clickbait-title-generator-for-2024/"><u>Best Clickbait Title Generator for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-bandwidth-exploring-revolutionary-5g-applications-that-surpass-connectivity-deep-dive-with-zdnet/"><u>Beyond Bandwidth: Exploring Revolutionary 5G Applications That Surpass Connectivity | Deep Dive with ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-skills-beyond-ai-discover-unseen-opportunities-at-the-edge-with-insights-from-zdnet/"><u>Elevate Your Skills Beyond AI: Discover Unseen Opportunities at the Edge with Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-harness-the-business-potential-of-artificial-intelligence-despite-common-hurdles-according-to-zdnet/"><u>How to Harness the Business Potential of Artificial Intelligence Despite Common Hurdles, According to ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-integrating-media-files-for-direct-transfer-to-iphone/"><u>In 2024, Integrating Media Files for Direct Transfer to iPhone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-tecno-spark-10c-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Tecno Spark 10C without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mainstream-enterprises-continue-to-crave-tech-expertise-unleashing-potential-ideas-for-a-transformative-future-zdnet-highlights/"><u>Mainstream Enterprises Continue to Crave Tech Expertise: Unleashing Potential Ideas for a Transformative Future | ZDNet Highlights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-rar-file-extraction-on-your-apple-computer/"><u>Mastering RAR File Extraction on Your Apple Computer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/moving-beyond-rote-programming-how-artificial-intelligence-is-revolutionizing-software-development-insights-from-zdnet/"><u>Moving Beyond Rote Programming: How Artificial Intelligence Is Revolutionizing Software Development - Insights From ZDNet</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/vubec-jak-je-tato-kniha-prekvapiva/"><u>Vůbec Jak Je Tato Kniha Překvapivá</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-top-innovators-are-embracing-open-source-strategies-according-to-zdnet/"><u>Why Top Innovators Are Embracing Open Source Strategies, According to ZDNet</u></a></li>
 </ul></div>
 

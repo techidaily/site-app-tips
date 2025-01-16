@@ -1,7 +1,7 @@
 ---
 title: "Advancing Coding Skills with Patience & Productivity: Unveiling GitHub Copilot's Impact on Software Development - ZDNet"
-date: 2025-01-05T17:10:57.623Z
-updated: 2025-01-09T16:33:05.279Z
+date: 2025-01-13T16:07:35.058Z
+updated: 2025-01-16T00:35:22.659Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-how-to-easily-disableremove-youtube-shorts-permanently/"><u>[Updated] In 2024, How to Easily Disable/Remove YouTube Shorts Permanently?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bavarias-transition-adopting-open-source-with-linux-and-libreoffice-instead-of-microsoft-insights-from-zdnet/"><u>Bavaria's Transition: Adopting Open-Source with Linux and LibreOffice Instead of Microsoft - Insights From ZDNet</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/deciding-on-your-video-recorder-heroes-obs-or-bandicam-for-2024/"><u>Deciding on Your Video Recorder Heroes OBS or Bandicam for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/how-to-screen-record-instagram-story-for-2024/"><u>How to Screen Record Instagram Story for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy F04</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-pure-opinions-on-recordcast-experience/"><u>In 2024, Pure Opinions on RecordCast Experience</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-ubuntu-2n04-a-revolutionary-fusion-of-speed-and-safety-in-the-world-of-linux-operating-systems-zdnet/"><u>Introducing Ubuntu 2N.04 - A Revolutionary Fusion of Speed and Safety in the World of Linux Operating Systems | ZDnet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-teamwork-platforms-of-2022-expert-reviews-and-comparisons/"><u>Top 5 Teamwork Platforms of 2022 - Expert Reviews and Comparisons</u></a></li>
-<li><a href="https://app-tips.techidaily.com/uncovering-the-joy-why-life-after-apple-proves-to-be-an-exciting-journey-zdnet/"><u>Uncovering the Joy: Why Life After Apple Proves To Be an Exciting Journey | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-shared-links-mechanism-and-functionality/"><u>Understanding ChatGPT Shared Links: Mechanism & Functionality</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-swiss-government-leads-by-example-mandates-open-source-sharing-for-official-software-a-new-era-of-public-tech/"><u>ZDNet Exclusive: Swiss Government Leads by Example, Mandates Open Source Sharing for Official Software | A New Era of Public Tech</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-picks-hilarity-driven-ringtones-for-laughter-lovers/"><u>[Updated] Top Picks Hilarity-Driven Ringtones for Laughter Lovers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/apple-watch-series-4-review/"><u>Apple Watch Series 4 Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-progress-toward-a-unified-vision-insights-from-zdnet/"><u>Bridging the Tech & Business Divide: Progress Toward a Unified Vision - Insights From ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/comprendre-comment-supprimer-entierement-les-donnees-dune-cle-usb-3-techniques-de-nettoyage-sures/"><u>Comprendre Comment Supprimer Entièrement Les Données D'une Clé USB : 3 Techniques De Nettoyage Sûres</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/diy-iphone-photography-learn-to-smudge-images-on-no-budget/"><u>DIY iPhone Photography Learn to Smudge Images on No Budget</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-key-elements-of-viral-success-in-instagram-videos/"><u>In 2024, Key Elements of Viral Success in Instagram Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-recent-payment-platform-failures-impacts-on-smbs-business-insights/"><u>Navigating Recent Payment Platform Failures: Impacts on SMBs | Business Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-challenge-of-upgrading-from-ubuntu-2404-a-step-by-step-guide/"><u>Navigating the Challenge of Upgrading From Ubuntu 24.04 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-best-glitch-video-editors/"><u>New In 2024, The Best Glitch Video Editors</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/step-by-step-tutorial-for-free-retrieval-of-accidentally-erased-videos-from-fuji-x-series/"><u>Step-by-Step Tutorial for Free Retrieval of Accidentally Erased Videos From Fuji X Series</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-video-conference-tools-of-2022-features-and-reviews-pcmag/"><u>Top Rated Video Conference Tools of 2022: Features & Reviews - PCMag</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-antivirus-solutions-expert-review-by-zdnet/"><u>Top-Rated Antivirus Solutions - Expert Review by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ubuntu-2404-unveiled-the-latest-lightning-speed-linux-os-with-enhanced-security-features-zdnet/"><u>Ubuntu 24.04 Unveiled: The Latest, Lightning-Speed Linux OS with Enhanced Security Features | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-whats-next-from-microsoft-potential-solutions-or-more-nuisances-learn-the-details-zdnet/"><u>Unveiling What's Next From Microsoft - Potential Solutions, Or More Nuisances? Learn the Details [ZDNet]</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/dvd/"><u>ストリーミング素材のDVDへの驚くべき変換手法📀✨</u></a></li>
 </ul></div>
 

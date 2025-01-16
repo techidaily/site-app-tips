@@ -1,7 +1,7 @@
 ---
 title: Why People Favor Biometrics Over Passwords Due to Memory Challenges | ZDNet Analysis
-date: 2025-01-02T20:41:11.021Z
-updated: 2025-01-10T00:38:28.275Z
+date: 2025-01-14T17:36:29.867Z
+updated: 2025-01-15T18:11:13.540Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,21 +99,15 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-techniques-for-safeguarding-your-favorite-live-discord-chats/"><u>[New] 2024 Approved Top Techniques for Safeguarding Your Favorite Live Discord Chats</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unmatched-melodies-selector-android-companion/"><u>[New] In 2024, Unmatched Melodies Selector, Android Companion</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-in-depth-examination-androids-photography-solution-lightroom/"><u>[New] In-Depth Examination Android's Photography Solution, Lightroom</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-free-from-marks-acquiring-unmarked-stock-photography/"><u>2024 Approved Free From Marks Acquiring Unmarked Stock Photography</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-android-projector-applications-top-8-picks-for-seamless-wireless-connection/"><u>Best Android Projector Applications: Top 8 Picks for Seamless Wireless Connection</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-fitbit-versa-overview-the-perfect-blend-of-simplicity-and-functionality/"><u>Budget-Friendly Fitbit Versa Overview: The Perfect Blend of Simplicity and Functionality</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-analyzing-the-features-of-picku-app-and-its-affordable-photoshop-substitutes/"><u>Comprehensive Guide: Analyzing the Features of PickU App and Its Affordable Photoshop Substitutes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-pinnacle-studio-benefits-drawbacks-and-best-alternatives-explored/"><u>Comprehensive Review of Pinnacle Studio: Benefits, Drawbacks & Best Alternatives Explored</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193990-experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-ring-video-doorbell-pro-a-comprehensive-review/"><u>In-Depth Analysis of the Ring Video Doorbell Pro: A Comprehensive Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/professional-review-of-the-apple-studio-27-inch-5k-monitor-is-its-elegance-worth-the-price-tag-analysis-by-zdnet/"><u>Professional Review of the Apple Studio 27-Inch 5K Monitor: Is Its Elegance Worth the Price Tag? - Analysis by ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721947397330-secure-your-conversations-with-duckduckgos-privacy-focused-ai-chat-experience-gpt-and-friends/"><u>Secure Your Conversations with DuckDuckGo's Privacy-Focused AI Chat - Experience GPT & Friends</u></a></li>
-<li><a href="https://fox-that.techidaily.com/steps-to-resolve-missed-inbound-call-problems-on-an-iphone/"><u>Steps to Resolve Missed Inbound Call Problems on an iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-8-must-have-multi-window-programs-for-android-phones-and-tablets/"><u>The Ultimate List of 8 Must-Have Multi-Window Programs for Android Phones & Tablets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-full-simplemdm-must-know-reviews-for-your-ios-and-mac-experience/"><u>Unveiling Full SimpleMDM: Must-Know Reviews for Your iOS and Mac Experience</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-vita-your-ultimate-guide-to-mastering-the-cutting-edge-video-editor/"><u>Unveiling the Power of VITA: Your Ultimate Guide to Mastering the Cutting-Edge Video Editor</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-navigating-pexels-tips-for-discovering-striking-images/"><u>[New] Navigating Pexels Tips for Discovering Striking Images</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-10-must-know-iphone-x-tricks-to-enhance-usage-for-2024/"><u>[Updated] 10 Must-Know iPhone X Tricks to Enhance Usage for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>2024 Approved FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-apps-to-enhance-your-android-devices-speed-and-efficiency/"><u>Best 10 Apps to Enhance Your Android Device's Speed and Efficiency</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-no-cost-android-tracking-programs-top-5-picks-for-smartphone-surveillance/"><u>Best No-Cost Android Tracking Programs: Top 5 Picks for Smartphone Surveillance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-eq-tools-for-android-devices-top-5-selections/"><u>Discover the Ultimate List of Free EQ Tools for Android Devices - Top 5 Selections</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/expert-hardware-reviews-by-toms-hardware-experts/"><u>Expert Hardware Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-asus-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Asus Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-must-have-mdm-solutions-expert-picks-for-optimal-mobile-control/"><u>Top 7 Must-Have MDM Solutions: Expert Picks for Optimal Mobile Control</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-rated-free-online-video-production-tools/"><u>Updated In 2024, Top-Rated Free Online Video Production Tools</u></a></li>
 </ul></div>
 

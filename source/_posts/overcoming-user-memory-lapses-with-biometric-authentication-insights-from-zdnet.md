@@ -1,7 +1,7 @@
 ---
 title: Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet
-date: 2025-01-08T16:34:27.423Z
-updated: 2025-01-09T23:28:09.176Z
+date: 2025-01-14T01:16:28.377Z
+updated: 2025-01-15T19:01:33.379Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,18 +99,24 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-key-methods-to-incorporate-facebook-live-into-website-designs-for-2024/"><u>[New] Key Methods to Incorporate Facebook Live Into Website Designs for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-positive-interaction-not-pressure-a-subscription-success-story/"><u>[New] Positive Interaction, Not Pressure A Subscription Success Story</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unraveling-why-your-facebooks-newsfeed-fails-to-suggest-movies/"><u>[Updated] 2024 Approved Unraveling Why Your Facebook's Newsfeed Fails to Suggest Movies</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-navigating-exit-the-guide-to-disconnecting-from-a-discord-community-for-2024/"><u>[Updated] Navigating Exit The Guide to Disconnecting From a Discord Community for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/choreographing-a-riveting-cinematic-shortcuts-showcase-for-2024/"><u>Choreographing a Riveting Cinematic Shortcuts Showcase for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/conexao-direta-com-a-movavi-ferramenta-de-conversao-video-gratuita-f4v-para-flv-na-web/"><u>Conexão Direta Com a Movavi: Ferramenta De Conversão Vídeo Gratuita – F4V Para FLV Na Web</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/controlling-who-can-use-specific-applications-on-your-windows/"><u>Controlling Who Can Use Specific Applications on Your Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Infinix Note 30? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/must-know-review-inside-look-at-the-revolutionary-eva-previously-ex-journey-chatbot/"><u>Must-Know Review: Inside Look at the Revolutionary EVA (Previously Ex Journey) Chatbot</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-10-cutting-edge-ai-chatbots-to-enhance-your-messaging-game/"><u>The Ultimate List of 10 Cutting-Edge AI Chatbots to Enhance Your Messaging Game</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-conversational-ai-exploring-the-best-features-of-gpt-powered-chatbots/"><u>Top-Rated Conversational AI: Exploring the Best Features of GPT-Powered Chatbots</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-reviews-explore-the-best-in-ai-meet-chatgpt-your-new-preferred-chatbot-companion/"><u>Top-Rated Reviews: Explore the Best in AI - Meet ChatGPT, Your New Preferred Chatbot Companion</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/understanding-what-drives-cryptocurrency-valuations-a-comprehensive-guide-by-yl-software/"><u>Understanding What Drives Cryptocurrency Valuations: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-jokes-that-rule-top-twenty-on-social-networks/"><u>[New] In 2024, Jokes that Rule Top Twenty on Social Networks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-lensbisection-inspection/"><u>[New] In 2024, LensBisection Inspection</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastery-guide-installing-snapchat-on-mac-os-for-2024/"><u>[New] Mastery Guide Installing Snapchat on Mac OS for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-most-intriguing-movies-on-youtube-streams-for-2024/"><u>[New] The Most Intriguing Movies on YouTube Streams for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-innovative-techniques-for-lecture-to-audio-conversion-in-education/"><u>[Updated] 2024 Approved Innovative Techniques for Lecture to Audio Conversion in Education</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cost-efficient-game-capture-learn-to-livestran-a-match/"><u>[Updated] Cost-Efficient Game Capture Learn to Livestran a Match</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-best-alternative-messaging-apps-to-whatsapp-10-amazing-choices/"><u>Discover the Best Alternative Messaging Apps to WhatsApp – 10 Amazing Choices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192671-discover-the-ideal-free-pdf-modification-apps-and-online-utilities-ranked-for-you/"><u>Discover the Ideal Free PDF Modification Apps & Online Utilities – Ranked for You</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ideal-free-pdf-modification-apps-and-online-utilities-ranked-for-you/"><u>Discover the Ideal Free PDF Modification Apps & Online Utilities – Ranked for You!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620188306-download-top-20-best-free-android-games-play-the-complete-versions-with-no-cost/"><u>Download Top 20 Best Free Android Games: Play the Complete Versions with No Cost!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-lcd-precision-with-a-tweak/"><u>Enhance LCD Precision with a Tweak</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-mobile-gear-enhancing-video-creation/"><u>In 2024, Mobile Gear Enhancing Video Creation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-top-ranking-lock-screen-enhancers-for-android-devices/"><u>The Ultimate List of Top-Ranking Lock Screen Enhancers for Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-stunning-gallery-apps-on-android-your-guide-to-capturing-and-sharing-perfect-images/"><u>Top 10 Stunning Gallery Apps on Android: Your Guide to Capturing and Sharing Perfect Images</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192928-top-5-trusted-ipad-video-player-apps-of-2024-install-now/"><u>Top 5 Trusted iPad Video Player Apps of 2024 - Install Now!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-recommended-apps-for-seamless-mobile-hotspot-access/"><u>Top Recommended Apps for Seamless Mobile Hotspot Access</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-for-persistent-fall-guys-game-errors-during-boot-up/"><u>Ultimate Fix Guide for Persistent Fall Guys Game Errors During Boot-Up</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-free-iphone-and-android-entertainment-with-appcake-get-all-your-favorite-cracked-apps-and-games-now/"><u>Unlock Free iPhone & Android Entertainment with AppCake - Get All Your Favorite Cracked Apps & Games Now!</u></a></li>
 </ul></div>
 
