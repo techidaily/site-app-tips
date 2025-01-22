@@ -1,7 +1,7 @@
 ---
 title: "Auto-Enabled Security for Half a Billion: Google's Bold Move to Protect Users with Mandatory 2FA"
-date: 2025-01-14T00:08:39.646Z
-updated: 2025-01-15T23:35:50.384Z
+date: 2025-01-14T20:46:46.291Z
+updated: 2025-01-21T18:17:41.089Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ Google [has auto enrolled](https://blog.google/technology/safety-security/reduci
 The initiative also involved requiring 2 million YouTube users to enable it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google
@@ -79,19 +79,17 @@ Google [announced](https://www.zdnet.com/article/by-end-of-2021-google-plans-to-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-golden-nuggets-revealing-the-hottest-reddit-topics-10/"><u>[New] 2024 Approved Golden Nuggets Revealing the Hottest Reddit Topics (10)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-craftsmanship-incorporating-descriptive-texts/"><u>[New] 2024 Approved Instagram Craftsmanship Incorporating Descriptive Texts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-essential-tips-for-online-photo-cropting/"><u>[New] Essential Tips for Online Photo Cropting</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-what-you-must-watch-a-close-look-at-todays-top-8-social-media-clips/"><u>[New] In 2024, What You Must Watch! - A Close Look at Today's Top 8 Social Media Clips</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-hot-list-viral-video-threads-for-the-week/"><u>[Updated] 2024 Approved The Hot List Viral Video Threads for the Week</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-maximize-productivity-on-mac-top-free-tts-app-picks-you-need/"><u>[Updated] Maximize Productivity on Mac TOP Free TTS App Picks You Need</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-wow-bug-comprehensive-guide-to-resolving-error-code-132-crash/"><u>Fixing WoW Bug: Comprehensive Guide to Resolving Error Code 132 Crash</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-fix-it-when-your-iphone-is-not-detected-by-itunes/"><u>How to Fix It when Your iPhone Is Not Detected by iTunes</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ipod-add-on-tutorial-placing-tracks-without-using-itunes-aiseesofts-approach/"><u>IPod Add-On Tutorial: Placing Tracks Without Using iTunes (Aiseesoft's Approach)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/no-more-itunes-required-master-the-art-of-seamless-ipod-management-using-modern-alternatives/"><u>No More iTunes Required: Master the Art of Seamless iPod Management Using Modern Alternatives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcome-sluggish-itunes-discover-the-top-10-proven-tips-for-optimal-performance/"><u>Overcome Sluggish iTunes: Discover the Top 10 Proven Tips for Optimal Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-top-3-methods-for-adding-cover-art-to-your-itunes-library/"><u>Unlocking the Secrets: Top 3 Methods for Adding Cover Art to Your iTunes Library</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-to-download-facebook-story-5-methods/"><u>[New] 2024 Approved How to Download Facebook Story [5 Methods]</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-picks-non-intrusive-android-recorders/"><u>[New] 2024 Approved Top Picks Non-Intrusive Android Recorders</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-elevate-photos-selecting-a-robust-text-editor/"><u>[New] Elevate Photos Selecting a Robust Text Editor</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-how-to-join-someones-live-on-tiktok-as-a-guest/"><u>[Updated] In 2024, How To Join Someone’s Live on TikTok as a Guest</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-sound-strategy-selecting-perfect-dj-visuals/"><u>2024 Approved Sound Strategy Selecting Perfect DJ Visuals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/excessive-collagen-deposition-during-repair-can-lead-to-keloids-or-hypertrophic-scars-which-are-forms-of-abnormal-fibrosis/"><u>Excessive Collagen Deposition During Repair Can Lead to Keloids or Hypertrophic Scars, Which Are Forms of Abnormal Fibrosis.</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/guida-passo-passo-per-ripristinare-le-impostazioni-e-i-dati-delliphone-da-un-backup-di-icloud/"><u>Guida Passo-Passo per Ripristinare Le Impostazioni E I Dati Dell'iPhone Da Un Backup Di iCloud</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-t2-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo T2 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lost-your-itunes-account-passcode-discover-the-top-methods-to-retrieve-it/"><u>Lost Your iTunes Account Passcode? Discover the Top Methods to Retrieve It</u></a></li>
+<li><a href="https://app-tips.techidaily.com/move-it-like-that-a-guide-for-shifting-itunes-lists-onto-usb-drives-across-windows-and-mac-systems/"><u>Move It Like That: A Guide for Shifting iTunes Lists Onto USB Drives Across Windows and Mac Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/resolve-constant-itunes-password-prompts-on-your-iphone-with-this-simple-guide/"><u>Resolve Constant ITunes Password Prompts on Your iPhone with This Simple Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-steps-converting-your-avi-videos-into-apples-itunes-format-for-ios-devices/"><u>Simple Steps: Converting Your AVI Videos Into Apple's iTunes Format for iOS Devices</u></a></li>
 </ul></div>
 

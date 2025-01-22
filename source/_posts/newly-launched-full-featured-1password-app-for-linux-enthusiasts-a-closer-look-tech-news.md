@@ -1,7 +1,7 @@
 ---
 title: "Newly Launched Full-Featured 1Password App for Linux Enthusiasts: A Closer Look - Tech News"
-date: 2025-01-11T23:14:49.826Z
-updated: 2025-01-15T21:39:55.998Z
+date: 2025-01-18T02:19:32.652Z
+updated: 2025-01-21T19:57:15.333Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/988b0aa2e48e125d13283fa19f222d53a696ba967
 I used to pride myself on being able to remember dozens of complex passwords. But, now I need to remember hundreds of passwords and I just can't do it. That's why password managers, such as [1Password](https://1password.com/), [Keeper](https://keepersecurity.com/), and [LastPass](https://www.lastpass.com/), are so important. All of which is fine and good… unless you're running Linux. Now, Agilebits' 1Password has finally given their customers what they've been [asking for: A Linux version](https://discussions.agilebits.com/discussion/2846/new-product-request-1password-for-linux). After a long beta, the [company has released its first Linux edition](https://www.prnewswire.com/news-releases/1password-unveils-application-to-protect-linux-users-and-developers-301293641.html).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** recommends
@@ -78,23 +78,19 @@ Sound good to you? Give [Linux 1Password a try with a 30-day free trial](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-youtube-titulos-con-algoritmos/"><u>[New] Mastering YouTube Títulos Con Algoritmos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-ultimate-studio-tracker-xvideoexploration/"><u>[Updated] 2024 Approved Ultimate Studio Tracker XVideoExploration</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-top-8-photo-grid-online-makers-to-polish-your-pictures-for-2024/"><u>[Updated] Top 8 Photo Grid Online Makers to Polish Your Pictures for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unveiling-premium-priced-no-cost-graphic-websites-for-2024/"><u>[Updated] Unveiling Premium-Priced, No-Cost Graphic Websites for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-complete-process-of-video-recording-and-editing-on-adobe-connect/"><u>[New] 2024 Approved The Complete Process of Video Recording & Editing on Adobe Connect</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-revolutionize-your-facebook-presence-with-these-10-strategies/"><u>[Updated] In 2024, Revolutionize Your Facebook Presence with These 10 Strategies</u></a></li>
 <li><a href="https://app-tips.techidaily.com/30-bargain-alert-access-the-groundbreaking-worlds-first-3-dimensional-password-vault-for-three-years-get-yours-today-from-zdnet/"><u>$30 Bargain Alert! Access the Groundbreaking World's First 3-Dimensional Password Vault for Three Years - Get Yours Today From ZDNet!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-we-depend-on-instagram-an-in-depth-analysis-by-zdnet/"><u>Can We Depend on Instagram? An In-Depth Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discovering-your-macs-secrets-a-guide-to-finding-passwords-in-the-keychain/"><u>Discovering Your Mac's Secrets: A Guide to Finding Passwords in the Keychain</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/how-do-i-peruse-all-the-video-and-photo-files-shared-by-friends/"><u>How Do I Peruse All the Video and Photo Files Shared by Friends?</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-realme-narzo-n53-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme Narzo N53 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/instagrams-reliability-questioned-insights-from-a-zdnet-investigation/"><u>Instagram's Reliability Questioned: Insights From a ZDNet Investigation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-brex-how-1password-enhances-user-security-with-new-online-payment-features-insights-from-zdnet/"><u>Integrating Brex: How 1Password Enhances User Security with New Online Payment Features - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/keeping-your-airpods-devotionally-linked-avoid-auto-switching-between-iphone-mac-and-ipad/"><u>Keeping Your AirPods Devotionally Linked: Avoid Auto-Switching Between iPhone, Mac & iPad</u></a></li>
-<li><a href="https://app-tips.techidaily.com/logmein-decides-to-create-independent-entity-with-lastpass-zdnet-news/"><u>LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/premium-choice-10-leading-webcams-for-win-11/"><u>Premium Choice 10 Leading Webcams for Win 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/proton-launches-advanced-password-protector-ensuring-total-privacy-with-robust-end-to-end-cryptography-zdnet/"><u>Proton Launches Advanced Password Protector, Ensuring Total Privacy with Robust End-to-End Cryptography | ZDNET</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/0-music-reactions-on-yt-a-year-end-review/"><u>Top 10 Music Reactions on YT A Year-End Review</u></a></li>
-<li><a href="https://win-news.techidaily.com/troubleshooting-guide-making-windows-acknowledge-your-scanner-tips-from-yl-software-experts/"><u>Troubleshooting Guide: Making Windows Acknowledge Your Scanner - Tips From YL Software Experts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-beginners-pathway-to-exceptional-gopro-adventures/"><u>A Beginner's Pathway to Exceptional GoPro Adventures</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cryptocom-executive-addresses-user-concerns-following-major-31m-security-breach-insights-from-zdnet/"><u>Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-a23-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy A23 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/huge-black-friday-blowout-get-nordpass-premium-at-half-price-secure-your-passwords-now/"><u>Huge Black Friday Blowout! Get NordPass Premium at Half Price - Secure Your Passwords Now!</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1726029594109-mp3/"><u>MP3ファイルをプレミアプロで読み取れない理由と解決策</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionary-techniques-for-freeing-up-disk-space-in-win11-without-file-deletion-max-156-chars/"><u>Revolutionary Techniques for Freeing Up Disk Space in Win11 Without File Deletion (Max 156 Chars)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-wallets-1password-joins-forces-with-brex-to-simplify-secure-transactions-according-to-zdnet-coverage/"><u>Revolutionizing Digital Wallets: 1Password Joins Forces with Brex to Simplify Secure Transactions, According to ZDNet Coverage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-dealing-with-constant-usb-connection-issues-effectively/"><u>Step-by-Step Solution: Dealing with Constant USB Connection Issues Effectively</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-vivo-v30-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo V30 Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-phishing-scams-impersonating-leaders-dhl-microsoft-and-whatsapp-in-the-spotlight/"><u>Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight</u></a></li>
 <li><a href="https://app-tips.techidaily.com/unmasking-crypto-illusions-a-revealing-paper-challenges-bitcoins-anonymity-claims/"><u>Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims</u></a></li>
 <li><a href="https://app-tips.techidaily.com/why-using-a-password-manager-is-essential-top-5-benefits-explained-by-zdnet/"><u>Why Using a Password Manager Is Essential: Top 5 Benefits Explained by ZDNet</u></a></li>
 </ul></div>

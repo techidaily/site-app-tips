@@ -1,7 +1,7 @@
 ---
 title: "Database Leak Reveals Personal Data of Over 30,000 Medical Staff in Florida: An In-Depth Look by ZDNet"
-date: 2025-01-10T16:27:40.215Z
-updated: 2025-01-15T19:25:20.830Z
+date: 2025-01-19T03:49:01.516Z
+updated: 2025-01-21T18:10:14.016Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ More than 30,000 US healthcare workers' personal information was recently expose
 Fowler [discovered](https://www.websiteplanet.com/blog/galeapp-leak-report/) a database run by Gale Healthcare Solutions with 170,239 exposed records that included names, emails, home addresses, photos and in some cases, Social Security Numbers as well as tax documents. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -100,15 +100,24 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-ultimate-plugins-list-after-effects-edition/"><u>[New] 2024 Approved Ultimate Plugins List After Effects Edition</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-eye-on-the-social-scene-top-tweets-of-2023/"><u>[Updated] 2024 Approved Eye on the Social Scene Top Tweets of 2023</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-unveiling-youtube-shorts-money-making-mechanisms/"><u>[Updated] Unveiling YouTube Shorts Money-Making Mechanisms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-groundbreiting-recording-solutions-for-environmental-films/"><u>[New] 2024 Approved Groundbreiting Recording Solutions for Environmental Films</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-initiate-your-facebook-analysis-journey/"><u>[New] 2024 Approved Initiate Your Facebook Analysis Journey</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-driving-revenue-with-well-crafted-youtube-channel-trailers/"><u>[New] In 2024, Driving Revenue with Well-Crafted YouTube Channel Trailers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-embark-on-your-video-vision-start-your-youtube-channel/"><u>[Updated] 2024 Approved Embark on Your Video Vision Start Your YouTube Channel</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-high-dynamic-range-luminances-impact-review/"><u>[Updated] In 2024, High Dynamic Range Luminance's Impact Review</u></a></li>
 <li><a href="https://app-tips.techidaily.com/best-strategies-to-resolve-android-whatsapp-backup-issues-top-5-tips/"><u>Best Strategies to Resolve Android WhatsApp Backup Issues: Top 5 Tips</u></a></li>
 <li><a href="https://app-tips.techidaily.com/1723620197018-expert-tips-for-retrieving-lost-whatsapp-data-on-ios-recover-texts-images-movies-and-sounds-easily/"><u>Expert Tips for Retrieving Lost WhatsApp Data on iOS - Recover Texts, Images, Movies & Sounds Easily!</u></a></li>
 <li><a href="https://app-tips.techidaily.com/how-to-effortlessly-backup-and-restore-whatsapp-messages-from-one-android-phone-to-another/"><u>How to Effortlessly Backup and Restore WhatsApp Messages From One Android Phone to Another</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-12-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 12 Without Passcode Easily</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-retrieve-older-whatsapp-messages-a-guide-to-accessing-deleted-or-archived-conversations/"><u>How to Retrieve Older WhatsApp Messages: A Guide to Accessing Deleted or Archived Conversations</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-nokia-g42-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Nokia G42 5G Phones</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s7-ideal-pick-for-android-enthusiasts/"><u>In-Depth Analysis of the Samsung Galaxy Tab S7: Ideal Pick for Android Enthusiasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-friends-into-your-chat-list-a-comprehensive-tutorial-for-ios-and-android-users-of-whatsapp/"><u>Integrating Friends Into Your Chat List: A Comprehensive Tutorial for iOS & Android Users of WhatsApp</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximizing-your-media-sharing-on-whatsapp-ultimate-guide-to-reducing-video-file-size-without-quality-loss/"><u>Maximizing Your Media Sharing on WhatsApp: Ultimate Guide to Reducing Video File Size Without Quality Loss</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965092119-quick-and-simple-guide-get-your-wacom-driver-downloads-here/"><u>Quick and Simple Guide: Get Your Wacom Driver Downloads Here</u></a></li>
 <li><a href="https://app-tips.techidaily.com/revise-your-mobile-details-easily-the-ultimate-walkthrough-for-switching-numbers-on-whatsapp/"><u>Revise Your Mobile Details Easily: The Ultimate Walkthrough for Switching Numbers on WhatsApp</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/sculpting-waterway-content-with-flair-for-2024/"><u>Sculpting Waterway Content with Flair for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-to-reactivate-your-hp-laptops-camera-in-windows-11/"><u>Solutions to Reactivate Your HP Laptop's Camera in Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-adding-new-contacts-in-whatsapp-across-iphone-and-android-devices/"><u>Step-by-Step Guide: Adding New Contacts in WhatsApp Across iPhone & Android Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-phone-into-a-dual-display-device-with-this-smart-laptop-stand-insights/"><u>Transform Your Phone Into a Dual-Display Device with This Smart Laptop Stand - Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-how-to-restore-deleted-whatsapp-conversations-on-android-phones/"><u>Ultimate Guide: How to Restore Deleted WhatsApp Conversations on Android Phones</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Skills with Coursera's New LevelSet Exams: Insights From ZDNet"
-date: 2025-01-10T01:30:16.872Z
-updated: 2025-01-15T16:26:02.146Z
+date: 2025-01-15T18:07:21.645Z
+updated: 2025-01-22T01:18:12.814Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-16-innovative-ways-to-archive-web-based-podcasts/"><u>[New] 2024 Approved 16 Innovative Ways to Archive Web-Based Podcasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-enshrine-your-elite-playthroughs-in-galaxy-cases/"><u>[New] 2024 Approved Enshrine Your Elite Playthroughs in Galaxy Cases</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-roguelikes-traditional-tactics-vs-modern-mechanics/"><u>[New] 2024 Approved Roguelike's Traditional Tactics Vs. Modern Mechanics</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unveiling-the-secrets-to-crafting-perfect-slug-lines/"><u>[New] 2024 Approved Unveiling the Secrets to Crafting Perfect Slug Lines</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ptimize-your-vlogs-with-smart-youtube-editing-tips/"><u>[New] Optimize Your Vlogs with Smart YouTube Editing Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-nvidia-unveils-new-accelerated-instruction-modules-aims-for-enhanced-gen-ai-performance-tech-news-on-zdnet/"><u>1. NVIDIA Unveils New Accelerated Instruction Modules (AIMs) for Enhanced GEN AI Performance - Tech News on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/all-in-one-microsoft-experience-bridging-work-life-and-study-with-the-latest-teams-update-on-zdnet/"><u>All-in-One Microsoft Experience: Bridging Work, Life, and Study with the Latest Teams Update on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-electric-powertrains-how-do-bevs-phevs-and-fcevs-differ-from-traditional-hybrs/"><u>Demystifying Electric Powertrains: How Do BEVs, PHEVs, and FCEVs Differ From Traditional Hybrs?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-pc-experience-transitioning-from-windows-home-to-pro-key-benefits-explained/"><u>Elevate Your PC Experience: Transitioning From Windows Home to Pro - Key Benefits Explained</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enterprise-evolution-exploring-the-role-of-decentralized-networks-and-web3-technologies-in-modern-companies-zdnet-analysis/"><u>Enterprise Evolution: Exploring the Role of Decentralized Networks and Web3 Technologies in Modern Companies | ZDNET Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/harnessing-artificial-intelligence-expert-insights-on-securing-victory-in-cyberspace-warfare-zdnet/"><u>Harnessing Artificial Intelligence: Expert Insights on Securing Victory in Cyberspace Warfare | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-bypass-or-reset-your-login-pin-on-windows-10-easily/"><u>How to Bypass or Reset Your Login PIN on Windows 10 Easily</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-secure-your-no-cost-windows-11-update-before-they-run-out/"><u>How to Secure Your No-Cost Windows 11 Update Before They Run Out</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-recent-patch-might-escalate-evening-tech-woes-experts-at-zdnet-caution/"><u>Microsoft's Recent Patch Might Escalate Evening Tech Woes, Experts at ZDNet Caution</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/monetize-more-strategies-for-youtubes-updated-partner-plan/"><u>Monetize More Strategies for YouTube's Updated Partner Plan</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rethinking-microsoft-how-redirecting-their-approach-can-enhance-user-experience-and-satisfaction/"><u>Rethinking Microsoft: How Redirecting Their Approach Can Enhance User Experience and Satisfaction</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unable-to-install-ios-updates-on-iphoneipad-here-are-9-troubleshooting-steps/"><u>Unable to Install iOS Updates on iPhone/iPad? Here Are 9 Troubleshooting Steps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-steps-for-iphone-screen-shotting-for-2024/"><u>[Updated] Essential Steps for iPhone Screen Shotting for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2022s-leading-iam-solutions-reviewed-expert-picks-by-zdnet/"><u>2022'S Leading IAM Solutions Reviewed: Expert Picks by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-crm-solutions-for-2-surveillance-system-we-use-a-variety-of-methods-to-detect-and-monitor-suspicious-activity-within-our-facility-these-include-the-fol79/"><u>Best CRM Solutions for 2 Surveillance System, We Use a Variety of Methods to Detect and Monitor Suspicious Activity Within Our Facility. These Include the Following Steps:</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-tech-teams-amplifying-your-voice-in-the-realm-of-customer-experience-insights-from-zdnet/"><u>Empowering Tech Teams: Amplifying Your Voice in the Realm of Customer Experience - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-the-performance-of-the-dell-inspiron-3671-desktop-pc-a-moderate-option-for-home-users/"><u>Evaluating the Performance of the Dell Inspiron 3671 Desktop PC - A Moderate Option for Home Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-word-2021-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature field to a Word 2021</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-slacks-new-functionality-a-step-by-step-tutorial-on-using-slack-connect-effectively/"><u>Mastering Slack's New Functionality - A Step-by-Step Tutorial on Using Slack Connect Effectively</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsofts-crucial-year-ahead-to-fix-windows-10-issues-techinsight/"><u>Urgent Challenge: Microsoft's Crucial Year Ahead to Fix Windows 10 Issues | TechInsight</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ZeroFox's Strategic Acquisition of IDX and Merger with L&F Forms a Mega $1.4B Cybersecurity Giant - Insights From ZDNet
-date: 2025-01-10T20:03:18.827Z
-updated: 2025-01-15T21:13:17.038Z
+date: 2025-01-18T18:44:51.668Z
+updated: 2025-01-21T22:46:27.305Z
 tags:
   - password-manager
 categories:
@@ -18,7 +18,7 @@ The company will be renamed ZeroFox Holdings once the deal goes through and will
 Monarch Alternative Capital LP and several other firms are also investing $170 million in the deal to merge the companies. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -87,24 +87,21 @@ Adam Gerchen, CEO of LNFA and a new ZeroFox board member, noted that the company
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-into-the-depths-mastering-gopros-time-lapse-techniques/"><u>[New] 2024 Approved Into the Depths Mastering GoPro's Time-Lapse Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-elevate-photography-crafting-exceptional-time-lapses-with-black-hero5/"><u>[New] Elevate Photography Crafting Exceptional Time-Lapses with Black Hero5</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-ranking-the-best-top-6-tools-for-fb-lite-video-downloading-2023/"><u>[Updated] 2024 Approved Ranking the Best Top 6 Tools for FB Lite Video Downloading, 2023</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-humor-hubbub-top-7-cheeky-content-concepts-for-laughter-lovers/"><u>[Updated] Humor Hubbub Top 7 Cheeky Content Concepts for Laughter Lovers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-composers-guide-to-creating-youtube-music-cohorts/"><u>[Updated] The Composer's Guide to Creating YouTube Music Cohorts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-rhythm-of-the-room-mac-audio-guide-for-2024/"><u>[Updated] The Rhythm of the Room Mac Audio Guide for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-framefixer-editor/"><u>2024 Approved FrameFixer Editor</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dont-compromise-on-security-upgrade-your-password-for-safe-streaming-experience-cybersafetynews/"><u>Don't Compromise on Security: Upgrade Your Password for Safe Streaming Experience | CyberSafetyNews</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevating-enterprise-defense-starts-at-the-employee-level-expert-advice-on-corporate-and-personal-cybersecurity-by-zdnet/"><u>Elevating Enterprise Defense Starts at the Employee Level – Expert Advice on Corporate and Personal Cybersecurity by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhanced-online-security-made-easy-discover-how-proton-enables-full-data-protection-through-its-new-password-manager-as-explored-by-zdnet-experts/"><u>Enhanced Online Security Made Easy: Discover How Proton Enables Full Data Protection Through Its New Password Manager, as Explored by ZDNet Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/evaluation-of-the-iphone-14-meeting-adequate-performance-standards-insights/"><u>Evaluation of the iPhone 14: Meeting Adequate Performance Standards - Insights</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-a-detailed-exploration-into-sourcing-high-quality-backdrops/"><u>In 2024, A Detailed Exploration Into Sourcing High-Quality Backdrops</u></a></li>
-<li><a href="https://app-tips.techidaily.com/instagram-examining-the-questions-of-trust-and-authenticity/"><u>Instagram: Examining the Questions of Trust and Authenticity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-for-effective-youtube-comment-engagement/"><u>[New] Strategies for Effective YouTube Comment Engagement</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unlocking-full-image-potential-incorporating-luts-in-adobe-photoshop-cs6-for-2024/"><u>[New] Unlocking Full Image Potential Incorporating LUTs in Adobe Photoshop CS6 for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-unlocking-secure-vaults-a-guide-to-activating-bitwardens-master-password-prompt-feature/"><u>1. Unlocking Secure Vaults: A Guide to Activating Bitwarden's Master Password Prompt Feature</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/l-roundup-top-no-money-video-editing-software-reviewed-for-2024/"><u>Annual Roundup Top No-Money Video Editing Software Reviewed for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/enriching-your-video-content-advanced-voiceover-strategies/"><u>Enriching Your Video Content Advanced Voiceover Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/firstrow-leisure-without-the-sports-commitment/"><u>FirstRow Leisure Without the Sports Commitment</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-cellular-reception-amplifiers-of-2024/"><u>Leading Cellular Reception Amplifiers of 2024</u></a></li>
 <li><a href="https://app-tips.techidaily.com/malicious-exploitation-of-omicron-concerns-intensifies-as-cybercriminals-deploy-redline-trojan-expert-analysis-by-fortinet-on-emerging-threats/"><u>Malicious Exploitation of Omicron Concerns Intensifies as Cybercriminals Deploy RedLine Trojan – Expert Analysis by Fortinet on Emerging Threats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/proofpoint-reveals-how-cybercriminals-exploit-fans-desire-for-justin-bieber-and-the-weeknd-events-to-propagate-malware/"><u>Proofpoint Reveals How Cybercriminals Exploit Fans' Desire for Justin Bieber & The Weeknd Events to Propagate Malware</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-devices-with-ease-apples-new-passkey-revealed-at-wwdc-zdnet-insights/"><u>Secure Your Devices with Ease: Apple's New Passkey Revealed at WWDC | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-biometrics-as-users-struggle-with-password-fatigue-insights-from-zdnet-analysis/"><u>The Rise of Biometrics as Users Struggle with Password Fatigue: Insights From ZDNet Analysis</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-made-easy-fix-constant-wwe-2k20-pc-disruptions/"><u>Troubleshooting Made Easy: Fix Constant WWE 2K20 PC Disruptions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-password-management-secrets-with-dashlane-costs-capabilities-and-starting-guide-techinsight/"><u>Unlocking Password Management Secrets with Dashlane: Costs, Capabilities & Starting Guide | TechInsight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/massive-data-compromise-at-oregon-medical-practice-750k-patients-impacted-details-revealed-by-digi-journal/"><u>Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/realigning-lens-distortion-essential-gopro-correction-guide-for-2024/"><u>Realigning Lens Distortion Essential GoPro Correction Guide for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-security-how-dashlane-enables-logins-without-a-main-password-according-to-zdnet/"><u>Revolutionizing Digital Security: How Dashlane Enables Logins Without a Main Password, According to ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/security-alert-kaspersky-password-manager-revealed-by-zdnet-for-creating-weak-brute-force-susceptible-passwords/"><u>Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords</u></a></li>
+<li><a href="https://app-tips.techidaily.com/superior-plus-top-billion-dollar-natural-gas-provider-targeted-by-cyber-attack-insights-from-zdnet/"><u>Superior Plus, Top Billion-Dollar Natural Gas Provider, Targeted by Cyber Attack: Insights From ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/unlock-your-audio-potential-free-focusrite-scarlett-2i2-software-for-windows-users/"><u>Unlock Your Audio Potential - Free Focusrite Scarlett 2I2 Software for Windows Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-stronger-passwords-are-essential-protect-your-streaming-service-account-now-techadvice/"><u>Why Stronger Passwords Are Essential: Protect Your Streaming Service Account Now | TechAdvice</u></a></li>
 </ul></div>
 

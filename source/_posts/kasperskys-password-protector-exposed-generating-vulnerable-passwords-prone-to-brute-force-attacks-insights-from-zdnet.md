@@ -1,7 +1,7 @@
 ---
 title: "Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet"
-date: 2025-01-09T22:26:16.876Z
-updated: 2025-01-15T18:05:05.999Z
+date: 2025-01-18T00:09:07.111Z
+updated: 2025-01-21T16:44:02.500Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Suppose you are in the business of generating passwords, it would probably be a 
 In a [blog post](https://donjon.ledger.com/kaspersky-password-manager/) to cap off an almost two year saga, Ledger Donjon head of security research Jean-Baptiste Bédrune showed KPM was doing just that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,7 +66,7 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -92,18 +92,19 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-10-best-luts-for-adobe-lightroom/"><u>[Updated] 10 Best LUTs for Adobe LightRoom</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-exploring-facebooks-newest-feature-evolution/"><u>[Updated] In 2024, Exploring Facebook's Newest Feature Evolution</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-multimedia-content-putting-photos-together-on-insta-story/"><u>[Updated] Mastering Multimedia Content Putting Photos Together on Insta Story</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1password-analysis-is-this-top-tier-password-solution-a-smart-investment-insights-from-tech-experts/"><u>1Password Analysis: Is This Top-Tier Password Solution a Smart Investment? - Insights From Tech Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-twitter-presence-a-comprehensive-guide-to-growing-your-follower-count/"><u>Boost Your Twitter Presence: A Comprehensive Guide to Growing Your Follower Count</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1728496479134-error-404-unable-to-locate-the-webpage-youre-looking-for/"><u>Error 404: Unable to Locate the Webpage You're Looking For</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-v30-lite-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo V30 Lite 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/jokes-aplenty-incorrante-guide-to-snapchats-cartoon-filters-for-2024/"><u>Jokes Aplenty Incorrante Guide to Snapchat's Cartoon Filters for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-first-row-fun-beyond-the-game-top-alternatives-for-2024/"><u>[New] First Row Fun Beyond the Game Top Alternatives for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-stay-grounded-in-virtual-reality-spaces/"><u>[New] How to Stay Grounded in Virtual Reality Spaces</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-vlc-mastery-unveiling-10-secret-capabilities/"><u>[New] VLC Mastery Unveiling 10 Secret Capabilities</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-harmonious-hugs-best-chill-country-songs-for-relaxing-dance-parties-on-tiktok/"><u>2024 Approved Harmonious Hugs Best Chill Country Songs for Relaxing Dance Parties on TikTok</u></a></li>
+<li><a href="https://app-tips.techidaily.com/black-friday-exclusive-deal-unlock-savings-with-nordpass-premium-at-half-price-get-secure-passwords-now-zdnet-insider-tips/"><u>Black Friday Exclusive Deal: Unlock Savings with NordPass Premium at Half Price! Get Secure Passwords Now - ZDNet Insider Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bypassing-master-passwords-with-ease-discover-how-dashlane-enables-seamless-sign-ins-according-to-zdnet-analysis/"><u>Bypassing Master Passwords with Ease: Discover How Dashlane Enables Seamless Sign-Ins, According to ZDNet Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-guide-to-oculus-rift-setup/"><u>Comprehensive Guide to Oculus Rift Setup</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ditching-lastpass-master-managing-passwords-with-icloud-on-windows-a-complete-guide-by-zdnet/"><u>Ditching LastPass? Master Managing Passwords with iCloud on Windows - A Complete Guide by ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-outsmarting-video-based-home-schooling-effortlessly/"><u>In 2024, Outsmarting Video-Based Home Schooling Effortlessly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-uniting-music-and-media-with-precision-using-youtube-video-editor/"><u>In 2024, Uniting Music & Media with Precision Using YouTube Video Editor</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-protons-latest-feature-a-secure-password-vault-with-advanced-end-to-end-encryption-comprehensive-review-on-zdnet/"><u>Introducing Proton's Latest Feature: A Secure Password Vault with Advanced End-to-End Encryption - Comprehensive Review on ZDNet</u></a></li>
 <li><a href="https://app-tips.techidaily.com/mastering-security-my-experience-with-top-passwordless-password-manager-tools-the-clear-winner/"><u>Mastering Security: My Experience with Top Passwordless Password Manager Tools – The Clear Winner!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/messvid-grabber-for-social-media/"><u>MessVid Grabber for Social Media</u></a></li>
 <li><a href="https://app-tips.techidaily.com/oregon-healthcare-provider-alerts-over-half-a-million-clients-about-major-security-incident-tech-news/"><u>Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/pixelpilot-photovideo-slide-show-for-macos/"><u>PixelPilot Photovideo Slide Show for macOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/west-virginia-hospital-data-compromised-following-phishing-scheme-insights-by-zdnet/"><u>West Virginia Hospital Data Compromised Following Phishing Scheme - Insights by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zerofoxs-strategic-acquisition-of-idx-and-merger-with-landf-forms-a-mega-14b-cybersecurity-giant-insights-from-zdnet/"><u>ZeroFox's Strategic Acquisition of IDX and Merger with L&F Forms a Mega $1.4B Cybersecurity Giant - Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET
-date: 2025-01-09T20:14:27.083Z
-updated: 2025-01-15T17:10:56.930Z
+date: 2025-01-19T16:03:08.780Z
+updated: 2025-01-21T16:35:21.161Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,20 +68,20 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-decoding-the-science-of-hash-optimization-for-game-streaming-for-2024/"><u>[New] Decoding the Science of Hash Optimization for Game Streaming for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ulse-of-innovation-selecting-top-quality-dj-visual-downloads-for-2024/"><u>[New] Pulse of Innovation Selecting Top-Quality DJ Visual Downloads for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-screen-streaming-showdown-whos-the-champion-in-2024-obs-or-shadowgl/"><u>[New] Screen Streaming Showdown Who's the Champion, In 2024 OBS or ShadowGL?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/mooth-streaming-selective-stabilizer-guidebook/"><u>[New] Smooth Streaming Selective Stabilizer Guidebook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-guide-to-enhancing-post-reach-via-hashtags-on-instagram/"><u>[New] The Ultimate Guide to Enhancing Post Reach via Hashtags on Instagram</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620191219-7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-graphically-advanced-game-emulators-high-quality-visuals-and-optimal-frame-rates/"><u>Best Graphically Advanced Game Emulators: High-Quality Visuals & Optimal Frame Rates</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-uwu-text-to-speech-apps-mastering-anime-character-vocalization-techniques/"><u>Best UwU Text-to-Speech Apps: Mastering Anime Character Vocalization Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/concealing-applications-a-step-by-step-guide-for-android-ios-devices/"><u>Concealing Applications: A Step-by-Step Guide for Android, iOS Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-video-game-lore-with-ai-help/"><u>Enhancing Video Game Lore with AI Help</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-latin-to-modern-expressions-romance-languages/"><u>From Latin to Modern Expressions: Romance Languages</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-redownload-or-restore-your-bought-apps-and-in-app-items-on-ios/"><u>Step-by-Step Guide: Redownload or Restore Your Bought Apps & In-App Items on iOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-xvid-media-player-compatible-with-windows-macos-android-and-iphone/"><u>Top Rated Xvid Media Player: Compatible with Windows, MacOS, Android & iPhone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transitioning-audio-realms-in-reapers-bouncing-beats/"><u>Transitioning Audio Realms in Reaper's Bouncing Beats</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-silence-solutions-for-g435-headset-lacking-audio/"><u>Troubleshooting Silence: Solutions for G435 Headset Lacking Audio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-find-tiktok-background-video-some-templates/"><u>[New] How to Find TikTok Background Video Some Templates</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-a-filmmakers-approach-to-youtube-splitscreen-videos/"><u>[Updated] A Filmmaker's Approach to YouTube Splitscreen Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-pc-masterys-essential-list-for-video-download-enthusiasts/"><u>2024 Approved PC Mastery's Essential List for Video Download Enthusiasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-android-projector-applications-top-8-picks-for-seamless-wireless-connection/"><u>Best Android Projector Applications: Top 8 Picks for Seamless Wireless Connection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-pinnacle-studio-benefits-drawbacks-and-best-alternatives-explored/"><u>Comprehensive Review of Pinnacle Studio: Benefits, Drawbacks & Best Alternatives Explored</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/creative-mastery-meets-gaming-prowess-in-the-corsair-one-pro-desktop-examination/"><u>Creative Mastery Meets Gaming Prowess in the Corsair One Pro Desktop Examination</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-12-effortless-typing-solutions-on-ios-and-android-the-ultimate-keyboard-app-selection/"><u>Discover the Top 12 Effortless Typing Solutions on iOS & Android: The Ultimate Keyboard App Selection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193990-experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-14-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 14 When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-top-10-unforgettable-igtv-video-strategies-for-brand-success/"><u>In 2024, Top 10 Unforgettable IGTV Video Strategies for Brand Success</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-data-retrieval-tool-restore-lost-data-from-lava-blaze-2-5g-by-fonelab-android-recover-data/"><u>Lava Data Retrieval tool – restore lost data from Lava Blaze 2 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-guide-top-free-tools-for-speedy-file-removal-on-your-ipad-device/"><u>Quick Guide: Top Free Tools for Speedy File Removal on Your iPad Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-8-must-have-multi-window-programs-for-android-phones-and-tablets/"><u>The Ultimate List of 8 Must-Have Multi-Window Programs for Android Phones & Tablets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-alternative-podcast-apps-to-replace-player-fm-on-your-android-device/"><u>Top Alternative Podcast Apps to Replace Player FM on Your Android Device</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unleash-timeliness-iphone-slow-motion-filming/"><u>Unleash Timeliness IPhone Slow Motion Filming</u></a></li>
 </ul></div>
 
