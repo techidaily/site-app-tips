@@ -1,7 +1,7 @@
 ---
 title: "Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks"
-date: 2025-01-20T02:31:44.518Z
-updated: 2025-01-21T23:24:01.886Z
+date: 2025-01-27T17:49:54.694Z
+updated: 2025-01-29T16:09:02.525Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -114,7 +114,7 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -141,7 +141,7 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -189,18 +189,20 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-metaverse-headset-selection/"><u>[Updated] The Ultimate Guide to Metaverse Headset Selection</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/advanced-hdr-image-processing-steps-in-adobe-lightroom-for-2024/"><u>Advanced HDR Image Processing Steps in Adobe Lightroom for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazons-hot-sale-unbeatable-price-drop-for-the-new-rog-strix-g16-gaming-laptop-to-1164/"><u>Amazon's Hot Sale: Unbeatable Price Drop for the New ROG Strix G16 Gaming Laptop to $1,164</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-of-picplaypost-revolutionizing-digital-content-with-advanced-editing-features-for-videos-collages-and-more/"><u>Comprehensive Evaluation of PicPlayPost: Revolutionizing Digital Content with Advanced Editing Features for Videos, Collages, and More</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-blue-discoloration-on-your-screen-8-effective-techniques/"><u>Fixing the Blue Discoloration on Your Screen: 8 Effective Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/glacial-glory-pinnacle-sports-achievements-for-2024/"><u>Glacial Glory Pinnacle Sports Achievements for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-8-plus-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 8 Plus to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-picks-premium-and-economical-bdr-players-for-pcmac/"><u>In 2024, Top Picks Premium & Economical BDR Players for PC/Mac</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/741092-9781409081401-moments-of-stillness/"><u>Moments of Stillness | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protecting-your-mobile-data-how-to-set-up-biometric-authentication-and-passwords-for-iphone-security/"><u>Protecting Your Mobile Data: How to Set Up Biometric Authentication & Passwords for iPhone Security</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-7-leading-emulator-tools-to-use-android-and-ios-apps-on-windowsmac/"><u>The Ultimate List of 7 Leading Emulator Tools to Use Android & iOS Apps on Windows/Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-11-cost-free-pdf-editors-the-ultimate-software-and-web-tool-guide/"><u>Top 11 Cost-Free PDF Editors: The Ultimate Software and Web Tool Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-truth-about-vivavideo-expert-insights-on-selecting-the-perfect-video-editing-tool/"><u>Unveiling the Truth About VivaVideo: Expert Insights on Selecting the Perfect Video Editing Tool</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-clarity-in-close-ups-the-filmmakers-kinemaster-guide/"><u>[New] Capturing Clarity in Close-Ups The Filmmaker’s Kinemaster Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-peek-into-past-posts-panel/"><u>[New] Peek Into Past Posts Panel</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-practical-ways-to-archive-online-discussions/"><u>[Updated] In 2024, Practical Ways to Archive Online Discussions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/androidmov/"><u>Androidデバイス上のMOVファイル再生問題とその解消方法</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-10-iphone-applications-for-creating-stunning-gif-graphics/"><u>Best Top 10 iPhone Applications for Creating Stunning GIF Graphics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-your-rmvb-videos-to-avi-format-for-free-using-movavis-services/"><u>Convert Your RMVB Videos to AVI Format for Free Using Movavi's Services</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-affordable-hd-action-cam-hits-top-list/"><u>In 2024, Affordable HD Action Cam Hits Top List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/joint-creative-endeavors-between-brands-and-youtube-for-2024/"><u>Joint Creative Endeavors Between Brands & YouTube for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-your-videos-discover-leading-mobile-apps-including-kinemaster-for-superior-editing-tools/"><u>Master Your Videos: Discover Leading Mobile Apps Including KineMaster for Superior Editing Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-emoji-use-in-android-a-step-by-step-tutorial/"><u>Mastering Emoji Use in Android - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/most-effective-iphone-surveillance-software-your-ultimate-guide-to-discreet-monitoring-tools/"><u>Most Effective iPhone Surveillance Software: Your Ultimate Guide to Discreet Monitoring Tools</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-xiaomi-13t-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Xiaomi 13T Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-choice-affordable-samsung-mp3-players-compatible-with-galaxy-s8-s9-and-pcs-both-free-and-premium-options-available/"><u>Top Choice Affordable Samsung MP3 Players: Compatible with Galaxy S8, S9 & PCs [Both Free & Premium Options Available]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-choosing-the-best-app-to-check-if-your-android-is-rooted/"><u>Ultimate Guide: Choosing the Best App to Check if Your Android Is Rooted</u></a></li>
 </ul></div>
 

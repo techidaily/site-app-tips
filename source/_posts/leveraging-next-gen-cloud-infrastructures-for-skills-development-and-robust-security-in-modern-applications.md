@@ -1,7 +1,7 @@
 ---
 title: Leveraging Next-Gen Cloud Infrastructures for Skills Development and Robust Security in Modern Applications
-date: 2024-12-26T17:27:59.051Z
-updated: 2025-01-02T22:30:51.450Z
+date: 2025-01-28T17:24:30.494Z
+updated: 2025-01-29T17:13:19.433Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-craft-your-photos-in-minutes-learning-lunapic/"><u>[New] Craft Your Photos in Minutes Learning LunaPic</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-tutorial-for-effective-free-timer-management/"><u>2024 Approved The Ultimate Tutorial for Effective FREE Timer Management</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-revolutionizing-the-workforce-transforming-traditional-roles-from-training-to-ethics-the-future-of-employment-explained-zdnet/"><u>AI Revolutionizing the Workforce: Transforming Traditional Roles From Training to Ethics - The Future of Employment Explained | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-speed-top-5-chrome-os-hacks-for-smoother-sailing-and-enhanced-productivity-zdnet/"><u>Boost Your Speed: Top 5 Chrome OS Hacks for Smoother Sailing & Enhanced Productivity | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cutting-edge-ai-how-openais-gpt-4-goes-mini-reduces-application-development-expenses-insights-from-zdnet/"><u>Cutting Edge AI: How OpenAI's GPT-4 Goes Mini Reduces Application Development Expenses - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/directivity/"><u>Directivity</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/futureproof-your-adventures-with-the-ultimate-portable-solar-panels-for-2n3-expert-picks-from-zdnet/"><u>Futureproof Your Adventures with the Ultimate Portable Solar Panels for 2N3 - Expert Picks From ZDNET</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-ott-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .ott file electronically</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-agile-mindsets-key-strategies-for-successful-software-development-with-zdnet/"><u>Mastering Agile Mindsets: Key Strategies for Successful Software Development with ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209861705-9780999858622-member-heal-thyself/"><u>Member Heal Thyself | Free Book</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-hurdles-how-to-get-davinci-resolve-working-again-on-your-pc-with-windows/"><u>Overcoming Hurdles: How to Get DaVinci Resolve Working Again on Your PC with Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-infinix-hot-40-pro-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Infinix Hot 40 Pro has been deleted.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-zte-blade-a73-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on ZTE Blade A73 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-expert-advice-on-linking-your-google-drive-to-slack-for-enhanced-collaboration/"><u>ZDNet's Expert Advice on Linking Your Google Drive to Slack for Enhanced Collaboration</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-best-mobile-and-desktop-apps-adjusting-audio-playback-speed-for-2024/"><u>[New] Best Mobile & Desktop Apps Adjusting Audio Playback Speed for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-convert-tweets-into-audible-format-with-ease/"><u>[New] In 2024, Convert Tweets Into Audible Format with Ease</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-immediate-sharing-from-twitter-vids-to-whatsapp/"><u>[Updated] 2024 Approved Immediate Sharing From Twitter Vids to WhatsApp</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-the-best-free-windows-screen-recorder-tools-1-5/"><u>Discover the Best Free Windows Screen Recorder Tools #1-5</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-low-code-solutions-can-boost-your-companys-appeal-insights-from-zdnet/"><u>How Low-Code Solutions Can Boost Your Company's Appeal: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-streamline-your-linuxopen-source-knowledge-base-for-clarity-and-efficiency-expert-insights-and-solutions/"><u>How to Streamline Your Linux/Open-Source Knowledge Base for Clarity & Efficiency: Expert Insights and Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-excellence-in-image-making-via-premium-grid-makers/"><u>In 2024, Excellence in Image Making via Premium Grid Makers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamlessly-fresh-how-to-find-and-install-surface-book-drivers/"><u>Seamlessly Fresh: How to Find & Install Surface Book Drivers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-to-elevate-your-system-from-windows-home-to-professional-the-ultimate-benefits-explained/"><u>Step-by-Step Guide to Elevate Your System From Windows Home to Professional – The Ultimate Benefits Explained</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-11-must-have-applications-and-services-for-windowsmac-users-insights-from-zdnet/"><u>Top 11 Must-Have Applications & Services for Windows/Mac Users - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbelievable-legacy-crt-tech-hits-an-unprecedented-700hz-by-downscaling-display-pixels/"><u>Unbelievable! Legacy CRT Tech Hits an Unprecedented 700Hz by Downscaling Display Pixels</u></a></li>
 </ul></div>
 

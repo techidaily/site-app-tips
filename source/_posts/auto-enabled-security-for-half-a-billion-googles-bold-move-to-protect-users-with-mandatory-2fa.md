@@ -1,7 +1,7 @@
 ---
 title: "Auto-Enabled Security for Half a Billion: Google's Bold Move to Protect Users with Mandatory 2FA"
-date: 2025-01-14T20:46:46.291Z
-updated: 2025-01-21T18:17:41.089Z
+date: 2025-01-27T16:46:09.201Z
+updated: 2025-01-29T18:14:58.561Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ Google [has auto enrolled](https://blog.google/technology/safety-security/reduci
 The initiative also involved requiring 2 million YouTube users to enable it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google
@@ -79,17 +79,20 @@ Google [announced](https://www.zdnet.com/article/by-end-of-2021-google-plans-to-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-to-download-facebook-story-5-methods/"><u>[New] 2024 Approved How to Download Facebook Story [5 Methods]</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-picks-non-intrusive-android-recorders/"><u>[New] 2024 Approved Top Picks Non-Intrusive Android Recorders</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-elevate-photos-selecting-a-robust-text-editor/"><u>[New] Elevate Photos Selecting a Robust Text Editor</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-how-to-join-someones-live-on-tiktok-as-a-guest/"><u>[Updated] In 2024, How To Join Someone’s Live on TikTok as a Guest</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-sound-strategy-selecting-perfect-dj-visuals/"><u>2024 Approved Sound Strategy Selecting Perfect DJ Visuals</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/excessive-collagen-deposition-during-repair-can-lead-to-keloids-or-hypertrophic-scars-which-are-forms-of-abnormal-fibrosis/"><u>Excessive Collagen Deposition During Repair Can Lead to Keloids or Hypertrophic Scars, Which Are Forms of Abnormal Fibrosis.</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/guida-passo-passo-per-ripristinare-le-impostazioni-e-i-dati-delliphone-da-un-backup-di-icloud/"><u>Guida Passo-Passo per Ripristinare Le Impostazioni E I Dati Dell'iPhone Da Un Backup Di iCloud</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-t2-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo T2 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lost-your-itunes-account-passcode-discover-the-top-methods-to-retrieve-it/"><u>Lost Your iTunes Account Passcode? Discover the Top Methods to Retrieve It</u></a></li>
-<li><a href="https://app-tips.techidaily.com/move-it-like-that-a-guide-for-shifting-itunes-lists-onto-usb-drives-across-windows-and-mac-systems/"><u>Move It Like That: A Guide for Shifting iTunes Lists Onto USB Drives Across Windows and Mac Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/resolve-constant-itunes-password-prompts-on-your-iphone-with-this-simple-guide/"><u>Resolve Constant ITunes Password Prompts on Your iPhone with This Simple Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-steps-converting-your-avi-videos-into-apples-itunes-format-for-ios-devices/"><u>Simple Steps: Converting Your AVI Videos Into Apple's iTunes Format for iOS Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-innovations-in-capturing-high-quality-facetime-calls/"><u>[New] In 2024, Innovations in Capturing High-Quality FaceTime Calls</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-creating-an-efficient-framework-for-ps3-game-screencasts/"><u>[Updated] Creating an Efficient Framework for PS3 Game Screencasts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-m34-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy M34 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cambia-archivos-aiff-al-formato-mp4-de-forma-gratuita-con-convertidor-online-de-movavi/"><u>Cambia Archivos AIFF Al Formato MP4 De Forma Gratuita Con Convertidor Online De Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-on-managing-your-iphones-icloud-storage-backup-restoration-and-deletion-tips/"><u>Complete Guide on Managing Your iPhone's iCloud Storage: Backup, Restoration & Deletion Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-on-securing-data-full-process-for-backing-up-and-synchronizing-your-iphone-via-icloud/"><u>Comprehensive Tutorial on Securing Data: Full Process for Backing Up & Synchronizing Your iPhone via iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-picture-perusal-made-easy-top-alternatives-for-non-iphone-users/"><u>ICloud Picture Perusal Made Easy – Top Alternatives for Non-iPhone Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620263951-locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-ios-photography-tips-on-managing-camera-roll-photo-library-and-pictures/"><u>Navigating iOS Photography: Tips on Managing Camera Roll, Photo Library, and Pictures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/skypes-premier-audio-capture-solutions/"><u>Skype's Premier Audio Capture Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-removing-your-pics-photos-and-images-from-icloud-securely/"><u>Step-by-Step Guide: Removing Your Pics, Photos & Images From iCloud Securely</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tdr-alert-glitchy-opengl-error-now-corrected/"><u>TDR Alert: Glitchy OpenGL Error Now Corrected</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-increase-in-entropy-principle-has-profound-implications-on-the-arrow-of-time-and-why-we-perceive-time-as-moving-forward-it-defines-a-directionality-to-t647/"><u>The Increase in Entropy Principle Has Profound Implications on the Arrow of Time and Why We Perceive Time as Moving Forward; It Defines a Directionality to Thermodynamic Processes.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264415-troubleshoot-your-icloud-picture-sharing-problems-for-ios-devices-and-macbook-computers-essential-steps/"><u>Troubleshoot Your iCloud Picture Sharing Problems for iOS Devices and MacBook Computers - Essential Steps!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-security-concealingdisplaying-firewall-zones/"><u>Windows Security: Concealing/Displaying Firewall Zones</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet
-date: 2025-01-17T04:26:51.138Z
-updated: 2025-01-21T18:50:11.704Z
+date: 2025-01-25T16:37:40.209Z
+updated: 2025-01-29T17:22:39.409Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -112,7 +112,7 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -190,21 +190,19 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-mastering-the-art-of-attention-retention-on-youtube-with-these-6-tactics-for-2024/"><u>[Updated] Mastering the Art of Attention Retention on YouTube with These 6 Tactics for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-transferring-your-icloud-password-vault-on-and-off-macos/"><u>Comprehensive Guide: Transferring Your iCloud Password Vault on and Off macOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/icloud-email-update-tutorial-how-to-easily-alter-your-current-icloud-id/"><u>ICloud Email Update Tutorial: How To Easily Alter Your Current iCloud ID</u></a></li>
-<li><a href="https://app-tips.techidaily.com/icloud-photo-sharing-a-beginners-complete-step-by-step-tutorial/"><u>ICloud Photo Sharing: A Beginner's Complete Step-by-Step Tutorial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-core-elements-in-narrative-technology/"><u>In 2024, Core Elements in Narrative Technology</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-12-pro-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 12 Pro to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/joining-the-digital-conversation-zooming-effortlessly-with-android-for-2024/"><u>Joining the Digital Conversation Zooming Effortlessly with Android for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigate-international-gpt-conversations-confidently/"><u>Navigate International GPT Conversations Confidently</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2563552-9781780284279-new-revolutions-for-a-small-planet/"><u>New Revolutions for a Small Planet | Free Book</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/setting-up-your-screen-a-step-by-step-guide-to-adjusting-display-preferences-on-windows-11-with-yl-computing/"><u>Setting Up Your Screen: A Step-by-Step Guide to Adjusting Display Preferences on Windows 11 with YL Computing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-connecting-your-pc-with-icloud-through-the-icloud-control-panel/"><u>Step-by-Step Guide: Connecting Your PC with iCloud Through the iCloud Control Panel</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-3-methods-to-remove-ebooks-from-your-icloud-library-freeing-up-space/"><u>Top 3 Methods to Remove eBooks From Your iCloud Library, Freeing Up Space</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-methods-for-transferring-icloud-tunes-to-ios-and-mac-a-comprehensive-guide/"><u>Top 5 Methods for Transferring iCloud Tunes to iOS and Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-free-contact-acquisition-top-4-methods-for-seamless-retrieval-from-icloud/"><u>Unlocking the Power of Free Contact Acquisition: Top 4 Methods for Seamless Retrieval From iCloud</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unseen-video-on-sony-a6400-whats-going-wrong-for-2024/"><u>Unseen Video on Sony A6400 What's Going Wrong for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-tutorial-for-setting-up-an-online-livestream/"><u>[New] 2024 Approved The Ultimate Tutorial for Setting Up an Online Livestream</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flawlessimage-advanced-bg-eraser-app/"><u>[Updated] FlawlessImage Advanced BG Eraser App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-transformez-votre-film-mov-en-mp4-rapidement-et-sans-limite-de-stockage-top-20-methodes-pour-2023/"><u>1. Transformez Votre Film MOV en MP4 Rapidement Et Sans Limite De Stockage : TOP 20 Méthodes Pour 2023</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-templates-online-for-2024/"><u>Create AI Avatar Video with Templates | Online for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210632676-9780760375969-create-your-own-tarot-cards/"><u>Create Your Own Tarot Cards | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-methods-for-sharing-big-videos-via-whatsapp-on-your-iphone/"><u>Effective Methods for Sharing Big Videos via WhatsApp on Your iPhone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/expert-strategies-for-salvaging-your-information-fixing-broken-usb-flash-devices/"><u>Expert Strategies for Salvaging Your Information: Fixing Broken USB Flash Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-strategies-managing-your-visibility-and-last-seen-timestamp-on-whatsapp/"><u>Expert Strategies: Managing Your Visibility and Last Seen Timestamp on WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guaranteed-methods-restore-deleted-whatsapp-content-on-your-iphone-including-messages-photos-videos-and-audio/"><u>Guaranteed Methods: Restore Deleted WhatsApp Content on Your iPhone Including Messages, Photos, Videos & Audio</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-discreetly-adjust-and-verify-whatsapps-last-seen-feature-with-proven-tips/"><u>How to Discreetly Adjust and Verify WhatsApp's 'Last Seen' Feature with Proven Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-unmatched-6-safe-online-collaboration-software-rankings/"><u>In 2024, Unmatched 6 Safe Online Collaboration Software Rankings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/perfecting-virtual-presentations-key-practices-for-using-skypes-screen-share-feature/"><u>Perfecting Virtual Presentations Key Practices for Using Skype’s Screen Share Feature</u></a></li>
+<li><a href="https://app-tips.techidaily.com/swift-solutions-retrieving-your-lost-whatsapp-messages-on-iphone-with-simple-techniques/"><u>Swift Solutions: Retrieving Your Lost WhatsApp Messages on iPhone with Simple Techniques</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-huawei-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Huawei without backup.</u></a></li>
 </ul></div>
 

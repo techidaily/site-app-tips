@@ -1,7 +1,7 @@
 ---
 title: Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet
-date: 2025-01-21T05:03:12.006Z
-updated: 2025-01-21T23:43:25.574Z
+date: 2025-01-25T17:38:36.250Z
+updated: 2025-01-29T17:56:33.342Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,19 +99,18 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-background-blur-101-boosting-video-clarity-on-youtube/"><u>[Updated] 2024 Approved Background Blur 101 Boosting Video Clarity on YouTube</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-poco-c50-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-ai-video-stabilizers-of-2024-our-selection-of-top-6-online-and-offline-solutions/"><u>Discover the Ultimate AI Video Stabilizers of 2024: Our Selection of Top 6 Online and Offline Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-insights-on-the-deep-lucas-video-generator-detailed-breakdown-of-functionalities-advantages-and-limitations/"><u>Expert Insights on the Deep Lucas Video Generator: Detailed Breakdown of Functionalities, Advantages and Limitations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-ai-highlight-creators-introduction-and-key-features-of-top-tools/"><u>Exploring AI Highlight Creators: Introduction & Key Features of Top Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-power-of-ai-an-in-depth-look-into-openais-sora-capabilities-and-constraints/"><u>Exploring the Power of AI: An In-Depth Look Into OpenAI's Sora - Capabilities and Constraints</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-chaos-unleashed-to-organized-oasis-edit-your-hefty-tiktoks/"><u>From Chaos Unleashed to Organized Oasis Edit Your Hefty TikToks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/highest-rated-slow-mo-camera-applications-iphonesandroid-for-2024/"><u>Highest Rated Slow Mo Camera Applications, iPhones/Android for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/hugging-face-community-advanced-text-to-video-transformation-techniques/"><u>Hugging Face Community: Advanced Text-to-Video Transformation Techniques</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/smooth-transition-tips-for-inshot-editors/"><u>Smooth Transition Tips for Inshot Editors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/speed-hacks-quickly-enhance-safari-performance-on-iphone-heres-how/"><u>Speed Hacks: Quickly Enhance Safari Performance on iPhone Here's How</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/streamline-your-digital-life-with-the-compact-ourlink-u631-wireless-network-adapter-delivering-solid-connectivity-at-a-convenient-size/"><u>Streamline Your Digital Life with the Compact Ourlink U631 Wireless Network Adapter - Delivering Solid Connectivity at a Convenient Size</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/forming-viewership-a-proven-guide-to-implementing-youtubes-featured-listings/"><u>Transforming Viewership A Proven Guide to Implementing Youtube's Featured Listings</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unraveling-youtube-subtitles-srt-a-triad-of-steps-for-2024/"><u>Unraveling YouTube Subtitles (SRT) A Triad of Steps for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-how-many-movies-fit-in-128gb-memory/"><u>[Updated] 2024 Approved How Many Movies Fit in 128GB Memory</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-accelerating-learning-in-lut-design/"><u>[Updated] In 2024, Accelerating Learning in LUT Design</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unveiling-top-tier-seeds-for-optimal-growth-in-valheim/"><u>[Updated] Unveiling Top-Tier Seeds for Optimal Growth in Valheim</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discovering-the-most-engaging-and-intelligent-gpt-chatbot-on-the-market/"><u>Discovering The Most Engaging and Intelligent GPT Chatbot on the Market</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/easy-steps-modifying-your-iphone-or-ipad-videos-using-a-windows-computer/"><u>Easy Steps: Modifying Your iPhone or iPad Videos Using a Windows Computer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-use-your-itunes-gift-card-on-ios-devices-and-mac-computers/"><u>How To Use Your iTunes Gift Card On iOS Devices And Mac Computers</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/rendre-votre-video-webm-compatible-wmv-conversion-gratuite-sur-videoconvertisseurwebm-wmvfr/"><u>Rendre Votre Vidéo Webm Compatible WMV : Conversion Gratuite Sur VidéoConvertisseurWebM-WMV.fr</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revive-missing-iphone-apps-and-photos-data-recovery-solutions-for-your-itunes-backups/"><u>Revive Missing iPhone Apps and Photos: Data Recovery Solutions for Your iTunes Backups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-methods-revive-your-lost-itunes-downloads-across-all-devices/"><u>Simple Methods: Revive Your Lost iTunes Downloads Across All Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-your-connectivity-issues-what-to-try-when-itunes-fails-to-detect-iphone-ipad-or-ipod/"><u>Solving Your Connectivity Issues: What To Try When iTunes Fails To Detect iPhone, iPad Or iPod</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-line-between-satire-and-misinformation/"><u>The Line Between Satire & Misinformation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-top-6-itunes-visualizers-bring-your-music-to-life-with-stunning-animations/"><u>The Ultimate Top 6 iTunes Visualizers: Bring Your Music to Life with Stunning Animations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-high-performance-audio-for-gamers-indepth-analysis-and-ratings-hardware-hub/"><u>Ultimate List of High-Performance Audio for Gamers - InDepth Analysis and Ratings | Hardware Hub</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity Titans Unite! ZeroFox Acquires IDX, Aligning with L&F for an Impressive $1.4 Billion Powerhouse Revealed by ZDNet
-date: 2025-01-21T02:40:34.405Z
-updated: 2025-01-22T02:43:43.492Z
+date: 2025-01-26T17:47:33.408Z
+updated: 2025-01-29T17:22:41.708Z
 tags:
   - password-manager
 categories:
@@ -18,7 +18,7 @@ The company will be renamed ZeroFox Holdings once the deal goes through and will
 Monarch Alternative Capital LP and several other firms are also investing $170 million in the deal to merge the companies. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -87,21 +87,24 @@ Adam Gerchen, CEO of LNFA and a new ZeroFox board member, noted that the company
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-definitive-guide-to-removing-persistent-youtube-channels-on-all-screens/"><u>[New] 2024 Approved The Definitive Guide to Removing Persistent Youtube Channels on All Screens</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-simplify-images-remove-the-environmental-elements-for-2024/"><u>[New] Simplify Images Remove the Environmental Elements for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-step-by-step-guide-for-adding-and-curating-dynamic-graphics-gifs-in-your-discord-chats-for-2024/"><u>[New] The Ultimate Step-by-Step Guide for Adding and Curating Dynamic Graphics (GIFs) in Your Discord Chats for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-breaking-barriers-in-drone-longevity-top-10/"><u>[Updated] 2024 Approved Breaking Barriers in Drone Longevity (Top 10)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/act-fast-upgrade-or-transition-from-your-windows-11-pc-top-5-strategies-as-support-concludes-in-a-year/"><u>Act Fast: Upgrade or Transition From Your Windows 11 PC - Top 5 Strategies as Support Concludes in a Year!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/agnes-ro-discusses-the-transformation-in-developer-responsibilities-at-atlassian-insights-from-zdnet/"><u>Agnes Ro Discusses the Transformation in Developer Responsibilities at Atlassian - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discovering-the-top-internet-browsers-of-today-a-comprehensive-ranking/"><u>Discovering the Top Internet Browsers of Today: A Comprehensive Ranking</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/editors-edge-the-power-of-video-tools-on-m1-technology/"><u>Editors' Edge The Power of Video Tools on M1 Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/excel-mastery-how-to-craft-stunning-tables-for-data-presentation/"><u>Excel Mastery: How to Craft Stunning Tables for Data Presentation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exclusive-picks-for-optimal-web-hosting-solutions-authoritatively-reviewed-by-specialists-cnet/"><u>Exclusive Picks for Optimal Web Hosting Solutions , Authoritatively Reviewed by Specialists | CNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-it-specialists-shape-success-for-companangs-going-beyond-technology-relying-perspectives-by-zdnet/"><u>How IT Specialists Shape Success for Companangs Going Beyond Technology Relying - Perspectives by ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-gt-10-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Infinix GT 10 Pro.</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-motorola-edge-2023-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Motorola Edge 2023 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-the-importance-of-ai-integration-and-rust-language-in-evolving-the-linux-kernel-the-core-aspect-driving-tech-forward/"><u>Linus Torvalds Discusses the Importance of AI Integration and Rust Language in Evolving the Linux Kernel - The Core Aspect Driving Tech Forward</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-find-and-remove-empty-folders-with-confidence-in-windows/"><u>Techniques to Find & Remove Empty Folders with Confidence in Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-dissecting-youtubes-user-commentary-for-2024/"><u>[New] Dissecting YouTubes' User Commentary for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-evolution-of-editing-software-reviewed-magix-vpx/"><u>[New] In 2024, The Evolution of Editing Software Reviewed Magix VPX</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-elite-digital-tunes-transmission-service/"><u>2024 Approved Elite Digital Tunes Transmission Service</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-from-amateurs-to-experts-shooting-spectacentic-photos-and-videos/"><u>2024 Approved From Amateurs to Experts Shooting Spectacentic Photos & Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-3-updates-in-the-latest-version-of-linux-kernel-v69-technews/"><u>Best 3 Updates in the Latest Version of Linux Kernel v6.9 | TechNews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cinematic-speed-top-cameras-for-slow-motion-videography-for-2024/"><u>Cinematic Speed Top Cameras for Slow Motion Videography for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/could-microsofts-new-innovation-drive-you-crazy-or-will-it-surprise-and-delight-insights-from-zdnet/"><u>Could Microsoft's New Innovation Drive You Crazy, or Will It Surprise and Delight? Insights From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-engaging-podcast-summaries-techniques-and-examples/"><u>Crafting Engaging Podcast Summaries Techniques & Examples</u></a></li>
+<li><a href="https://app-tips.techidaily.com/create-your-digital-twin-build-your-own-personal-ai-avatar-with-these-simple-steps-discover-the-future-of-interaction/"><u>Create Your Digital Twin: Build Your Own Personal AI Avatar with These Simple Steps – Discover the Future of Interaction</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-the-ops-movement-in-corporate-tech-landscapes-amidst-emerging-challenges-insights-from-zdnet/"><u>Embracing the 'Ops' Movement in Corporate Tech Landscapes Amidst Emerging Challenges - Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-xiaomi-redmi-note-12-4g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Xiaomi Redmi Note 12 4G Phone | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-solve-the-cod-warzone-dev-error-6634-a-comprehensive-guide/"><u>How to Solve the COD Warzone Dev Error 6634: A Comprehensive Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-finding-your-perfect-match-high-quality-lipo-units-for-drones/"><u>In 2024, Finding Your Perfect Match High-Quality LiPo Units for Drones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-self-cloning-craft-a-customized-ai-persona-for-enhanced-communication-learn-how-to-make-it-happen-today/"><u>Mastering Self-Cloning: Craft a Customized AI Persona for Enhanced Communication - Learn How to Make It Happen Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/open-source-mastery-and-proficiency-with-linux-a-ticket-to-employment-resilience-amidst-economic-uncertainty-featured-on-zdnet/"><u>Open Source Mastery and Proficiency with Linux: A Ticket to Employment Resilience Amidst Economic Uncertainty | Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-higher-output-with-the-programmer-approach-learn-from-dev-teams-zdnet/"><u>Unlocking Higher Output with the Programmer Approach - Learn From Dev Teams | ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/valheims-startup-struggles-in-2t4-and-how-to-resolve-them/"><u>Valheim's Startup Struggles in 2T4 and How to Resolve Them</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-low-code-tech-is-transforming-company-desirability-according-to-zdnet/"><u>Why Low-Code Tech Is Transforming Company Desirability, According to ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-professionals-prefer-windows-11-according-to-microsoft-and-zdnet-analysis/"><u>Why Professionals Prefer Windows 11, According to Microsoft & ZDNet Analysis</u></a></li>
 </ul></div>
 

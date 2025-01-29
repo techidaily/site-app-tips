@@ -1,7 +1,7 @@
 ---
 title: Tenfold Surge in Artifice Intelligence Initiatives This Year, Confirms ZDNet Insight Survey
-date: 2025-01-19T18:55:18.314Z
-updated: 2025-01-22T01:39:57.680Z
+date: 2025-01-24T17:59:03.812Z
+updated: 2025-01-29T16:01:45.639Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-screen-refreshing-issue-in-dell-pc/"><u>[Fixed]: Screen Refreshing Issue in Dell PC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-ultimate-charger-systems-for-black-gopro-hero5-official-sources/"><u>[New] 2024 Approved Ultimate Charger Systems for Black GoPro Hero5 Official Sources</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-insta-metrics-comprehensive-ig-data-analysis/"><u>[New] Mastering Insta Metrics Comprehensive IG Data Analysis</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-kickstart-your-video-enhancement-game-with-snapchat/"><u>[Updated] In 2024, Kickstart Your Video Enhancement Game with Snapchat</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-key-aspects-of-creating-animated-visual-narratives/"><u>[Updated] Key Aspects of Creating Animated Visual Narratives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/busting-top-5-fallacies-on-profiting-from-your-data-insights-zdnet/"><u>Busting Top 5 Fallacies on Profiting From Your Data Insights - ZDNet</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/champion-smartphones-top-picks-for-excellent-video-quality-for-2024/"><u>Champion Smartphones Top Picks for Excellent Video Quality for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/how-luts-revolutionize-color-balance-in-images/"><u>How LUTs Revolutionize Color Balance in Images</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-might-machine-learning-impact-future-opportunities-in-the-field-of-cybersecurity/"><u>How Might Machine Learning Impact Future Opportunities in the Field of Cybersecurity?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-14-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 14</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unraveling-the-truth-top-5-errors-around-monetizing-information-according-to-zdnet/"><u>Unraveling the Truth: Top 5 Errors Around Monetizing Information, According to ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-how-top-innovators-are-drawn-to-open-source-a-deep-dive-by-zdnet/"><u>Unveiling How Top Innovators Are Drawn to Open Source: A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-appeal-of-no-codelow-code-platforms-pros-and-readiness-considerations-insights-from-zdnet/"><u>Unveiling the Appeal of No-Code/Low-Code Platforms: Pros and Readiness Considerations - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-top-obstacle-of-generative-ai-demonstrating-a-tangible-return-on-investment-roi-zdnet-insights/"><u>Unveiling the Top Obstacle of Generative AI: Demonstrating a Tangible Return on Investment (ROI) | ZDNet Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/which-gaming-perk-wins-xbox-vs-playstation-premium-plans/"><u>Which Gaming Perk Wins? Xbox Vs. PlayStation Premium Plans</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-identifying-the-best-no-cost-video-calling-apps-iosandroid/"><u>[New] Identifying the Best No-Cost Video Calling Apps (iOS/Android)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-streamline-your-listening-experience-how-to-get-apple-podcasts-downloaded/"><u>2024 Approved Streamline Your Listening Experience How to Get Apple Podcasts Downloaded</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-to-the-rescue-shielding-it-specialists-from-overwork-and-alert-exhaustion-with-cutting-edge-solutions-zdnet/"><u>AI to the Rescue! Shielding IT Specialists From Overwork and Alert Exhaustion with Cutting-Edge Solutions | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-artificial-intelligence-slow-down-expansion-in-cybersecurity-careers-zdnet-insights/"><u>Can Artificial Intelligence Slow Down Expansion in Cybersecurity Careers? | ZDNet Insights</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/le-chamber-ideas-for-7-amusing-online-sessions/"><u>Chortle Chamber Ideas for 7 Amusing Online Sessions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/combining-ai-innovation-with-agile-practices-faces-challenges-insights-from-recent-research/"><u>Combining AI Innovation with Agile Practices Faces Challenges: Insights From Recent Research</u></a></li>
+<li><a href="https://app-tips.techidaily.com/emerging-management-positions-in-the-era-of-generative-ai-the-future-landscape-zdnet/"><u>Emerging Management Positions in the Era of Generative AI: The Future Landscape | ZDNet</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-depth-corsair-i500-mini-itx-desktop-evaluation-compact-powerhouse-unveiled/"><u>In-Depth Corsair I500 Mini ITX Desktop Evaluation - Compact Powerhouse Unveiled</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/proven-strategies-for-masterful-fisheye-photography/"><u>Proven Strategies for Masterful Fisheye Photography</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-ai-synthesis-realized-engage-with-your-organizations-chief-tech-architect-zdnet/"><u>Seamless AI Synthesis Realized - Engage with Your Organization’s Chief Tech Architect | ZDNET</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-for-uninterrupted-steam-download-sessions-no-more-stops/"><u>Solutions for Uninterrupted Steam Download Sessions - No More Stops</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-pathfinder-wrath-gameshark-from-crashing-effective-strategies/"><u>Stop Pathfinder Wrath Gameshark From Crashing - Effective Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-racing-game-anthology-the-top-five/"><u>Ultimate Racing Game Anthology The Top Five</u></a></li>
 </ul></div>
 

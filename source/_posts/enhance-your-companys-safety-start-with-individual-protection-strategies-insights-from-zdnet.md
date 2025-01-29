@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Company's Safety: Start with Individual Protection Strategies - Insights From ZDNet"
-date: 2025-01-16T01:04:48.346Z
-updated: 2025-01-22T02:27:02.892Z
+date: 2025-01-28T17:07:01.832Z
+updated: 2025-01-29T16:21:12.268Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 Corporations aren't doing enough to improve their employees' personal security practices. Credentials remain the highest targeted data type as they are the gateway to ransomware and data theft. 61% of data breaches in 2021 involved the use of stolen and misused credentials. Bad actors took advantage of a global pandemic to increase the number of phishing attacks, the cause of stolen credentials in 36% of breaches -- a 9% increase over last year -- according to the [Verizon 2021 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdfx). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,18 +66,19 @@ Given how connected we all are, the rising demands of working anywhere, and incr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-stellar-spectrum-10-sites-cutting-edge-of-hd-astronomy/"><u>[New] 2024 Approved Stellar Spectrum 10 Sites Cutting-Edge of HD Astronomy</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-techniques-for-reversing-chronological-order/"><u>[New] In 2024, Techniques for Reversing Chronological Order</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/advanced-tech-meets-convenience-elite-rechargeable-battery-chargers-of-the-year-2024/"><u>Advanced Tech Meets Convenience: Elite Rechargeable Battery Chargers of the Year 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-xs-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone XS Max Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-a-step-by-step-manual-swiftly-produce-captions-for-facebook-videos/"><u>In 2024, A Step-by-Step Manual Swiftly Produce Captions for Facebook Videos</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy S24+? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/macxdvd-exclusive-promo-huge-discounts-on-software-and-free-gifts-for-fans/"><u>MacXDVD Exclusive Promo: Huge Discounts on Software & Free Gifts for Fans!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-videos-discover-leading-mobile-apps-including-kinemaster-for-superior-editing-tools/"><u>Master Your Videos: Discover Leading Mobile Apps Including KineMaster for Superior Editing Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-emoji-use-in-android-a-step-by-step-tutorial/"><u>Mastering Emoji Use in Android - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/most-effective-iphone-surveillance-software-your-ultimate-guide-to-discreet-monitoring-tools/"><u>Most Effective iPhone Surveillance Software: Your Ultimate Guide to Discreet Monitoring Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-choice-affordable-samsung-mp3-players-compatible-with-galaxy-s8-s9-and-pcs-both-free-and-premium-options-available/"><u>Top Choice Affordable Samsung MP3 Players: Compatible with Galaxy S8, S9 & PCs [Both Free & Premium Options Available]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-choosing-the-best-app-to-check-if-your-android-is-rooted/"><u>Ultimate Guide: Choosing the Best App to Check if Your Android Is Rooted</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-from-fan-to-earner-understanding-view-requirements/"><u>[New] In 2024, From Fan to Earner Understanding View Requirements</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-guardianship-against-oculus-induced-discomfort/"><u>[Updated] Guardianship Against Oculus-Induced Discomfort</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-managing-a-day-job-and-your-thriving-youtube-channel/"><u>[Updated] In 2024, Managing a Day Job and Your Thriving YouTube Channel</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-topo-as-melhores-tecnicas-de-transferencia-de-dvd-para-o-seu-pc-em-2023-windows-e-mac/"><u>1. Topo: As Melhores Técnicas De Transferência De DVD Para O Seu PC Em 2023 - Windows E Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/awaken-with-joy-discover-the-10-most-engaging-free-alarm-clock-applications-for-a-playful-routine/"><u>Awaken with Joy: Discover the 10 Most Engaging Free Alarm Clock Applications for a Playful Routine</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/batch-transform-your-word-docs-into-free-flash-animation-videos-swf/"><u>Batch Transform Your Word Docs Into Free Flash Animation Videos (SWF)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/descubre-las-mejores-practicas-de-grabacion-de-pantallas-usando-obs-su-acompanamiento-completo-en-movavi/"><u>Descubre Las Mejores Prácticas De Grabación De Pantallas Usando OBS – Su Acompañamiento Completo en Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-6-free-online-casino-slots-for-android-phones-and-iphones/"><u>Discover the Ultimate Selection of 6 Free Online Casino Slots for Android Phones and iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/efficient-ipad-locator-tool-keep-an-eye-on-your-apple-tablet-anywhere/"><u>Efficient iPad Locator Tool: Keep an Eye on Your Apple Tablet Anywhere</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-methods-for-transferring-all-your-apps-from-one-iphone-to-another/"><u>Effortless Methods for Transferring All Your Apps From One iPhone to Another</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-rectify-sound-problems-on-windows-11-with-five-simple-fixes/"><u>Expert Tips: Rectify Sound Problems on Windows 11 with Five Simple Fixes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/not-just-carjacking-fun-the-best-non-gta-games-for-2024/"><u>Not Just Carjacking Fun The Best Non-GTA Games for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/optimal-cameras-for-slow-motion-film/"><u>Optimal Cameras for Slow Motion Film</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-your-children-online-a-guide-to-the-20-best-parental-control-tools-available-today/"><u>Protect Your Children Online: A Guide to the 20 Best Parental Control Tools Available Today</u></a></li>
 </ul></div>
 

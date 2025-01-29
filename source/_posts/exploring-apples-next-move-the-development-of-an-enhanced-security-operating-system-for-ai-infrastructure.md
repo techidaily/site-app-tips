@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Next Move: The Development of an Enhanced Security Operating System for AI Infrastructure"
-date: 2025-01-18T02:37:45.895Z
-updated: 2025-01-22T05:08:23.617Z
+date: 2025-01-24T17:18:48.939Z
+updated: 2025-01-29T17:14:54.992Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/reakdown-of-youtubes-monetization-update/"><u>[New] Breakdown of YouTube's Monetization Update</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-future-gaming-top-5-psvr-releases-on-the-horizon-for-2024/"><u>[New] Future Gaming Top 5 PSVR Releases on the Horizon for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-maximized-speed-the-prime-10-choices-of-srt-upgrades-for-pcs-and-macs/"><u>[New] Maximized Speed The Prime 10 Choices of SRT Upgrades for PCs & Macs</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-step-by-step-instructions-for-using-telegram-online-professionally-for-2024/"><u>[New] Step-By-Step Instructions For Using Telegram Online Professionally for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-hasty-methods-for-mixed-up-youtube-playback-sequence/"><u>[Updated] Hasty Methods for Mixed-Up YouTube Playback Sequence</u></a></li>
-<li><a href="https://app-tips.techidaily.com/collaborative-effort-between-sonys-ai-division-and-ai-singapore-on-advanced-language-models-insights-from-zdnet/"><u>Collaborative Effort Between Sony's AI Division and AI Singapore on Advanced Language Models - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-concept-of-immutable-systems-in-linux-key-advantages-for-stable-and-secure-operations-it-security-hub/"><u>Exploring the Concept of Immutable Systems in Linux: Key Advantages for Stable and Secure Operations | IT Security Hub</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-audio-transformation-expertise-from-ttml-and-xml-to-dynamic-srts/"><u>In 2024, Audio Transformation Expertise From TTML & XML to Dynamic SRTs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-premier-football-vids-key-youtube-infographic-data/"><u>In 2024, Premier Football Vids Key YouTube Infographic Data</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-agile-journey-six-pivotal-principles-for-triumphant-software-design-from-zdnet/"><u>Navigating the Agile Journey: Six Pivotal Principles for Triumphant Software Design From ZDnet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-todays-challenges-overcoming-uncertainty-in-ai-output-and-doubts-on-precision-insights-from-zdnet/"><u>Navigating Today's Challenges: Overcoming Uncertainty in AI Output & Doubts on Precision - Insights From ZDNet</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-vanguard-6-audio-file-segmentation-systems-for-2024/"><u>New Vanguard 6 Audio File Segmentation Systems for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pixelwizard-a-comprehensive-top-10-list-of-replacements/"><u>PixelWizard A Comprehensive Top 10 List of Replacements</u></a></li>
-<li><a href="https://app-tips.techidaily.com/prepare-now-top-five-actions-to-take-with-your-windows-10-pc-before-end-of-service-in-a-years-time-insights-from-zdnet/"><u>Prepare Now: Top Five Actions to Take with Your Windows 10 PC Before End of Service in a Year's Time - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/ranking-8-youtube-channels-with-dramatic-upswings/"><u>Ranking 8 YouTube Channels with Dramatic Upswings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-polarization-shown-by-the-radiation-pattern-should-match-that-of-the-receiving-antenna-to-maximize-signal-reception-and-minimize-losses/"><u>The Polarization Shown by the Radiation Pattern Should Match that of the Receiving Antenna to Maximize Signal Reception and Minimize Losses.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-power-of-concealment-leveraging-anonymity-to-strengthen-your-virtual-workforce-zdnet/"><u>The Power of Concealment: Leveraging Anonymity to Strengthen Your Virtual Workforce | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-lms-solutions-reviewed-comprehensive-guide-zdnet/"><u>Top Rated LMS Solutions Reviewed: Comprehensive Guide | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-mastery-in-quick-writer-with-these-latest-copilot-updates-for-microsoft-365-expert-insights-from-zdnet/"><u>Unlocking Mastery in Quick Writer with These Latest Copilot Updates for Microsoft 365 - Expert Insights From ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-high-quality-audio-excellence-with-these-mics/"><u>[New] High-Quality Audio Excellence with These Mics</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-flavorful-footage-the-ultimate-guide-to-delicious-food-vids/"><u>[New] In 2024, Flavorful Footage The Ultimate Guide to Delicious Food Vids</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-perfecting-instagram-stories-adding-and-sharing-custom-emojis-for-2024/"><u>[New] Perfecting Instagram Stories Adding & Sharing Custom Emojis for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-visual-narratives-that-speak-volumes-with-instagramcaptions/"><u>[Updated] Visual Narratives That Speak Volumes with #InstagramCaptions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-achieving-peak-audience-interaction-with-wirecast-on-facebook/"><u>2024 Approved Achieving Peak Audience Interaction with Wirecast on Facebook</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-mastering-live-participation-stepping-into-others-tiktok-sessions/"><u>2024 Approved Mastering Live Participation Stepping Into Others' TikTok Sessions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-with-microsoft-a-step-by-step-guide-on-upgrading-to-windows-pro-edition-and-its-advantages/"><u>Advancing with Microsoft: A Step-by-Step Guide on Upgrading to Windows Pro Edition & Its Advantages</u></a></li>
+<li><a href="https://app-tips.techidaily.com/continuity-of-microsoft-365-support-for-office-2016-and-2019-what-to-expect-in-the-coming-year-zdnet/"><u>Continuity of Microsoft 365 Support for Office 2016 & 2019: What to Expect in the Coming Year | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/devops-engineer-career-navigating-the-pros-cons-and-challenges-insights-from-zdnet/"><u>DevOps Engineer Career: Navigating the Pros, Cons, and Challenges – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-alternatives-to-explore-as-microsofts-support-for-windows-10-concludes-insights-from-zdnet/"><u>Five Alternatives to Explore as Microsoft's Support for Windows 10 Concludes - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-last-resort-options-for-your-windows-10-system-as-microsoft-ends-support/"><u>Five Last Resort Options for Your Windows 10 System as Microsoft Ends Support</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guia-paso-a-paso-como-instalar-correctamente-windows-10-o-11-en-una-memoria-ssd/"><u>Guía Paso a Paso: Cómo Instalar Correctamente Windows 10 O 11 en Una Memoria SSD</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-design-thinking-bridges-the-gap-between-technology-professionals-and-enhancing-customer-experiences-insights-from-zdnet/"><u>How Design Thinking Bridges the Gap Between Technology Professionals and Enhancing Customer Experiences: Insights From ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-winning-at-tinder-quick-bio-tweaks-to-make-you-shine/"><u>In 2024, Winning at Tinder Quick Bio Tweaks to Make You Shine</u></a></li>
+<li><a href="https://app-tips.techidaily.com/interference-reduction/"><u>Interference Reduction</u></a></li>
+<li><a href="https://techidaily.com/letude-de-labbyy-identification-des-secteurs-les-plus-scrupuleux-dans-le-respect-des-processus/"><u>L'étude De L'ABBYY : Identification Des Secteurs Les Plus Scrupuleux Dans Le Respect Des Processus</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-industry-with-xr-the-role-of-digital-twins-in-advanced-user-experience-expert-analysis-by-zdnet/"><u>Revolutionizing Industry with XR: The Role of Digital Twins in Advanced User Experience | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/starter-selection-affordable-site-purchases-for-beginners-for-2024/"><u>Starter Selection Affordable Site Purchases for Beginners for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-compelling-benefits-of-adopting-aiops-insights-from-zdnet/"><u>Top 7 Compelling Benefits of Adopting AIOps: Insights From ZDNet</u></a></li>
 </ul></div>
 

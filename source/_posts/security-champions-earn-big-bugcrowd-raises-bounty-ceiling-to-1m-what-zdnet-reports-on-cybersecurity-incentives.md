@@ -1,7 +1,7 @@
 ---
 title: "Security Champions Earn Big: Bugcrowd Raises Bounty Ceiling to $1M – What ZDNET Reports on Cybersecurity Incentives"
-date: 2025-01-14T21:35:57.394Z
-updated: 2025-01-22T00:35:30.852Z
+date: 2025-01-25T17:43:34.444Z
+updated: 2025-01-29T18:09:46.351Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 The company averages about $900 per reward, but 1Password CEO Jeff Shiner said the company hopes to "attract another layer of outside expertise to make sure our systems are as secure as possible." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -70,21 +70,19 @@ The company also has an internal "Eyes of the Month program" for their employees
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-farming-to-the-next-level-stardews-leading-mods-listed/"><u>[New] 2024 Approved Farming to the Next Level Stardew's Leading Mods Listed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazons-october-prime-day-deal-apple-m2-macbook-air-available-at-749-exclusive-insights-from-zdnet/"><u>Amazon's October Prime Day Deal: Apple M2 MacBook Air Available at $749 - Exclusive Insights From ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-poco-c65-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Poco C65 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-6-mobile-explorer-tools-compatible-with-ios-devices-on-pcmac-systems/"><u>Discover the Top 6 Mobile Explorer Tools Compatible with iOS Devices on PC/Mac Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-10-alternatives-to-app-lock-on-android-devices/"><u>Discover the Ultimate 10 Alternatives to App Lock on Android Devices</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/effortless-transition-from-dvd-to-digital-media-compatible-with-windows-macos-and-smartphonestablets/"><u>Effortless Transition From DVD to Digital Media: Compatible with Windows, MacOS, and Smartphones/Tablets</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/emeditor-text-editor-fixing-problems-with-multi-line-selections/"><u>EmEditor Text Editor: Fixing Problems with Multi-Line Selections</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-mastering-your-android-device-top-free-and-premium-rooting-apps/"><u>Guide: Mastering Your Android Device - Top Free & Premium Rooting Apps</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-11-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-14-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone 14</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-m14-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy M14 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-honor-magic-vs-2-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Honor Magic Vs 2 FRP Bypass</u></a></li>
-<li><a href="https://app-tips.techidaily.com/on-the-go-image-and-document-producer-your-iphone-printer-solution/"><u>On-the-Go Image and Document Producer: Your iPhone Printer Solution</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-selection-of-android-screen-casting-apps-discover-the-top-9-options-to-enhance-your-experience/"><u>The Ultimate Selection of Android Screen Casting Apps: Discover the Top 9 Options to Enhance Your Experience</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-unbiased-news-apps-the-ultimate-list-for-both-iphone-and-android-users/"><u>Top-Rated, Unbiased News Apps: The Ultimate List for Both iPhone and Android Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194671-transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-elevating-images-a-professionals-palette-playbook/"><u>[New] Elevating Images A Professional's Palette Playbook</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-comprehensively-reviewing-youtubes-restrictions-vs-cc-flexibility/"><u>[Updated] Comprehensively Reviewing YouTube's Restrictions Vs. CC Flexibility</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-best-on-the-go-discord-video-recorder-apps/"><u>[Updated] In 2024, Best On-the-Go Discord Video Recorder Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-champions-list-best-call-alert-tunes-for-iphones/"><u>[Updated] In 2024, Champion's List Best Call Alert Tunes for iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/detailed-insight-into-twistedwave-exploring-benefits-limitations-premier-qualities-and-usage-scenarios/"><u>Detailed Insight Into TwistedWave: Exploring Benefits, Limitations, Premier Qualities, and Usage Scenarios</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-8-plusipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 8 Plus/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/imovie-editor-guide-detailed-analysis-reviews-and-alternative-solutions-for-video-editing/"><u>IMovie Editor Guide: Detailed Analysis, Reviews & Alternative Solutions for Video Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-mastering-vector-editing-without-acid-pro/"><u>In 2024, Mastering Vector Editing without ACID Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-insights-on-the-bnsf-simulation-a-complete-examination/"><u>In-Depth Insights on the BNSF Simulation: A Complete Examination</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-how-to-shield-your-iphone-and-ipad-against-unwanted-emails-with-ios-18-features/"><u>Step-by-Step Tutorial: How to Shield Your iPhone and iPad Against Unwanted Emails with iOS 18 Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-18-emoji-keyboard-apps-compatible-with-both-ios-and-android-devices/"><u>Top 18 Emoji Keyboard Apps Compatible with Both iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-apk-applications-comprehensive-downloads-and-reviews-of-games-tunes-root-tools/"><u>Top APK Applications: Comprehensive Downloads & Reviews of Games, Tunes, Root Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tweaking-audio-outputs-sony-ps4-and-ps5-tips/"><u>Tweaking Audio Outputs Sony PS4 & PS5 Tips</u></a></li>
+<li><a href="https://discover-community.techidaily.com/winxdvd-top-tested-free-software-for-dvd-ripping-and-conversion-on-windows/"><u>WinXDVD: Top-Tested Free Software for DVD Ripping and Conversion on Windows</u></a></li>
 </ul></div>
 

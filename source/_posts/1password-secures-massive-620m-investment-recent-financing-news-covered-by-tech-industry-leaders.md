@@ -1,7 +1,7 @@
 ---
 title: 1Password Secures Massive $620M Investment - Recent Financing News Covered by Tech Industry Leaders
-date: 2025-01-20T21:42:15.218Z
-updated: 2025-01-21T23:10:18.346Z
+date: 2025-01-22T17:26:47.732Z
+updated: 2025-01-29T17:02:24.347Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Password manager 1Password said it closed its latest funding round on Wednesday, raising $620 million and boosting its valuation to $6.8 billion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Password manager 1Password said it closed its latest funding round on Wednesday,
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Series C funding round included the participation of ICONIQ Growth, Tiger Global, Lightspeed Venture Partners, Backbone Angels, and Accel, which led the Canadian company's series A and B rounds. 
@@ -83,18 +83,24 @@ Will Griffith, a founding partner at ICONIQ Growth, said more than one hundred C
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-achieve-unstoppable-viral-traction-with-these-fb-tricks/"><u>[New] 2024 Approved Achieve Unstoppable Viral Traction with These FB Tricks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-charting-a-course-through-yts-creative-space-for-2024/"><u>[New] Charting a Course Through YT's Creative Space for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hover-and-watch-utilizing-the-float-feature-on-netflix/"><u>[New] Hover & Watch Utilizing the Float Feature on Netflix</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-metaverse-your-guide-to-these-7-essential-gadgets/"><u>2024 Approved Mastering the Metaverse Your Guide to These 7 Essential Gadgets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/chatgpt-insight-report-extensive-feature-list-and-strategies-for-handling-server-issues/"><u>ChatGPT Insight Report - Extensive Feature List & Strategies for Handling Server Issues</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-how-to-upgrade-your-communication-with-the-best-10-ai-chatbot-solutions/"><u>Discover How to Upgrade Your Communication with the Best 10 AI Chatbot Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/insiders-guide-to-the-best-gpt-ai-chatbots-expert-analysis-and-review/"><u>Insider's Guide to the Best GPT AI Chatbots - Expert Analysis and Review</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/preserve-your-tiktok-videos-easily-android-and-ios-methods-for-2024/"><u>Preserve Your TikTok Videos Easily - Android & iOS Methods for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-clean-up-hack-eliminating-pages-from-your-hub/"><u>The Ultimate Clean-Up Hack: Eliminating Pages From Your Hub</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-top-10-list-of-ai-powered-chatbots-for-enhanced-interaction/"><u>The Ultimate Top 10 List of AI-Powered Chatbots for Enhanced Interaction</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-reviews-of-gpt-based-chat-ais-what-you-need-to-discover/"><u>Top Reviews of GPT-Based Chat AIs: What You Need to Discover</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-your-icloud-photostream-7-effective-fixes-to-get-it-up-and-running-on-your-iphone/"><u>Troubleshoot Your iCloud Photostream: 7 Effective Fixes to Get It Up and Running on Your iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-of-ex-journeys-eva-ai-an-authoritative-chatbot-overview-you-need-to-read/"><u>Unlocking the Secrets of Ex Journey's EVA AI: An Authoritative Chatbot Overview You Need to Read</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-network-live-broadcasts-via-vlc/"><u>[New] 2024 Approved Mastering Network Live Broadcasts via VLC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-retro-reality-on-snapchat-effortless-video-reversal/"><u>[New] 2024 Approved Retro Reality on Snapchat Effortless Video Reversal</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-proven-picks-for-high-quality-screenshot-tools-on-a-budget/"><u>[New] Proven Picks for High-Quality Screenshot Tools on a Budget</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/diy-guide-fixing-your-hot-running-processor-with-proven-solutions-from-yl-software/"><u>DIY Guide: Fixing Your Hot-Running Processor with Proven Solutions From YL Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-xinput13dll-not-found-or-missing-errors/"><u>How to Fix Xinput1_3.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-restore-your-ipad-using-icloud-backup-a-step-by-step-guide-with-and-without-factory-reset/"><u>How to Restore Your iPad Using iCloud Backup: A Step-by-Step Guide with and Without Factory Reset</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-backup-management-how-to-access-restore-and-clear-your-iphone-data/"><u>ICloud Backup Management: How to Access, Restore & Clear Your iPhone Data</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-unleash-the-power-of-split-window-on-netflix-platform/"><u>In 2024, Unleash the Power of Split Window on Netflix Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/make-the-most-of-your-subscription-instructions-for-projecting-apple-tvplus-on-a-chromecast-screen/"><u>Make the Most of Your Subscription: Instructions for Projecting Apple TV+ on a Chromecast Screen</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-data-security-the-ultimate-icloud-storage-and-backup-manual/"><u>Mastering Data Security: The Ultimate iCloud Storage & Backup Manual</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-your-apple-id-top-6-steps-to-retrieve-lost-icloud-passwords/"><u>Reviving Your Apple ID: Top 6 Steps to Retrieve Lost iCloud Passwords</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-clearing-out-icloud-backups-across-devices-for-more-space/"><u>Step-by-Step Guide: Clearing Out iCloud Backups Across Devices for More Space</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-connecting-your-pc-with-icloud-through-the-icloud-control-panel/"><u>Step-by-Step Guide: Connecting Your PC with iCloud Through the iCloud Control Panel</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-a-to-z-guide-to-recording-games-using-obs-for-2024/"><u>The A-to-Z Guide to Recording Games Using OBS for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-3-methods-to-remove-ebooks-from-your-icloud-library-freeing-up-space/"><u>Top 3 Methods to Remove eBooks From Your iCloud Library, Freeing Up Space</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshoot-your-icloud-picture-sharing-problems-for-ios-devices-and-macbook-computers-essential-steps/"><u>Troubleshoot Your iCloud Picture Sharing Problems for iOS Devices and MacBook Computers - Essential Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-icloud-family-sharing-a-comprehensive-guide-on-implementation-and-usage/"><u>Unveiling iCloud Family Sharing: A Comprehensive Guide on Implementation and Usage</u></a></li>
 </ul></div>
 

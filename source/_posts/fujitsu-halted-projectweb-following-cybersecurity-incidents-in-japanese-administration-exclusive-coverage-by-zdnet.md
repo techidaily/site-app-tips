@@ -1,7 +1,7 @@
 ---
 title: Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET
-date: 2025-01-19T16:03:08.780Z
-updated: 2025-01-21T16:35:21.161Z
+date: 2025-01-27T18:13:41.889Z
+updated: 2025-01-29T17:42:10.997Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,20 +68,16 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-find-tiktok-background-video-some-templates/"><u>[New] How to Find TikTok Background Video Some Templates</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-a-filmmakers-approach-to-youtube-splitscreen-videos/"><u>[Updated] A Filmmaker's Approach to YouTube Splitscreen Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-pc-masterys-essential-list-for-video-download-enthusiasts/"><u>2024 Approved PC Mastery's Essential List for Video Download Enthusiasts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-android-projector-applications-top-8-picks-for-seamless-wireless-connection/"><u>Best Android Projector Applications: Top 8 Picks for Seamless Wireless Connection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-pinnacle-studio-benefits-drawbacks-and-best-alternatives-explored/"><u>Comprehensive Review of Pinnacle Studio: Benefits, Drawbacks & Best Alternatives Explored</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/creative-mastery-meets-gaming-prowess-in-the-corsair-one-pro-desktop-examination/"><u>Creative Mastery Meets Gaming Prowess in the Corsair One Pro Desktop Examination</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-12-effortless-typing-solutions-on-ios-and-android-the-ultimate-keyboard-app-selection/"><u>Discover the Top 12 Effortless Typing Solutions on iOS & Android: The Ultimate Keyboard App Selection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193990-experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-14-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 14 When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-top-10-unforgettable-igtv-video-strategies-for-brand-success/"><u>In 2024, Top 10 Unforgettable IGTV Video Strategies for Brand Success</u></a></li>
-<li><a href="https://review-topics.techidaily.com/lava-data-retrieval-tool-restore-lost-data-from-lava-blaze-2-5g-by-fonelab-android-recover-data/"><u>Lava Data Retrieval tool – restore lost data from Lava Blaze 2 5G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-guide-top-free-tools-for-speedy-file-removal-on-your-ipad-device/"><u>Quick Guide: Top Free Tools for Speedy File Removal on Your iPad Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-8-must-have-multi-window-programs-for-android-phones-and-tablets/"><u>The Ultimate List of 8 Must-Have Multi-Window Programs for Android Phones & Tablets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-alternative-podcast-apps-to-replace-player-fm-on-your-android-device/"><u>Top Alternative Podcast Apps to Replace Player FM on Your Android Device</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unleash-timeliness-iphone-slow-motion-filming/"><u>Unleash Timeliness IPhone Slow Motion Filming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-premium-top-5-storage-solutions-for-xbox/"><u>[New] Premium Top 5 Storage Solutions for Xbox</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-beginning-creators-guide-top-8-free-youtube-tutorials/"><u>2024 Approved Beginning Creator's Guide Top 8 Free YouTube Tutorials</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-15-android-compatible-free-messaging-apps-a-comprehensive-guide/"><u>Best 15 Android-Compatible Free Messaging Apps: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-sms-automation-tools-top-10-applications-for-android-and-ios-devices/"><u>Best SMS Automation Tools: Top 10 Applications for Android & iOS Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-on-viewing-spider-man-movie-online/"><u>Guide on Viewing Spider-Man Movie Online</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-unlimited-visual-inspiration-awaits-at-these-top-12-stock-photo-websites/"><u>In 2024, Unlimited Visual Inspiration Awaits at These Top 12 Stock Photo Websites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streamlining-dvd-viewing-on-your-mac-drive-included-or-not/"><u>Streamlining DVD Viewing on Your Mac - Drive Included or Not!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-mobile-app-the-ultimate-video-editing-tool-for-android-users/"><u>Top-Rated Mobile App: The Ultimate Video Editing Tool for Android Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-the-non-functioning-facebook-messenger-application/"><u>Troubleshooting Guide: Resolving Issues with the Non-Functioning Facebook Messenger Application</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth</u></a></li>
+<li><a href="https://win-online.techidaily.com/unveiling-the-ultimate-selection-of-11-voice-over-platforms-discover-your-perfect-match/"><u>Unveiling the Ultimate Selection of 11 Voice-Over Platforms – Discover Your Perfect Match!</u></a></li>
 </ul></div>
 
