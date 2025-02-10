@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Company's Safety: Start with Individual Protection Strategies - Insights From ZDNet"
-date: 2025-01-28T17:07:01.832Z
-updated: 2025-01-29T16:21:12.268Z
+date: 2025-02-07T03:07:12.735Z
+updated: 2025-02-09T23:19:23.525Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 Corporations aren't doing enough to improve their employees' personal security practices. Credentials remain the highest targeted data type as they are the gateway to ransomware and data theft. 61% of data breaches in 2021 involved the use of stolen and misused credentials. Bad actors took advantage of a global pandemic to increase the number of phishing attacks, the cause of stolen credentials in 36% of breaches -- a 9% increase over last year -- according to the [Verizon 2021 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdfx). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,19 +66,24 @@ Given how connected we all are, the rising demands of working anywhere, and incr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-from-fan-to-earner-understanding-view-requirements/"><u>[New] In 2024, From Fan to Earner Understanding View Requirements</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-guardianship-against-oculus-induced-discomfort/"><u>[Updated] Guardianship Against Oculus-Induced Discomfort</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-managing-a-day-job-and-your-thriving-youtube-channel/"><u>[Updated] In 2024, Managing a Day Job and Your Thriving YouTube Channel</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-topo-as-melhores-tecnicas-de-transferencia-de-dvd-para-o-seu-pc-em-2023-windows-e-mac/"><u>1. Topo: As Melhores Técnicas De Transferência De DVD Para O Seu PC Em 2023 - Windows E Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/awaken-with-joy-discover-the-10-most-engaging-free-alarm-clock-applications-for-a-playful-routine/"><u>Awaken with Joy: Discover the 10 Most Engaging Free Alarm Clock Applications for a Playful Routine</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/batch-transform-your-word-docs-into-free-flash-animation-videos-swf/"><u>Batch Transform Your Word Docs Into Free Flash Animation Videos (SWF)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/descubre-las-mejores-practicas-de-grabacion-de-pantallas-usando-obs-su-acompanamiento-completo-en-movavi/"><u>Descubre Las Mejores Prácticas De Grabación De Pantallas Usando OBS – Su Acompañamiento Completo en Movavi</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-6-free-online-casino-slots-for-android-phones-and-iphones/"><u>Discover the Ultimate Selection of 6 Free Online Casino Slots for Android Phones and iPhones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/efficient-ipad-locator-tool-keep-an-eye-on-your-apple-tablet-anywhere/"><u>Efficient iPad Locator Tool: Keep an Eye on Your Apple Tablet Anywhere</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-methods-for-transferring-all-your-apps-from-one-iphone-to-another/"><u>Effortless Methods for Transferring All Your Apps From One iPhone to Another</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-rectify-sound-problems-on-windows-11-with-five-simple-fixes/"><u>Expert Tips: Rectify Sound Problems on Windows 11 with Five Simple Fixes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/not-just-carjacking-fun-the-best-non-gta-games-for-2024/"><u>Not Just Carjacking Fun The Best Non-GTA Games for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/optimal-cameras-for-slow-motion-film/"><u>Optimal Cameras for Slow Motion Film</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protect-your-children-online-a-guide-to-the-20-best-parental-control-tools-available-today/"><u>Protect Your Children Online: A Guide to the 20 Best Parental Control Tools Available Today</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-ultimate-list-of-top-tier-facebook-profile-picture-designers-for-2024/"><u>[New] The Ultimate List of Top-Tier Facebook Profile Picture Designers for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-twilight-tactics-a-complete-guide-to-nighttime-photography/"><u>2024 Approved Twilight Tactics A Complete Guide to Nighttime Photography</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-widening-gulf-in-data-expertise-a-closer-look-at-innovative-solutions-by-companeby-zdnet/"><u>Bridging the Widening Gulf in Data Expertise: A Closer Look at Innovative Solutions by Companeby ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/championing-creativity-in-ai-development-bank-chief-rejects-relying-on-simple-prompts-urges-intellectual-revolution-zdnet/"><u>Championing Creativity in AI Development, Bank Chief Rejects Relying on Simple Prompts; Urges Intellectual Revolution | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empower-management-with-ai-essential-training-strategies-before-deployment/"><u>Empower Management with AI: Essential Training Strategies Before Deployment</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-executives-with-tech-expertise-six-essential-tips-to-foster-digital-proficiency-in-management-teams/"><u>Empowering Executives with Tech Expertise - Six Essential Tips to Foster Digital Proficiency in Management Teams</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/event-ensemble-curating-best-dj-templates-for-2024/"><u>Event Ensemble Curating Best DJ Templates for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-ai-evolution-is-pushing-the-limits-of-todays-tech-infrastructure-insights-from-zdnet/"><u>How AI Evolution Is Pushing the Limits of Today's Tech Infrastructure: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-fintech-figures-demand-thinking-revolution-not-simple-prompts-to-shape-ai-future/"><u>Leading Fintech Figures Demand Thinking Revolution, Not Simple Prompts, to Shape AI Future</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-iphone-ringtone-updates/"><u>Mastering iPhone Ringtone Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-visuals-adjust-win11-scaling/"><u>Maximize Visuals: Adjust Win11 Scaling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-online-apps-without-a-mobile-number/"><u>Navigating Online Apps without a Mobile Number</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-age-of-artificial-intelligence-strategies-for-tech-experts-to-excel-in-their-careers-zdnet/"><u>Navigating the Age of Artificial Intelligence: Strategies for Tech Experts to Excel in Their Careers | ZDNet</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-support-a-unanimous-declaration-of-245-satisfaction/"><u>Stellar Support - A Unanimous Declaration of 245 Satisfaction</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-ai-how-multiple-machine-learning-models-will-power-your-business-according-to-zdnet/"><u>The Future Is AI: How Multiple Machine Learning Models Will Power Your Business, According to ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-how-many-marketing-teams-are-using-ai-the-answer-may-surprise-you/"><u>ZDNet Reveals: How Many Marketing Teams Are Using AI? The Answer May Surprise You!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/zeroing-in-on-the-high-def-spectacle-samsungs-ue590-review/"><u>Zeroing in on the High-Def Spectacle - Samsung's UE590 Review</u></a></li>
 </ul></div>
 

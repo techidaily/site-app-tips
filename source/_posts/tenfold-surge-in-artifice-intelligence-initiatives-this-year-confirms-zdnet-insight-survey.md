@@ -1,7 +1,7 @@
 ---
 title: Tenfold Surge in Artifice Intelligence Initiatives This Year, Confirms ZDNet Insight Survey
-date: 2025-01-24T17:59:03.812Z
-updated: 2025-01-29T16:01:45.639Z
+date: 2025-02-02T23:06:13.366Z
+updated: 2025-02-09T18:03:59.242Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-identifying-the-best-no-cost-video-calling-apps-iosandroid/"><u>[New] Identifying the Best No-Cost Video Calling Apps (iOS/Android)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-streamline-your-listening-experience-how-to-get-apple-podcasts-downloaded/"><u>2024 Approved Streamline Your Listening Experience How to Get Apple Podcasts Downloaded</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-to-the-rescue-shielding-it-specialists-from-overwork-and-alert-exhaustion-with-cutting-edge-solutions-zdnet/"><u>AI to the Rescue! Shielding IT Specialists From Overwork and Alert Exhaustion with Cutting-Edge Solutions | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-artificial-intelligence-slow-down-expansion-in-cybersecurity-careers-zdnet-insights/"><u>Can Artificial Intelligence Slow Down Expansion in Cybersecurity Careers? | ZDNet Insights</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/le-chamber-ideas-for-7-amusing-online-sessions/"><u>Chortle Chamber Ideas for 7 Amusing Online Sessions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/combining-ai-innovation-with-agile-practices-faces-challenges-insights-from-recent-research/"><u>Combining AI Innovation with Agile Practices Faces Challenges: Insights From Recent Research</u></a></li>
-<li><a href="https://app-tips.techidaily.com/emerging-management-positions-in-the-era-of-generative-ai-the-future-landscape-zdnet/"><u>Emerging Management Positions in the Era of Generative AI: The Future Landscape | ZDNet</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-depth-corsair-i500-mini-itx-desktop-evaluation-compact-powerhouse-unveiled/"><u>In-Depth Corsair I500 Mini ITX Desktop Evaluation - Compact Powerhouse Unveiled</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/proven-strategies-for-masterful-fisheye-photography/"><u>Proven Strategies for Masterful Fisheye Photography</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamless-ai-synthesis-realized-engage-with-your-organizations-chief-tech-architect-zdnet/"><u>Seamless AI Synthesis Realized - Engage with Your Organization’s Chief Tech Architect | ZDNET</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solutions-for-uninterrupted-steam-download-sessions-no-more-stops/"><u>Solutions for Uninterrupted Steam Download Sessions - No More Stops</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-pathfinder-wrath-gameshark-from-crashing-effective-strategies/"><u>Stop Pathfinder Wrath Gameshark From Crashing - Effective Strategies</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ultimate-racing-game-anthology-the-top-five/"><u>Ultimate Racing Game Anthology The Top Five</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-smirk-spawners-identifying-premium-meme-tools/"><u>[Updated] 2024 Approved Smirk Spawners Identifying Premium Meme Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-steps-to-activate-auto-hdr-feature-in-windows-11-for-2024/"><u>[Updated] Steps to Activate Auto-HDR Feature in Windows 11 for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/antenna-arrays-can-synthesize-a-desired-radiation-pattern-by-controlling-the-relative-phases-and-amplitudes-of-signals-fed-to-each-element/"><u>Antenna Arrays Can Synthesize a Desired Radiation Pattern by Controlling the Relative Phases and Amplitudes of Signals Fed to Each Element.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-photo-to-video-conversion-tutorial-for-beginners/"><u>Effortless Photo-to-Video Conversion Tutorial for Beginners</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-advanced-ai-with-these-5-free-ways-to-use-gpt/"><u>Explore Advanced AI with These 5 FREE Ways to Use GPT-지</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-why-moto-g-power-stands-out-with-its-incredible-battery-life/"><u>Explore Why Moto G Power Stands Out with Its Incredible Battery Life</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-infinix-note-30-vip-racing-edition-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Infinix Note 30 VIP Racing Edition to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-guide-to-never-ending-snapstreaks/"><u>In 2024, The Ultimate Guide to Never-Ending Snapstreaks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-new-release-a-game-changer-or-annoyance-find-out-how-it-stacks-up-zdnet/"><u>Microsoft's New Release: A Game Changer or Annoyance? Find Out How It Stacks Up [ZDNet]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-overlap-of-kernel-issues-and-cybersecurity-in-linux-environments-strategies-to-maintain-safety/"><u>Navigating the Overlap of Kernel Issues & Cybersecurity in Linux Environments - Strategies to Maintain Safety</u></a></li>
+<li><a href="https://app-tips.techidaily.com/new-advancements-for-ai-tasks-with-latest-kubernetes-version-released-insights-from-tech-experts-at-zdnet/"><u>New Advancements for AI Tasks with Latest Kubernetes Version Released, Insights From Tech Experts at ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prepare-for-windows-10-eol-explore-five-essential-upgrades-or-migrations-options-now-zdnet-insights/"><u>Prepare for Windows 10 EOL: Explore Five Essential Upgrades or Migrations Options Now | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ticking-clock-for-microsoft-overcoming-the-imminent-windows-11-dilemma-in-under-a-year-exclusive-insights-from-zdnet/"><u>Ticking Clock for Microsoft: Overcoming the Imminent Windows 11 Dilemma in Under a Year | Exclusive Insights From ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-fixing-the-missing-or-lost-mss32dll-error-in-windows/"><u>Understanding and Fixing the Missing or Lost mss32.dll Error in Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-red-hats-lightspeed-an-advanced-ai-solution-tailored-for-kubernetes-admins-with-openshift-zdnet/"><u>Unveiling Red Hat’s Lightspeed: An Advanced AI Solution Tailored for Kubernetes Admins with OpenShift | ZDNet</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-an-ai-voice-generator-in-2024/"><u>What Is an AI Voice Generator, In 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/where-is-microsofts-promised-free-windows-10-update-now/"><u>Where Is Microsoft's Promised Free Windows 10 Update Now?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: LastPass to Become Separate Business as LogMeIn Executes Split Strategy | Tech Buzz on ZDNet
-date: 2025-01-24T17:32:16.937Z
-updated: 2025-01-29T17:10:15.495Z
+date: 2025-02-08T23:03:11.078Z
+updated: 2025-02-09T16:19:01.399Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ LogMeIn [announced](https://www.logmein.com/newsroom/press-release/2021/logmein-
 The cloud-based solutions company explained that the move allows LastPass to invest heavily in "customer experience, go-to-market functions and engineering" as a way to improve its "organic growth in password management," Single Sign-On (SSO) and multi-factor authentication (MFA). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -86,19 +86,18 @@ In a message to users, LastPass reiterated that it could "strategically increase
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-lgs-lg-360-camera-update-unveiled-and-analyzed/"><u>[New] LG's LG 360 Camera Update Unveiled & Analyzed</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-market-masters-essential-stock-youtube-series/"><u>[Updated] 2024 Approved Market Masters Essential Stock YouTube Series</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-explore-the-top-5-pick-for-windows-screen-snipers/"><u>[Updated] In 2024, Explore the Top 5 Pick for Windows Screen Snipers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-vivo-y36i-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Vivo Y36i</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-itunes-backup-strategies-learn-the-best-techniques-for-protection/"><u>Comprehensive iTunes Backup Strategies – Learn the Best Techniques for Protection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-strategies-to-overcome-non-functional-music-playback-on-itunes/"><u>Effective Strategies to Overcome Non-Functional Music Playback on iTunes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/itunes-backup-file-restoration-how-to-retrieve-deleted-or-lost-ios-content-from-your-itunes-archive/"><u>ITunes Backup File Restoration: How to Retrieve Deleted or Lost iOS Content From Your iTunes Archive</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lost-your-itunes-account-passcode-discover-the-top-methods-to-retrieve-it/"><u>Lost Your iTunes Account Passcode? Discover the Top Methods to Retrieve It</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-gif-comments-a-step-by-step-guide-for-instagram-users/"><u>Mastering the Art of GIF Comments: A Step-by-Step Guide for Instagram Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-navigating-through-the-excellent-windowed-and-mac-compatible-daws-top-10-selection/"><u>New 2024 Approved Navigating Through the Excellent Windowed & Mac Compatible DAWs - Top 10 Selection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/temporary-itunes-store-outage-discover-7-effective-solutions/"><u>Temporary iTunes Store Outage: Discover 7 Effective Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-solutions-for-resolving-the-issue-of-music-not-playing-in-itunes/"><u>Top Solutions for Resolving the Issue of Music Not Playing in iTunes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-for-nvidias-geforce-error-0x0003/"><u>Troubleshooting Guide for NVIDIA's GeForce Error 0X0003</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unboxing-and-testing-report-the-premium-649-samsung-galaxy-watch-ultra-and-what-it-really-offers-an-exclusive-insight-by-a-gadget-enthusiast-zdnet/"><u>Unboxing & Testing Report: The Premium $649 Samsung Galaxy Watch Ultra and What It Really Offers – An Exclusive Insight by a Gadget Enthusiast | ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-superior-online-emporiums-where-boxes-reflect-your-style/"><u>[New] Superior Online Emporiums Where Boxes Reflect Your Style</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-producing-impactful-lifestyle-motivational-content-for-2024/"><u>[Updated] Guide to Producing Impactful Lifestyle Motivational Content for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-prevent-these-8-key-mishaps-on-your-youtube-journey/"><u>2024 Approved Prevent These 8 Key Mishaps on Your YouTube Journey</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-apple-music-evaluation-cost-analysis-and-features-breakdown-free-download/"><u>Comprehensive Apple Music Evaluation: Cost Analysis & Features Breakdown - Free Download</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversion-gratuite-mov-vers-mp4-guide-facile-pour-mac-et-windows-1110/"><u>Conversion Gratuite MOV Vers MP4 : Guide Facile Pour Mac Et Windows 11/10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enhance-your-live-broadcasts-with-manycam-premium-virtual-camera-solutions/"><u>Enhance Your Live Broadcasts with ManyCam - Premium Virtual Camera Solutions</u></a></li>
+<li><a href="https://win-superb.techidaily.com/exploring-action-rcu-expert-answers-and-insights-on-leveraging-our-popular-gratis-mobile-app/"><u>Exploring Action! RCU: Expert Answers & Insights on Leveraging Our Popular Gratis Mobile App</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-itel-a70-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Itel A70 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/jokesterjuxtaposer/"><u>JokesterJuxtaposer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/preventing-persistent-device-failures-dm/"><u>Preventing Persistent Device Failures (DM)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-8-xbox-console-emulators-on-pcandroid-reviewed-objectively/"><u>The Ultimate Guide: Top 8 Xbox Console Emulators on PC/Android, Reviewed Objectively</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-audio-management-apps-compatible-with-pc-mac-ios-and-android-devices/"><u>Top 10 Audio Management Apps Compatible with PC, Mac, iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-swf-player-apps-compatible-with-pc-mac-android-and-iphone-devices/"><u>Top Rated SWF Player Apps Compatible with PC, Mac, Android & iPhone Devices</u></a></li>
 </ul></div>
 

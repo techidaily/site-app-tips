@@ -1,7 +1,7 @@
 ---
 title: Repeated Security Incidents at LastPass - Latest Update From ZDNet
-date: 2025-01-26T18:14:20.180Z
-updated: 2025-01-29T17:38:14.141Z
+date: 2025-02-02T17:45:55.783Z
+updated: 2025-02-09T19:50:11.837Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,14 +81,20 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/mov-storage-techniques-a-windows-10-perspective-for-2024/"><u>.mov Storage Techniques A Windows 10 Perspective for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-20-must-experience-sandbox-game-innovations/"><u>[Updated] 20 Must-Experience Sandbox Game Innovations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/act-now-uncover-the-five-essential-strategies-for-windows-11-users-before-microsoft-discontinues-support-zdnet-tech-analysis/"><u>Act Now: Uncover the Five Essential Strategies for Windows 11 Users Before Microsoft Discontinues Support | ZDNet Tech Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ballad-blitz-poets-and-gpt-warriors-face-off-with-wooly-companions/"><u>Ballad Blitz - Poets and GPT Warriors Face-Off with Wooly Companions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-of-upgrading-from-ubuntu-linux-2310-to-2404-a-step-by-step-guide/"><u>Navigating the Challenges of Upgrading From Ubuntu Linux 23.10 to 24.04 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/red-hat-enterprise-linux-release-and-hybrid-cloud/"><u>Red Hat, Enterprise Linux Release, and Hybrid Cloud.</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-value-cannot-be-established-errors-on-windows-devices/"><u>Resolving Value Cannot Be Established Errors on Windows Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranking-customer-relationship-management-tools-of-2022-ideal-options-for-small-and-medium-businesses-zdnet-insights/"><u>Top-Ranking Customer Relationship Management Tools of 2022: Ideal Options for Small & Medium Businesses - ZDNet Insights</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-why-wont-my-iphone-touchscreen-respond/"><u>Troubleshooting Tips: Why Won't My iPhone Touchscreen Respond?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-youtube-titles-crafted-by-ai/"><u>[New] 2024 Approved Top YouTube Titles Crafted by AI</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-easy-peasy-automating-the-repetitive-view-of-youtube-videos/"><u>[New] In 2024, Easy Peasy Automating the Repetitive View of YouTube Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-innovative-notetaking-for-mobile-photographers-for-2024/"><u>[Updated] Innovative Notetaking for Mobile Photographers for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-cutting-edge-video-sharing-from-facebook-to-whatsapp/"><u>2024 Approved Cutting-Edge Video Sharing From Facebook to WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-perform-a-seamless-whatsapp-backup-using-icloud-a-comprehensive-guide/"><u>How To Perform a Seamless WhatsApp Backup Using iCloud: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-remove-icloud-backup-data-from-your-iphone-pc-or-mac-save-storage/"><u>How to Remove iCloud Backup Data From Your iPhone, PC, or Mac: Save Storage</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-scale-up-channel-followers-faster-and-cheaper/"><u>In 2024, Scale Up Channel Followers Faster and Cheaper</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-icloud-security-efficiently-disconnect-across-devices-with-our-3-step-process/"><u>Mastering iCloud Security: Efficiently Disconnect Across Devices with Our 3 Step Process</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revive-your-whatsapp-chats-with-icloud-backup-step-by-step-guide/"><u>Revive Your WhatsApp Chats with iCloud Backup: Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-managing-and-exporting-icloud-keychain-credentials-on-a-mac-computer/"><u>Step-by-Step Tutorial: Managing and Exporting iCloud Keychain Credentials on a Mac Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-m2-upgrade-in-macbook-air-a-teardrop-worthy-experience-revealed/"><u>The M2 Upgrade in MacBook Air: A Teardrop-Worthy Experience, Revealed .</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-step-by-step-guide-how-to-effortlessly-backup-and-sync-your-iphone-with-icloud/"><u>Ultimate Step-by-Step Guide: How to Effortlessly Backup and Sync Your iPhone with iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-icloud-keychain-a-complete-guide-to-unlocking-your-iphones-secure-storage/"><u>Understanding iCloud Keychain: A Complete Guide to Unlocking Your iPhone's Secure Storage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-vibrance-10-tips-for-dynamic-color-manipulation/"><u>Video Vibrance 10 Tips for Dynamic Color Manipulation</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1725284220973-winx-dvd-ripper/"><u>비디오 변환 소프트웨어 WinX DVD Ripper: 최신 기술로 원향이 있는 촬영 시작!</u></a></li>
 </ul></div>
 

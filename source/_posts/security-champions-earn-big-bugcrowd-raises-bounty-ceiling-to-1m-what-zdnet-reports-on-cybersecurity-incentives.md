@@ -1,7 +1,7 @@
 ---
 title: "Security Champions Earn Big: Bugcrowd Raises Bounty Ceiling to $1M – What ZDNET Reports on Cybersecurity Incentives"
-date: 2025-01-25T17:43:34.444Z
-updated: 2025-01-29T18:09:46.351Z
+date: 2025-02-06T23:02:58.868Z
+updated: 2025-02-09T22:53:16.656Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 The company averages about $900 per reward, but 1Password CEO Jeff Shiner said the company hopes to "attract another layer of outside expertise to make sure our systems are as secure as possible." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -70,19 +70,20 @@ The company also has an internal "Eyes of the Month program" for their employees
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-elevating-images-a-professionals-palette-playbook/"><u>[New] Elevating Images A Professional's Palette Playbook</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-comprehensively-reviewing-youtubes-restrictions-vs-cc-flexibility/"><u>[Updated] Comprehensively Reviewing YouTube's Restrictions Vs. CC Flexibility</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-best-on-the-go-discord-video-recorder-apps/"><u>[Updated] In 2024, Best On-the-Go Discord Video Recorder Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-champions-list-best-call-alert-tunes-for-iphones/"><u>[Updated] In 2024, Champion's List Best Call Alert Tunes for iPhones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/detailed-insight-into-twistedwave-exploring-benefits-limitations-premier-qualities-and-usage-scenarios/"><u>Detailed Insight Into TwistedWave: Exploring Benefits, Limitations, Premier Qualities, and Usage Scenarios</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-8-plusipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 8 Plus/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/imovie-editor-guide-detailed-analysis-reviews-and-alternative-solutions-for-video-editing/"><u>IMovie Editor Guide: Detailed Analysis, Reviews & Alternative Solutions for Video Editing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-mastering-vector-editing-without-acid-pro/"><u>In 2024, Mastering Vector Editing without ACID Pro</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-insights-on-the-bnsf-simulation-a-complete-examination/"><u>In-Depth Insights on the BNSF Simulation: A Complete Examination</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-how-to-shield-your-iphone-and-ipad-against-unwanted-emails-with-ios-18-features/"><u>Step-by-Step Tutorial: How to Shield Your iPhone and iPad Against Unwanted Emails with iOS 18 Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-18-emoji-keyboard-apps-compatible-with-both-ios-and-android-devices/"><u>Top 18 Emoji Keyboard Apps Compatible with Both iOS & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-apk-applications-comprehensive-downloads-and-reviews-of-games-tunes-root-tools/"><u>Top APK Applications: Comprehensive Downloads & Reviews of Games, Tunes, Root Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tweaking-audio-outputs-sony-ps4-and-ps5-tips/"><u>Tweaking Audio Outputs Sony PS4 & PS5 Tips</u></a></li>
-<li><a href="https://discover-community.techidaily.com/winxdvd-top-tested-free-software-for-dvd-ripping-and-conversion-on-windows/"><u>WinXDVD: Top-Tested Free Software for DVD Ripping and Conversion on Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-quick-conversion-tactics-extracting-mp3-from-vids-on-social-media-for-2024/"><u>[New] Quick Conversion Tactics Extracting MP3 From Vids on Social Media for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-widening-chasm-of-data-expertise-innovative-strategies-from-a-leading-tech-firm-zdnet/"><u>Bridging the Widening Chasm of Data Expertise: Innovative Strategies From a Leading Tech Firm | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/devops-engineer-career-path-unveiling-the-pros-cons-and-realities-insights-from-zdnet/"><u>DevOps Engineer Career Path: Unveiling The Pros, Cons & Realities - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/get-superior-visuals-from-youtube-downloading-thumbnails-free-in-2024/"><u>Get Superior Visuals From YouTube - Downloading Thumbnails Free, In 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-artificial-intelligence-impacts-future-trends-in-cybersecurity-employment-opportunities-insights-from-zdnet/"><u>How Artificial Intelligence Impacts Future Trends in Cybersecurity Employment Opportunities: Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-drone-enthusiasts-guide-to-vibration-reduction-and-image-quality/"><u>In 2024, The Drone Enthusiast's Guide to Vibration Reduction and Image Quality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-archive-essentials-top-15-downloader-tools-for-2024/"><u>Instagram Archive Essentials Top 15 Downloader Tools for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-future-of-ai-in-business-essential-read-for-singapores-smb-workforce-training-expert-advice-by-zdnet/"><u>Mastering the Future of AI in Business: Essential Read for Singapore's SMB Workforce Training – Expert Advice by ZDNET</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-visual-effects-on-a-budget-essential-tutorials-and-techniques-from-4-vfx-experts-videos-for-2024/"><u>Mastering Visual Effects on a Budget Essential Tutorials and Techniques From 4 VFX Experts' Videos for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-vsdc-video-editor-for-mac-find-the-best-replacement/"><u>New VSDC Video Editor for Mac Find the Best Replacement</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-jobs-with-ai-unveiling-the-endless-possibilities-and-changes-by-zdnet-experts/"><u>The Future of Jobs with AI: Unveiling the Endless Possibilities & Changes by ZDNet Experts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-6-fiscal-picks-in-the-4k-projector-market/"><u>Top 6 Fiscal Picks in the 4K Projector Market</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-work-the-revolutionary-impact-of-ai-agents-on-future-jobs/"><u>Transforming Work: The Revolutionary Impact of AI Agents on Future Jobs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-addressing-obsolete-technologies-is-crucial-insights-from-a-recent-mismanaged-upgrade-zdnet/"><u>Why Addressing Obsolete Technologies Is Crucial - Insights From a Recent Mismanaged Upgrade | ZDNet</u></a></li>
 </ul></div>
 

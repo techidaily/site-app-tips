@@ -1,7 +1,7 @@
 ---
 title: Why People Favor Biometrics Over Passwords Due to Memory Challenges | ZDNet Analysis
-date: 2025-01-23T17:18:16.672Z
-updated: 2025-01-29T16:38:35.374Z
+date: 2025-02-08T20:07:33.375Z
+updated: 2025-02-09T19:21:21.306Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,22 +99,19 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-no-delays-you-can-now-see-your-shorts/"><u>[New] 2024 Approved No Delays! You Can Now See Your Shorts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-navigating-the-invisible-aspects-of-social-media-success/"><u>[Updated] 2024 Approved Navigating the Invisible Aspects of Social Media Success</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-highlight-hubs-choosing-the-right-online-aids/"><u>2024 Approved Highlight Hubs Choosing the Right Online Aids</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-android-file-organizers-expert-opinions-and-comprehensive-reviews/"><u>Best Android File Organizers - Expert Opinions & Comprehensive Reviews</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-platforms-and-tools-for-discreet-message-exchange/"><u>Best Free Platforms & Tools for Discreet Message Exchange</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bing-and-microsoft-a-new-age-for-ai-search/"><u>Bing and Microsoft: A New Age for AI Search</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-adding-emojis-on-your-android-device/"><u>Complete Guide: Adding Emojis on Your Android Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-best-ipad-video-players-for-2n4-a-guide-to-downloading-reliable-solutions/"><u>Discover the Best iPad Video Players for 2N4: A Guide to Downloading Reliable Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-5-must-try-free-cellphone-locator-applications/"><u>Discover the Ultimate List of 5 Must-Try Free Cellphone Locator Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194092-enhance-your-cinematic-journey-with-the-ultimate-list-of-15-vr-film-apps-for-mobile-devices/"><u>Enhance Your Cinematic Journey with the Ultimate List of 15 VR Film Apps for Mobile Devices!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-list-of-top-10-mobile-backup-solutions-for-iphones-and-android-phones/"><u>Essential List of Top 10 Mobile Backup Solutions for iPhones and Android Phones</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-oppo-find-n3-lock-screen-password-by-drfone-android/"><u>How To Change Oppo Find N3 Lock Screen Password?</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-failed-to-connect-issue-in-overwatch-a-step-by-step-guide/"><u>Resolving the 'Failed to Connect' Issue in Overwatch: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-and-using-chatgpt-widget-on-your-android-phone/"><u>Step-by-Step Guide: Setting Up and Using ChatGPT Widget on Your Android Phone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-power-of-ai-transparency-via-openais-shap-e/"><u>The Power of AI Transparency via OpenAI's SHAP E</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-speakers-guide-to-voiceover-on-microsoft-ppt-for-2024/"><u>The Speaker's Guide to Voiceover on Microsoft PPT for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlimited-free-communication-tool-cross-platform-calling-and-text-service-for-smartphones-and-computers/"><u>Unlimited Free Communication Tool: Cross-Platform Calling & Text Service for Smartphones & Computers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-make-your-facebook-video-stand-out-for-2024/"><u>[Updated] How to Make Your Facebook Video Stand Out for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-insiders-guide-to-captivating-youtube-headlines/"><u>[Updated] In 2024, The Insider's Guide to Captivating YouTube Headlines</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-quickest-quads-2022-olympics-skate-for-2024/"><u>[Updated] The Quickest Quads 2022 Olympics Skate for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tial-guide-9-cost-free-editing-tools-for-creatives-for-2024/"><u>Essential Guide 9 Cost-Free Editing Tools for Creatives for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-next-gen-processing-power-amd-zen-5-architecture-deep-dive-highlights-on-ryzen-9000-series-ai-accelerators-and-advanced-gpu-developments-in-rdna-362/"><u>Exploring Next-Gen Processing Power: AMD Zen 5 Architecture Deep Dive - Highlights on Ryzen 9000 Series, AI Accelerators, and Advanced GPU Developments in RDNA 3.5 and Beyond</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-top-tech-pioneers-are-harnessing-the-power-of-open-source-for-groundbreaking-innovations-explore-with-zdnet/"><u>How Top Tech Pioneers Are Harnessing the Power of Open Source for Groundbreaking Innovations | Explore with ZDNET</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-infinix-smart-7-hd-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Infinix Smart 7 HD to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-of-integrating-agile-with-artificial-intelligence-development-latest-research-reveals-complications-zdnet/"><u>Navigating the Challenges of Integrating Agile with Artificial Intelligence Development - Latest Research Reveals Complications | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapore-invests-s24-billion-in-enhancing-ict-infrastructure-and-digital-service-offerings-technews/"><u>Singapore Invests S$2.4 Billion in Enhancing ICT Infrastructure & Digital Service Offerings | TechNews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-work-unpacking-edge-technologys-impact-on-professional-advancement-with-zdnet/"><u>The Future of Work: Unpacking Edge Technology's Impact on Professional Advancement with ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-paradox-of-productivity-is-generative-ai-causing-extra-jobs-according-to-zdnet/"><u>The Paradox of Productivity: Is Generative AI Causing Extra Jobs, According to ZDNet?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-playstation-portable-launch-dates-costs-specifications-and-purchase-options/"><u>Upcoming PlayStation Portable Launch: Dates, Costs, Specifications & Purchase Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-your-company-depends-on-numerous-ai-systems-insights-from-zdnet/"><u>Why Your Company Depends on Numerous AI Systems - Insights From ZDNet</u></a></li>
 </ul></div>
 

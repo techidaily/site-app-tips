@@ -1,7 +1,7 @@
 ---
 title: "ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet"
-date: 2025-01-27T17:02:28.544Z
-updated: 2025-01-29T16:04:19.811Z
+date: 2025-02-04T02:49:03.850Z
+updated: 2025-02-09T18:49:07.977Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,20 +68,19 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-efficiently-utilizing-discord-spoiler-features/"><u>[Updated] In 2024, Efficiently Utilizing Discord Spoiler Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-no-credit-calls-unlocking-free-tools-for-iphone-photo-blurring/"><u>[Updated] No Credit Calls Unlocking Free Tools for iPhone Photo Blurring</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-productivity-with-ubuntu-2204-a-top-choice-for-professional-linux-desktops-techadvice/"><u>Boost Your Productivity with Ubuntu 22.04 - A Top Choice for Professional Linux Desktops | TechAdvice</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-lava-yuva-2-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Lava Yuva 2 Quickly | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-comprehensive-youtube-etiquette-guide/"><u>In 2024, Comprehensive YouTube Etiquette Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-g22-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Nokia G22 Phone without PIN</u></a></li>
-<li><a href="https://app-tips.techidaily.com/kubernetes-demystified-understanding-its-essentiality-in-cloud-computing/"><u>Kubernetes Demystified: Understanding Its Essentiality in Cloud Computing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-team-meetings-with-otter-adaptable-audio-transcription-tools-explored-insights-and-tips-zdnet/"><u>Mastering Team Meetings with Otter: Adaptable Audio Transcription Tools Explored - Insights & Tips | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/polarization/"><u>Polarization</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/secure-your-movavi-kortingskode-now-top-discounts-and-offers/"><u>Secure Your Movavi Kortingskode Now: Top Discounts and Offers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-leading-8-applications-of-artificer-intellect-essential-tips-for-tech-enthusiasts/"><u>The Leading 8 Applications of Artificer Intellect - Essential Tips for Tech Enthusiasts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-customer-relationship-management-crm-systems-optimal-choices-for-small-and-medium-businesses-insights-by-zdnet/"><u>Top Customer Relationship Management (CRM) Systems : Optimal Choices for Small and Medium Businesses - Insights by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-building-your-ideal-windows-11-vm-tutorial/"><u>Ultimate Guide: Building Your Ideal Windows 11 VM [Tutorial]</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-newbies-ultimate-youtube-gear-handbook/"><u>[Updated] 2024 Approved Newbies' Ultimate YouTube Gear Handbook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-convert-youtube-to-mp4-safely-for-2024/"><u>[Updated] How to Convert YouTube to MP4 Safely for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-start-live-webcam-recording-with-vlc-media/"><u>[Updated] In 2024, Start Live Webcam Recording with VLC Media</u></a></li>
+<li><a href="https://fox-that.techidaily.com/as-vgs-the-voltage-between-the-gate-and-source-becomes-more-negative-the-channel-through-which-current-flows-from-the-drain-to-the-source-starts-to-constric20/"><u>As VGS (the Voltage Between the Gate and Source) Becomes More Negative, the Channel Through Which Current Flows From the Drain to the Source Starts to Constrict. This Is because a Negative VGS Repels Electrons in the Channel, Making It Narrower.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-recover-deleted-files-via-icloud-without-performing-a-device-factory-reset/"><u>How to Recover Deleted Files via iCloud Without Performing a Device Factory Reset</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-transform-free-channel-into-a-profitable-venture-with-500plus-subscribers/"><u>In 2024, Transform Free Channel Into a Profitable Venture - With 500+ Subscribers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lost-something-in-your-icloud-storage-master-the-art-of-icloud-backup-data-retrieval/"><u>Lost Something in Your iCloud Storage? Master the Art of iCloud Backup Data Retrieval</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-your-network-proven-strategies-to-recover-contacts-from-icloud-without-compromise/"><u>Maximize Your Network: Proven Strategies to Recover Contacts From iCloud Without Compromise</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premium-players-pick-of-terraria-extensions/"><u>Premium Player's Pick of Terraria Extensions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-hot-40-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Hot 40</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/six-methods-to-enhance-your-creative-writing-with-chatgpt/"><u>Six Methods to Enhance Your Creative Writing with ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-for-securing-your-whatsapp-data-with-icloud-backups/"><u>Step-by-Step Instructions for Securing Your WhatsApp Data with iCloud Backups</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-compilation-of-top-10-free-youtube-spaces-for-digital-illustrators-for-2024/"><u>The Ultimate Compilation of Top 10 Free YouTube Spaces for Digital Illustrators for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-on-clearing-out-your-visual-memories-photosimages-from-icloud-storage/"><u>Ultimate Tutorial on Clearing Out Your Visual Memories (Photos/Images) From iCloud Storage</u></a></li>
 </ul></div>
 

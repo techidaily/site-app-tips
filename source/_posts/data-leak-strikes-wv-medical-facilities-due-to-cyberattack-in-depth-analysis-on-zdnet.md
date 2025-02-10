@@ -1,7 +1,7 @@
 ---
 title: Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet
-date: 2025-01-28T18:02:17.657Z
-updated: 2025-01-29T17:19:35.583Z
+date: 2025-02-05T21:02:05.641Z
+updated: 2025-02-09T17:50:46.282Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 ## Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Executive guide
@@ -20,7 +20,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 [![phishing-header.jpg](https://www.zdnet.com/a/img/resize/ac019af4c6d0d000921065b0769387a86a4afe61/2017/09/04/fc1528a9-ecf2-4e2a-b743-91f06206a23e/phishing-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) What is phishing? Everything you need to know to protect yourself from scam emails and more Don't click on that email! Find everything you need to know in this phishing guide including how to protect yourself from one of the most common forms of cyber attack.  Read now](https://www.zdnet.com/article/what-is-phishing-how-to-protect-yourself-from-scam-emails-and-more/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A hospital system in West Virginia has [suffered](https://www.prnewswire.com/news-releases/monongalia-health-system-inc-investigates-and-addresses-data-security-incident-301449436.html) a data breach resulting from a phishing attack, which gave hackers access to several email accounts. 
@@ -74,24 +74,24 @@ Mon Health started sending breach notification letters to victims on December 21
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/otion-text-artisan/"><u>[New] Motion Text Artisan</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-critical-insight-into-recmeisters-video-capture-efficacy/"><u>[Updated] Critical Insight Into Recmeister's Video Capture Efficacy</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-smartphone-guide-crafting-engaging-video-content/"><u>[Updated] In 2024, Smartphone Guide Crafting Engaging Video Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-top-8-youtube-thumbnail-grabbers/"><u>2024 Approved Top 8 YouTube Thumbnail Grabbers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-setup-tutorial-using-icloud-on-windows-with-the-icloud-control-panel-app/"><u>Easy Setup Tutorial: Using iCloud on Windows with the iCloud Control Panel App</u></a></li>
-<li><a href="https://techidaily.com/enhance-user-experience-with-easy-top-down-scrolls-and-multi-platform-linkage-to-facebook-linkedin-and-youtube/"><u>Enhance User Experience with Easy Top-Down Scrolls & Multi-Platform Linkage to Facebook, LinkedIn & YouTube</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-log-out-from-your-icloud-account-safely-top-3-methods-for-iphone-ipad-and-mac-users/"><u>How To Log Out From Your iCloud Account Safely: Top 3 Methods for iPhone, iPad & Mac Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-10-best-photo-grid-apps-to-make-your-pictures-stand-out/"><u>In 2024, 10 Best Photo Grid Apps to Make Your Pictures Stand Out</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-how-often-to-post-a-guide-to-youtube-video-upload-patterns-for-success/"><u>In 2024, How Often to Post A Guide to YouTube Video Upload Patterns for Success</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/silent-operations-deactivating-windows-11-features/"><u>Silent Operations: Deactivating Windows 11 Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-steps-access-your-icloud-images-from-anywhere/"><u>Simple Steps: Access Your iCloud Images From Anywhere</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-icloud-photo-sharing-issues-on-iphone-ipad-and-mac-a-comprehensive-guide/"><u>Solving iCloud Photo Sharing Issues on iPhone, iPad & Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-integrating-your-icloud-calendar-on-a-windows-desktop/"><u>Step-by-Step Guide: Integrating Your iCloud Calendar on a Windows Desktop</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-securely-syncing-your-ipad-pro-mini-and-air-with-icloud-backups/"><u>Step-by-Step Guide: Securely Syncing Your iPad Pro, Mini & Air with iCloud Backups</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-viewing-icloud-saved-passwords-on-ios-devices-and-computers/"><u>Step-by-Step Tutorial: Viewing iCloud Saved Passwords on iOS Devices & Computers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620264574-struggling-with-a-forgotten-icloud-login-discover-these-6-effective-remedies/"><u>Struggling with a Forgotten iCloud Login? Discover These 6 Effective Remedies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-dos-and-donts-of-ai-at-work-is-chatgpt-a-fireable-offense-in-these-10-scenarios/"><u>The Do's and Don'ts of AI at Work: Is ChatGPT a Fireable Offense in These 10 Scenarios?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-guide-sharing-your-private-youtube-snippets-via-email-for-2024/"><u>[New] The Ultimate Guide Sharing Your Private YouTube Snippets via Email for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boost-views-strategic-partnerships-on-youtube-for-rapid-growth/"><u>[Updated] In 2024, Boost Views Strategic Partnerships on YouTube for Rapid Growth</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-designing-your-perfect-tiktok-end-screen/"><u>[Updated] In 2024, Designing Your Perfect TikTok End Screen</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-definitive-guide-to-srt-editing-on-mac/"><u>[Updated] In 2024, The Definitive Guide to SRT Editing on Mac</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-facebook-cover-video-widthheight-recommendation/"><u>2024 Approved Facebook Cover Video Width/Height Recommendation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620191219-7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-audio-equalizer-applications-for-android-top-5-picks/"><u>Best FREE Audio Equalizer Applications for Android: Top 5 Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-graphically-advanced-game-emulators-high-quality-visuals-and-optimal-frame-rates/"><u>Best Graphically Advanced Game Emulators: High-Quality Visuals & Optimal Frame Rates</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620195426-download-fun-and-trending-facebook-messenger-stickers-now/"><u>Download Fun & Trending Facebook Messenger Stickers Now!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-apples-device-management-insights-into-mdm-and-platform-implementation-strategies/"><u>Explore Apple's Device Management: Insights Into MDM and Platform Implementation Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-halt-unwanted-file-explorer-triggers/"><u>How to Halt Unwanted File Explorer Triggers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-exploring-the-top-8-facebook-extractors-for-films/"><u>In 2024, Exploring the Top 8 Facebook Extractors for Films</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-assessment-of-apple-music-pricing-structure-advantagesdisadvantages-and-how-to-get-started/"><u>In-Depth Assessment of Apple Music: Pricing Structure, Advantages/Disadvantages, and How to Get Started</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-workforce-ds30-printer-software-for-windows-11-8-and-e-os-free-download/"><u>Latest Epson WorkForce DS30 Printer Software for Windows 11, 8 & E-OS - Free Download</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-best-5-top-rated-free-mobile-tracking-apps-unveiling-the-options/"><u>The Best 5 Top-Rated Free Mobile Tracking Apps: Unveiling the Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-11-cost-free-pdf-editors-the-ultimate-software-and-web-tool-guide/"><u>Top 11 Cost-Free PDF Editors: The Ultimate Software and Web Tool Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-ultimate-savings-discover-the-25-finest-gratis-ip-cameras-by-reputable-software-brands-like-movavi/"><u>Unlock Ultimate Savings: Discover the 25 Finest Gratis IP Cameras by Reputable Software Brands Like Movavi</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-postponements-whats-behind-oculus-quest-iii-delay/"><u>Unveiling Postponements: What's Behind Oculus Quest III Delay?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-truth-about-vivavideo-expert-insights-on-selecting-the-perfect-video-editing-tool/"><u>Unveiling the Truth About VivaVideo: Expert Insights on Selecting the Perfect Video Editing Tool</u></a></li>
 </ul></div>
 

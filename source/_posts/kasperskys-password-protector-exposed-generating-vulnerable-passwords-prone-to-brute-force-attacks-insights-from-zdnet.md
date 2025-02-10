@@ -1,7 +1,7 @@
 ---
 title: "Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet"
-date: 2025-01-22T17:29:30.520Z
-updated: 2025-01-29T17:55:44.290Z
+date: 2025-02-08T17:56:45.262Z
+updated: 2025-02-09T16:34:09.010Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Suppose you are in the business of generating passwords, it would probably be a 
 In a [blog post](https://donjon.ledger.com/kaspersky-password-manager/) to cap off an almost two year saga, Ledger Donjon head of security research Jean-Baptiste Bédrune showed KPM was doing just that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,7 +66,7 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -92,18 +92,22 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-creating-hilarious-reactions-mastering-youtube-tricks-3-methods/"><u>[Updated] 2024 Approved Creating Hilarious Reactions Mastering YouTube Tricks (3 Methods)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-choose-wisely-best-border-tools-for-stylizing-instagram-photos-for-2024/"><u>[Updated] Choose Wisely Best Border Tools for Stylizing Instagram Photos for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dont-compromise-on-security-upgrade-your-password-for-safe-streaming-experience-cybersafetynews/"><u>Don't Compromise on Security: Upgrade Your Password for Safe Streaming Experience | CyberSafetyNews</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevating-enterprise-defense-starts-at-the-employee-level-expert-advice-on-corporate-and-personal-cybersecurity-by-zdnet/"><u>Elevating Enterprise Defense Starts at the Employee Level – Expert Advice on Corporate and Personal Cybersecurity by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhanced-online-security-made-easy-discover-how-proton-enables-full-data-protection-through-its-new-password-manager-as-explored-by-zdnet-experts/"><u>Enhanced Online Security Made Easy: Discover How Proton Enables Full Data Protection Through Its New Password Manager, as Explored by ZDNet Experts</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fixing-windowed-typing-delays-optimizing-the-windows-11-keyboard/"><u>Guide to Fixing Windowed Typing Delays: Optimizing the Windows 11 Keyboard</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-12-pro-max-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone 12 Pro Max Without Previous Owner?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-the-allure-of-video-crafting-filmoras-top-edits-explained/"><u>In 2024, The Allure of Video Crafting Filmora’s Top Edits Explained</u></a></li>
-<li><a href="https://app-tips.techidaily.com/malicious-exploitation-of-omicron-concerns-intensifies-as-cybercriminals-deploy-redline-trojan-expert-analysis-by-fortinet-on-emerging-threats/"><u>Malicious Exploitation of Omicron Concerns Intensifies as Cybercriminals Deploy RedLine Trojan – Expert Analysis by Fortinet on Emerging Threats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/massive-data-compromise-at-oregon-medical-practice-750k-patients-impacted-details-revealed-by-digi-journal/"><u>Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-security-how-dashlane-enables-logins-without-a-main-password-according-to-zdnet/"><u>Revolutionizing Digital Security: How Dashlane Enables Logins Without a Main Password, According to ZDNet</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/snapchat-audio-ensuring-whole-video-playback-every-time-for-2024/"><u>Snapchat Audio Ensuring Whole Video Playback Every Time for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-gold-class-selection-of-unseen-video-extractors/"><u>[New] Gold-Class Selection of Unseen Video Extractors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-nailing-the-art-of-ppt-video-reproduction/"><u>[New] In 2024, Nailing the Art of PPT Video Reproduction</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-recording-techniques-with-adobe-presenter/"><u>[Updated] 2024 Approved Mastering Recording Techniques with Adobe Presenter</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-mobile-chat-applications-the-ultimate-list-for-ios-and-android-devices/"><u>Best 10 Mobile Chat Applications: The Ultimate List for iOS & Android Devices</u></a></li>
+<li><a href="https://media-tips.techidaily.com/complete-guide-transforming-your-wtv-files-into-top-video-formats/"><u>Complete Guide: Transforming Your WTV Files Into Top Video Formats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-your-cinematic-journey-with-the-ultimate-list-of-15-vr-film-apps-for-mobile-devices/"><u>Enhance Your Cinematic Journey with the Ultimate List of 15 VR Film Apps for Mobile Devices</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/flash-sale-ends-may-31st-save-on-karaoke-systems-and-get-karaoke-file-renamer-free/"><u>Flash Sale Ends May 31St - Save on Karaoke Systems & Get Karaoke File Renamer Free!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193676-get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ios-tracker-application-monitor-your-iphone-with-ease/"><u>IOS Tracker Application: Monitor Your iPhone with Ease</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/tech-savvy-academics-recording-education-talks-with-macos-for-2024/"><u>Tech-Savvy Academics Recording Education Talks with MacOS for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-most-effective-android-management-software-from-pc-updated-top-picks/"><u>The Most Effective Android Management Software From PC - Updated Top Picks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-5-samsung-gear-360-camera-alternatives/"><u>Top 5 Samsung Gear 360 Camera Alternatives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-free-online-and-mobile-apps-for-crafting-hilarious-memes-effortlessly/"><u>Top Free Online & Mobile Apps for Crafting Hilarious Memes Effortlessly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-no-cost-ios-radio-application-best-choice-for-iphone-ipad-and-ipod-touch/"><u>Top No-Cost iOS Radio Application: Best Choice for iPhone, iPad & iPod Touch</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-summary-and-expert-take-on-gopro-quik-your-essential-reading-for-this-year/"><u>Ultimate Summary and Expert Take on GoPro Quik – Your Essential Reading for This Year</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/vishakhas-specialty-masterful-data-revival-methods/"><u>Vishakha's Specialty: Masterful Data Revival Methods</u></a></li>
 </ul></div>
 

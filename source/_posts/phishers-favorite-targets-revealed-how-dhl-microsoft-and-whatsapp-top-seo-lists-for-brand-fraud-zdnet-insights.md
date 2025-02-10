@@ -1,7 +1,7 @@
 ---
 title: "Phishers' Favorite Targets Revealed: How DHL, Microsoft & WhatsApp Top SEO Lists for Brand Fraud | ZDNet Insights"
-date: 2025-01-27T16:36:36.807Z
-updated: 2025-01-29T17:45:13.334Z
+date: 2025-02-07T02:45:18.849Z
+updated: 2025-02-09T22:40:16.610Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 ## Phishers' Favorite Targets Revealed: How DHL, Microsoft & WhatsApp Top SEO Lists for Brand Fraud | ZDNet Insights
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,22 +77,15 @@ Check Point Research
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-elevating-your-selfies-the-art-of-drawing-with-filters-for-2024/"><u>[New] Elevating Your Selfies The Art of Drawing with Filters for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-maximizing-streaming-is-sub4sub-effective-for-2024/"><u>[Updated] Maximizing Streaming Is Sub4Sub Effective for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-apple-clips-in-depth-analysis-and-tips/"><u>Comprehensive Guide to Using Apple Clips: In-Depth Analysis and Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-methods-for-taking-screen-shots-on-hp-computers/"><u>Easy Methods for Taking Screen Shots on HP Computers</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/enhance-your-live-sessions-using-manycam-professional-virtual-camera-solutions-for-high-quality-video-calls/"><u>Enhance Your Live Sessions Using ManyCam: Professional Virtual Camera Solutions for High-Quality Video Calls</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-correctly-handle-vcompdll-file-missing-or-errors/"><u>How to Correctly Handle vcomp.dll File Missing or Errors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-y78-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Y78 5G Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-straightforward-stories/"><u>In 2024, Crafting Straightforward Stories</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-reliable-storage-solutions-our-1-to-10-gopro-cases/"><u>In 2024, Reliable Storage Solutions Our #1 to #10 GoPro Cases</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-communication-avoid-missing-calls-amidst-noise-or-muting-with-advanced-flash-tech-for-up-to-10-contacts/"><u>Master Your Communication: Avoid Missing Calls Amidst Noise or Muting with Advanced Flash Tech for Up to 10 Contacts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-automated-photography-setting-timers-on-iphones-and-android-devices/"><u>Mastering the Art of Automated Photography: Setting Timers on iPhones & Android Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-excessive-cpu-consumption-in-god-of-war-game/"><u>Resolving Excessive CPU Consumption in God of War Game</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-best-multiplayer-bluetooth-games-for-android-and-ios-devices/"><u>The Ultimate List of Best Multiplayer Bluetooth Games for Android & iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-11-audio-enhancement-applications-for-video-editing-on-mobile-devices-and-desktop-systems/"><u>Top 11 Audio Enhancement Applications for Video Editing on Mobile Devices and Desktop Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-6-must-have-android-contact-widget-apps-of-2024-a-comprehensive-guide/"><u>Top 6 Must-Have Android Contact Widget Apps of 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193118-ultimate-summary-and-expert-take-on-gopro-quik-your-essential-reading-for-this-year/"><u>Ultimate Summary and Expert Take on GoPro Quik – Your Essential Reading for This Year!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-lumafusion-reigns-supreme-in-the-world-of-ios-video-editors-a-detailed-review/"><u>Why LumaFusion Reigns Supreme in the World of iOS Video Editors – A Detailed Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-nvidia-unveils-new-accelerated-instruction-modules-aims-for-enhanced-gen-ai-performance-tech-news-on-zdnet/"><u>1. NVIDIA Unveils New Accelerated Instruction Modules (AIMs) for Enhanced GEN AI Performance - Tech News on ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/aumenta-il-fattore-di-impatto-del-tuo-contenuto-video-usando-winxvideo-ai-per-una-migliore-nitidezza-e-precisione/"><u>Aumenta Il Fattore Di Impatto Del Tuo Contenuto Video Usando Winxvideo AI per Una Migliore Nitidezza E Precisione</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-pc-experience-transitioning-from-windows-home-to-pro-key-benefits-explained/"><u>Elevate Your PC Experience: Transitioning From Windows Home to Pro - Key Benefits Explained</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-evolution-exploring-the-role-of-decentralized-networks-and-web3-technologies-in-modern-companies-zdnet-analysis/"><u>Enterprise Evolution: Exploring the Role of Decentralized Networks and Web3 Technologies in Modern Companies | ZDNET Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/exploring-the-capabilities-of-logitechs-4k-pro-webcam-for-2024/"><u>Exploring the Capabilities of Logitech's 4K Pro Webcam for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-bard-vs-bing-chat-showdown-determining-the-leading-ai-conversationalist/"><u>Google Bard Vs. Bing Chat Showdown: Determining the Leading AI Conversationalist</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-11x-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme 11X 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-recent-patch-might-escalate-evening-tech-woes-experts-at-zdnet-caution/"><u>Microsoft's Recent Patch Might Escalate Evening Tech Woes, Experts at ZDNet Caution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/problems-with-your-iphone-control-center-here-are-8-fixes-to-try/"><u>Problems with Your iPhone Control Center? Here Are 8 Fixes to Try!</u></a></li>
 </ul></div>
 

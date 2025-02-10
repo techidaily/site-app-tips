@@ -1,7 +1,7 @@
 ---
 title: "Another Cybersecurity Breach: LastPass Compromised Once More"
-date: 2025-01-25T17:05:33.169Z
-updated: 2025-01-29T18:25:35.567Z
+date: 2025-02-07T21:23:21.877Z
+updated: 2025-02-09T23:21:57.136Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,22 +81,17 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-google-pixel-8-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Google Pixel 8 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/cinavia-dvdcinavia/"><u>Cinavia迷惑！ DVDにあるCinaviaコードをスムーズに取り外す究極ガイド</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhance-your-online-presence-discover-ultimate-live-video-solutions-using-manycam-and-fake-webcams/"><u>Enhance Your Online Presence: Discover Ultimate Live Video Solutions Using ManyCam and Fake Webcams</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-date-game-with-ai-innovation/"><u>Enhancing Your Date Game with AI Innovation</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-puts-portals-on-the-move-with-go-version/"><u>Facebook Puts Portals on The Move with Go Version</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-your-preferred-version-easy-free-downloads-of-both-old-and-new-itunes-for-windows-and-mac/"><u>Get Your Preferred Version: Easy Free Downloads of Both Old and New iTunes for Windows & Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/getting-started-with-itunes-on-windows-operating-systems-a-step-by-step-guide/"><u>Getting Started with iTunes on Windows Operating Systems: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-fix-it-when-your-iphone-is-not-detected-by-itunes/"><u>How to Fix It when Your iPhone Is Not Detected by iTunes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-d1360-printer-setup-failure-in-multiple-windows-versions/"><u>HP D1360 Printer Setup Failure in Multiple Windows Versions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-realme-12-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Realme 12 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ipod-add-on-tutorial-placing-tracks-without-using-itunes-aiseesofts-approach/"><u>IPod Add-On Tutorial: Placing Tracks Without Using iTunes (Aiseesoft's Approach)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/no-more-itunes-required-master-the-art-of-seamless-ipod-management-using-modern-alternatives/"><u>No More iTunes Required: Master the Art of Seamless iPod Management Using Modern Alternatives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcome-sluggish-itunes-discover-the-top-10-proven-tips-for-optimal-performance/"><u>Overcome Sluggish iTunes: Discover the Top 10 Proven Tips for Optimal Performance</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-non-udemy-online-learning-platforms-for-self-improvement/"><u>Top Non-Udemy Online Learning Platforms for Self-Improvement</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/transform-your-trip-diary-into-haul-video-hype-for-2024/"><u>Transform Your Trip Diary Into Haul Video Hype for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-top-3-methods-for-adding-cover-art-to-your-itunes-library/"><u>Unlocking the Secrets: Top 3 Methods for Adding Cover Art to Your iTunes Library</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-obs-audio-fix-strategies-quickly/"><u>[New] 2024 Approved OBS Audio Fix Strategies Quickly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-imagery-with-ar-and-accessible-luts/"><u>2024 Approved Transform Your Imagery with AR & Accessible LUTs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-and-premium-note-taking-apps-for-android-top-5-picks/"><u>Best Free and Premium Note-Taking Apps for Android: Top 5 Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-adobe-premiere-rush-evaluation-advantages-disadvantages-and-viable-substitutes/"><u>Comprehensive Adobe Premiere Rush Evaluation: Advantages, Disadvantages & Viable Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-funimate-tips-and-tricks-for-professional-video-editing-and-animation/"><u>Comprehensive Guide to Using Funimate: Tips and Tricks for Professional Video Editing and Animation</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-of-the-lenovo-thinkpad-x1-titanium-yoga-why-its-a-must-have-for-traditional-thinkpad-lovers/"><u>Comprehensive Review of the Lenovo ThinkPad X1 Titanium Yoga: Why It's a Must-Have for Traditional ThinkPad Lovers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-ryzen-chip-setup-software-free-and-easy-installation/"><u>Get the Newest Ryzen Chip Setup Software – FREE and Easy Installation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/non-proprietary-serene-tunes/"><u>Non-Proprietary Serene Tunes</u></a></li>
+<li><a href="https://discover-great.techidaily.com/pchddwindows/"><u>PC間HDD転送:Windows再構築せず移動ガイド</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-optimized-solutions-to-gameplay-lag-and-freezing-problems/"><u>Red Dead Redemption 2 Optimized: Solutions to Gameplay Lag and Freezing Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-gigabyte-b65n-aorus-elite-ax-high-end-ice-cool-performance-pricey-but-boasts-many-usb-ports-in-depth-review/"><u>The Gigabyte B65n Aorus Elite AX: High-End Ice Cool Performance, Pricey but Boasts Many USB Ports - In-Depth Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-20-parent-monitoring-software-ensuring-child-internet-safety/"><u>Top 20 Parent Monitoring Software: Ensuring Child Internet Safety</u></a></li>
 </ul></div>
 
