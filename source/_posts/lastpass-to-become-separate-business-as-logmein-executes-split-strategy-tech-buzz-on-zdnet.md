@@ -1,7 +1,7 @@
 ---
 title: LastPass to Become Separate Business as LogMeIn Executes Split Strategy | Tech Buzz on ZDNet
-date: 2025-02-08T23:03:11.078Z
-updated: 2025-02-09T16:19:01.399Z
+date: 2025-02-18T03:35:25.598Z
+updated: 2025-02-19T19:53:56.220Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ LogMeIn [announced](https://www.logmein.com/newsroom/press-release/2021/logmein-
 The cloud-based solutions company explained that the move allows LastPass to invest heavily in "customer experience, go-to-market functions and engineering" as a way to improve its "organic growth in password management," Single Sign-On (SSO) and multi-factor authentication (MFA). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -86,18 +86,16 @@ In a message to users, LastPass reiterated that it could "strategically increase
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-superior-online-emporiums-where-boxes-reflect-your-style/"><u>[New] Superior Online Emporiums Where Boxes Reflect Your Style</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-producing-impactful-lifestyle-motivational-content-for-2024/"><u>[Updated] Guide to Producing Impactful Lifestyle Motivational Content for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-prevent-these-8-key-mishaps-on-your-youtube-journey/"><u>2024 Approved Prevent These 8 Key Mishaps on Your YouTube Journey</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-apple-music-evaluation-cost-analysis-and-features-breakdown-free-download/"><u>Comprehensive Apple Music Evaluation: Cost Analysis & Features Breakdown - Free Download</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/conversion-gratuite-mov-vers-mp4-guide-facile-pour-mac-et-windows-1110/"><u>Conversion Gratuite MOV Vers MP4 : Guide Facile Pour Mac Et Windows 11/10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enhance-your-live-broadcasts-with-manycam-premium-virtual-camera-solutions/"><u>Enhance Your Live Broadcasts with ManyCam - Premium Virtual Camera Solutions</u></a></li>
-<li><a href="https://win-superb.techidaily.com/exploring-action-rcu-expert-answers-and-insights-on-leveraging-our-popular-gratis-mobile-app/"><u>Exploring Action! RCU: Expert Answers & Insights on Leveraging Our Popular Gratis Mobile App</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-itel-a70-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Itel A70 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/jokesterjuxtaposer/"><u>JokesterJuxtaposer</u></a></li>
-<li><a href="https://driver-error.techidaily.com/preventing-persistent-device-failures-dm/"><u>Preventing Persistent Device Failures (DM)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-8-xbox-console-emulators-on-pcandroid-reviewed-objectively/"><u>The Ultimate Guide: Top 8 Xbox Console Emulators on PC/Android, Reviewed Objectively</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-audio-management-apps-compatible-with-pc-mac-ios-and-android-devices/"><u>Top 10 Audio Management Apps Compatible with PC, Mac, iOS & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-swf-player-apps-compatible-with-pc-mac-android-and-iphone-devices/"><u>Top Rated SWF Player Apps Compatible with PC, Mac, Android & iPhone Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-discovering-the-stars-of-youtubes-best-music-videos-2023/"><u>[New] In 2024, Discovering the Stars of YouTube's Best Music Videos, 2023</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-quality-acoustics-at-an-accessible-price-point/"><u>[New] In 2024, Quality Acoustics at an Accessible Price Point</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-reel-rhythms-choreographing-audio-with-visuals/"><u>[Updated] 2024 Approved Instagram Reel Rhythms Choreographing Audio with Visuals</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streamlining-fb-message-transcription-with-expert-tips/"><u>[Updated] 2024 Approved Streamlining FB Message Transcription with Expert Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-unlocking-secure-vaults-a-guide-to-activating-bitwardens-master-password-prompt-feature/"><u>1. Unlocking Secure Vaults: A Guide to Activating Bitwarden's Master Password Prompt Feature</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-at-wwdc-2022-a-new-era-of-authentication-begins-tech-news/"><u>Apple Unveils Revolutionary Passkey at WWDC 2022 - A New Era of Authentication Begins | Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-security-while-watching-the-hidden-dangers-of-weak-passwords-in-streaming-platforms-cyberwatchers-blog/"><u>Enhance Security While Watching: The Hidden Dangers of Weak Passwords in Streaming Platforms | CyberWatchers Blog</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exclusive-offer-on-jem-authenticator-and-password-manager-enhance-login-security-with-ease-dive-into-zdnet/"><u>Exclusive Offer on JEM Authenticator & Password Manager: Enhance Login Security with Ease - Dive Into ZDNet!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nokia-c12-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nokia C12 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-perfecting-visual-appeal-tips-for-incorporating-filters-in-media/"><u>In 2024, Perfecting Visual Appeal Tips for Incorporating Filters in Media</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-and-ipad-applications-exclusively-supported-on-the-upcoming-apple-vision-pro/"><u>IPhone & iPad Applications: Exclusively Supported on the Upcoming Apple Vision Pro</u></a></li>
 </ul></div>
 

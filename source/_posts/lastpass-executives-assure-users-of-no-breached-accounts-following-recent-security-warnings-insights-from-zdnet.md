@@ -1,7 +1,7 @@
 ---
 title: "LastPass Executives Assure Users of No Breached Accounts Following Recent Security Warnings: Insights From ZDNet"
-date: 2025-02-04T18:56:18.131Z
-updated: 2025-02-09T18:01:21.853Z
+date: 2025-02-14T18:55:05.252Z
+updated: 2025-02-19T21:11:29.289Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/03aa98ead41db04bf63114eadc16ec748777a4353
 Two LastPass vice presidents have released statements about the situation surrounding LastPass security issues that came to light this week. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Two LastPass vice presidents have released statements about the situation surrou
 [![web-browsers.jpg](https://www.zdnet.com/a/img/resize/86d91f7746b92a734c6f4130024638d05fe70bc2/2021/04/22/8feb3e5c-47fc-4cea-be35-4460e9f080ef/web-browsers.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best browsers for privacy Most people use Google Chrome as their default browser. But privacy is another matter for the online ad giant.  Read now](https://www.zdnet.com/article/best-browser-for-privacy/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Two days ago, hundreds of LastPass users took to [Twitter](https://twitter.com/technology%5Fgreg/status/1475600580521381889), [Reddit](https://www.reddit.com/r/Lastpass/comments/rpy0uq/recent%5Fsuccessful%5Flogin%5Fattempts%5Ffrom%5Fodd%5Fips/), [and other sites](https://news.ycombinator.com/item?id=29705957) to complain that they were getting alerts about their master password being used by someone who was not them. [Some reported](https://twitter.com/shift%5Fplusone/status/1475959354742525956) that even after changing their master password, someone tried to access their account again. 
@@ -84,19 +84,19 @@ Parent company LogMeIn announced just two weeks ago that it is [spinning off Las
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-televised-content-ease-youtube-loop-integration-guide/"><u>[New] 2024 Approved Televised Content Ease YouTube Loop Integration Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/constraint-b-include-direct-quotes-from-bill-jones-ensuring-to-rephrase-them-as-cooking-tips-or-wisdom/"><u>Constraint B: Include Direct Quotes From Bill Jones, Ensuring to Rephrase Them as Cooking Tips or Wisdom.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-classic-diablo-gameplay-wonders/"><u>Discovering Classic Diablo Gameplay Wonders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-instructions-on-how-to-exit-your-account-in-facebook-messenger/"><u>Easy Instructions on How to Exit Your Account in Facebook Messenger</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/flight-horizon-masters-ranking-the-high-endurance-drones/"><u>Flight Horizon Masters Ranking the High-Endurance Drones</u></a></li>
-<li><a href="https://fox-links.techidaily.com/giggle-genesis-creepy-clones-with-a-smile-for-2024/"><u>Giggle Genesis Creepy Clones with a Smile for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nokia-g42-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nokia G42 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-xs-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone XS</u></a></li>
-<li><a href="https://fox-links.techidaily.com/navigating-picture-in-picture-video-integration-for-mac-os-x-for-2024/"><u>Navigating Picture in Picture Video Integration for Mac OS X for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/speed-up-your-experience-top-three-methods-for-swiftly-moving-applications-from-older-iphone-to-newer-model/"><u>Speed Up Your Experience: Top Three Methods for Swiftly Moving Applications From Older iPhone to Newer Model</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976830309-speedy-dell-latitude-e6420-driver-acquisition-made-simple/"><u>Speedy Dell Latitude E6420 Driver Acquisition Made Simple.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-solution-effective-ways-to-repair-your-facebook-messaging-app-when-it-stops-working/"><u>Step-by-Step Solution: Effective Ways to Repair Your Facebook Messaging App When It Stops Working</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-18-most-popular-emoji-apps-for-iphones-and-android-phones/"><u>The Ultimate List of the 18 Most Popular Emoji Apps for iPhones and Android Phones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-android-app-locks-essential-guides-and-reviews/"><u>Top-Rated Android App Locks: Essential Guides and Reviews</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-quiet-your-screen-three-strategies-to-slow-youtube-videos-down-57-chars/"><u>[Updated] 2024 Approved Quiet Your Screen Three Strategies to Slow YouTube Videos Down (57 Chars)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-advanced-procedures-for-livestreaming-sporting-spectacles/"><u>[Updated] In 2024, Advanced Procedures for Livestreaming Sporting Spectacles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-breaking-through-virtual-barriers-crafting-engaging-metaverse-content/"><u>In 2024, Breaking Through Virtual Barriers Crafting Engaging Metaverse Content</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-kinemaster-for-mac-a-step-by-step-installation-guide/"><u>In 2024, KineMaster for Mac A Step-by-Step Installation Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/massive-data-compromise-at-oregon-medical-practice-750k-patients-impacted-details-revealed-by-digi-journal/"><u>Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-security-how-dashlane-enables-logins-without-a-main-password-according-to-zdnet/"><u>Revolutionizing Digital Security: How Dashlane Enables Logins Without a Main Password, According to ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/security-alert-kaspersky-password-manager-revealed-by-zdnet-for-creating-weak-brute-force-susceptible-passwords/"><u>Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-turning-off-your-exposure-to-youtube-shorts/"><u>Step-by-Step Guide: Turning Off Your Exposure to YouTube Shorts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/superior-plus-top-billion-dollar-natural-gas-provider-targeted-by-cyber-attack-insights-from-zdnet/"><u>Superior Plus, Top Billion-Dollar Natural Gas Provider, Targeted by Cyber Attack: Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-fixing-loadlibrary-error-87-on-pcs/"><u>Tips for Fixing LoadLibrary Error 87 on PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-best-free-downloadable-racing-games-no-internet-required/"><u>Top 5 Best Free Downloadable Racing Games - No Internet Required!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-stronger-passwords-are-essential-protect-your-streaming-service-account-now-techadvice/"><u>Why Stronger Passwords Are Essential: Protect Your Streaming Service Account Now | TechAdvice</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-path-to-uninterrupted-mobile-experience-with-these-7-apps-for-2024/"><u>Your Path to Uninterrupted Mobile Experience with These 7 Apps for 2024</u></a></li>
 </ul></div>
 

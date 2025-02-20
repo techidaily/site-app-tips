@@ -1,7 +1,7 @@
 ---
 title: Gartner Reveals Half of Generative AI Initiatives End in Failure - Insights From ZDNet
-date: 2025-01-25T16:00:29.433Z
-updated: 2025-01-29T17:42:05.111Z
+date: 2025-02-17T16:58:10.768Z
+updated: 2025-02-19T19:34:41.362Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-perfect-plugin-placement-for-game-channels/"><u>[Updated] Perfect Plugin Placement for Game Channels</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-guide-to-choosing-wedding-timers-on-google-play-and-apple-store/"><u>2024 Approved The Ultimate Guide to Choosing Wedding Timers on Google Play and Apple Store</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/1728466469877-aomei/"><u>AOMEI一鍵回復ソフトを使った初期設定パーティション生成指南</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-progress-in-strategic-convergence-zdnet/"><u>Bridging the Tech and Business Divide: Progress in Strategic Convergence | ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-assessment-why-nintendos-switch-is-top-tier-portable-playtime/"><u>Comprehensive Assessment: Why Nintendo's Switch Is Top-Tier Portable Playtime</u></a></li>
-<li><a href="https://app-tips.techidaily.com/intel-predicts-enterprise-adoption-of-ai-over-next-three-to-five-years-insights-from-zdnet/"><u>Intel Predicts Enterprise Adoption of AI Over Next Three to Five Years: Insights From ZDNet</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-the-digital-transformation-how-enterprise-architects-drive-innovation-zdnet/"><u>Leading the Digital Transformation: How Enterprise Architects Drive Innovation | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/open-sourcing-the-future-switzerlands-federal-govt-embraces-transparency-with-software-release-initiative-zdnet/"><u>Open Sourcing the Future: Switzerland's Federal Govt. Embraces Transparency with Software Release Initiative - ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revive-your-chatgpt-experience-using-our-5-easy-fixes/"><u>Revive Your ChatGPT Experience Using Our 5 Easy Fixes!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-overlooked-elements-what-youre-missing-as-a-story-viewer-for-2024/"><u>The Overlooked Elements What You're Missing as a Story Viewer for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshoot-and-repair-unresponsive-or-sticking-keys-on-your-keyboard-with-yl-software-tips-and-tricks/"><u>Troubleshoot and Repair Unresponsive or Sticking Keys on Your Keyboard with YL Software Tips & Tricks!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-kubernetes-its-critical-role-in-modern-software-deployment/"><u>Unveiling Kubernetes: Its Critical Role in Modern Software Deployment</u></a></li>
-<li><a href="https://app-tips.techidaily.com/verizon-chooses-celona-innovation-powering-its-enterprise-networks-with-cutting-edge-private-5g-solutions/"><u>Verizon Chooses Celona Innovation: Powering Its Enterprise Networks with Cutting-Edge Private 5G Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-leading-pioneers-are-drawn-to-collaborative-open-source-initiatives-a-zdnet-analysis/"><u>Why Leading Pioneers Are Drawn to Collaborative Open Source Initiatives - A ZDNET Analysis</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-quintessential-quotient-subscriber-rankings/"><u>[New] In 2024, The Quintessential Quotient Subscriber Rankings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-in-the-editors-shadows-top-tips-for-outstanding-videos/"><u>[Updated] 2024 Approved In the Editor's Shadows Top Tips for Outstanding Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-5-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic 5 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/latest-features-in-libreoffice-and-easy-macos-installation-guide-insights-from-zdnet/"><u>Latest Features in LibreOffice & Easy macOS Installation Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209530510-9780892546176-magical-uses-for-magnets/"><u>Magical Uses for Magnets | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/silent-skies-solving-the-skyrim-sound-issues-effectively/"><u>Silent Skies: Solving the Skyrim Sound Issues Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-accessing-espn-plus-on-your-lg-smart-tv/"><u>Step-by-Step Guide: Accessing ESPN Plus on Your LG Smart TV</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-impact-of-the-russian-ukrainian-conflict-on-global-tech-sector-insights-from-zdnet/"><u>The Impact of the Russian-Ukrainian Conflict on Global Tech Sector | Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultra-stable-linux-kernel-the-long-haul-solution-released-insights-from-zdnet/"><u>Ultra-Stable Linux Kernel: The Long-Haul Solution Released - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-potential-with-artificial-intelligence-learn-how-81-increase-in-workforce-productivity-can-be-achieved-expert-tips-by-zdnet/"><u>Unleashing Potential with Artificial Intelligence: Learn How 81% Increase in Workforce Productivity Can Be Achieved | Expert Tips by ZDNet</u></a></li>
 </ul></div>
 

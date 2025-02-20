@@ -1,7 +1,7 @@
 ---
 title: Why People Favor Biometrics Over Passwords Due to Memory Challenges | ZDNet Analysis
-date: 2025-02-08T20:07:33.375Z
-updated: 2025-02-09T19:21:21.306Z
+date: 2025-02-13T20:01:57.381Z
+updated: 2025-02-20T03:47:44.640Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,19 +99,22 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-make-your-facebook-video-stand-out-for-2024/"><u>[Updated] How to Make Your Facebook Video Stand Out for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-insiders-guide-to-captivating-youtube-headlines/"><u>[Updated] In 2024, The Insider's Guide to Captivating YouTube Headlines</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-quickest-quads-2022-olympics-skate-for-2024/"><u>[Updated] The Quickest Quads 2022 Olympics Skate for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tial-guide-9-cost-free-editing-tools-for-creatives-for-2024/"><u>Essential Guide 9 Cost-Free Editing Tools for Creatives for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-next-gen-processing-power-amd-zen-5-architecture-deep-dive-highlights-on-ryzen-9000-series-ai-accelerators-and-advanced-gpu-developments-in-rdna-362/"><u>Exploring Next-Gen Processing Power: AMD Zen 5 Architecture Deep Dive - Highlights on Ryzen 9000 Series, AI Accelerators, and Advanced GPU Developments in RDNA 3.5 and Beyond</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-top-tech-pioneers-are-harnessing-the-power-of-open-source-for-groundbreaking-innovations-explore-with-zdnet/"><u>How Top Tech Pioneers Are Harnessing the Power of Open Source for Groundbreaking Innovations | Explore with ZDNET</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-infinix-smart-7-hd-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Infinix Smart 7 HD to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-of-integrating-agile-with-artificial-intelligence-development-latest-research-reveals-complications-zdnet/"><u>Navigating the Challenges of Integrating Agile with Artificial Intelligence Development - Latest Research Reveals Complications | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/singapore-invests-s24-billion-in-enhancing-ict-infrastructure-and-digital-service-offerings-technews/"><u>Singapore Invests S$2.4 Billion in Enhancing ICT Infrastructure & Digital Service Offerings | TechNews</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-work-unpacking-edge-technologys-impact-on-professional-advancement-with-zdnet/"><u>The Future of Work: Unpacking Edge Technology's Impact on Professional Advancement with ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-paradox-of-productivity-is-generative-ai-causing-extra-jobs-according-to-zdnet/"><u>The Paradox of Productivity: Is Generative AI Causing Extra Jobs, According to ZDNet?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-playstation-portable-launch-dates-costs-specifications-and-purchase-options/"><u>Upcoming PlayStation Portable Launch: Dates, Costs, Specifications & Purchase Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-your-company-depends-on-numerous-ai-systems-insights-from-zdnet/"><u>Why Your Company Depends on Numerous AI Systems - Insights From ZDNet</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-crossing-the-line-guesting-in-friends-tiktok-shows-for-2024/"><u>[New] Crossing the Line Guesting in Friends' TikTok Shows for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-design-mastery-building-an-mc-village-home/"><u>[New] Design Mastery Building an MC Village Home</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-tail-of-victory-the-unmatched-success-story-of-furbos-dog-cam/"><u>A Tail of Victory: The Unmatched Success Story of Furbo's Dog Cam</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/auroras-high-dynamic-range-a-game-changer/"><u>Aurora's High Dynamic Range A Game Changer?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-premium-content-for-free-music-films-and-more-from-the-itunes-store/"><u>Download Premium Content For Free: Music, Films & More From the iTunes Store</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-gadgets-for-a-cooler-steam-deck-experience/"><u>Essential Gadgets for a Cooler Steam Deck Experience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-fix-it-when-your-iphone-is-not-detected-by-itunes/"><u>How to Fix It when Your iPhone Is Not Detected by iTunes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-a14-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy A14 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ipod-add-on-tutorial-placing-tracks-without-using-itunes-aiseesofts-approach/"><u>IPod Add-On Tutorial: Placing Tracks Without Using iTunes (Aiseesoft's Approach)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/no-more-itunes-required-master-the-art-of-seamless-ipod-management-using-modern-alternatives/"><u>No More iTunes Required: Master the Art of Seamless iPod Management Using Modern Alternatives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcome-sluggish-itunes-discover-the-top-10-proven-tips-for-optimal-performance/"><u>Overcome Sluggish iTunes: Discover the Top 10 Proven Tips for Optimal Performance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/permanent-removal-effective-ways-to-get-rid-of-unwanted-apps-from-your-itunes-library/"><u>Permanent Removal: Effective Ways to Get Rid of Unwanted Apps From Your iTunes Library</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-house-flipper-2-pc-freezing-issues/"><u>Troubleshooting Steps: Resolving 'House Flipper 2' PC Freezing Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tutoriel-comment-diviser-une-video-en-segments-a-laide-de-vlc-media-player/"><u>Tutoriel: Comment Diviser Une Vidéo en Segments À L'Aide De VLC Media Player</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-top-3-methods-for-adding-cover-art-to-your-itunes-library/"><u>Unlocking the Secrets: Top 3 Methods for Adding Cover Art to Your iTunes Library</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi Civi 3? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity Titans Unite! ZeroFox Acquires IDX, Aligning with L&F for an Impressive $1.4 Billion Powerhouse Revealed by ZDNet
-date: 2025-02-06T00:16:12.243Z
-updated: 2025-02-09T23:29:35.437Z
+date: 2025-02-16T19:05:21.570Z
+updated: 2025-02-20T04:35:37.331Z
 tags:
   - password-manager
 categories:
@@ -18,7 +18,7 @@ The company will be renamed ZeroFox Holdings once the deal goes through and will
 Monarch Alternative Capital LP and several other firms are also investing $170 million in the deal to merge the companies. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -87,18 +87,22 @@ Adam Gerchen, CEO of LNFA and a new ZeroFox board member, noted that the company
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-exploring-alternatives-the-10-best-non-vimeo-video-tools/"><u>[New] In 2024, Exploring Alternatives The 10 Best Non-Vimeo Video Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/beginners-guide-to-ps4-game-broadcasting-with-obs/"><u>Beginner's Guide to PS4 Game Broadcasting with OBS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/data-savvy-communication-top-tips-for-minimizing-mobile-data-usage-while-texting/"><u>Data-Savvy Communication: Top Tips for Minimizing Mobile Data Usage While Texting</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-to-preserve-skype-webinar-footage-as-mp4-files-on-both-windows-and-macos-systems/"><u>How to Preserve Skype Webinar Footage as MP4 Files on Both Windows and macOS Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-restore-your-ipad-using-icloud-backup-a-step-by-step-guide-with-and-without-factory-reset/"><u>How to Restore Your iPad Using iCloud Backup: A Step-by-Step Guide with and Without Factory Reset</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-14-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from Apple iPhone 14 Plus/iPad/iPod</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-data-security-the-ultimate-icloud-storage-and-backup-manual/"><u>Mastering Data Security: The Ultimate iCloud Storage & Backup Manual</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-clearing-out-icloud-backups-across-devices-for-more-space/"><u>Step-by-Step Guide: Clearing Out iCloud Backups Across Devices for More Space</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-connecting-your-pc-with-icloud-through-the-icloud-control-panel/"><u>Step-by-Step Guide: Connecting Your PC with iCloud Through the iCloud Control Panel</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-resolve-your-msstdfmtdll-file-missing-issues/"><u>Step-by-Step Guide: Resolve Your 'msstdfmt.dll' File Missing Issues</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-3-methods-to-remove-ebooks-from-your-icloud-library-freeing-up-space/"><u>Top 3 Methods to Remove eBooks From Your iCloud Library, Freeing Up Space</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-icloud-family-sharing-a-comprehensive-guide-on-implementation-and-usage/"><u>Unveiling iCloud Family Sharing: A Comprehensive Guide on Implementation and Usage</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-10t-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-castwithease-how-to-make-livestreaming-your-podcast-effortless-for-2024/"><u>[New] CastWithEase How to Make Livestreaming Your Podcast Effortless for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/racing-trending-commentary-across-videos-for-2024/"><u>[New] Tracing Trending Commentary Across Videos for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-deciding-on-live-stream-software-streamlabs-vs-obs-comparison/"><u>[Updated] Deciding on Live Stream Software Streamlabs Vs. OBS Comparison</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-a-dive-into-ar-sticker-technology-and-alternatives/"><u>[Updated] In 2024, A Dive Into AR Sticker Technology and Alternatives</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-use-vlc-for-easy-webcam-footage-save/"><u>[Updated] In 2024, Use VLC for Easy Webcam Footage Save</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-mastering-media-integration-adding-online-yt-videos-to-ppts/"><u>2024 Approved Mastering Media Integration Adding Online YT Videos to PPTs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/collaboration-ensures-continued-life-for-linux-414-long-term-support-version-zdnet-tech-news/"><u>Collaboration Ensures Continued Life for Linux 4.14 Long-Term Support Version | ZDNET Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/could-microsofts-new-offering-soothe-or-annoy-you-expert-analysis-by-zdnet-revealed/"><u>Could Microsoft's New Offering Soothe or Annoy You? Expert Analysis by ZDNet Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-no-more-top-strategies-to-solve-paladins-stuttering-problems-in-2024/"><u>Crash No More: Top Strategies to Solve Paladins Stuttering Problems in 지구 2024년</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-customer-connection-through-design-thinking-a-boon-for-technology-professionals/"><u>Enhancing Customer Connection Through Design Thinking: A Boon for Technology Professionals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-reviews-on-the-leading-encryption-solutions-for-optimal-privacy-in-2-a-guide-from-zdnet/"><u>Expert Reviews on the Leading Encryption Solutions for Optimal Privacy in 2#: A Guide From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-how-can-you-legally-obtain-somebody-elses-email/"><u>Guide: How Can You Legally Obtain Somebody Else's Email?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/skyrocket-productivity-in-teams-using-essential-slack-shortcuts-and-strategies-zdnet/"><u>Skyrocket Productivity in Teams Using Essential Slack Shortcuts & Strategies | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/surprising-upsides-for-it-professionals-facing-burnout-insights-from-zdnets-latest-article/"><u>Surprising Upsides for IT Professionals Facing Burnout: Insights From ZDNet's Latest Article</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-causes-behind-non-responsive-iphone-touch-screens/"><u>Top 7 Causes Behind Non-Responsive iPhone Touch Screens</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-accounting-solutions-of-2022-find-your-ideal-match-today/"><u>Top Rated Accounting Solutions of 2022: Find Your Ideal Match Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleash-efficiency-on-the-linux-platform-explore-ubuntu-2204-as-your-workhorse-insights-by-zdnet/"><u>Unleash Efficiency on the Linux Platform - Explore Ubuntu 22.04 as Your Workhorse | Insights by ZDNET</u></a></li>
 </ul></div>
 

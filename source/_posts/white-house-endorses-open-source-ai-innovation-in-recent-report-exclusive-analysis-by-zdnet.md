@@ -1,7 +1,7 @@
 ---
 title: White House Endorses Open Source AI Innovation in Recent Report – Exclusive Analysis by ZDNet
-date: 2025-01-28T18:14:49.312Z
-updated: 2025-01-29T17:21:39.694Z
+date: 2025-02-15T16:39:34.523Z
+updated: 2025-02-19T21:40:58.697Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-master-the-art-of-technological-advancement-with-this-guide/"><u>[New] In 2024, Master the Art of Technological Advancement with This Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-best-hidden-instagram-tool-for-clandestine-stories/"><u>[Updated] 2024 Approved Best Hidden Instagram Tool for Clandestine Stories</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-mastering-asmr-filming-techniques-essential-tips-unveiled/"><u>[Updated] 2024 Approved Mastering ASMR Filming Techniques Essential Tips Unveiled</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unleash-creativity-free-premiere-pro-2023-templates/"><u>[Updated] Unleash Creativity Free Premiere Pro 2023 Templates</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cutting-edge-5g-expansion-verizon-partners-with-emerging-startup-celona-for-business-growth/"><u>Cutting-Edge 5G Expansion: Verizon Partners with Emerging Startup Celona for Business Growth</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211373624-9781503639843-global-ayahuasca/"><u>Global Ayahuasca | Free Book</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-quick-guide-downloading-and-setting-up-vrecord/"><u>In 2024, Quick Guide Downloading & Setting Up VRecord</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-complete-guide-to-iphone-voice-memos-setup/"><u>In 2024, The Complete Guide to iPhone Voice Memos Setup</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/1715859886787-in-2024-top-15-open-world-games-to-beat-the-climb/"><u>In 2024, Top 15 Open World Games to Beat the Climb!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-live-thumbnails-essentials/"><u>Mastering YouTube Live Thumbnails Essentials</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-latest-release-an-irritant-or-a-game-changer-unveiled-by-zdnet/"><u>Microsoft's Latest Release: An Irritant or a Game Changer? Unveiled by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-hybrid-cloud-intricacies-with-cutting-edge-features-of-red-hats-latest-enterprise-linux-distribution/"><u>Navigating Hybrid Cloud Intricacies with Cutting-Edge Features of Red Hat's Latest Enterprise Linux Distribution</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamlessly-combining-google-drive-with-slack-a-step-by-step-guide/"><u>Seamlessly Combining Google Drive with Slack: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/switching-from-microsoft-how-a-german-state-embraces-linux-and-libreoffice-as-spotted-by-zdnet/"><u>Switching From Microsoft: How a German State Embraces Linux & LibreOffice, as Spotted by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-4-free-video-editing-tools-expert-picks-techradar/"><u>Top 4 Free Video Editing Tools : Expert Picks | TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-essentials-a-comprehensive-update-and-installation-manual-insights-from-zdnet/"><u>Windows 11 Essentials: A Comprehensive Update & Installation Manual - Insights From ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unlocking-the-potential-of-consoles-with-pc-gaming-tech/"><u>[New] In 2024, Unlocking the Potential of Consoles with PC Gaming Tech</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unlocking-youtube-subtitles-srt-3-steps-guide/"><u>[Updated] 2024 Approved Unlocking YouTube Subtitles (SRT) - 3 Steps Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715860876666-updated-learn-and-master-io-screen-recording-today/"><u>[Updated] Learn and Master IO Screen Recording Today!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-srt-editing-on-macos-a-comprehensive-guide/"><u>[Updated] Mastering SRT Editing on macOS A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-barriers-in-text-animation-with-no-cost-tools/"><u>Breaking Barriers in Text Animation with No-Cost Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-frame-to-phrase-expertly-ranked-29-video-translators-on-the-market-for-2024/"><u>From Frame to Phrase Expertly Ranked 29 Video Translators on the Market for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-designing-professional-youtube-editors-workflow/"><u>In 2024, Designing Professional YouTube Editors' Workflow</u></a></li>
+<li><a href="https://app-tips.techidaily.com/it-hand-held-tight-exploring-how-minimal-coding-tools-are-changing-software-development-landscapes-zdnet/"><u>IT Hand-Held Tight?: Exploring How Minimal-Coding Tools Are Changing Software Development Landscapes | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-your-path-to-becoming-an-influential-c-level-executive-in-artificial-intelligence/"><u>Navigating Your Path to Becoming an Influential C-Level Executive in Artificial Intelligence.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/study-reveals-challenges-at-the-intersection-of-ai-innovation-and-agile-methodologies-insights-from-zdnet/"><u>Study Reveals Challenges at the Intersection of AI Innovation and Agile Methodologies: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/surpassing-artificial-intelligence-the-rapid-rise-of-the-next-tech-trend/"><u>Surpassing Artificial Intelligence: The Rapid Rise of the Next Tech Trend</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-real-deal-on-pursuing-a-career-as-a-devops-professional-pros-cons-and-challenges-techinsights/"><u>The Real Deal on Pursuing a Career as a DevOps Professional – Pros, Cons & Challenges | TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-of-low-codeno-code-development-understanding-whos-ready-to-embrace-it-perspectives-by-zdnet/"><u>The Rising Popularity of Low-Code/No-Code Development: Understanding Who's Ready to Embrace It | Perspectives by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-ui-interactions-the-rise-of-generative-ai-and-the-end-of-traditional-cursor-controls-insights-from-zdnet/"><u>Transforming UI Interactions: The Rise of Generative AI and the End of Traditional Cursor Controls - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-addressing-lg-display-driver-issues-on-various-windows-versions/"><u>Troubleshooting Tips: Addressing LG Display Driver Issues on Various Windows Versions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-sculpting-soundscapes-advanced-methods-for-isolating-lyrics-from-harmonized-tunes-for-2024/"><u>Updated Sculpting Soundscapes Advanced Methods for Isolating Lyrics From Harmonized Tunes for 2024</u></a></li>
 </ul></div>
 

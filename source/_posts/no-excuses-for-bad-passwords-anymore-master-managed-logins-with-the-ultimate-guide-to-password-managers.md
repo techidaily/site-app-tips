@@ -1,7 +1,7 @@
 ---
 title: No Excuses for Bad Passwords Anymore - Master Managed Logins with the Ultimate Guide to Password Managers
-date: 2025-02-07T19:03:03.165Z
-updated: 2025-02-09T20:26:10.732Z
+date: 2025-02-14T00:27:58.630Z
+updated: 2025-02-19T18:11:00.452Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Tell me, what is the password for your bank account? If you can rattle off that password without thinking, chances are pretty good it's not nearly strong enough. Any password you can memorize (unless you have an amazing memory) is probably weak. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -38,7 +38,7 @@ Of course, at this point, you're thinking, "I don't want to have to memorize a b
 Let's step back a bit.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does this even work?
@@ -113,17 +113,16 @@ You've been warned.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/best-android-file-organizers-expert-opinions-and-comprehensive-reviews/"><u>Best Android File Organizers - Expert Opinions & Comprehensive Reviews</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-platforms-and-tools-for-discreet-message-exchange/"><u>Best Free Platforms & Tools for Discreet Message Exchange</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-adding-emojis-on-your-android-device/"><u>Complete Guide: Adding Emojis on Your Android Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/conversion-gratuita-de-archivos-caf-a-aiff-en-linea-con-movavi/"><u>Conversión Gratuita De Archivos CAF a AIFF en Línea Con Movavi</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194092-enhance-your-cinematic-journey-with-the-ultimate-list-of-15-vr-film-apps-for-mobile-devices/"><u>Enhance Your Cinematic Journey with the Ultimate List of 15 VR Film Apps for Mobile Devices!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-travel-video-setup-must-have-items-checklist/"><u>In 2024, Travel Video Setup Must-Have Items Checklist</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/resolving-issues-with-the-recycle-bin-directory-on-drive-e-a-comprehensive-guide-for-windows-11-users/"><u>Resolving Issues with the 'Recycle Bin' Directory on Drive E: A Comprehensive Guide for Windows 11 Users</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/strategies-pour-assurer-la-protection-de-vos-dossiers-souvent-modifies-sur-un-pc-sous-windows-10-conseils-et-astuces-essentiels/"><u>Stratégies Pour Assurer La Protection De Vos Dossiers Souvent Modifiés Sur Un PC Sous Windows 10 : Conseils Et Astuces Essentiels</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-process-of-rotating-a-video-is-rather-simple-and-you-dont-need-access-to-a-professional-video-editing-app-like-adobe-premiere-pro-to-perform-this-task-b/"><u>The Process of Rotating a Video Is Rather Simple, and You Dont Need Access to a Professional Video Editing App Like Adobe Premiere Pro to Perform This Task, because There Are Quite a Few Online Platf</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/turn-up-the-volume-a-guide-to-personalizing-ringtone-and-sound-settings-on-android-devices-for-2024/"><u>Turn Up the Volume A Guide to Personalizing Ringtone & Sound Settings on Android Devices for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlimited-free-communication-tool-cross-platform-calling-and-text-service-for-smartphones-and-computers/"><u>Unlimited Free Communication Tool: Cross-Platform Calling & Text Service for Smartphones & Computers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-captivating-creativity-designing-a-distinctive-podcast-image-for-2024/"><u>[Updated] Captivating Creativity Designing a Distinctive Podcast Image for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-videotweeteraudio-quick-audio-extractor/"><u>[Updated] In 2024, VideoTweeterAudio Quick Audio Extractor</u></a></li>
+<li><a href="https://app-tips.techidaily.com/act-fast-upgrade-or-transition-from-your-windows-11-pc-top-5-strategies-as-support-concludes-in-a-year/"><u>Act Fast: Upgrade or Transition From Your Windows 11 PC - Top 5 Strategies as Support Concludes in a Year!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/agnes-ro-discusses-the-transformation-in-developer-responsibilities-at-atlassian-insights-from-zdnet/"><u>Agnes Ro Discusses the Transformation in Developer Responsibilities at Atlassian - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-programming-speed-securely-with-generative-ai-insights-and-cautions-from-zdnet/"><u>Boost Your Programming Speed Securely with Generative AI - Insights and Cautions From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/death-stranding-pc-crash-issues-resolved-ensuring-smooth-gameplay/"><u>Death Stranding PC Crash Issues Resolved: Ensuring Smooth Gameplay</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-ai-embracing-rust-and-the-critical-role-of-linux-kernel-with-linus-torvalds-tech-insights/"><u>Exploring AI, Embracing Rust, and the Critical Role of Linux Kernel with Linus Torvalds | Tech Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-strategies-for-merging-youtube-music-and-video-content-effectively/"><u>In 2024, Strategies for Merging YouTube Music & Video Content Effectively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unmatched-story-design-arena/"><u>In 2024, Unmatched Story Design Arena</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo Y78t? | Dr.fone</u></a></li>
 </ul></div>
 

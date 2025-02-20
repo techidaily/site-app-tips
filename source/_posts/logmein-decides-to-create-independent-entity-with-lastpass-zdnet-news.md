@@ -1,7 +1,7 @@
 ---
 title: LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News
-date: 2025-02-04T22:51:42.870Z
-updated: 2025-02-09T21:23:59.409Z
+date: 2025-02-15T22:04:47.511Z
+updated: 2025-02-19T17:23:41.437Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ LogMeIn [announced](https://www.logmein.com/newsroom/press-release/2021/logmein-
 The cloud-based solutions company explained that the move allows LastPass to invest heavily in "customer experience, go-to-market functions and engineering" as a way to improve its "organic growth in password management," Single Sign-On (SSO) and multi-factor authentication (MFA). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -86,22 +86,20 @@ In a message to users, LastPass reiterated that it could "strategically increase
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-envisioning-with-vr-technology/"><u>[Updated] Envisioning with VR Technology</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-expert-strategies-for-effective-instagram-video-interactions-for-2024/"><u>[Updated] Expert Strategies for Effective Instagram Video Interactions for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-audio-artists-approach-to-video-unboxing/"><u>2024 Approved The Audio Artist's Approach to Video Unboxing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/alternative-media-players-similar-to-itunes-for-windows-vista-xp-or-7-users/"><u>Alternative Media Players Similar to iTunes for Windows Vista, XP, or 7 Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-to-reactivate-your-logitech-g-hub-on-windows-computers/"><u>Expert Solutions to Reactivate Your Logitech G Hub On Windows Computers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-your-preferred-version-easy-free-downloads-of-both-old-and-new-itunes-for-windows-and-mac/"><u>Get Your Preferred Version: Easy Free Downloads of Both Old and New iTunes for Windows & Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/getting-started-with-itunes-on-windows-operating-systems-a-step-by-step-guide/"><u>Getting Started with iTunes on Windows Operating Systems: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-fix-it-when-your-iphone-is-not-detected-by-itunes/"><u>How to Fix It when Your iPhone Is Not Detected by iTunes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-safeguard-against-identity-theft-by-securing-your-mobile-line/"><u>How to Safeguard Against Identity Theft by Securing Your Mobile Line</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-make-a-mark-as-an-hdr-photography-pro-with-lightroom/"><u>In 2024, How to Make a Mark as an HDR Photography Pro with Lightroom</u></a></li>
-<li><a href="https://driver-install.techidaily.com/innovate-dell-devices-latest-windows-drivers-announcement/"><u>Innovate Dell Devices: Latest Windows Drivers Announcement</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ipod-add-on-tutorial-placing-tracks-without-using-itunes-aiseesofts-approach/"><u>IPod Add-On Tutorial: Placing Tracks Without Using iTunes (Aiseesoft's Approach)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/no-more-itunes-required-master-the-art-of-seamless-ipod-management-using-modern-alternatives/"><u>No More iTunes Required: Master the Art of Seamless iPod Management Using Modern Alternatives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcome-sluggish-itunes-discover-the-top-10-proven-tips-for-optimal-performance/"><u>Overcome Sluggish iTunes: Discover the Top 10 Proven Tips for Optimal Performance</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/radiance-visionaries-report-on-studio-25-2023-for-2024/"><u>Radiance Visionaries Report on Studio 25, 2023 for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-rezensierte-audiodatei-ripper-fur-windows-11-und-macos-bestenliste/"><u>Top-Rezensierte Audiodatei-Ripper Für Windows 11 Und macOS – Bestenliste</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-top-3-methods-for-adding-cover-art-to-your-itunes-library/"><u>Unlocking the Secrets: Top 3 Methods for Adding Cover Art to Your iTunes Library</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-shine-up-your-android-videos-with-these-tips/"><u>[New] Shine Up Your Android Videos with These Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-master-the-art-of-discussion-in-google-meet-spaces-for-2024/"><u>[Updated] Master the Art of Discussion in Google Meet Spaces for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-iphones-potential-for-dynamic-shots/"><u>2024 Approved Unleashing iPhone’s Potential for Dynamic Shots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-progress-toward-a-unified-vision-insights-from-zdnet/"><u>Bridging the Tech & Business Divide: Progress Toward a Unified Vision - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-7-artificial-intelligence-applications-for-mastering-math-puzzles/"><u>Discover the Leading 7 Artificial Intelligence Applications for Mastering Math Puzzles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplified-srt-transformation-from-ttml-xml-and-ssa/"><u>In 2024, Simplified SRT Transformation From TTML, XML & SSA</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/managing-system-preferences-how-organizations-control-windows-settings/"><u>Managing System Preferences: How Organizations Control Windows Settings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-recent-payment-platform-failures-impacts-on-smbs-business-insights/"><u>Navigating Recent Payment Platform Failures: Impacts on SMBs | Business Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-challenge-of-upgrading-from-ubuntu-2404-a-step-by-step-guide/"><u>Navigating the Challenge of Upgrading From Ubuntu 24.04 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-rise-of-cloud-technologies-amidst-dominant-on-premise-infrastructures-insights-from-zdnet/"><u>Navigating the Rise of Cloud Technologies Amidst Dominant On-Premise Infrastructures - Insights From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-magic-6-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Magic 6 Pro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/0-funniest-youtube-shorts-video-ideas-for-2024/"><u>The 10 Funniest YouTube Shorts Video Ideas for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ubuntu-2404-unveiled-the-latest-lightning-speed-linux-os-with-enhanced-security-features-zdnet/"><u>Ubuntu 24.04 Unveiled: The Latest, Lightning-Speed Linux OS with Enhanced Security Features | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-immutable-linux-benefits-of-using-a-non-modifiable-os-distribution-tech-insights/"><u>Understanding Immutable Linux: Benefits of Using a Non-Modifiable OS Distribution | Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-whats-next-from-microsoft-potential-solutions-or-more-nuisances-learn-the-details-zdnet/"><u>Unveiling What's Next From Microsoft - Potential Solutions, Or More Nuisances? Learn the Details [ZDNet]</u></a></li>
 </ul></div>
 

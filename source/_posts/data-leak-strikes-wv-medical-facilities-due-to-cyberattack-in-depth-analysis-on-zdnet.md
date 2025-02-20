@@ -1,7 +1,7 @@
 ---
 title: Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet
-date: 2025-02-05T21:02:05.641Z
-updated: 2025-02-09T17:50:46.282Z
+date: 2025-02-17T01:01:56.797Z
+updated: 2025-02-19T19:24:07.053Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 ## Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Executive guide
@@ -20,7 +20,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 [![phishing-header.jpg](https://www.zdnet.com/a/img/resize/ac019af4c6d0d000921065b0769387a86a4afe61/2017/09/04/fc1528a9-ecf2-4e2a-b743-91f06206a23e/phishing-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) What is phishing? Everything you need to know to protect yourself from scam emails and more Don't click on that email! Find everything you need to know in this phishing guide including how to protect yourself from one of the most common forms of cyber attack.  Read now](https://www.zdnet.com/article/what-is-phishing-how-to-protect-yourself-from-scam-emails-and-more/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A hospital system in West Virginia has [suffered](https://www.prnewswire.com/news-releases/monongalia-health-system-inc-investigates-and-addresses-data-security-incident-301449436.html) a data breach resulting from a phishing attack, which gave hackers access to several email accounts. 
@@ -74,24 +74,18 @@ Mon Health started sending breach notification letters to victims on December 21
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/he-ultimate-guide-sharing-your-private-youtube-snippets-via-email-for-2024/"><u>[New] The Ultimate Guide Sharing Your Private YouTube Snippets via Email for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boost-views-strategic-partnerships-on-youtube-for-rapid-growth/"><u>[Updated] In 2024, Boost Views Strategic Partnerships on YouTube for Rapid Growth</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-designing-your-perfect-tiktok-end-screen/"><u>[Updated] In 2024, Designing Your Perfect TikTok End Screen</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-definitive-guide-to-srt-editing-on-mac/"><u>[Updated] In 2024, The Definitive Guide to SRT Editing on Mac</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-facebook-cover-video-widthheight-recommendation/"><u>2024 Approved Facebook Cover Video Width/Height Recommendation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620191219-7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-audio-equalizer-applications-for-android-top-5-picks/"><u>Best FREE Audio Equalizer Applications for Android: Top 5 Picks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-graphically-advanced-game-emulators-high-quality-visuals-and-optimal-frame-rates/"><u>Best Graphically Advanced Game Emulators: High-Quality Visuals & Optimal Frame Rates</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620195426-download-fun-and-trending-facebook-messenger-stickers-now/"><u>Download Fun & Trending Facebook Messenger Stickers Now!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-apples-device-management-insights-into-mdm-and-platform-implementation-strategies/"><u>Explore Apple's Device Management: Insights Into MDM and Platform Implementation Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-halt-unwanted-file-explorer-triggers/"><u>How to Halt Unwanted File Explorer Triggers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-exploring-the-top-8-facebook-extractors-for-films/"><u>In 2024, Exploring the Top 8 Facebook Extractors for Films</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-assessment-of-apple-music-pricing-structure-advantagesdisadvantages-and-how-to-get-started/"><u>In-Depth Assessment of Apple Music: Pricing Structure, Advantages/Disadvantages, and How to Get Started</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-epson-workforce-ds30-printer-software-for-windows-11-8-and-e-os-free-download/"><u>Latest Epson WorkForce DS30 Printer Software for Windows 11, 8 & E-OS - Free Download</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-best-5-top-rated-free-mobile-tracking-apps-unveiling-the-options/"><u>The Best 5 Top-Rated Free Mobile Tracking Apps: Unveiling the Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-11-cost-free-pdf-editors-the-ultimate-software-and-web-tool-guide/"><u>Top 11 Cost-Free PDF Editors: The Ultimate Software and Web Tool Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlock-ultimate-savings-discover-the-25-finest-gratis-ip-cameras-by-reputable-software-brands-like-movavi/"><u>Unlock Ultimate Savings: Discover the 25 Finest Gratis IP Cameras by Reputable Software Brands Like Movavi</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-postponements-whats-behind-oculus-quest-iii-delay/"><u>Unveiling Postponements: What's Behind Oculus Quest III Delay?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-truth-about-vivavideo-expert-insights-on-selecting-the-perfect-video-editing-tool/"><u>Unveiling the Truth About VivaVideo: Expert Insights on Selecting the Perfect Video Editing Tool</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-innovative-steps-to-preserve-voice-memos-of-whatsapp-calls/"><u>[New] In 2024, Innovative Steps to Preserve Voice Memos of WhatsApp Calls</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-interactive-guide-twitter-and-facebook-synergy/"><u>[New] Interactive Guide Twitter & Facebook Synergy</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-mastery-in-simulating-chrono-displacement/"><u>[Updated] In 2024, Mastery in Simulating Chrono-Displacement</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-little-legends-top-gaming-adventures/"><u>2024 Approved Little Legends Top Gaming Adventures</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-efficiency-with-these-expert-slack-hacks-maximize-workflow-and-collaboration-on-teams/"><u>Boost Your Efficiency with These Expert Slack Hacks: Maximize Workflow & Collaboration on Teams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/choosing-the-right-hosting-platform-github-or-gitlab-a-comparative-guide-by-zdnet/"><u>Choosing the Right Hosting Platform: GitHub or GitLab? - A Comparative Guide by ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-motorola-razr-40-ultra-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-do-firms-grapple-with-harnessing-generative-ai-insights-from-a-new-deloitte-study-highlights-challenges-featured-on-zdnet/"><u>How Do Firms Grapple with Harnessing Generative AI: Insights From a New Deloitte Study Highlights Challenges - Featured on ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-newest-epson-wf-7720-printer-driver-update-on-your-windows-pc/"><u>How to Get the Newest Epson WF-7720 Printer Driver Update on Your Windows PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/openstack-and-kata-container-renaissance-exploring-their-renewed-appeal-on-the-tech-scene-analysis-by-zdnet/"><u>OpenStack and Kata Container Renaissance: Exploring Their Renewed Appeal on the Tech Scene - Analysis by ZDNET</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-value-in-depth-analysis-of-the-hisense-40h559/"><u>Unveiling the Value: In-Depth Analysis of the Hisense 40H559</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/usb-hdd/"><u>USBドライブへ簡単クローニング: HDDを移行するステップバイステップ</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10s-end-of-life-approaches-discover-these-5-alternatives-you-should-consider/"><u>Windows 10'S End-of-Life Approaches: Discover These 5 Alternatives You Should Consider</u></a></li>
 </ul></div>
 

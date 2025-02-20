@@ -1,7 +1,7 @@
 ---
 title: MIMO Systems
-date: 2025-01-27T16:52:49.958Z
-updated: 2025-01-29T16:24:39.251Z
+date: 2025-02-13T21:52:10.127Z
+updated: 2025-02-19T19:22:51.985Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-channel-conclusion-mastery-makers-and-templates-for-best-practices/"><u>[New] 2024 Approved Channel Conclusion Mastery - Makers & Templates for Best Practices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mastery-in-motion-steam-switch-controller-techniques/"><u>[Updated] Mastery in Motion Steam Switch Controller Techniques</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-rise-in-rankings-14-high-impact-gaming-videos-for-youtube/"><u>[Updated] Rise in Rankings 14 High-Impact Gaming Videos for YouTube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-most-trending-twitch-originals-from-amazon-prime/"><u>[Updated] The Most Trending Twitch Originals From Amazon Prime</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-process-of-batched-tiktok-content-extraction/"><u>[Updated] Unveiling the Process of Batched TikTok Content Extraction</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-ios-video-editor-apps-top-10-best-to-know/"><u>2024 Approved Essential iOS Video Editor Apps Top 10 Best to Know</u></a></li>
-<li><a href="https://win-dash.techidaily.com/boost-performance-now-overclock-the-nvidia-rtx-3090-for-ultimate-gaming-thrills/"><u>Boost Performance Now: Overclock the NVIDIA RTX 3090 for Ultimate Gaming Thrills</u></a></li>
-<li><a href="https://app-tips.techidaily.com/collaboration-between-sony-research-and-ai-singapore-targets-advancements-in-language-models/"><u>Collaboration Between Sony Research and AI Singapore Targets Advancements in Language Models</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-security-flaw-found-in-popular-linux-tool-curl-fixes-deployed-by-developers/"><u>Critical Security Flaw Found in Popular Linux Tool Curl - Fixes Deployed by Developers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-drivers-available-gtx-1060/"><u>Enhanced Drivers Available - GTX 1060</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-sonys-virtual-reality-offering-projected-launch-schedule-price-predictions-and-comprehve-specifications/"><u>Exploring Sony's Virtual Reality Offering: Projected Launch Schedule, Price Predictions & Comprehve Specifications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-tutorial-features-and-usage/"><u>Guide, Tutorial, Features, and Usage.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-do-firms-grapple-with-harnessing-generative-ai-insights-from-a-new-deloitte-study-highlights-challenges-featured-on-zdnet/"><u>How Do Firms Grapple with Harnessing Generative AI: Insights From a New Deloitte Study Highlights Challenges - Featured on ZDNet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leading-gif-software-ranked-apples-favorites/"><u>In 2024, Leading GIF Software Ranked Apple's Favorites</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-tech-less-territory-the-essential-impact-of-it-experts-on-cutting-edge-non-tech-firms-zdnet/"><u>Navigating Tech-Less Territory: The Essential Impact of IT Experts on Cutting-Edge Non-Tech Firms | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-kubernetes-environment-with-codenotarys-new-sbom-offering-as-featured-on-zdnet/"><u>Secure Your Kubernetes Environment with Codenotary’s New SBOM Offering, as Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-upgrading-your-system-from-linux-mint-to-the-latest-version/"><u>Step-by-Step Guide: Upgrading Your System From Linux Mint to the Latest Version</u></a></li>
-<li><a href="https://app-tips.techidaily.com/stepping-up-your-system-a-comprehensive-guide-on-transitioning-from-windows-home-to-professional-insights-and-benefits/"><u>Stepping Up Your System: A Comprehensive Guide on Transitioning From Windows Home to Professional - Insights and Benefits</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-on-transitioning-from-windows-home-edition-to-the-advanced-pro-variant/"><u>Ultimate Tutorial on Transitioning From Windows Home Edition to the Advanced Pro Variant</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-journeys-best-tools-top-10-vr-peripherals-guide/"><u>[Updated] 2024 Approved Journey's Best Tools Top 10 VR Peripherals Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-guide-for-ppt-screen-capture-2023-style/"><u>[Updated] The Ultimate Guide for PPT Screen Capture, 2023 Style</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-6s-plus-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 6s Plus Without a Passcode</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-native-plugins-overview-purposes-and-practical-use-cases/"><u>ChatGPT's Native Plugins Overview: Purposes and Practical Use Cases</u></a></li>
+<li><a href="https://app-tips.techidaily.com/converting-your-documents-seamless-creation-of-microsoft-word-files-via-google-docs-on-an-android-device/"><u>Converting Your Documents: Seamless Creation of Microsoft Word Files via Google Docs on an Android Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/drone-titans-for-industrial-lifting-challenges-for-2024/"><u>Drone Titans for Industrial Lifting Challenges for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dying-lights-sound-malfunction-solutions-expert-advice-and-tips/"><u>Dying Light's Sound Malfunction Solutions - Expert Advice and Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-call-of-duty-wwii-screens-freezing-problems-in-windows-complete-guide/"><u>Fixing Call of Duty: WWII Screens Freezing Problems in Windows - Complete Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-13-pro-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 13 Pro to iPad? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-motorola-moto-g-stylus-2023-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Motorola Moto G Stylus (2023) Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://app-tips.techidaily.com/increased-patent-safeguards-for-linux-systems-oin-exclusivity-intensifies-skirts-ai-coverage-zdnet/"><u>INCREASED PATENT SAFEGUARDS FOR LINUX SYSTEMS: OIN EXCLUSIVITY INTENSIFIES, SKIRTS AI COVERAGE - ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-the-decade-journey-of-revolutionizing-cloud-computing-past-achievements-and-future-trends-zdnet/"><u>Kubernetes: The Decade Journey of Revolutionizing Cloud Computing - Past Achievements and Future Trends | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-design-thinking-for-deeper-connections-empowering-tech-experts-to-improve-customer-journeys-zdnet-perspectives/"><u>Leveraging Design Thinking for Deeper Connections: Empowering Tech Experts to Improve Customer Journeys | ZDNET Perspectives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-cold-reception-how-companies-are-taking-their-time-with-embracing-the-heat-of-5g-innovation/"><u>Navigating the Cold Reception: How Companies Are Taking Their Time with Embracing the Heat of 5G Innovation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-manual-zdnet/"><u>Revolutionizing UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Manual | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-identity-and-access-management-tools-of-2022-insights-from-zdnet/"><u>Top-Rated Identity and Access Management Tools of 2022 - Insights From ZDNet</u></a></li>
 </ul></div>
 

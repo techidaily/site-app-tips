@@ -1,7 +1,7 @@
 ---
 title: Major Ransomware Incident Strikes Leading Firm Superior Plus in Natural Gas Industry - Exclusive Details on ZDNET
-date: 2025-02-03T02:10:51.870Z
-updated: 2025-02-09T19:54:53.394Z
+date: 2025-02-18T23:07:04.948Z
+updated: 2025-02-20T02:30:28.492Z
 tags:
   - password-manager
 categories:
@@ -72,28 +72,20 @@ Deputy Attorney General Lisa Monaco [said during a press conference](https://twi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-your-potential-best-instagram-video-editors-android-pc/"><u>[New] Unlock Your Potential Best Instagram Video Editors (Android, PC)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-essential-framework-for-techno-story-making/"><u>2024 Approved Essential Framework for Techno Story Making</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unboxing-flight-comprehensive-guide-to-dji-phantom-4/"><u>2024 Approved Unboxing Flight Comprehensive Guide to DJI Phantom 4</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/an-in-depth-analysis-of-the-stylish-new-addition-to-taotronics-led-lineup/"><u>An In-Depth Analysis of the Stylish New Addition to TaoTronics’ LED Lineup</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-12-mobile-typing-applications-for-ios-and-android-devices-a-comprehensive-guide/"><u>Best 12 Mobile Typing Applications for iOS and Android Devices: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-superior-android-podcasting-solutions-beyond-player-fm/"><u>Discover Superior Android Podcasting Solutions Beyond Player FM</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-top-21-zedge-tools-for-customizing-your-phone-with-free-ringtones-and-wallpapers-on-iphoneandroid/"><u>Discover the Ultimate Top 21 Zedge Tools for Customizing Your Phone with Free Ringtones & Wallpapers on iPhone/Android</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-ways-to-keep-your-apps-private-on-smartphones-and-tablets-android-and-apple/"><u>Effective Ways to Keep Your Apps Private on Smartphones & Tablets (Android & Apple)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-advanced-gadgets-with-toms-electronic-review/"><u>Exploring Advanced Gadgets with Tom’s Electronic Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-setting-up-iphone-internet-sharing-for-portable-connectivity/"><u>Guide: Setting Up iPhone Internet Sharing for Portable Connectivity</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y200-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y200 To Phone | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-google-mdm-and-upcoming-features-an-in-depth-analysis-of-what-to-expect-in-mobile-management-systems-by-2024/"><u>Mastering Google MDM & Upcoming Features: An In-Depth Analysis of What to Expect in ^Mobile Management Systems^ by 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-and-easy-guide-to-rapid-iphone-app-migration-discover-the-fastest-transfer-techniques/"><u>Quick & Easy Guide to Rapid iPhone App Migration: Discover the Fastest Transfer Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-visionary-video-conclave-for-2024/"><u>The Visionary Video Conclave for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-wi-fi-messaging-apps-for-seamless-internet-text-communication/"><u>Top 5 Wi-Fi Messaging Apps for Seamless Internet Text Communication</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-applications-for-seamlessly-casting-your-iphone-display-onto-tv-or-computer/"><u>Top-Rated Applications for Seamlessly Casting Your iPhone Display Onto TV or Computer</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/your-next-step-experience-8-custom-gpts-now/"><u>Your Next Step: Experience 8 Custom GPTs Now</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-photographers-guide-to-pc-gaming-scenes-for-2024/"><u>[New] The Photographer’s Guide to PC Gaming Scenes for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-tales-best-yt-storytellers-for-23-for-2024/"><u>[New] Top Tales Best YT Storytellers for '23 for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-the-future-the-latest-white-house-findings-support-open-source-artificial-intelligence-insights-from-zdnet/"><u>Embracing the Future: The Latest White House Findings Support Open-Source Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-cto-forecasts-major-shifts-in-cloud-computing-strategies-insights-from-tech-leaders/"><u>Expert CTO Forecasts Major Shifts in Cloud Computing Strategies - Insights From Tech Leaders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-future-with-linus-insights-on-artificebotics-rust-programming-and-why-linux-is-crucial-zdnet/"><u>Exploring the Future with Linus: Insights on Artificebotics, Rust Programming, and Why Linux Is Crucial | ZDNET</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/guida-passo-passo-alla-creazione-di-un-backup-di-windows-11-in-due-modalita-distinte/"><u>Guida Passo-Passo Alla Creazione Di Un Backup Di Windows 11 in Due Modalità Distinte</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-design-thinking-bridges-the-gap-between-tech-professionals-and-enhanced-customer-experiences-insights-from-zdnet/"><u>How Design Thinking Bridges the Gap Between Tech Professionals and Enhanced Customer Experiences - Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oppo-a38-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Oppo A38 to iPod | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mended-inaccessible-printer-connection/"><u>Mended Inaccessible Printer Connection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transitioning-from-windows-home-to-pro-tips-advantages-and-how-to-digital-insight-hub/"><u>Transitioning From Windows Home to Pro - Tips, Advantages & How-To | Digital Insight Hub</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

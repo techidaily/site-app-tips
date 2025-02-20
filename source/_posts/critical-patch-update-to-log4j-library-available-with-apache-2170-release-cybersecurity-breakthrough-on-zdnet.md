@@ -1,7 +1,7 @@
 ---
 title: Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET
-date: 2025-02-05T03:07:06.108Z
-updated: 2025-02-10T02:28:29.864Z
+date: 2025-02-14T17:17:16.715Z
+updated: 2025-02-19T19:02:56.933Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -112,7 +112,7 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -190,20 +190,19 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-top-platform-trio-which-one-triumphs-vimeo-youtube-dailymotion/"><u>[New] In 2024, The Top Platform Trio Which One Triumphs – Vimeo, YouTube, Dailymotion?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-tutorial-for-turning-followers-into-cash-via-instagram/"><u>[Updated] 2024 Approved The Ultimate Tutorial for Turning Followers Into Cash via Instagram</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-tailoring-transitional-terminations/"><u>[Updated] Tailoring Transitional Terminations</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-building-powerful-youtube-backlinks/"><u>[Updated] The Art of Building Powerful YouTube Backlinks</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>2024 Approved How to Become a YouTube Partner - You Need 10,000 Views Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-unveils-revolutionary-on-device-ai-realmsurpasses-gpt-4-in-performance-zdnet/"><u>Apple Unveils Revolutionary On-Device AI, ReaLMSurpasses GPT-4 in Performance - ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-se-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone SE is off? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortlessly-resolve-freezes-discover-5-steps-to-force-quit-unresponsive-programs-on-your-mac/"><u>Effortlessly Resolve Freezes: Discover 5 Steps to Force Quit Unresponsive Programs on Your Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-get-your-phone-numbers-back-the-best-iphone-apps-reviewed/"><u>How to Get Your Phone Numbers Back: The Best iPhone Apps Reviewed</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-prime-channel-themes-igniting-viewer-motivation/"><u>In 2024, Prime Channel Themes Igniting Viewer Motivation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamless-communication-across-devices-magicapps-cross-platform-calls-and-texting/"><u>Seamless Communication Across Devices: MagicApp's Cross-Platform Calls and Texting</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-disconnecting-from-facebooks-chat-app/"><u>Step-by-Step Guide: Disconnecting From Facebook's Chat App</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-top-10-photo-organizing-tools-compatible-with-pcs-and-mac-computers/"><u>The Ultimate List of Top 10 Photo Organizing Tools Compatible with PCs & Mac Computers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-cellphone-promotions-and-discounts-this-4th-of-july-find-your-savings/"><u>Top Cellphone Promotions & Discounts This 4Th of July - Find Your Savings!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/what-is-bluestacks-a-complete-insight-into-this-popular-android-emulator/"><u>What Is BlueStacks? A Complete Insight Into This Popular Android Emulator</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-crafting-a-seamless-social-journey-from-instaplustik/"><u>[New] Crafting a Seamless Social Journey From Insta+Tik</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-achieving-flawless-screens-in-adobe-captivity/"><u>[Updated] The Ultimate Guide to Achieving Flawless Screens in Adobe Captivity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-your-potential-top-6-head-mounted-cameras-by-gopro/"><u>[Updated] Unleash Your Potential Top 6 Head-Mounted Cameras by GoPro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1password-secures-massive-620m-investment-recent-financing-news-covered-by-tech-industry-leaders/"><u>1Password Secures Massive $620M Investment - Recent Financing News Covered by Tech Industry Leaders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-the-power-of-video-playback-acceleration/"><u>2024 Approved Harnessing the Power of Video Playback Acceleration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-beginners-guide-to-using-dashlane-unraveling-its-pricing-structure-and-features-as-explained-by-zdnet/"><u>A Beginner's Guide to Using Dashlane: Unraveling Its Pricing Structure and Features as Explained by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/another-cybersecurity-breach-lastpass-compromised-once-more/"><u>Another Cybersecurity Breach: LastPass Compromised Once More</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210882857-9781088186657-authority-and-power-for-todays-ministry/"><u>AUTHORITY AND POWER FOR TODAY'S MINISTRY | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybercriminals-exploit-fears-over-new-omicron-variant-to-target-american-academic-institutions-insights-from-zdnet/"><u>Cybercriminals Exploit Fears Over New Omicron Variant to Target American Academic Institutions - Insights From ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-evaluating-screen-recording-software-obs-vs-bandicam/"><u>In 2024, Evaluating Screen Recording Software OBS vs Bandicam</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-resolving-the-recurring-reboot-problem-in-windows-10/"><u>Quick Fixes: Resolving the Recurring Reboot Problem in Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolving-intel-hd-graphics-630-driver-problems-on-your-windows-pc/"><u>Resolving Intel HD Graphics 630 Driver Problems on Your Windows PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-myth-of-untraceable-transactions-shattered-bitcoins-anonymity-revealed-in-recent-paper/"><u>The Myth of Untraceable Transactions Shattered: Bitcoin's Anonymity Revealed in Recent Paper</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-password-security-tools-comprehensive-reviews-and-comparisons-cnet/"><u>Top Rated Password Security Tools : Comprehensive Reviews and Comparisons - CNET</u></a></li>
 </ul></div>
 

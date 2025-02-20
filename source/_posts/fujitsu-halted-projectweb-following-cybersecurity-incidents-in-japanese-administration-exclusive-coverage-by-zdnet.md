@@ -1,7 +1,7 @@
 ---
 title: Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET
-date: 2025-02-05T18:48:01.341Z
-updated: 2025-02-09T17:23:39.461Z
+date: 2025-02-15T05:06:50.053Z
+updated: 2025-02-19T22:10:16.555Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,22 +68,18 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-enhance-your-profile-with-free-imagery/"><u>[New] 2024 Approved Enhance Your Profile with Free Imagery</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-recording-device-feedback-guide-for-2024/"><u>[New] Recording Device Feedback Guide for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-essential-tech-skills-learn-how-to-record-your-mac-display/"><u>[Updated] Essential Tech Skills Learn How to Record Your Mac Display</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-giggles-in-a-gigabyte-10-hilarious-video-concepts-to-share-online/"><u>[Updated] Giggles in a Gigabyte 10 Hilarious Video Concepts to Share Online</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-prime-editor-shortlist-top-10-for-instagram-reel-brilliance/"><u>[Updated] In 2024, The Prime Editor Shortlist Top 10 for Instagram Reel Brilliance</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiled-top-10-superior-gopro-housing-options/"><u>2024 Approved Unveiled Top 10 Superior GoPro Housing Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2024s-premier-web-host-services-in-depth-analysis-and-ratings-from-seasoned-professionals-network-world/"><u>2024'S Premier Web Host Services: In-Depth Analysis and Ratings From Seasoned Professionals | Network World</u></a></li>
-<li><a href="https://app-tips.techidaily.com/debunking-top-5-data-commercialization-fallacies-insights-from-zdnet/"><u>Debunking Top 5 Data Commercialization Fallacies: Insights From ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/handling-abnormal-character-output-windows-wise/"><u>Handling Abnormal Character Output Windows-Wise</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-low-codeno-code-tools-are-evolving-with-the-rise-of-artificial-intelligence-insights-from-zdnet/"><u>How Low-Code/No-Code Tools Are Evolving With the Rise of Artificial Intelligence: Insights From ZDNet</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/installation-guide-for-movie-maker-6-version-6/"><u>Installation Guide for Movie Maker 6 Version 6</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainty-overcoming-ai-challenges-with-inaccurate-results-insights-from-zdnet/"><u>Navigating the Uncertainty: Overcoming AI Challenges with Inaccurate Results - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-barriers-for-significant-profit-with-artificeinvestment-an-essential-guide-for-entrepreneurs-zdnet/"><u>Overcoming Barriers for Significant Profit with Artificeinvestment: An Essential Guide for Entrepreneurs | ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstations-purity-procedure-manual/"><u>PlayStation's Purity Procedure Manual</u></a></li>
-<li><a href="https://app-tips.techidaily.com/riding-the-wave-of-pervasive-device-expansion-in-edge-investments-boost-your-career-with-insights-from-zdnet/"><u>Riding the Wave of Pervasive Device Expansion in Edge Investments: Boost Your Career with Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-digital-how-non-cash-transactions-are-set-to-soar-to-1nt-led-by-asian-markets-zdnet-insights/"><u>The Future Is Digital: How Non-Cash Transactions Are Set to Soar to $1.nT, Led by Asian Markets | ZDNET Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-and-comparisons-by-tech-experts-ciodigest/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews & Comparisons by Tech Experts | CIODIGEST</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-exclusive-strategies-for-photovideo-importers-in-win11-for-2024/"><u>[New] Exclusive Strategies for Photo/Video Importers in Win11 for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-boosting-your-channels-free-tips-for-youtube-video-popularity/"><u>[Updated] Boosting Your Channels Free Tips for YouTube Video Popularity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015909653-audio-malfunctions-on-pc-heres-the-fix/"><u>Audio Malfunctions on PC? Here's the Fix</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-methods-to-transform-avi-files-for-streamlined-playback-on-iphone-ipad-and-ipod-via-itunes/"><u>Effortless Methods to Transform AVI Files for Streamlined Playback on iPhone, iPad & iPod via iTunes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-tips-for-resolving-unrecognized-devices-making-itunes-recognize-your-iphone-ipad-or-ipod-again/"><u>Expert Tips For Resolving Unrecognized Devices: Making iTunes Recognize Your iPhone, iPad, or iPod Again</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-high-tech-equipment-through-toms-critical-eye-on-hardware/"><u>Exploring High-Tech Equipment Through Tom's Critical Eye on Hardware</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266325059-get-your-stellar-iphone-eraser-now/"><u>Get Your Stellar iPhone Eraser Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/latest-techniques-to-eliminate-latency-problems-in-fallout-4/"><u>Latest Techniques to Eliminate Latency Problems in Fallout 4</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-the-issue-of-non-syncing-tunes-from-itunes-to-ios-devices/"><u>Solving the Issue of Non-Syncing Tunes From iTunes to iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transferring-your-itunes-collection-from-computer-to-external-hard-drive/"><u>Step-by-Step Guide: Transferring Your iTunes Collection From Computer to External Hard Drive</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-overcome-black-screen-error-in-far-cry-6/"><u>Ultimate Guide to Overcome Black Screen Error in Far Cry 6</u></a></li>
 </ul></div>
 

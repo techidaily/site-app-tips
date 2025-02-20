@@ -1,7 +1,7 @@
 ---
 title: 1Password Secures Massive $620M Investment - Recent Financing News Covered by Tech Industry Leaders
-date: 2025-02-05T00:03:30.836Z
-updated: 2025-02-09T19:55:01.033Z
+date: 2025-02-18T20:15:02.686Z
+updated: 2025-02-19T20:21:45.916Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Password manager 1Password said it closed its latest funding round on Wednesday, raising $620 million and boosting its valuation to $6.8 billion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Password manager 1Password said it closed its latest funding round on Wednesday,
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Series C funding round included the participation of ICONIQ Growth, Tiger Global, Lightspeed Venture Partners, Backbone Angels, and Accel, which led the Canadian company's series A and B rounds. 
@@ -83,18 +83,18 @@ Will Griffith, a founding partner at ICONIQ Growth, said more than one hundred C
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-ultimate-guide-mastering-color-correction-and-grading/"><u>[New] 2024 Approved Ultimate Guide Mastering Color Correction & Grading</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-implementing-custom-overlays-in-youtube-videos/"><u>[New] Implementing Custom Overlays in YouTube Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-tranquility-trove-pcs-best-bets/"><u>[New] In 2024, Tranquility Trove PC's Best Bets</u></a></li>
-<li><a href="https://fox-links.techidaily.com/clipcomposers-evaluation-full-breakdown-of-video-editing-software-for-2024/"><u>ClipComposer's Evaluation – Full Breakdown of Video Editing Software for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Infinix Smart 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-upcoming-vr-masterpieces-top-5-new-titles-for-playstation-vr-enthusiasts/"><u>In 2024, Upcoming VR Masterpieces Top 5 New Titles for PlayStation VR Enthusiasts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revive-your-windows-11-taskbar-expert-tips-and-solutions-to-make-it-functional/"><u>Revive Your Windows 11 Taskbar - Expert Tips & Solutions to Make It Functional</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-pirates-dictionary-swashbuckling-words/"><u>The Pirate's Dictionary: Swashbuckling Words</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-trusted-ipad-video-player-apps-of-2024-install-now/"><u>Top 5 Trusted iPad Video Player Apps of 2024 - Install Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-shotcut-video-editor-a-comprehensive-guide-dont-miss-it/"><u>Top-Ranked Shotcut Video Editor: A Comprehensive Guide - Don't Miss It!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193118-ultimate-summary-and-expert-take-on-gopro-quik-your-essential-reading-for-this-year/"><u>Ultimate Summary and Expert Take on GoPro Quik – Your Essential Reading for This Year!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/visual-velocity-boost-your-digital-drawing-speed-in-pc-photos-editor/"><u>Visual Velocity Boost Your Digital Drawing Speed in PC Photos Editor</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-lumafusion-reigns-supreme-in-the-world-of-ios-video-editors-a-detailed-review/"><u>Why LumaFusion Reigns Supreme in the World of iOS Video Editors – A Detailed Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-graphic-rigs-mastering-4k-titles/"><u>[New] Pro Graphic Rigs Mastering 4K Titles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2022s-leading-collaborative-software-comprehensive-rankings-for-peak-productivity/"><u>2022'S Leading Collaborative Software: Comprehensive Rankings for Peak Productivity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/buy-dashlane-premium-at-half-price-exclusive-sale-alert-from-zdnet/"><u>Buy Dashlane Premium at Half Price! Exclusive Sale Alert From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compact-yet-capable-exploring-the-chromebook-model-that-proves-size-doesnt-limit-performance-according-to-zdnet-tests/"><u>Compact Yet Capable: Exploring the Chromebook Model that Proves Size Doesn't Limit Performance, According to ZDNET Tests</u></a></li>
+<li><a href="https://app-tips.techidaily.com/declutter-your-codebase-fixing-disarray-in-linuxopen-source-guides-on-zdnet/"><u>Declutter Your Codebase: Fixing Disarray in Linux/Open Source Guides on ZDNet.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oppo-k11x-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Oppo K11x</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-streaming-success-starts-here-8-tips-for-beginners/"><u>In 2024, Streaming Success Starts Here - 8 Tips for Beginners</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-covid-19-vaccine-scheduling-solutions-reviewed-and-compared-itadvisor/"><u>Leading COVID-19 Vaccine Scheduling Solutions Reviewed & Compared - ITAdvisor</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/solving-your-printer-connectivity-issues-a-guide-by-yl-software-experts/"><u>Solving Your Printer Connectivity Issues: A Guide by YL Software Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-unveiling-mouse-secrets-on-windows-11/"><u>Step-by-Step Guide: Unveiling Mouse Secrets on Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-artificial-intelligence-projected-breakthroughs-in-the-coming-years-zdnet/"><u>The Future of Artificial Intelligence: Projected Breakthroughs in the Coming Years - ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-the-ghost-runner-critical-failure-during-windows-11-gaming-sessions/"><u>Troubleshoot the 'Ghost Runner' Critical Failure During Windows 11 Gaming Sessions</u></a></li>
+<li><a href="https://win-data.techidaily.com/unlock-the-power-of-windows-11-to-rapidly-close-frozen-applications-for-a-smoother-user-experience/"><u>Unlock the Power of Windows 11 to Rapidly Close Frozen Applications for a Smoother User Experience</u></a></li>
 </ul></div>
 

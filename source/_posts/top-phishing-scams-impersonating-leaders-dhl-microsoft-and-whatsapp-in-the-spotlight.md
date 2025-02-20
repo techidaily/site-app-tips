@@ -1,7 +1,7 @@
 ---
 title: "Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight"
-date: 2025-02-09T00:10:49.129Z
-updated: 2025-02-09T22:54:28.204Z
+date: 2025-02-17T22:44:24.455Z
+updated: 2025-02-20T02:26:37.155Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 ## Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,18 +77,19 @@ Check Point Research
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-distinguished-pioneers-elite-insta-hlv-page-builders/"><u>[New] In 2024, Distinguished Pioneers Elite Insta HLV Page Builders</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ransforming-youtube-content-advanced-strategies-to-perfect-videos-after-publishing/"><u>[New] Transforming YouTube Content Advanced Strategies to Perfect Videos After Publishing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-latest-innovations-revealed-ipad-pro-m4-upgraded-13-inch-ipad-air-and-the-improved-apple-pencil-pro-coverage-insights/"><u>Apple's Latest Innovations Revealed: IPad Pro (M4), Upgraded 13-Inch iPad Air, and the Improved Apple Pencil Pro Coverage | Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-why-chatgpt-stands-out-amongst-advanced-ai-chat-bots/"><u>Comprehensive Analysis: Why ChatGPT Stands Out Amongst Advanced AI Chat Bots</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-of-chatsonic-an-in-depth-guide-to-understanding-this-advanced-ai-chatbot/"><u>Comprehensive Evaluation of Chatsonic: An In-Depth Guide to Understanding This Advanced AI Chatbot</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-how-these-10-cutting-edge-ai-chatbots-can-elevate-your-communication-game/"><u>Discover How These 10 Cutting-Edge AI Chatbots Can Elevate Your Communication Game</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620184703-discover-the-full-potential-of-eva-ai-by-ex-journey-your-essential-chatbot-review-compiled/"><u>Discover the Full Potential of EVA AI by Ex Journey – Your Essential Chatbot Review Compiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-with-ais-best-kept-secret-an-in-depth-analysis-of-the-apo-assistant-chatbot-app/"><u>Experience Next-Level Interaction with AI's Best Kept Secret - An In-Depth Analysis of the Apo Assistant Chatbot App</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-lexars-usb-drivers-instantly-smooth-and-swift-installation-awaits-you/"><u>Get Lexar's USB Drivers Instantly - Smooth and Swift Installation Awaits You</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/smoothmoves-recordwatcher-study-for-2024/"><u>SmoothMoves RecordWatcher Study for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-color-correction-top-15-luts-for-gopro-cams-for-2024/"><u>Ultimate Color Correction Top 15 LUTs for GoPro Cams for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-secret-downgrading-from-windows-11-to-windows-10-safely-with-a-twist-expert-tips/"><u>Unveiling the Secret: Downgrading From Windows 11 to Windows 10 Safely (With a Twist) | Expert Tips</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-streamlining-speaker-audio-in-microsoft-powerpoint-cross-platform-solutions-for-windows-and-mac/"><u>Updated Streamlining Speaker Audio in Microsoft PowerPoint Cross-Platform Solutions for Windows and Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-best-fast-photo-viewer-for-windows-11/"><u>[New] Top Best Fast Photo Viewer for Windows 11?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagrams-best-tools-ranked-editors-to-elevate-reels/"><u>[Updated] In 2024, Instagram's Best Tools Ranked Editors to Elevate Reels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-pro-bokeh-tips-for-captivating-instagram-snaps/"><u>[Updated] Pro Bokeh Tips for Captivating Instagram Snaps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieving-a-competitive-edge-in-business-with-effective-devops-strategies-and-mitigating-risks-through-best-practices-zdnet-insights/"><u>Achieving a Competitive Edge in Business with Effective DevOps Strategies & Mitigating Risks Through Best Practices | ZDNet Insights</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/best-kept-secrets-elite-mac-speech-apps-youre-missing-out-on/"><u>Best-Kept Secrets Elite Mac Speech Apps You're Missing Out On</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-combining-excel-cells-tips-and-tricks-from-zdnet/"><u>Complete Guide to Combining Excel Cells: Tips & Tricks From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/digital-privacy-empowerment-unlocking-anonymity-as-a-key-asset-for-modern-remote-teams-zdnet/"><u>Digital Privacy Empowerment: Unlocking Anonymity as a Key Asset for Modern Remote Teams | ZDNet</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/expose-concealed-windows-11-documents-using-these-simple-strategies-guida-completa/"><u>Expose Concealed Windows 11 Documents Using These Simple Strategies (Guida Completa)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-end-of-windows-10-support-explore-your-five-last-options-now/"><u>Facing the End of Windows 10 Support? Explore Your Five Last Options Now!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-mastering-headline-economy-utilizing-slug-lines-smartly/"><u>In 2024, Mastering Headline Economy Utilizing Slug Lines Smartly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-uncharted-waters-openai-leader-calls-for-guidance/"><u>Navigating Uncharted Waters - OpenAI Leader Calls for Guidance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-marketing-adobes-new-generation-of-ai-powered-creative-tools-unveiled/"><u>Revolutionizing Marketing: Adobe's New Generation of AI-Powered Creative Tools Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-sql-programming-classes-expert-reviews-of-the-best-online-learning-options/"><u>Top-Rated SQL Programming Classes: Expert Reviews of the Best Online Learning Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016574908-troubleshooting-tips-fix-windows-11-audio-issues-solved/"><u>Troubleshooting Tips: Fix Windows 11 Audio Issues – Solved</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Crypto.com CEO Tackles Login Challenges Post $31 Million Hack Incident Covered by ZDNet
-date: 2025-02-07T00:10:28.609Z
-updated: 2025-02-09T20:44:22.207Z
+date: 2025-02-16T17:55:46.124Z
+updated: 2025-02-19T16:56:33.386Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Crypto.com CEO Kris Marszalek responded to complaints from thousands of users about issues logging back into their accounts after the company was [forced](https://crypto.com/product-news/crypto-com-security-report-next-steps) to change security settings following [a hack last week](https://www.zdnet.com/article/fortune-favours-the-breached-crypto-com-admits-400-users-hit-in-hack/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Crypto.com CEO Kris Marszalek responded to complaints from thousands of users ab
 [![cybersecurity-lock-resized.jpg](https://www.zdnet.com/a/img/resize/5871b5ae5b589728bdc8064555d12823acf4b63e/2020/10/27/db3c0325-2b86-435b-8efa-93828deb6b56/cybersecurity-lock-resized.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best cyber insurance The cyber insurance industry is likely to go mainstream and is a simple cost of doing business. Here are a few options to consider.  Read now](https://www.zdnet.com/article/best-cyber-insurance/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On Monday, the company [admitted](https://www.zdnet.com/article/crypto-com-confirms-483-users-hit-in-attack-that-saw-over-31m-in-coins-withdrawn/) that 483 users were affected by unauthorized cryptocurrency withdrawals on their accounts, costing a total of "4,836.26 ETH, 443.93 BTC, and approximately US$66,200 in other cryptocurrencies." At the time of the attack, that amounted to about $31 million. 
@@ -80,20 +80,18 @@ Crypto.com created a program designed to refund users who were affected by the h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-celebrating-the-best-ten-music-video-lives/"><u>[New] In 2024, Celebrating the Best Ten Music Video Lives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-discovering-the-ultimate-ai-watermark-techniques-insights-from-zdnet/"><u>1. Discovering the Ultimate AI Watermark Techniques: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-dj-how-does-machine-curated-music-stack-up-against-human-selection/"><u>AI DJ: How Does Machine-Curated Music Stack Up Against Human Selection?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-biz-marketers-now-utilizing-artificial-intelligence-insights-from-zdnet/"><u>AI Integration: One-Third of Biz Marketers Now Utilizing Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-15-plus-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 15 Plus SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/premiere-smart-goggles-craftsmen/"><u>Premiere Smart Goggles Craftsmen</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-updated-dell-v3ebit-inc-xps-305-all-in-one-printer-driver-for-windows-7-operating-system/"><u>Step-by-Step Guide: Installing Updated Dell V3ebit, Inc. XPS 305 All-in-One Printer Driver for Windows 7 Operating System</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolution-of-coding-from-rote-methods-to-ai-enhanced-software-engineering-insights-from-zdnet/"><u>The Evolution of Coding: From Rote Methods to AI-Enhanced Software Engineering - Insights From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-resolving-freezes-in-fall-guys-game-on-pc/"><u>Troubleshooting: Resolving Freezes in Fall Guys Game on PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-singapores-2nbillion-commitment-to-supercharge-its-it-infrastructure-and-elevate-digital-solutions-tech-insight/"><u>Unveiling Singapore's $2.nBillion Commitment to Supercharge Its IT Infrastructure and Elevate Digital Solutions | Tech Insight</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-voice-translation-english-to-bangla-online-and-offline-apps/"><u>Updated In 2024, Voice Translation English to Bangla Online and Offline Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-addressing-outdated-technology-is-crucial-a-case-study-on-migration-missteps/"><u>Why Addressing Outdated Technology Is Crucial: A Case Study on Migration Missteps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-pull-of-open-source-for-global-leaders-in-innovation/"><u>ZDNet Explores the Pull of Open Source for Global Leaders in Innovation</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-high-end-photo-overlays-for-creative-texting/"><u>[Updated] 2024 Approved High-End Photo Overlays for Creative Texting</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-perfecting-your-snap-zoom-levels-unveiled-in-insta-stories/"><u>[Updated] Perfecting Your Snap Zoom Levels Unveiled in Insta Stories</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-revolutionize-your-tiktok-videos-the-ultimate-filter-list/"><u>[Updated] Revolutionize Your TikTok Videos The Ultimate Filter List</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-online-potential-essential-fb-advice-for-businesses-for-2024/"><u>[Updated] Unlocking Online Potential Essential FB Advice for Businesses for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/30-bargain-alert-access-the-groundbreaking-worlds-first-3-dimensional-password-vault-for-three-years-get-yours-today-from-zdnet/"><u>$30 Bargain Alert! Access the Groundbreaking World's First 3-Dimensional Password Vault for Three Years - Get Yours Today From ZDNet!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-methods-to-subtly-soften-audible-output-via-lumafusion/"><u>2024 Approved Innovative Methods to Subtly Soften Audible Output via Lumafusion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apples-new-game-changer-the-m3-macbook-air-with-ai-capabilities-in-depth-analysis-and-reviews-on-the-budget-laptop-revolutionizing-tech-featured/"><u>Apple's New Game Changer: The M3 MacBook Air with AI Capabilities | In-Depth Analysis & Reviews on the Budget Laptop Revolutionizing Tech, Featured</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-we-depend-on-instagram-an-in-depth-analysis-by-zdnet/"><u>Can We Depend on Instagram? An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discovering-your-macs-secrets-a-guide-to-finding-passwords-in-the-keychain/"><u>Discovering Your Mac's Secrets: A Guide to Finding Passwords in the Keychain</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-roblox-not-responding-finding-out-whether-its-server-downtime-or-your-internet-connection/"><u>Is Roblox Not Responding? Finding Out Whether It's Server Downtime or Your Internet Connection</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-x100-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo X100 Device</u></a></li>
+<li><a href="https://discover-best.techidaily.com/optimized-with-automated-tracking-the-secret-behind-our-success/"><u>Optimized with Automated Tracking: The Secret Behind Our Success</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-using-a-password-manager-is-essential-top-5-benefits-explained-by-zdnet/"><u>Why Using a Password Manager Is Essential: Top 5 Benefits Explained by ZDNet</u></a></li>
 </ul></div>
 

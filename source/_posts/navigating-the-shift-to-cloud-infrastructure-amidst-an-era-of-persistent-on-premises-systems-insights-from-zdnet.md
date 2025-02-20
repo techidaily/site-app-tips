@@ -1,7 +1,7 @@
 ---
 title: Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET
-date: 2025-02-06T17:13:31.507Z
-updated: 2025-02-09T20:44:59.400Z
+date: 2025-02-18T05:07:58.262Z
+updated: 2025-02-19T18:53:15.841Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,16 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-record-sims-4-gameplay-for-2024/"><u>[New] How to Record Sims 4 Gameplay for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-5-second-stories-explained-well-in-2024/"><u>[Updated] 5-Second Stories Explained Well, In 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-journey-of-personalized-instagram-notification-creation/"><u>[Updated] The Journey of Personalized Instagram Notification Creation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-picks-for-optimal-website-hosting-services-in-depth-analysis-and-comparisons-zdnet/"><u>Expert Picks for Optimal Website Hosting Services : In-Depth Analysis & Comparisons | ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/organizational-culture-is-a-set-of-shared-values-beliefs-norms-and-practices-that-influence-employee-behavior-and-the-organizations-performance/"><u>Organizational Culture Is a Set of Shared Values, Beliefs, Norms, and Practices that Influence Employee Behavior and the Organization's Performance.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rocky-linux-backed-by-ciq-as-prominent-linux-experts-rally-together/"><u>Rocky Linux Backed by CIQ as Prominent Linux Experts Rally Together</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rising-tide-of-cloud-technology-vs-the-steady-ground-of-on-premise-systems-nextgentech-trends/"><u>The Rising Tide of Cloud Technology Vs. The Steady Ground of On-Premise Systems | NextGenTech Trends</u></a></li>
-<li><a href="https://app-tips.techidaily.com/times-running-out-for-microsoft-the-impending-crisis-over-windows-10-requires-immediate-action-zdnet/"><u>Time's Running Out for Microsoft: The Impending Crisis Over Windows 10 Requires Immediate Action [ZDNet]</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-xiaomi-redmi-k70-by-fonelab-android-recover-data/"><u>Undelete lost data from Xiaomi Redmi K70</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/understanding-bitcoins-inner-workings-and-core-concepts-with-detailed-analysis-from-yl-software-experts/"><u>Understanding Bitcoin's Inner Workings & Core Concepts with Detailed Analysis From YL Software Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-ending-maintenance-in-a-year-explore-these-5-alternatives-now/"><u>Windows 11 Ending Maintenance in a Year - Explore These 5 Alternatives Now!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-is-your-social-media-strategy-up-to-date-with-facebook-changes/"><u>[New] In 2024, Is Your Social Media Strategy Up-to-Date with Facebook Changes?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-prime-xsplit-replacements-a-guide-to-streaming/"><u>[New] Prime Xsplit Replacements A Guide to Streaming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-secrets-of-10-excellent-tiktok-marketing-initiatives/"><u>[Updated] 2024 Approved Secrets of 10 Excellent TikTok Marketing Initiatives</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-harmonic-transition-a-playlist-migration-masterclass-for-2024/"><u>[Updated] Harmonic Transition A Playlist Migration Masterclass for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-fable-creators-circle-a-list-eight/"><u>[Updated] In 2024, Fable Creators Circle - A-List Eight</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enhance-leadership-by-mastering-effective-communication-tools/"><u>Enhance Leadership by Mastering Effective Communication Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/genuine-insight-into-lightcut-the-ultimate-ai-powered-video-editor-for-your-mobile-devices-android-and-ios/"><u>Genuine Insight Into LightCut: The Ultimate AI-Powered Video Editor for Your Mobile Devices (Android & iOS)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-insights-on-the-bnsf-simulation-a-complete-examination/"><u>In-Depth Insights on the BNSF Simulation: A Complete Examination</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/preferred-stock-ps-number-of-preferred-shares-par-value-per-share/"><u>Preferred Stock (PS) = Number of Preferred Shares Par Value per Share</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revitalize-your-iphone-four-effective-methods-to-recover-data-from-icloud/"><u>Revitalize Your iPhone: Four Effective Methods to Recover Data From iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/say-goodbye-to-nuisance-phonecalls-effective-strategies-for-call-blocking-on-ios-and-android-devices/"><u>Say Goodbye to Nuisance Phonecalls: Effective Strategies for Call-Blocking on iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-creating-and-sharing-video-calls-via-skype-whatsapp/"><u>Step-by-Step Tutorial: Creating & Sharing Video Calls via Skype, WhatsApp</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-7-cost-free-virtual-fax-platforms/"><u>The Ultimate Guide to 7 Cost-Free Virtual Fax Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-android-lock-screen-widgets-simplify-your-access-with-these-handpicked-free-and-premium-options/"><u>Top 10 Android Lock Screen Widgets: Simplify Your Access with These Handpicked Free and Premium Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-ranked-photo-organization-tools-compatible-with-mac-and-windows-systems/"><u>Top-Ranked Photo Organization Tools Compatible with Mac and Windows Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-xvid-video-player-guide-ideal-choice-for-pcs-macs-smartphones-and-tablets/"><u>Ultimate Xvid Video Player Guide: Ideal Choice for PCs, Macs, Smartphones & Tablets!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uncover-secrets-of-stealthy-iphone-programs-strategies-and-methods/"><u>Uncover Secrets of Stealthy iPhone Programs: Strategies and Methods</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620190018-unlock-free-iphone-and-android-entertainment-with-appcake-get-all-your-favorite-cracked-apps-and-games-now/"><u>Unlock Free iPhone & Android Entertainment with AppCake - Get All Your Favorite Cracked Apps & Games Now</u></a></li>
 </ul></div>
 

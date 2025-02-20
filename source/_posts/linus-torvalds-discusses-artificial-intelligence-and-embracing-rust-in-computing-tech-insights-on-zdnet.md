@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses Artificial Intelligence & Embracing Rust in Computing | Tech Insights on ZDNet
-date: 2025-02-08T19:46:10.765Z
-updated: 2025-02-09T20:32:12.212Z
+date: 2025-02-15T02:43:45.099Z
+updated: 2025-02-19T17:46:35.704Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-comprehensive-guide-to-xbox-screen-recording-success/"><u>[New] Comprehensive Guide to Xbox Screen Recording Success</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/op-8-youtube-thumbnail-secrets-for-high-traffic-videos-for-2024/"><u>[New] Top 8 YouTube Thumbnail Secrets for High Traffic Videos for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-how-to-record-audio-on-windows-11-for-2024/"><u>[Updated] How To Record Audio on Windows 11 for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-watch-series-8-analysis-stealing-the-spotlight-despite-falling-short-of-samsungs-advanced-sensor-tech-zdnet-insights/"><u>Apple Watch Series 8 Analysis: Stealing the Spotlight Despite Falling Short of Samsung's Advanced Sensor Tech - ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beware-latest-microsoft-upgrade-could-worsen-after-hours-stress-insights-from-zdnet/"><u>Beware: Latest Microsoft Upgrade Could Worsen After-Hours Stress - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/deciding-on-your-microsoft-account-type-during-windows-11-configuration-expert-advice-from-zdnet/"><u>Deciding on Your Microsoft Account Type During Windows 11 Configuration: Expert Advice From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-lightspeed-on-openshift-the-intelligent-ai-companion-for-your-kubernetes-clusters-zdnet/"><u>Discover Lightspeed on OpenShift – The Intelligent AI Companion for Your Kubernetes Clusters | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-tech-teams-to-enhance-customer-journey-insights-from-zdnet/"><u>Empowering Tech Teams to Enhance Customer Journey - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experts-choose-the-leading-network-surveillance-software-comprehensive-review-and-selection-guide-techinsight/"><u>Experts Choose the Leading Network Surveillance Software : Comprehensive Review and Selection Guide | TechInsight</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oneplus-12-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from OnePlus 12 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-fixing-problematic-youtube-shorts-thumbnails-display/"><u>In 2024, Fixing Problematic YouTube Shorts Thumbnails Display</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-huawei-nova-y91-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Huawei Nova Y91 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-rising-popularity-of-rust-and-importance-of-linux-kernel-in-modern-computing/"><u>Linus Torvalds Discusses Rising Popularity of Rust & Importance of Linux Kernel in Modern Computing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-4c-five-qandas-on-advanced-antenna-array-theory/"><u>Section 4C: Five Q&As on Advanced Antenna Array Theory</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-mozilla-firefox-login-credentials-mastering-the-use-of-main-passwords/"><u>Securing Your Mozilla Firefox Login Credentials: Mastering the Use of Main Passwords</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-windows-11-icons-from-scaling-down/"><u>Stop Windows 11 Icons From Scaling Down</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-cinema-mastering-the-best-5-camera-tips-for-2024/"><u>The Art of Cinema Mastering the Best 5 Camera Tips for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-recommended-mac-software-insights-from-zdnet/"><u>Top Recommended Mac Software - Insights From ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-major-modifications-in-windows-movie-maker-for-2024/"><u>Unveiling Major Modifications in Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-cash-content-creators-for-2024/"><u>[New] High-Cash Content Creators for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unveiling-dji-inspire-2s-features/"><u>[New] Unveiling DJI Inspire 2'S Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-building-effective-product-sponsor-relationships/"><u>2024 Approved Building Effective Product-Sponsor Relationships</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-navigating-the-maze-of-selecting-film-teasers-music/"><u>2024 Approved Navigating the Maze of Selecting Film Teasers' Music</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-6-cross-platform-explorers-navigating-iphones-on-windows-and-macos/"><u>Best 6 Cross-Platform Explorers: Navigating iPhones on Windows & macOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/budget-friendly-samsung-music-players-ideal-for-samsung-s8s9-users-and-pc-enthusiasts-free-and-paid-models-included/"><u>Budget-Friendly Samsung Music Players: Ideal for Samsung S8/S9 Users and PC Enthusiasts - Free and Paid Models Included</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-guide-unveiling-the-power-of-videoleap-in-2/"><u>Essential Guide: Unveiling the Power of Videoleap in 2</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-unbiased-insight-a-complete-airwatch-reviews-for-informed-decision-making/"><u>Essential Unbiased Insight: A Complete AirWatch Reviews for Informed Decision Making</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-15-pro-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 15 Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-g2-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo G2? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/optimize-your-business-with-cutting-edge-android-mdm-options-and-features/"><u>Optimize Your Business With Cutting-Edge Android MDM Options and Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11s-mysteries-inside-its-registry-files/"><u>Unraveling Windows 11'S Mysteries: Inside Its Registry Files</u></a></li>
 </ul></div>
 

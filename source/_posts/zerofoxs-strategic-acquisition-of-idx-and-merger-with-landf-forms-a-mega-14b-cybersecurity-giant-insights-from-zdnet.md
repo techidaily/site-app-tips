@@ -1,7 +1,7 @@
 ---
 title: ZeroFox's Strategic Acquisition of IDX and Merger with L&F Forms a Mega $1.4B Cybersecurity Giant - Insights From ZDNet
-date: 2025-02-03T03:18:24.552Z
-updated: 2025-02-09T23:19:31.675Z
+date: 2025-02-19T05:10:40.657Z
+updated: 2025-02-19T17:46:58.081Z
 tags:
   - password-manager
 categories:
@@ -18,7 +18,7 @@ The company will be renamed ZeroFox Holdings once the deal goes through and will
 Monarch Alternative Capital LP and several other firms are also investing $170 million in the deal to merge the companies. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -87,18 +87,18 @@ Adam Gerchen, CEO of LNFA and a new ZeroFox board member, noted that the company
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-extractors-a-comprehensible-guide-for-beginners-for-2024/"><u>[New] Free YouTube Extractors A Comprehensible Guide for Beginners for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dismantling-the-shadowy-video-barrier-on-youtube/"><u>[Updated] 2024 Approved Dismantling the Shadowy Video Barrier on YouTube</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-everyday-online-chronicles-a-handy-tip-for-digging-up-fbs-vids/"><u>[Updated] In 2024, Everyday Online Chronicles A Handy Tip for Digging Up FB's Vids</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-soundscape-symphony-crafting-concert-videos-with-these-15-tutorials/"><u>[Updated] In 2024, Soundscape Symphony Crafting Concert Videos with These 15 Tutorials</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unleash-your-typographic-vision-in-after-effects-mastery/"><u>[Updated] Unleash Your Typographic Vision in After Effects Mastery</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-monica-ai-understanding-its-features-and-mastering-chatgpt-assistance/"><u>Exploring Monica AI: Understanding Its Features & Mastering ChatGPT Assistance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/innovative-model-conversion-from-text-to-video-within-hugging-faces-collaborative-ecosystem/"><u>Innovative Model Conversion From Text to Video Within Hugging Face's Collaborative Ecosystem</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-imovie-for-newbies-a-comprehensive-tutorial-on-adding-audio/"><u>New In 2024, IMovie for Newbies A Comprehensive Tutorial on Adding Audio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/smoothing-out-windows-steam-sync/"><u>Smoothing Out Windows Steam Sync</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-free-youtube-logo-makers/"><u>Top 9 Free YouTube Logo Makers</u></a></li>
-<li><a href="https://win11.techidaily.com/top-ts-encoder-swift-and-simple-video-conversion-fromto-ts-format/"><u>Top TS Encoder: Swift & Simple Video Conversion From/To TS Format</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-conversational-ai-exploring-the-best-features-of-gpt-powered-chatbots/"><u>Top-Rated Conversational AI: Exploring the Best Features of GPT-Powered Chatbots</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-reviews-explore-the-best-in-ai-meet-chatgpt-your-new-preferred-chatbot-companion/"><u>Top-Rated Reviews: Explore the Best in AI - Meet ChatGPT, Your New Preferred Chatbot Companion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-vulnerability-found-in-popular-linux-tool-curl-fixes-released-promptly-insights-from-zdnet/"><u>Critical Vulnerability Found in Popular Linux Tool 'Curl'; Fixes Released Promptly - Insights From ZDNet</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-13-mini-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 13 mini Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-12plus-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme 12+ 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/human-expression-capabilities-in-latest-ai-avatar-innovations-insights-from-zdnet/"><u>Human Expression Capabilities in Latest AI Avatar Innovations - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/identifying-the-leading-internet-browser-insights-from-zdnet/"><u>Identifying the Leading Internet Browser: Insights From ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-12-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 12 Pro Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ize-your-video-sound-best-free-wav-extractors-from-youtube-for-2024/"><u>Maximize Your Video Sound Best Free WAV Extractors From YouTube for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-guide-to-installing-and-updating-scansnap-drivers-for-windows-users/"><u>Quick & Easy Guide to Installing and Updating ScanSnap Drivers for Windows Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-experts-guide-to-instagrams-licensed-music-posting-policies/"><u>The Expert’s Guide to Instagram's Licensed Music Posting Policies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-truth-about-being-a-devops-professional-benefits-and-pitfalls-revealed-by-zdnet/"><u>The Truth About Being a DevOps Professional: Benefits & Pitfalls Revealed by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-your-pc-experience-upgrade-from-windows-home-edition-to-pro-key-reasons-and-how-to-tips/"><u>Transforming Your PC Experience: Upgrade From Windows Home Edition to Pro - Key Reasons and How-To Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-5-alternatives-to-ensure-continued-security/"><u>Windows 10 End of Life Approaching: Discover Your 5 Alternatives to Ensure Continued Security</u></a></li>
+<li><a href="https://blog-min.techidaily.com/m4bmp4-movavi/"><u>コストなしオンラインM4BファイルをMP4にアップコンバート – ムーヴェイビ(Movavi)</u></a></li>
 </ul></div>
 

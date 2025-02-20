@@ -1,7 +1,7 @@
 ---
 title: Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet
-date: 2025-02-06T22:33:27.587Z
-updated: 2025-02-09T19:58:42.227Z
+date: 2025-02-18T00:41:08.499Z
+updated: 2025-02-20T01:58:48.826Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Crypto.com CEO Kris Marszalek responded to complaints from thousands of users about issues logging back into their accounts after the company was [forced](https://crypto.com/product-news/crypto-com-security-report-next-steps) to change security settings following [a hack last week](https://www.zdnet.com/article/fortune-favours-the-breached-crypto-com-admits-400-users-hit-in-hack/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Crypto.com CEO Kris Marszalek responded to complaints from thousands of users ab
 [![cybersecurity-lock-resized.jpg](https://www.zdnet.com/a/img/resize/5871b5ae5b589728bdc8064555d12823acf4b63e/2020/10/27/db3c0325-2b86-435b-8efa-93828deb6b56/cybersecurity-lock-resized.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best cyber insurance The cyber insurance industry is likely to go mainstream and is a simple cost of doing business. Here are a few options to consider.  Read now](https://www.zdnet.com/article/best-cyber-insurance/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On Monday, the company [admitted](https://www.zdnet.com/article/crypto-com-confirms-483-users-hit-in-attack-that-saw-over-31m-in-coins-withdrawn/) that 483 users were affected by unauthorized cryptocurrency withdrawals on their accounts, costing a total of "4,836.26 ETH, 443.93 BTC, and approximately US$66,200 in other cryptocurrencies." At the time of the attack, that amounted to about $31 million. 
@@ -80,16 +80,18 @@ Crypto.com created a program designed to refund users who were affected by the h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-setting-up-your-first-livestream-successfully/"><u>[New] Setting Up Your First Livestream Successfully</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-multi-genre-unmanned-flyers/"><u>[Updated] In 2024, Multi-Genre Unmanned Flyers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-making-memorable-impressions-with-fb-slideshow-features/"><u>[Updated] Making Memorable Impressions with FB Slideshow Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-the-big-one-best-fishing-camers-ranked/"><u>2024 Approved Capture the Big One Best Fishing Camers Ranked</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-methods-for-subtle-volume-reduction-in-fl-studio/"><u>2024 Approved Methods for Subtle Volume Reduction in FL Studio</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/canonayers-guide-to-color-gratification-paid-and-no-cost-luts-for-2024/"><u>Canon'ayer’s Guide to Color Gratification – Paid & No-Cost LUTs for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/chatgpt-insight-report-extensive-feature-list-and-strategies-for-handling-server-issues/"><u>ChatGPT Insight Report - Extensive Feature List & Strategies for Handling Server Issues</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discovering-the-most-engaging-and-intelligent-gpt-chatbot-on-the-market/"><u>Discovering The Most Engaging and Intelligent GPT Chatbot on the Market</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-guide-to-cutting-ties-with-devices-within-the-google-assistant-universe/"><u>DIY Guide to Cutting Ties with Devices Within the Google Assistant Universe</u></a></li>
-<li><a href="https://app-tips.techidaily.com/insiders-guide-to-the-best-gpt-ai-chatbots-expert-analysis-and-review/"><u>Insider's Guide to the Best GPT AI Chatbots - Expert Analysis and Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-top-10-list-of-ai-powered-chatbots-for-enhanced-interaction/"><u>The Ultimate Top 10 List of AI-Powered Chatbots for Enhanced Interaction</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/add-cinematic-shake-to-images-using-ps-for-2024/"><u>Add Cinematic Shake to Images Using PS for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/before-microsoft-drops-support-for-windows-explore-five-essential-alternatives-to-keep-your-pc-running-smoothly/"><u>Before Microsoft Drops Support for Windows # : Explore Five Essential Alternatives to Keep Your PC Running Smoothly.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-panic-windows-11-users-explore-these-5-strategies-before-microsoft-ends-its-lifeline-zdnet-insights/"><u>Don't Panic, Windows 11 Users! Explore These 5 Strategies Before Microsoft Ends Its Lifeline | ZDNet Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-gaming-experience-with-the-best-9-emulators/"><u>Elevating Your Gaming Experience with the Best 9 Emulators</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-innovative-features-of-anthropics-latest-offerings-complimentary-ios-app-and-premier-corporate-plan-launched-get-insights-from-zdnet/"><u>Explore the Innovative Features of Anthropic's Latest Offerings: Complimentary iOS App and Premier Corporate Plan Launched – Get Insights From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-s23-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel S23 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lg-monitor-troubleshooting-steps-updating-and-repairing-windows-drivers/"><u>LG Monitor Troubleshooting Steps: Updating & Repairing Windows Drivers</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/losung-fur-unzuganglichen-bootvorgang-auf-windows-10-klonen-schritt-fur-schritt-guide-zur-fehlerbehebung/"><u>Lösung Für Unzugänglichen Bootvorgang Auf Windows 10-Klonen – Schritt-Für-Schritt-Guide Zur Fehlerbehebung</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/premium-equipment-for-photo-animation/"><u>Premium Equipment for Photo Animation</u></a></li>
+<li><a href="https://win-trending.techidaily.com/supercharge-productivity-unleash-the-power-of-windows-based-smb-servers/"><u>Supercharge Productivity: Unleash the Power of Windows-Based SMB Servers!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-the-best-virtual-meetings-software-in-2eplus22-expert-reviews-and-ratings-by-zdnet/"><u>The Ultimate Guide to the Best Virtual Meetings Software in 2E+22: Expert Reviews & Ratings by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-learning-management-systems-reviewed-by-zdnet-find-the-ideal-lms/"><u>Top-Ranked Learning Management Systems Reviewed by ZDNet: Find the Ideal LMS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-windows-home-to-professional-grade-essential-steps-and-compelling-reasons-to-upgrade/"><u>Transforming Windows Home to Professional Grade: Essential Steps and Compelling Reasons to Upgrade</u></a></li>
 </ul></div>
 

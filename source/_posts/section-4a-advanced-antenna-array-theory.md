@@ -1,7 +1,7 @@
 ---
 title: "Section 4A: Advanced Antenna Array Theory"
-date: 2025-01-27T16:26:40.695Z
-updated: 2025-01-29T16:44:30.917Z
+date: 2025-02-16T03:56:53.906Z
+updated: 2025-02-20T02:55:34.511Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-revealing-the-art-of-zoomed-details-using-kinemasters-tools/"><u>[New] 2024 Approved Revealing the Art of Zoomed Details Using Kinemaster's Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-most-improved-10-elements-of-terraria-for-2024/"><u>[New] Most Improved 10 Elements of Terraria for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-secrets-to-optimize-gopro-camera-energy-consumption/"><u>[Updated] Secrets to Optimize GoPro Camera Energy Consumption</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unlock-potential-in-your-screen-recording-with-obs/"><u>[Updated] Unlock Potential in Your Screen Recording with OBS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-secrets-to-flawless-game-recording-in-windows-11/"><u>2024 Approved Secrets to Flawless Game Recording in Windows 11</u></a></li>
-<li><a href="https://win-special.techidaily.com/1726224429261-mp3-movavi/"><u>高品質保持MP3ファイルの効果的な圧縮方法 - 「Movavi」のガイド</u></a></li>
-<li><a href="https://app-tips.techidaily.com/buy-dashlane-premium-at-half-price-exclusive-sale-alert-from-zdnet/"><u>Buy Dashlane Premium at Half Price! Exclusive Sale Alert From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cybersecurity-firm-provides-rapid-defense-against-log4j-vulnerability-for-non-updatable-systems-zdnet/"><u>Cybersecurity Firm Provides Rapid Defense Against Log4j Vulnerability for Non-Updatable Systems - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/from-lastpass-to-icloud-transition-your-passwords-securely-on-pc-expert-tips-from-zdnet/"><u>From LastPass to iCloud: Transition Your Passwords Securely on PC - Expert Tips From ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/galactic-disaster-turns-upside-down-for-ultimate-fun-a-city-building-game-crash-lands-on-mars/"><u>Galactic Disaster Turns Upside Down for Ultimate Fun: A City-Building Game Crash Lands on Mars</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-poco-m6-pro-4g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Poco M6 Pro 4G FRP?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-covid-19-vaccine-scheduling-solutions-reviewed-and-compared-itadvisor/"><u>Leading COVID-19 Vaccine Scheduling Solutions Reviewed & Compared - ITAdvisor</u></a></li>
-<li><a href="https://app-tips.techidaily.com/phishers-favorite-targets-revealed-how-dhl-microsoft-and-whatsapp-top-seo-lists-for-brand-fraud-zdnet-insights/"><u>Phishers' Favorite Targets Revealed: How DHL, Microsoft & WhatsApp Top SEO Lists for Brand Fraud | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-lastpass-substitutes-a-comprehensive-guide-zdnet/"><u>Top LastPass Substitutes : A Comprehensive Guide - ZDNet</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/winx-dvd-ripper-platino-convertidor-de-dvd-al-formato-digital-mas-rapido-para-windows-10/"><u>WinX DVD Ripper Platino: Convertidor De DVD Al Formato Digital Más Rápido Para Windows 10</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-comprehensive-approach-to-adding-text-overlays-vimeo-for-2024/"><u>[New] A Comprehensive Approach to Adding Text Overlays (Vimeo) for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-boost-engagement-with-custom-images-for-your-videos/"><u>[New] Boost Engagement with Custom Images for Your Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-srt-shift-magic-subtitles-subc-conversion-guide/"><u>[New] SRT Shift Magic Subtitles (SUBC) Conversion Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-step-further-the-revolutionary-lg-360-vr-headset-reviewed/"><u>A Step Further The Revolutionary LG 360 VR Headset Reviewed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beware-latest-microsoft-patch-could-escalate-professional-burnout-insights-from-zdnet/"><u>Beware! Latest Microsoft Patch Could Escalate Professional Burnout - Insights From ZDNet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-conversion-guide-transform-videos-for-your-galaxy-series-s10-s9-etc/"><u>Effortless Conversion Guide: Transform Videos for Your Galaxy Series (S10, S9, Etc.)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-latest-linux-65-kernel-a-wealth-of-cutting-edge-enhancements-tech-insights/"><u>Exploring the Latest Linux 6.5 Kernel: A Wealth of Cutting-Edge Enhancements - Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-sunset-of-windows-11-here-are-5-alternatives-to-consider-as-support-winds-down-tech-insights-by-zdnet/"><u>Facing the Sunset of Windows 11? Here Are 5 Alternatives to Consider as Support Winds Down | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/for-the-avant-garde-play-script/"><u>For the Avant-Garde Play Script</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-honor-magic-6-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Honor Magic 6 Pro Face Lock?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003692284-monster-hunter-rise-wont-open-discover-the-quick-solutions-you-need/"><u>Monster Hunter Rise Won't Open? Discover the Quick Solutions You Need</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ascension-of-cloud-computing-versus-current-on-premises-systems-expert-analysis-by-zdnet/"><u>The Ascension of Cloud Computing Versus Current On-Premises Systems | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-crafting-an-ideal-windows-11-vm-setup-on-any-platform-insights-from-zdnet/"><u>Ultimate Guide: Crafting an Ideal Windows 11 VM Setup on Any Platform - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-future-of-ai-at-gtc-nvidias-jensen-huang-introduces-cutting-edge-blackwell-processor-family-to-industry-experts-zdnet/"><u>Unveiling the Future of AI at GTC: Nvidia's Jensen Huang Introduces Cutting-Edge Blackwell Processor Family to Industry Experts | ZDNet</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-ways-to-make-time-lapse-video-on-macbook/"><u>Updated 3 Ways to Make Time-Lapse Video on MacBook</u></a></li>
 </ul></div>
 

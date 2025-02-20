@@ -1,7 +1,7 @@
 ---
 title: "Security Breach: LastPass Compromised Once More - Critical Update From ZDNet"
-date: 2025-02-04T23:13:49.402Z
-updated: 2025-02-09T19:06:33.853Z
+date: 2025-02-16T02:01:42.860Z
+updated: 2025-02-19T21:54:24.845Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,22 +81,17 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-annual-compilation-of-premium-free-lut-choices/"><u>[New] 2024 Approved Annual Compilation of Premium Free LUT Choices</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-rising-stars-top-10-tiktok-reaction-clips/"><u>[New] Rising Stars Top 10 TikTok Reaction Clips</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-a-youtube-empire-26-successful-techniques/"><u>[Updated] In 2024, Crafting a YouTube Empire 26 Successful Techniques</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-hero-session-vs-hero-session-duel/"><u>2024 Approved Hero Session Vs Hero Session Duel</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-reflect-your-vision-affordable-personalization-of-professional-logo-designs-free/"><u>2024 Approved Reflect Your Vision Affordable Personalization of Professional Logo Designs (Free)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/assessing-the-protective-quality-and-cost-effectiveness-of-finties-macbook-pro-13-sleeve/"><u>Assessing the Protective Quality and Cost-Effectiveness of Fintie's MacBook Pro 13 Sleeve</u></a></li>
-<li><a href="https://app-tips.techidaily.com/detailed-insight-into-twistedwave-exploring-benefits-limitations-premier-qualities-and-usage-scenarios/"><u>Detailed Insight Into TwistedWave: Exploring Benefits, Limitations, Premier Qualities, and Usage Scenarios</u></a></li>
-<li><a href="https://app-tips.techidaily.com/imovie-editor-guide-detailed-analysis-reviews-and-alternative-solutions-for-video-editing/"><u>IMovie Editor Guide: Detailed Analysis, Reviews & Alternative Solutions for Video Editing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-a15-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy A15 4G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-insights-on-the-bnsf-simulation-a-complete-examination/"><u>In-Depth Insights on the BNSF Simulation: A Complete Examination</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/les-converteurs-de-video-les-plus-efficaces-mp4-a-mov-gratuits-sur-internet/"><u>Les Converteurs De Vidéo Les Plus Efficaces : MP4 À MOV Gratuits Sur Internet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/say-goodbye-to-nuisance-phonecalls-effective-strategies-for-call-blocking-on-ios-and-android-devices/"><u>Say Goodbye to Nuisance Phonecalls: Effective Strategies for Call-Blocking on iOS & Android Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/these-7-apps-are-integrating-gpt-4-but-how-do-they-work/"><u>These 7 Apps Are Integrating GPT-4, But How Do They Work?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-android-lock-screen-widgets-simplify-your-access-with-these-handpicked-free-and-premium-options/"><u>Top 10 Android Lock Screen Widgets: Simplify Your Access with These Handpicked Free and Premium Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-xvid-video-player-guide-ideal-choice-for-pcs-macs-smartphones-and-tablets/"><u>Ultimate Xvid Video Player Guide: Ideal Choice for PCs, Macs, Smartphones & Tablets!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/uncover-secrets-of-stealthy-iphone-programs-strategies-and-methods/"><u>Uncover Secrets of Stealthy iPhone Programs: Strategies and Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620190018-unlock-free-iphone-and-android-entertainment-with-appcake-get-all-your-favorite-cracked-apps-and-games-now/"><u>Unlock Free iPhone & Android Entertainment with AppCake - Get All Your Favorite Cracked Apps & Games Now</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-leveraging-past-conversations-on-twitter/"><u>[New] Leveraging Past Conversations on Twitter</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-12-essential-metaverse-prototypes-demystifying-vr/"><u>2024 Approved 12 Essential Metaverse Prototypes Demystifying VR</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-leap-towards-no-code-revolution-the-impactful-role-of-generative-artificial-intelligence-in-evolving-coding-paradigms-zdnet-insights/"><u>A Leap Towards 'No Code' Revolution: The Impactful Role of Generative Artificial Intelligence in Evolving Coding Paradigms | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/access-control-systems/"><u>Access Control Systems</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/essential-harmonic-chart-patterns-for-traders-top-5-must-know-techniques-on-mt4/"><u>Essential Harmonic Chart Patterns for Traders: Top 5 Must-Know Techniques on MT4</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-as-a-corporate-communication-tool-explained/"><u>Facebook as a Corporate Communication Tool Explained</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721268159693-groundbreaking-announcement-stellar-unveils-the-premier-photo-restoration-and-repair-tool/"><u>Groundbreaking Announcement: Stellar Unveils the Premier Photo Restoration and Repair Tool</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-transition-seamless-update-strategies-for-ubuntu-linux-users-moving-to-version-2404/"><u>Mastering the Transition: Seamless Update Strategies for Ubuntu Linux Users Moving to Version 24.04</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-a-tale-of-office-woes/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown: A Tale of Office Woes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-when-your-torrent-files-wont-download-tips-and-advice/"><u>Solutions when Your Torrent Files Won't Download - Tips & Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tehnici-supreme-pentru-boostarea-vidurilor-live-streaming-5-instrumenturi-chestiati-de-cele-marilor-profesori/"><u>Tehnici Supreme Pentru Boostarea Vidurilor Live Streaming - 5 Instrumenturi Chestiați De Cele Marilor Profesori</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranking-mac-software-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking Mac Software : A Comprehensive Guide by ZDNet</u></a></li>
 </ul></div>
 

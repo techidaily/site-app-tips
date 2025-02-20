@@ -1,7 +1,7 @@
 ---
 title: Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance
-date: 2025-02-07T00:04:26.908Z
-updated: 2025-02-10T00:37:01.938Z
+date: 2025-02-17T04:18:51.836Z
+updated: 2025-02-19T19:29:51.116Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-access-to-pinnacle-android-viewer/"><u>[New] Exclusive Access to Pinnacle Android Viewer</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/oogle-meet-on-youtube-streaming-made-easy-step-by-step/"><u>[New] Google Meet on YouTube Streaming Made Easy, Step by Step</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-shooting-hdr-iphones-pathway-to-enhanced-images-for-2024/"><u>[New] Shooting HDR IPhone's Pathway to Enhanced Images for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-elite-zero-cost-fb-picturemovie-composer-for-2024/"><u>[Updated] Elite Zero-Cost FB Picture/Movie Composer for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1-grab-prime-day-offers-set-up-your-own-plex-media-streamer/"><u>1. Grab Prime Day Offers: Set Up Your Own Plex Media Streamer</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-from-meetings-to-media-how-zoom-powers-fb-live-content/"><u>2024 Approved From Meetings to Media How Zoom Powers FB Live Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-hybrid-cloud-intricacies-with-cutting-edge-features-of-red-hats-latest-enterprise-linux-distribution/"><u>Navigating Hybrid Cloud Intricacies with Cutting-Edge Features of Red Hat's Latest Enterprise Linux Distribution</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/premiere-cameras-to-document-the-next-wave-of-concert-videos-for-2024/"><u>Premiere Cameras to Document the Next Wave of Concert Videos for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/switching-from-microsoft-how-a-german-state-embraces-linux-and-libreoffice-as-spotted-by-zdnet/"><u>Switching From Microsoft: How a German State Embraces Linux & LibreOffice, as Spotted by ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-composers-craft-crossfade-in-logic-pro-x/"><u>The Composer's Craft - Crossfade in Logic Pro X</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-4-free-video-editing-tools-expert-picks-techradar/"><u>Top 4 Free Video Editing Tools : Expert Picks | TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-essentials-a-comprehensive-update-and-installation-manual-insights-from-zdnet/"><u>Windows 11 Essentials: A Comprehensive Update & Installation Manual - Insights From ZDNet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-efficient-backup-of-camera-roll-to-share-via-snapchat/"><u>[New] 2024 Approved Efficient Backup of Camera Roll to Share via Snapchat</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-virtual-quest-evaluating-current-progress-and-potential-hurdles/"><u>[Updated] In 2024, The Virtual Quest Evaluating Current Progress & Potential Hurdles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sky-gazers-rejoice-discovering-the-elevation-expertise-of-dji-spark/"><u>2024 Approved Sky Gazers Rejoice! Discovering the Elevation Expertise of DJI Spark</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-vivavideo-evaluation-a-complete-guide-to-choosing-your-ideal-video-editor/"><u>Comprehensive VivaVideo Evaluation: A Complete Guide to Choosing Your Ideal Video Editor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-improvements-for-androids-ascension-as-the-preferred-os-over-ios-insights-from-tech-experts/"><u>Essential Improvements for Android's Ascension as the Preferred OS Over iOS - Insights From Tech Experts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-ensure-optimal-performance-updating-the-logitech-c920-driver-on-multiple-windows-versions/"><u>How to Ensure Optimal Performance: Updating the Logitech C920 Driver on Multiple Windows Versions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-integrating-gentle-decreases-into-your-audience-experience-via-audacity/"><u>In 2024, Integrating Gentle Decreases Into Your Audience Experience via Audacity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-installing-and-using-kik-messenger-on-pcsmacs/"><u>Step-by-Step Guide: Installing & Using Kik Messenger on PCs/Macs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-10-reliable-data-backup-apps-for-ios-and-android-devices/"><u>The Ultimate Guide: Top 10 Reliable Data Backup Apps for iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-alternatives-to-remini-boost-and-beautify-photos-with-these-powerful-image-editing-apps/"><u>Top 5 Alternatives to Remini: Boost & Beautify Photos with These Powerful Image Editing Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/try-these-free-apps-the-best-ways-to-efficiently-delete-files-from-your-ipad/"><u>Try These Free Apps: The Best Ways to Efficiently Delete Files From Your iPad</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-selection-of-premium-electronic-jotters-thoroughly-assessed-reviews-for-buyers-by-zdnet-gurus/"><u>Ultimate Selection of Premium Electronic Jotters: Thoroughly Assessed Reviews for Buyers - By ZDNet Gurus</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620190501-ultimate-xvid-video-player-guide-ideal-choice-for-pcs-macs-smartphones-and-tablets/"><u>Ultimate Xvid Video Player Guide: Ideal Choice for PCs, Macs, Smartphones & Tablets</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Another Cybersecurity Breach: LastPass Compromised Once More"
-date: 2025-02-07T21:23:21.877Z
-updated: 2025-02-09T23:21:57.136Z
+date: 2025-02-15T23:30:56.084Z
+updated: 2025-02-20T02:32:33.221Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,17 +81,20 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-obs-audio-fix-strategies-quickly/"><u>[New] 2024 Approved OBS Audio Fix Strategies Quickly</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-imagery-with-ar-and-accessible-luts/"><u>2024 Approved Transform Your Imagery with AR & Accessible LUTs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-and-premium-note-taking-apps-for-android-top-5-picks/"><u>Best Free and Premium Note-Taking Apps for Android: Top 5 Picks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-adobe-premiere-rush-evaluation-advantages-disadvantages-and-viable-substitutes/"><u>Comprehensive Adobe Premiere Rush Evaluation: Advantages, Disadvantages & Viable Substitutes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-funimate-tips-and-tricks-for-professional-video-editing-and-animation/"><u>Comprehensive Guide to Using Funimate: Tips and Tricks for Professional Video Editing and Animation</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-of-the-lenovo-thinkpad-x1-titanium-yoga-why-its-a-must-have-for-traditional-thinkpad-lovers/"><u>Comprehensive Review of the Lenovo ThinkPad X1 Titanium Yoga: Why It's a Must-Have for Traditional ThinkPad Lovers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-ryzen-chip-setup-software-free-and-easy-installation/"><u>Get the Newest Ryzen Chip Setup Software – FREE and Easy Installation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/non-proprietary-serene-tunes/"><u>Non-Proprietary Serene Tunes</u></a></li>
-<li><a href="https://discover-great.techidaily.com/pchddwindows/"><u>PC間HDD転送:Windows再構築せず移動ガイド</u></a></li>
-<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-optimized-solutions-to-gameplay-lag-and-freezing-problems/"><u>Red Dead Redemption 2 Optimized: Solutions to Gameplay Lag and Freezing Problems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-gigabyte-b65n-aorus-elite-ax-high-end-ice-cool-performance-pricey-but-boasts-many-usb-ports-in-depth-review/"><u>The Gigabyte B65n Aorus Elite AX: High-End Ice Cool Performance, Pricey but Boasts Many USB Ports - In-Depth Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-20-parent-monitoring-software-ensuring-child-internet-safety/"><u>Top 20 Parent Monitoring Software: Ensuring Child Internet Safety</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-brighten-up-your-gameplay-tips-to-fix-a-black-screen-on-obs-for-2024/"><u>[New] Brighten Up Your Gameplay Tips to Fix a Black Screen on OBS for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-filmmakers-choice-selecting-perfect-lenses-for-youtube-creation/"><u>[New] Filmmaker's Choice Selecting Perfect Lenses for YouTube Creation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-saturating-screen-with-high-definition-tweets/"><u>2024 Approved Saturating Screen with High-Definition Tweets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-patch-update-to-log4j-library-available-with-apache-2170-release-cybersecurity-breakthrough-on-zdnet/"><u>Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/defend-your-online-privacy-with-our-exclusive-offer-exceptional-vpn-and-password-management-services-for-a-limited-time-just-30-learn-how-on-zdnet/"><u>Defend Your Online Privacy with Our Exclusive Offer: Exceptional VPN and Password Management Services for a Limited Time, Just $30! Learn How on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-security-transform-your-digital-life-using-the-awarded-30-password-manager-by-zdnet-for-ultimate-protection/"><u>Effortless Security: Transform Your Digital Life Using the Awarded $30 Password Manager by ZDNET for Ultimate Protection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-livestreams-effortlessly-using-manycams-advanced-virtual-camcorder-technology/"><u>Enhance Your Livestreams Effortlessly Using ManyCam's Advanced Virtual Camcorder Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-password-manager-security-expert-tips-and-techniques-zdnet/"><u>Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/masterclass-webcast-theme-builder-for-2024/"><u>Masterclass Webcast Theme Builder for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-user-memory-lapses-with-biometric-authentication-insights-from-zdnet/"><u>Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-your-data-avoid-these-common-mistakes-in-cloud-security-that-attract-cyber-thieves-zdnet/"><u>Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-sensitive-information-under-20month-using-robust-encryption-techniques-insights-from-zdnet/"><u>Secure Your Sensitive Information Under $20/Month Using Robust Encryption Techniques – Insights From ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/433976--star-parenting/"><u>Star Parenting | Free Book</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/strategies-to-improve-exported-video-definition/"><u>Strategies to Improve Exported Video Definition</u></a></li>
 </ul></div>
 

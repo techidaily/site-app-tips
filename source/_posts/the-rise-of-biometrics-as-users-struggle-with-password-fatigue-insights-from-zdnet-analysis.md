@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Biometrics as Users Struggle with Password Fatigue: Insights From ZDNet Analysis"
-date: 2025-02-03T03:13:22.528Z
-updated: 2025-02-09T21:18:49.928Z
+date: 2025-02-13T19:53:03.717Z
+updated: 2025-02-20T00:11:38.578Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,21 +99,21 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-gadget-showdown-unlocking-iphone-vs-galaxy-with-facial-scans/"><u>[New] 2024 Approved Gadget Showdown Unlocking iPhone Vs. Galaxy with Facial Scans</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-clear-path-for-your-instagram-videos-now/"><u>[New] In 2024, Clear Path for Your Instagram Videos Now</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-action-replay-compare-gopros-hero5-black-and-session/"><u>[Updated] In 2024, Action Replay Compare GoPro's Hero5 Black & Session</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-artificial-intelligence-create-an-engaging-radio-experience-for-modern-audiences/"><u>Can Artificial Intelligence Create an Engaging Radio Experience for Modern Audiences?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversione-gratuita-dei-video-da-m4v-ad-mp4-il-sito-migliore-videoproc-online/"><u>Conversione Gratuita Dei Video Da M4V Ad MP4: Il Sito Migliore - VideoProc Online</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-streamlined-regulations-are-boosting-aseans-path-to-a-2t-digital-economy-by-2030-featured-on-zdnet/"><u>How Streamlined Regulations Are Boosting ASEAN's Path to a $2T Digital Economy by 2030, Featured on ZDNET</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/how-to-download-obs-studio-for-mac-for-2024/"><u>How to Download OBS Studio for Mac for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oneplus-ace-2-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from OnePlus Ace 2 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/innovating-for-sustainability-ais-role-in-developing-next-gen-green-smart-appliances-exclusive-report/"><u>Innovating for Sustainability: AI's Role in Developing Next-Gen Green Smart Appliances | Exclusive Report</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-challenges-in-ai-for-profitable-ventures-expert-tips-by-zdnet/"><u>Navigating Challenges in AI for Profitable Ventures | Expert Tips by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-hurdles-of-uncertainty-in-ai-efficiency-and-precision-insights-from-zdnet/"><u>Navigating the Hurdles of Uncertainty in AI Efficiency & Precision - Insights From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-errors-in-hitman-3-for-personal-computers/"><u>Overcoming Launch Errors in Hitman 3 for Personal Computers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-pop-8-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Pop 8 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-msresourceappname-glitch-in-windows-11/"><u>Rectifying 'MsResource/AppName' Glitch in Windows 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-it-work-life-how-ai-solutions-prevent-burnout-and-reduce-fatigue-among-tech-experts-expert-analysis-on-zdnet/"><u>Revolutionizing IT Work Life: How AI Solutions Prevent Burnout and Reduce Fatigue Among Tech Experts | Expert Analysis on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-unveils-comprehensive-ai-skills-handbook-for-singapore-smb-employees/"><u>ZDNet Unveils Comprehensive AI Skills Handbook for Singapore SMB Employees</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-dare-to-differentiate-using-square-videos-for-social-media-standout-for-2024/"><u>[New] Dare to Differentiate Using Square Videos for Social Media Standout for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-decoding-the-science-of-captivating-time-lapses-using-gopro/"><u>[New] Decoding the Science of Captivating Time-Lapses Using GoPro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-ascend-youtube-rankings-through-optimal-dating-for-2024/"><u>[Updated] Ascend YouTube Rankings Through Optimal Dating for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-steps-to-resolve-virtual-machines-on-windows-11-vmware/"><u>7 Key Steps to Resolve Virtual Machines on Windows 11-VMware</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ners-guide-to-video-making-mastering-10-straightforward-youtube-concepts/"><u>Beginner's Guide to Video Making Mastering 10 Straightforward YouTube Concepts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-transferring-your-icloud-password-vault-on-and-off-macos/"><u>Comprehensive Guide: Transferring Your iCloud Password Vault on and Off macOS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-errors-in-civilization-vpc-games/"><u>Correcting Errors in Civilization V/PC Games</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-samsung-galaxy-f04-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Samsung Galaxy F04 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-email-update-tutorial-how-to-easily-alter-your-current-icloud-id/"><u>ICloud Email Update Tutorial: How To Easily Alter Your Current iCloud ID</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-virality-equation-tiktok-vs-twitter/"><u>In 2024, The Virality Equation TikTok Vs. Twitter</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-clearing-out-icloud-backups-across-devices-for-more-space/"><u>Step-by-Step Guide: Clearing Out iCloud Backups Across Devices for More Space</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-connecting-your-pc-with-icloud-through-the-icloud-control-panel/"><u>Step-by-Step Guide: Connecting Your PC with iCloud Through the iCloud Control Panel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-twitter-hashtags-insights-from-chatgpt/"><u>Tailoring Twitter Hashtags: Insights From ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-3-methods-to-remove-ebooks-from-your-icloud-library-freeing-up-space/"><u>Top 3 Methods to Remove eBooks From Your iCloud Library, Freeing Up Space</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-methods-for-transferring-icloud-tunes-to-ios-and-mac-a-comprehensive-guide/"><u>Top 5 Methods for Transferring iCloud Tunes to iOS and Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-free-contact-acquisition-top-4-methods-for-seamless-retrieval-from-icloud/"><u>Unlocking the Power of Free Contact Acquisition: Top 4 Methods for Seamless Retrieval From iCloud</u></a></li>
 </ul></div>
 

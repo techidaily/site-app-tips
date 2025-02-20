@@ -1,7 +1,7 @@
 ---
 title: Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet
-date: 2025-02-04T18:46:01.526Z
-updated: 2025-02-10T01:08:14.497Z
+date: 2025-02-17T23:39:09.473Z
+updated: 2025-02-19T16:48:30.913Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -112,7 +112,7 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -190,22 +190,21 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-complete-walkthrough-to-emoji-enriched-discord-statuses/"><u>[New] 2024 Approved The Complete Walkthrough to Emoji-Enriched Discord Statuses</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862762693-affordable-luxury-buy-a-new-samsung-odyssey-g50a-monitor-27-inch-qhd-ips-at-amazing-price-255/"><u>Affordable Luxury! Buy a New Samsung Odyssey G50A Monitor, 27-Inch QHD IPS at Amazing Price: $255</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-and-fair-evaluation-of-airwatch-your-ultimate-guide/"><u>Comprehensive and Fair Evaluation of AirWatch - Your Ultimate Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/creating-an-unadulterated-newsfeed-experience-on-facebook/"><u>Creating an Unadulterated Newsfeed Experience on Facebook</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-factual-inshot-video-editing-tool-of-2024-a-must-see/"><u>Discover the Top Factual InShot Video Editing Tool of 2024 - A MUST-SEE!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-complimentary-3ds-emulators-compatible-with-various-devices-including-windowsmaciosandroid-and-web-based-options/"><u>Discover the Ultimate List of Complimentary 3DS Emulators Compatible with Various Devices Including Windows/Mac/iOS/Android and Web-Based Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-android-spying-tools-top-5-selections-for-covert-mobile-monitoring/"><u>Discover the Ultimate List of Free Android Spying Tools - Top 5 Selections for Covert Mobile Monitoring</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-logitech-rx250-software-for-pc-windows-7810-support/"><u>Download the Latest Logitech RX250 Software for PC (Windows 7/8/10 Support)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-x-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from Apple iPhone X</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-find-x6-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Find X6</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-mobile-photography-top-iphone-editing-effects-for-stunning-images/"><u>Mastering Mobile Photography: Top iPhone Editing Effects for Stunning Images</u></a></li>
-<li><a href="https://fox-links.techidaily.com/professional-ios-podcast-setup-boost-your-audio-quality-game-for-2024/"><u>Professional iOS Podcast Setup Boost Your Audio Quality Game for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/ps5xbox-series-x-game-screens-the-ultimate-guide-for-2024/"><u>PS5/Xbox Series X Game Screens The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620190391-the-ultimate-guide-12-hilarious-mobile-faces-you-can-try-on-any-phone/"><u>The Ultimate Guide: 12 Hilarious Mobile Faces You Can Try on Any Phone!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-paid-and-free-calendar-applications-for-ios-devices/"><u>Top Rated Paid & Free Calendar Applications for iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193087-ultimate-review-of-the-shotcut-app-unveil-its-features-and-benefits-now/"><u>Ultimate Review of the Shotcut App: Unveil Its Features and Benefits Now!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-revealing-the-art-of-zoomed-details-using-kinemasters-tools/"><u>[New] In 2024, Revealing the Art of Zoomed Details Using Kinemaster's Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-win11-elite-screen-recording-software/"><u>[Updated] 2024 Approved Win11 Elite Screen Recording Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-propel-your-productivity-mastering-marketing-in-the-telegram-world/"><u>[Updated] Propel Your Productivity Mastering Marketing in the Telegram World</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-shattering-synthetic-statistics-on-youtube/"><u>2024 Approved Shattering Synthetic Statistics on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-video-journey-choosing-the-seven-best/"><u>2024 Approved The Ultimate Video Journey Choosing the Seven Best</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>All You Need To Know About Mega Greninja For Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/batch-file-deletion-on-windows-a-step-by-step-guide-by-yl-software/"><u>Batch File Deletion on Windows: A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/diy-ssd-replacement-for-your-toshiba-satellite-c50-comprehensive-beginners-walkthrough/"><u>DIY SSD Replacement for Your Toshiba Satellite C50: Comprehensive Beginner's Walkthrough</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-virtualization-at-no-cost-discover-the-steps-to-downloading-vmwares-latest-free-personal-edition-for-fusion-pro-and-workstation-pro-insights-from88/"><u>Experience Virtualization at No Cost: Discover the Steps to Downloading VMware's Latest Free Personal Edition for Fusion Pro and Workstation Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211114131-9798885402774-hidden-treasures-ii/"><u>Hidden Treasures II | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-photoshop-tutorial-for-novices-essential-methods-to-enhance-your-images/"><u>Step-by-Step Photoshop Tutorial for Novices: Essential Methods to Enhance Your Images</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamline-your-kubernetes-management-with-red-hats-latest-innovation-openshift-lightspeed-a-smart-ai-tool-tailored-for-admins/"><u>Streamline Your Kubernetes Management with Red Hat's Latest Innovation - OpenShift Lightspeed, a Smart AI Tool Tailored for Admins</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-the-chaos-organizing-linux-and-open-source-manuals-a-comprehensive-guide/"><u>Taming the Chaos: Organizing Linux & Open Source Manuals - A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-gateway-to-artificial-intelligence-made-simple-with-superduperdb-exclusive-analysis-by-zdnet/"><u>The Gateway to Artificial Intelligence Made Simple with SuperDuperDB – Exclusive Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-trending-coding-languages-best-platforms-to-master-them-insights-from-zdnet/"><u>Top Trending Coding Languages : Best Platforms to Master Them - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/white-house-endorses-open-source-ai-innovation-in-recent-report-exclusive-analysis-by-zdnet/"><u>White House Endorses Open Source AI Innovation in Recent Report – Exclusive Analysis by ZDNet</u></a></li>
 </ul></div>
 

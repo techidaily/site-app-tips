@@ -1,7 +1,7 @@
 ---
 title: Forgetting Passwords Fuels Growing Demand for Biometric Security Solutions
-date: 2025-02-08T21:38:05.567Z
-updated: 2025-02-09T22:23:48.486Z
+date: 2025-02-14T16:00:47.762Z
+updated: 2025-02-19T22:37:37.727Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,22 +99,18 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-digital-repository-open-source-game-tunes-for-2024/"><u>[New] Digital Repository Open Source Game Tunes for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-complete-rankings-of-mobile-apps-altering-your-speech/"><u>[Updated] The Complete Rankings of Mobile Apps Altering Your Speech</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/aiaifogg-movavi/"><u>AI簡訊捕捉AIF到OGG: 使用 Movavi 自由轉換工具</u></a></li>
-<li><a href="https://app-tips.techidaily.com/challenges-for-ai-communication-in-multilingual-contexts-revealed-by-stanford-study-featured-on-zdnet/"><u>Challenges for AI Communication in Multilingual Contexts Revealed by Stanford Study, Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/edge-computing-boom-unpacking-how-this-trend-shapes-future-careers-insights-from-zdnet/"><u>Edge Computing Boom: Unpacking How This Trend Shapes Future Careers - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-generative-ai-enhances-productivity-and-reshapes-the-role-of-software-developers-zdnet-insights/"><u>How Generative AI Enhances Productivity and Reshapes the Role of Software Developers | ZDNet Insights</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-moto-g14-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola Moto G14 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-into-the-future-jaunt-vrs-potential-explored/"><u>In 2024, Into the Future Jaunt VR's Potential Explored</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-creating-personalized-ringtones-on-iphone-and-android-devices/"><u>Step-by-Step Guide: Creating Personalized Ringtones on iPhone & Android Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-setting-up-and-troubleshooting-miracast-on-windows-11/"><u>Step-by-Step Guide: Setting Up and Troubleshooting Miracast on Windows 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210282855-9781801346344-the-practical-enneagram/"><u>The Practical Enneagram | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-bulletproof-ai-watermarks-insights-from-zdnet/"><u>The Ultimate Guide to Bulletproof AI Watermarks: Insights From ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oppo-a56s-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo A56s 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-plans-of-2024-comprehensive-reviews-and-comparisons-techradar/"><u>Top-Ranked Web Hosting Plans of 2024: Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-choosing-leading-web-hosts-of-202-expert-evaluations-and-comparisons-zdnet/"><u>Ultimate Guide to Choosing Leading Web Hosts of 202^%: Expert Evaluations and Comparisons | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-profitability-with-generative-ai-understanding-roi-challenges-and-strategies-featured-in-zdnet/"><u>Unlocking Profitability with Generative AI: Understanding ROI Challenges and Strategies | Featured in ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-future-careers-surprising-new-tech-positions-with-yet-to-be-named-titles-insights-from-zdnet/"><u>Unveiling Future Careers: Surprising New Tech Positions with Yet-to-Be-Named Titles - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-apowersoft-screen-record-unveiled-top-alternatives-reviewed/"><u>[New] 2024 Approved Apowersoft Screen Record Unveiled - Top Alternatives Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-luminous-android-video-editing-hacks-for-2024/"><u>[Updated] Luminous Android Video Editing Hacks for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/are-airpods-compatible-with-android-devices/"><u>Are AirPods Compatible with Android Devices?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/best-online-no-download-gif-conversion-services-reviewed/"><u>Best Online No-Download GIF Conversion Services Reviewed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-perform-a-seamless-whatsapp-backup-using-icloud-a-comprehensive-guide/"><u>How To Perform a Seamless WhatsApp Backup Using iCloud: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-remove-icloud-backup-data-from-your-iphone-pc-or-mac-save-storage/"><u>How to Remove iCloud Backup Data From Your iPhone, PC, or Mac: Save Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-application-dependency-resolution-with-wpm/"><u>Mastering Application Dependency Resolution with WPM</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-icloud-security-efficiently-disconnect-across-devices-with-our-3-step-process/"><u>Mastering iCloud Security: Efficiently Disconnect Across Devices with Our 3 Step Process</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rediscover-fun-in-gaming-fix-your-red-dead-redemption-2-startup-issues-today/"><u>Rediscover Fun in Gaming - Fix Your Red Dead Redemption 2 Startup Issues Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revive-your-whatsapp-chats-with-icloud-backup-step-by-step-guide/"><u>Revive Your WhatsApp Chats with iCloud Backup: Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-10-best-4k-mirrorless-cameras-for-2024/"><u>Top 10 Best 4K Mirrorless Cameras for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oneplus-nord-n30-se-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive OnePlus Nord N30 SE Screen | Dr.fone</u></a></li>
 </ul></div>
 

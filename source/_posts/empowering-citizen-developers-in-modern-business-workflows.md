@@ -1,7 +1,7 @@
 ---
 title: Empowering Citizen Developers in Modern Business Workflows
-date: 2025-01-27T16:18:28.700Z
-updated: 2025-01-29T17:10:30.725Z
+date: 2025-02-18T18:13:14.177Z
+updated: 2025-02-19T19:02:53.135Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-master-your-livestream-essential-tips-for-top-9-filters/"><u>[New] Master Your Livestream Essential Tips for Top 9 Filters</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-craft-a-unique-channel-look-for-free-for-2024/"><u>[Updated] Craft a Unique Channel Look for Free for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-creating-a-backup-securing-your-fb-messenger-records/"><u>[Updated] Creating a Backup Securing Your FB Messenger Records</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-bridging-independent-iphone-media-journeys/"><u>[Updated] In 2024, Bridging Independent iPhone Media Journeys</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easily-transition-your-saved-passwords-from-lastpass-to-icloud-for-windows-systems-zdnet/"><u>Easily Transition Your Saved Passwords From LastPass to iCloud for Windows Systems | ZDNet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/echoes-from-ages-past-understanding-viking-vernacular/"><u>Echoes From Ages Past: Understanding Viking Vernacular</u></a></li>
-<li><a href="https://app-tips.techidaily.com/half-price-savings-on-keeper-password-saver-secure-your-accounts-with-a-50-discount-techtoday/"><u>Half-Price Savings on Keeper Password Saver: Secure Your Accounts with a 50% Discount | TechToday</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-a-compreenasional-approach-to-earning-through-vimeos-revenue-systems/"><u>In 2024, A Compreenasional Approach to Earning Through Vimeo's Revenue Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-1password-assessment-superior-secure-password-handling-at-an-unbeatable-price-point-tech-insights/"><u>In-Depth 1Password Assessment: Superior, Secure Password Handling at an Unbeatable Price Point | Tech Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/private-executives-online-workshop-unlocking-exclusive-strategies-in-the-insurance-sector/"><u>Private Executives' Online Workshop: Unlocking Exclusive Strategies in the Insurance Sector</u></a></li>
-<li><a href="https://discover-help.techidaily.com/quick-guide-convert-and-download-youtube-media-as-mp4mp3-using-speedy-yt-converter/"><u>Quick Guide: Convert & Download YouTube Media as MP4/MP3 Using Speedy YT Converter</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-passwords-with-dashlane-pro-exclusive-3-month-free-offer-available-here-via-zdnet/"><u>Secure Your Passwords with Dashlane Pro: Exclusive 3-Month Free Offer Available Here via ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/security-champions-earn-big-bugcrowd-raises-bounty-ceiling-to-1m-what-zdnet-reports-on-cybersecurity-incentives/"><u>Security Champions Earn Big: Bugcrowd Raises Bounty Ceiling to $1M – What ZDNET Reports on Cybersecurity Incentives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-giant-1password-achieves-unprecedented-growth-with-62n-million-funding-round-boost-zdnet-exclusives/"><u>Tech Giant 1Password Achieves Unprecedented Growth with $62N Million Funding Round Boost | ZDNET Exclusives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-password-security-applications-and-how-to-save-on-them-according-to-zdnet/"><u>Top 5 Password Security Applications & How to Save on Them, According to ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-addressing-lg-display-driver-issues-on-various-windows-versions/"><u>Troubleshooting Tips: Addressing LG Display Driver Issues on Various Windows Versions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-protonmails-new-password-tool-promises-unbreakable-end-to-end-security-for-users/"><u>ZDNet Exclusive: ProtonMail's New Password Tool Promises Unbreakable End-to-End Security for Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-essential-5-apps-to-download-social-media-video-clips/"><u>[New] 2024 Approved Essential 5 Apps to Download Social Media Video Clips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fine-tuning-zoom-visuals-top-techniques/"><u>[Updated] Fine-Tuning Zoom Visuals Top Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-from-obscurity-to-prominence-how-to-thrive-in-youtube-streaming-for-2024/"><u>[Updated] From Obscurity to Prominence How to Thrive in Youtube Streaming for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-alternative-to-macbook-air-a-comparably-powerful-windows-laptop-reviewed-by-experts-at-zdnet/"><u>Budget-Friendly Alternative to MacBook Air: A Comparably Powerful Windows Laptop Reviewed by Experts at ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-company-appeal-with-low-code-solutions-insights-from-zdnet/"><u>Enhancing Company Appeal with Low-Code Solutions: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-guide-converting-and-editing-pdf-files-using-google-docs/"><u>Free Guide: Converting and Editing PDF Files Using Google Docs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-artificer-intelligence-the-next-gen-kubernetes-update-revealed-infotech-today/"><u>Leveraging Artificer Intelligence: The Next-Gen Kubernetes Update Revealed | InfoTech Today</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-recall-understanding-why-it-isnt-the-ultimate-privacy-disaster-top-7-insights-to-ease-your-concerns-zdnet/"><u>Microsoft Recall: Understanding Why It Isn't the 'Ultimate Privacy Disaster' – Top 7 Insights to Ease Your Concerns | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-file-migration-pc-to-iphone-setup/"><u>Navigating File Migration PC-to-iPhone Setup</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/privacy-policy-just-updated/"><u>Privacy Policy Just Updated</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-your-dark-theme-a-step-by-step-guide-on-restoring-facebooks-night-display/"><u>Reviving Your Dark Theme: A Step-by-Step Guide on Restoring FaceBook's Night Display</u></a></li>
+<li><a href="https://app-tips.techidaily.com/side-lobes-and-back-lobes/"><u>Side Lobes and Back Lobes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stay-organized-with-slackbot-your-ultimate-tutorial-for-setting-effective-reminders-in-slack/"><u>Stay Organized with Slackbot: Your Ultimate Tutorial for Setting Effective Reminders in Slack</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamline-team-collaboration-with-to-do-list-functionality-in-slack-expert-tips-from-zdnet/"><u>Streamline Team Collaboration with To-Do List Functionality in Slack | Expert Tips From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-zero-code-development-how-generative-ai-is-transforming-the-future-beyond-low-code/"><u>The Rise of Zero-Code Development: How Generative AI Is Transforming the Future Beyond Low-Code</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/toms-tech-review-expert-insights-on-latest-gadgets-and-pc-components/"><u>Tom's Tech Review: Expert Insights on Latest Gadgets and PC Components</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-a-comprehensive-overview-of-snapchat-emojis/"><u>Unlocking the Secrets: A Comprehensive Overview of Snapchat Emojis</u></a></li>
 </ul></div>
 

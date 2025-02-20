@@ -1,7 +1,7 @@
 ---
 title: "1. Engineer’s Simple App Shames McDonald's Tech: A Closer Look at the Fast-Food Giant's Missteps"
-date: 2025-01-22T17:43:56.779Z
-updated: 2025-01-29T18:31:10.409Z
+date: 2025-02-19T00:04:50.014Z
+updated: 2025-02-19T20:16:50.072Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-optimal-options-high-performance-laptops-for-videographers/"><u>[New] 2024 Approved Optimal Options High-Performance Laptops for Videographers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-mac-tools-and-tricks-for-top-tiktok-videos-editing/"><u>[New] In 2024, Mac Tools and Tricks for Top TikTok Videos Editing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-incorporate-engaging-text-in-videos-at-no-extra-cost-for-2024/"><u>[Updated] Incorporate Engaging Text in Videos at No Extra Cost for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-sound-painting-on-snapchat-shift-your-vocal-landscape-swiftly/"><u>[Updated] Sound Painting on Snapchat Shift Your Vocal Landscape Swiftly</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-rulebook-for-youtube-participants/"><u>[Updated] The Ultimate Rulebook for YouTube Participants</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-security-while-watching-the-hidden-dangers-of-weak-passwords-in-streaming-platforms-cyberwatchers-blog/"><u>Enhance Security While Watching: The Hidden Dangers of Weak Passwords in Streaming Platforms | CyberWatchers Blog</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exclusive-offer-on-jem-authenticator-and-password-manager-enhance-login-security-with-ease-dive-into-zdnet/"><u>Exclusive Offer on JEM Authenticator & Password Manager: Enhance Login Security with Ease - Dive Into ZDNet!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-cryptocom-ceo-tackles-login-challenges-post-31-million-hack-incident-covered-by-zdnet/"><u>How Crypto.com CEO Tackles Login Challenges Post $31 Million Hack Incident Covered by ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-deskjet-2755e-printer-driver-downloads-for-windows-secure-and-easy-installation-guide/"><u>HP Deskjet 2755E Printer Driver Downloads for Windows - Secure and Easy Installation Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-examination-of-1password-maximizing-security-with-high-value-for-your-dollar-a-comprehensive-review-by-zdnets-experts/"><u>In-Depth Examination of 1Password: Maximizing Security with High Value for Your Dollar - A Comprehensive Review by ZDNet's Experts</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-v27-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo V27 Phone FRP Lock</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-dashlanes-offerings-price-breakdown-features-unveiled-and-step-by-step-setup-tutorial-cyberwisezine/"><u>Navigating Dashlane's Offerings: Price Breakdown, Features Unveiled & Step-by-Step Setup Tutorial | CyberWiseZine</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfect-iphone-photos-quick-editing-hacks/"><u>Perfect iPhone Photos Quick Editing Hacks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-account-with-2fa-integrating-githubs-new-feature-using-iphone-and-android-devices/"><u>Secure Your Account with 2FA: Integrating GitHub's New Feature Using iPhone & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-digital-keykeeper-essential-steps-for-safer-password-management-zdnet/"><u>Securing Your Digital Keykeeper: Essential Steps for Safer Password Management | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-turning-on-the-bitwarden-security-prompt-for-your-master-key/"><u>Step-by-Step: Turning On the Bitwarden Security Prompt for Your Master Key</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-perfecting-drone-captured-imagery-a-gimbal-journey/"><u>[New] 2024 Approved Perfecting Drone-Captured Imagery A Gimbal Journey</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-make-a-cool-youtube-video-intro-in-imovie-step-by-step/"><u>[Updated] How to Make a Cool YouTube Video Intro in iMovie (Step-by-Step)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-revolutionizing-video-revenue-a-conducive-guide-to-youtube-profits/"><u>[Updated] Revolutionizing Video Revenue A Conducive Guide to Youtube Profits</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-speedy-drawing-in-photos-a-win10-guide-to-efficient-edits-for-2024/"><u>[Updated] Speedy Drawing in Photos A Win10 Guide to Efficient Edits for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-insiders-guide-to-preserving-whatsapp-chat-history/"><u>[Updated] The Insider's Guide to Preserving WhatsApp Chat History</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-yogo-profile-picture-guide-dimensions-in-mm-aspect-ratio-minutes/"><u>2024 Approved YoGo Profile Picture Guide Dimensions in Mm², Aspect Ratio, Minutes</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-setup-adjusting-printer-options-via-the-windows-control-panel-with-yl-software-expertise/"><u>Easy Setup: Adjusting Printer Options via the Windows Control Panel with YL Software Expertise</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-the-future-the-latest-white-house-findings-support-open-source-artificial-intelligence-insights-from-zdnet/"><u>Embracing the Future: The Latest White House Findings Support Open-Source Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-cto-forecasts-major-shifts-in-cloud-computing-strategies-insights-from-tech-leaders/"><u>Expert CTO Forecasts Major Shifts in Cloud Computing Strategies - Insights From Tech Leaders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-ultimate-top-5-to-do-apps-for-boosting-productivity-cnet/"><u>Exploring the Ultimate Top 5 To-Do Apps for Boosting Productivity - CNET</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hands-on-review-experience-the-dell-monitor-premium-noise-cancelling-headphones-and-crystalclear-webcam/"><u>Hands-On Review: Experience the Dell Monitor, Premium Noise Cancelling Headphones, & CrystalClear Webcam</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-low-code-development-for-enhanced-employer-branding-a-look-at-zdnet-perspectives/"><u>Leveraging Low-Code Development for Enhanced Employer Branding: A Look at ZDnet Perspectives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-obstacles-to-utilize-generative-ai-effectively-reveals-new-study-by-deloitte-featured-on-zdnet/"><u>Overcoming Obstacles to Utilize Generative AI Effectively, Reveals New Study by Deloitte Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/scaling-your-business-with-anthropics-revolutionary-claude-platform-unleash-the-power-of-ai/"><u>Scaling Your Business with Anthropic's Revolutionary Claude Platform: Unleash the Power of AI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-downloading-of-bluetooth-drivers-for-windows-7-users/"><u>Seamless Downloading of Bluetooth Drivers for Windows 7 Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/soaring-investments-in-generative-ai-training-overlooked-by-insufficient-risk-metrics-reveals-new-research-from-stanford-zdnet-exclusive/"><u>Soaring Investments in Generative AI Training Overlooked by Insufficient Risk Metrics, Reveals New Research From Stanford | ZDNET Exclusive</u></a></li>
+<li><a href="https://app-tips.techidaily.com/verizon-enhances-enterprise-solutions-with-celonas-innovative-5g-technology/"><u>Verizon Enhances Enterprise Solutions with Celona's Innovative 5G Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-were-my-im-messages-undelivered-yesterday-discover-the-reasons-on-zdnet/"><u>Why Were My IM Messages Undelivered Yesterday? Discover the Reasons on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-5-main-options-for-continued-use/"><u>Windows 10 End of Life Approaching: Discover Your 5 Main Options for Continued Use</u></a></li>
 </ul></div>
 

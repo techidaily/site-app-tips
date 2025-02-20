@@ -1,7 +1,7 @@
 ---
 title: Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News
-date: 2025-02-08T02:23:46.811Z
-updated: 2025-02-09T22:29:59.515Z
+date: 2025-02-16T04:00:02.587Z
+updated: 2025-02-19T19:59:04.126Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it suffered a ransomware attack in July that led to the breach of sensitive employee and patient information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it
 [![2020-03-18-at-12-23-32-pm.jpg](https://www.zdnet.com/a/img/resize/3c34ebf72342b1f0704550e1e2edf445f0628572/2020/03/18/7c2e2258-7566-4e66-9059-a1a8aedf00b4/2020-03-18-at-12-23-32-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best security key While robust passwords help you secure your valuable online accounts, hardware-based two-factor authentication takes that security to the next level.  Read now](https://www.zdnet.com/article/best-security-key/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The breach involves the information of 750,000 patients and 522 current and former OAG employees. 
@@ -90,18 +90,14 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-perfect-your-content-with-tiktoks-number-manipulation-tricks/"><u>[New] Perfect Your Content with TikTok's Number Manipulation Tricks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-cutting-edge-creativity-mastering-the-art-of-graphic-design-careers/"><u>[Updated] 2024 Approved Cutting-Edge Creativity Mastering the Art of Graphic Design Careers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-freepaid-luminar-the-ultimate-lightroom-substitute/"><u>[Updated] 2024 Approved Free/Paid Luminar The Ultimate Lightroom Substitute</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-harness-your-view-count-cross-platform-studio-methods/"><u>[Updated] Harness Your View Count Cross-Platform Studio Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/10-best-ai-powered-chatbots-that-will-transform-how-you-communicate/"><u>10 Best AI-Powered Chatbots That Will Transform How You Communicate</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-next-gen-of-visual-perfection-a-review-of-eizos-cg318-4k/"><u>2024 Approved The Next Gen of Visual Perfection A Review of EIZO's CG318-4K</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-watching-social-network-vids-through-the-television-glass/"><u>2024 Approved Watching Social Network Vids Through the Television Glass?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/exclusive-content-on-twitter-no-twitting-for-2024/"><u>Exclusive Content on Twitter - No Twitting for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-chatgpt-2024-complete-analysis-of-functionality-characteristics-and-server-hiccups/"><u>Exploring ChatGPT 2024: Complete Analysis of Functionality, Characteristics & Server Hiccups</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-x-by-phone-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone X by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionize-conversations-with-these-top-10-artificial-intelligence-chatbot-tools/"><u>Revolutionize Conversations with These Top 10 Artificial Intelligence Chatbot Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-complete-insight-into-eva-ai-ex-journey-chatbot-a-must-read-reveal-for-tech-enthusiasts/"><u>The Complete Insight Into EVA AI (Ex-Journey) Chatbot: A Must-Read Reveal for Tech Enthusiasts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-chatsonic-the-ultimate-review-for-insights-into-an-intelligent-artificial-conversational-agent/"><u>Unveiling Chatsonic: The Ultimate Review for Insights Into an Intelligent Artificial Conversational Agent</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-checklist-for-podcast-rss-feed-generation/"><u>2024 Approved The Ultimate Checklist for Podcast RSS Feed Generation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/25-best-tools-enhanced-email-writing-with-summarize-and-gpt/"><u>25 Best Tools: Enhanced Email Writing with Summarize & GPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advanced-ai-load-management-in-new-kubernetes-version-unveiled-technews/"><u>Advanced AI Load Management in New Kubernetes Version Unveiled | TechNews</u></a></li>
+<li><a href="https://network-issues.techidaily.com/harmonizing-nvidia-7025-with-windows-11-systems/"><u>Harmonizing Nvidia 7025 with Windows 11 Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/implications-of-embracing-decentralization-and-web3-technologies-for-businesses-an-in-depth-analysis-by-zdnet/"><u>Implications of Embracing Decentralization & Web3 Technologies for Businesses - An In-Depth Analysis by ZDNET</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-experts-guide-to-xbox-one-screen-captures/"><u>In 2024, The Expert's Guide to Xbox One Screen Captures</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-a-comprehensive-guide-to-taming-linux-and-open-source-docs/"><u>Organizing Chaos: A Comprehensive Guide to Taming Linux & Open Source Docs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-uploading-images-from-iphone-to-windows-pc/"><u>Step-by-Step Guide: Uploading Images From iPhone to Windows PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-soundtrack-of-success-on-instagram/"><u>The Soundtrack of Success on Instagram</u></a></li>
 </ul></div>
 

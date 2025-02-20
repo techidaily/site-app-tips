@@ -1,7 +1,7 @@
 ---
 title: "Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default"
-date: 2025-02-04T19:44:09.851Z
-updated: 2025-02-09T23:16:42.509Z
+date: 2025-02-19T02:06:06.076Z
+updated: 2025-02-20T00:54:17.107Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ Google [has auto enrolled](https://blog.google/technology/safety-security/reduci
 The initiative also involved requiring 2 million YouTube users to enable it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google
@@ -79,16 +79,16 @@ Google [announced](https://www.zdnet.com/article/by-end-of-2021-google-plans-to-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-swiftly-upgrade-your-videos-with-professional-level-fb-subtitle-making/"><u>[Updated] In 2024, Swiftly Upgrade Your Videos with Professional-Level FB Subtitle Making</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-top-10-budget-friendly-cloud-service-providers/"><u>2024 Approved Top 10 Budget-Friendly Cloud Service Providers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-crm-solutions-for-2-surveillance-system-we-use-a-variety-of-methods-to-detect-and-monitor-suspicious-activity-within-our-facility-these-include-the-fol79/"><u>Best CRM Solutions for 2 Surveillance System, We Use a Variety of Methods to Detect and Monitor Suspicious Activity Within Our Facility. These Include the Following Steps:</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/conversione-on-line-gratuita-da-aac-a-3gp-con-movavi/"><u>Conversione On-Line Gratuita Da AAC a 3GP Con Movavi</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-tech-teams-amplifying-your-voice-in-the-realm-of-customer-experience-insights-from-zdnet/"><u>Empowering Tech Teams: Amplifying Your Voice in the Realm of Customer Experience - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hands-on-review-premium-experience-with-dell-monitor-elite-anc-earphones-and-top-tier-hd-webcam/"><u>Hands-On Review: Premium Experience with Dell Monitor, Elite ANC Earphones & Top-Tier HD Webcam</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-slacks-new-functionality-a-step-by-step-tutorial-on-using-slack-connect-effectively/"><u>Mastering Slack's New Functionality - A Step-by-Step Tutorial on Using Slack Connect Effectively</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-battlenet-not-responding-issue-your-comprehensive-2nd-step-tutorial/"><u>Solving the 'Battle.net Not Responding' Issue: Your Comprehensive 2nD-Step Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-pivotal-role-of-enterprise-architects-in-spearheading-digital-change-zdnet/"><u>The Pivotal Role of Enterprise Architects in Spearheading Digital Change | ZDNet</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsofts-crucial-year-ahead-to-fix-windows-10-issues-techinsight/"><u>Urgent Challenge: Microsoft's Crucial Year Ahead to Fix Windows 10 Issues | TechInsight</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-prime-unboxers-the-ultimate-channel-selection-guide-2024-edition/"><u>[New] Prime Unboxers The Ultimate Channel Selection Guide, 2024 Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-cutting-edge-screen-capturing-with-the-latest-camstudio-release/"><u>[Updated] 2024 Approved Cutting-Edge Screen Capturing with the Latest CamStudio Release</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-clarity-unleashed-in-depth-review-of-the-hp-z32-x-display/"><u>[Updated] In 2024, Clarity Unleashed In-Depth Review of the HP Z32 X Display</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-photographys-color-transformation-secrets/"><u>2024 Approved Photography's Color Transformation Secrets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-5-ai-technologies-for-transforming-grayscale-videos-into-full-color-masterpieces/"><u>Leading 5 AI Technologies for Transforming Grayscale Videos Into Full Color Masterpieces</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-signal-clarity-why-the-1byone-digital-amplified-tv-antenna-is-a-king-in-budget-friendly-indoor-reception/"><u>Maximizing Signal Clarity: Why the 1ByOne Digital Amplified TV Antenna Is a King in Budget-Friendly Indoor Reception</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/seamless-cross-posting-of-tiktok-content-to-facebook/"><u>Seamless Cross-Posting of TikTok Content to Facebook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-3-video-to-text-conversion-software-a-comprehensive-guide/"><u>Top 3 Video-to-Text Conversion Software: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-substitutes-for-elevenlabs-explored-detailed-comparison-and-key-characteristics/"><u>Top 5 Substitutes for ElevenLabs Explored: Detailed Comparison and Key Characteristics</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-superior-substitutes-to-zapier-enhance-your-workflow-automation/"><u>Top 5 Superior Substitutes to Zapier: Enhance Your Workflow Automation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/vrijwelke-verwerking-van-mxf-in-mpg-format-expertise-onlines-met-movavi-gebruikersvriendelijke-oplichters/"><u>Vrijwelke Verwerking Van MXF in MPG Format - Expertise Onlines Met Movavi Gebruikersvriendelijke Oplichters</u></a></li>
 </ul></div>
 

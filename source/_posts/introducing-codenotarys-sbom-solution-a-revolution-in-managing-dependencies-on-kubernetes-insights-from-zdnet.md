@@ -1,7 +1,7 @@
 ---
 title: "Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet"
-date: 2025-02-04T16:05:27.690Z
-updated: 2025-02-09T18:28:56.186Z
+date: 2025-02-15T23:32:00.860Z
+updated: 2025-02-19T20:10:28.456Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,14 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-tutorial-for-downloading-movie-maker-6-on-windows/"><u>[New] 2024 Approved Tutorial for Downloading Movie Maker 6 on Windows</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-optimal-yt-thumbnails-aspect-ratios-decoded/"><u>[New] Optimal YT Thumbnails Aspect Ratios Decoded</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-vivaldis-new-inbuilt-email-application-a-marvel-of-efficiency-and-style-tech-insights/"><u>Discover Vivaldi’s New Inbuilt Email Application: A Marvel of Efficiency and Style | Tech Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-why-aiops-matters-7-key-points-backed-by-zdnets-research/"><u>Discover Why AIOps Matters: 7 Key Points Backed by ZDNet's Research</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-updates-transforming-the-way-users-engage-with-chatgpt-plugins/"><u>Essential Updates: Transforming the Way Users Engage with ChatGPT Plugins</u></a></li>
-<li><a href="https://program-issues.techidaily.com/farming-simulator-22-pc-version-investigating-potential-frame-rate-drops-and-solutions/"><u>Farming Simulator 22 PC Version: Investigating Potential Frame Rate Drops and Solutions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-tv-for-virtual-concerts/"><u>In 2024, Ultimate TV for Virtual Concerts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-the-latest-enhancement-juniper-networks-integrated-cloud-firewall-into-its-sase-solution-for-optimized-cybersecurity/"><u>Introducing the Latest Enhancement: Juniper Network's Integrated Cloud Firewall Into Its SASE Solution for Optimized Cybersecurity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-the-underdog-how-a-simple-app-challenges-mcdonalds-dominance-insights-from-zdnet/"><u>The Rise of the Underdog: How a Simple App Challenges McDonald's Dominance - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dive-into-video-production-mastering-green-screens-on-yt/"><u>[New] Dive Into Video Production Mastering Green Screens on YT</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-flip-your-feed-hot-tiktok-challenges-you-should-master-top-10/"><u>[Updated] In 2024, Flip Your Feed! Hot TikTok Challenges You Should Master (Top 10)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-orientation-overhaul-instagrams-video-rotation-secret/"><u>[Updated] In 2024, Orientation Overhaul Instagram's Video Rotation Secret</u></a></li>
+<li><a href="https://app-tips.techidaily.com/7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/el-success-across-social-networks-youtube-plus-more-for-2024/"><u>Channel Success Across Social Networks YouTube + More for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/detailed-insight-into-twistedwave-exploring-benefits-limitations-premier-qualities-and-usage-scenarios/"><u>Detailed Insight Into TwistedWave: Exploring Benefits, Limitations, Premier Qualities, and Usage Scenarios</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-20-most-exceptional-lock-screen-utilities-tailored-for-android-smartphones/"><u>Discover the 20 Most Exceptional Lock Screen Utilities Tailored for Android Smartphones</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-itel-p55-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Itel P55 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/imovie-editor-guide-detailed-analysis-reviews-and-alternative-solutions-for-video-editing/"><u>IMovie Editor Guide: Detailed Analysis, Reviews & Alternative Solutions for Video Editing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-realme-c55-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Realme C55? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/lensdirect-blue-light-glasses-review/"><u>LensDirect Blue Light Glasses Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastery-over-manual-signal-interpretation-systems-for-2024/"><u>Mastery Over Manual Signal Interpretation Systems for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mumu-player-the-ultimate-powerful-android-emulation-tool-for-your-computer/"><u>MuMu Player: The Ultimate Powerful Android Emulation Tool for Your Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mycam-recorder-review-for-2024/"><u>MyCam Recorder Review for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-iphone-a-comprehensive-guide-to-enabling-touch-id-and-passcode-protection/"><u>Securing Your iPhone: A Comprehensive Guide to Enabling Touch ID and Passcode Protection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-how-to-shield-your-iphone-and-ipad-against-unwanted-emails-with-ios-18-features/"><u>Step-by-Step Tutorial: How to Shield Your iPhone and iPad Against Unwanted Emails with iOS 18 Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-18-emoji-keyboard-apps-compatible-with-both-ios-and-android-devices/"><u>Top 18 Emoji Keyboard Apps Compatible with Both iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-apk-applications-comprehensive-downloads-and-reviews-of-games-tunes-root-tools/"><u>Top APK Applications: Comprehensive Downloads & Reviews of Games, Tunes, Root Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-to-address-the-full-scratch-disk-problem-in-photoshop/"><u>Troubleshooting Techniques to Address the Full Scratch Disk Problem in Photoshop</u></a></li>
 </ul></div>
 

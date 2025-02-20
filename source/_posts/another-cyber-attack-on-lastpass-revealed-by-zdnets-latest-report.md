@@ -1,7 +1,7 @@
 ---
 title: Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report
-date: 2025-02-03T22:40:32.029Z
-updated: 2025-02-10T02:43:55.497Z
+date: 2025-02-18T21:06:53.292Z
+updated: 2025-02-19T17:22:51.863Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,17 +81,22 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-a-thumbnail-for-your-youtube-free-easily/"><u>[New] 2024 Approved How to Make a Thumbnail for Your YouTube Free Easily</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-finding-the-balance-adding-videos-to-text-on-a-budget/"><u>[New] In 2024, Finding the Balance Adding Videos to Text on a Budget</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-mastering-social-media-tweeting-videos-to-facebook-for-2024/"><u>[Updated] Mastering Social Media Tweeting Videos to Facebook for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/5-advanced-ai-solutions-dominating-the-market-in-automatic-video-editing-technology/"><u>5 Advanced AI Solutions Dominating the Market in Automatic Video Editing Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-elevenlabs-discovering-four-remarkable-alternatives-an-in-depth-analysis-of-their-unique-features/"><u>Beyond ElevenLabs: Discovering Four Remarkable Alternatives - An In-Depth Analysis of Their Unique Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-adobes-full-voice-amplifier-features-and-tips/"><u>Comprehensive Guide to Adobe's Full Voice Amplifier: Features & Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-top-8-unrestricted-character-ais-expert-options-without-limitations/"><u>Discover Top 8 Unrestricted Character AIs: Expert Options Without Limitations</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-resolve-minecraft-unresponsive-on-windowsmac/"><u>Fixes & Solutions: How to Resolve 'Minecraft Unresponsive' On Windows/Mac</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-the-value-error-in-excel-2007-by-stellar-guide/"><u>How to Fix the #Value! Error in Excel 2007?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/logitech-racing-wheel-support-software-downloads-compatible-with-windows-operating-systems-win-11-10-7/"><u>Logitech Racing Wheel Support – Software Downloads Compatible with Windows Operating Systems (Win 11, 10, 7)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-streamlining-film-shoots-a-beginners-guide-for-2024/"><u>[New] Streamlining Film Shoots A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unlock-your-phone-camera-free-and-easy-for-2024/"><u>[New] Unlock Your Phone Camera, Free & Easy for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-first-steps-in-lunapic-your-photography-toolkit/"><u>[Updated] In 2024, First Steps in LunaPic Your Photography Toolkit</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-new-horizons-of-the-linux-kernel-version-6-whats-inside-computingtoday/"><u>Exploring the New Horizons of the Linux Kernel Version 6.^ - What's Inside? | ComputingToday</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-pro-converter-mp4-videos-for-social-media-fb-focus/"><u>In 2024, Pro Converter MP4 Videos for Social Media (FB Focus)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-16-vs-iphone-14-assessing-value-and-performance-for-your-next-smartphone-update-techinsight/"><u>IPhone 16 Vs. IPhone 14: Assessing Value & Performance for Your Next Smartphone Update | TechInsight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-through-2022s-leading-accounting-solutions-your-ultimate-comparison-guide/"><u>Navigating Through 2022'S Leading Accounting Solutions: Your Ultimate Comparison Guide.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-uncertainty-mastering-the-limitations-of-modern-ai-tools-tech-insights-on-zdnet/"><u>Navigating Uncertainty: Mastering the Limitations of Modern AI Tools | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-10-robotic-voice-generators/"><u>New 2024 Approved Top 10 Robotic Voice Generators</u></a></li>
+<li><a href="https://app-tips.techidaily.com/office-chaos-when-displeasure-over-communication-app-etiquette-spirals-out-of-control-insights-from-zdnet/"><u>Office Chaos: When Displeasure Over Communication App Etiquette Spirals Out of Control - Insights From ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnect-your-controller-windows-xpxbox-failsafe/"><u>Reconnect Your Controller: Windows XPXbox Failsafe</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairstream-fix-flawed-videos/"><u>RepairStream: Fix Flawed Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/startup-celona-selected-by-verizon-business-for-exclusive-private-5g-implementation/"><u>Startup Celona Selected by Verizon Business for Exclusive Private 5G Implementation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-advancement-alert-verizon-business-partners-with-startup-celona-for-next-gen-private-5g-services/"><u>Tech Advancement Alert: Verizon Business Partners with Startup Celona for Next-Gen Private 5G Services</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-leading-remote-access-tools-reviewed-zdnets-expert-analysis/"><u>Top 5 Leading Remote Access Tools Reviewed - ZDNet's Expert Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-microsoft-faces-critical-challenge-with-windows-11-just-one-year-leftzdnet-exclusive/"><u>Urgent: Microsoft Faces Critical Challenge with Windows 11 - Just One Year Left![ZDNet Exclusive]</u></a></li>
 </ul></div>
 

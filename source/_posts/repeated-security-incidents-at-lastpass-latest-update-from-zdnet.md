@@ -1,7 +1,7 @@
 ---
 title: Repeated Security Incidents at LastPass - Latest Update From ZDNet
-date: 2025-02-02T17:45:55.783Z
-updated: 2025-02-09T19:50:11.837Z
+date: 2025-02-16T17:06:47.409Z
+updated: 2025-02-19T18:21:11.446Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,20 +81,16 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-youtube-titles-crafted-by-ai/"><u>[New] 2024 Approved Top YouTube Titles Crafted by AI</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-easy-peasy-automating-the-repetitive-view-of-youtube-videos/"><u>[New] In 2024, Easy Peasy Automating the Repetitive View of YouTube Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-innovative-notetaking-for-mobile-photographers-for-2024/"><u>[Updated] Innovative Notetaking for Mobile Photographers for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-cutting-edge-video-sharing-from-facebook-to-whatsapp/"><u>2024 Approved Cutting-Edge Video Sharing From Facebook to WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-perform-a-seamless-whatsapp-backup-using-icloud-a-comprehensive-guide/"><u>How To Perform a Seamless WhatsApp Backup Using iCloud: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-remove-icloud-backup-data-from-your-iphone-pc-or-mac-save-storage/"><u>How to Remove iCloud Backup Data From Your iPhone, PC, or Mac: Save Storage</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-scale-up-channel-followers-faster-and-cheaper/"><u>In 2024, Scale Up Channel Followers Faster and Cheaper</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-icloud-security-efficiently-disconnect-across-devices-with-our-3-step-process/"><u>Mastering iCloud Security: Efficiently Disconnect Across Devices with Our 3 Step Process</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revive-your-whatsapp-chats-with-icloud-backup-step-by-step-guide/"><u>Revive Your WhatsApp Chats with iCloud Backup: Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-managing-and-exporting-icloud-keychain-credentials-on-a-mac-computer/"><u>Step-by-Step Tutorial: Managing and Exporting iCloud Keychain Credentials on a Mac Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-m2-upgrade-in-macbook-air-a-teardrop-worthy-experience-revealed/"><u>The M2 Upgrade in MacBook Air: A Teardrop-Worthy Experience, Revealed .</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-step-by-step-guide-how-to-effortlessly-backup-and-sync-your-iphone-with-icloud/"><u>Ultimate Step-by-Step Guide: How to Effortlessly Backup and Sync Your iPhone with iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-icloud-keychain-a-complete-guide-to-unlocking-your-iphones-secure-storage/"><u>Understanding iCloud Keychain: A Complete Guide to Unlocking Your iPhone's Secure Storage</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/video-vibrance-10-tips-for-dynamic-color-manipulation/"><u>Video Vibrance 10 Tips for Dynamic Color Manipulation</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1725284220973-winx-dvd-ripper/"><u>비디오 변환 소프트웨어 WinX DVD Ripper: 최신 기술로 원향이 있는 촬영 시작!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-innovative-ways-to-record-without-background-sounds-for-2024/"><u>[New] Innovative Ways to Record Without Background Sounds for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-behind-the-curtain-exclusive-review-of-apeaksofts-tech-advancements/"><u>[Updated] 2024 Approved Behind the Curtain Exclusive Review of Apeaksoft's Tech Advancements</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebook-today-changes-and-what-they-mean-for-you/"><u>[Updated] In 2024, Facebook Today Changes and What They Mean for You</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/sd/"><u>新型自動車でSD音楽再生問題をどう解消する？ 最新調査レポート</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-essential-is-devops-for-staying-ahead-in-business-ensuring-safety-through-top-strategies-insights-from-zdnet/"><u>How Essential Is DevOps for Staying Ahead in Business: Ensuring Safety Through Top Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-11-pro-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 11 Pro Without Previous Owner?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-major-cloud-services-aws-azure-and-google-cloud-for-a-hybrid-and-saas-strategy-insights-by-zdnet/"><u>In-Depth Analysis of Major Cloud Services: AWS, Azure, and Google Cloud for a Hybrid and SaaS Strategy | Insights by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-process-of-upgrading-your-system-to-ubuntu-2404-tips-and-tricks-from-zdnet/"><u>Mastering the Process of Upgrading Your System to Ubuntu 24.04: Tips and Tricks From ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211012179-9781803413297-meeting-the-moment-with-kindness/"><u>Meeting the Moment with Kindness | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-corporate-drama-unveiled-by-zdnet/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown – Corporate Drama Unveiled by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/setting-up-libreoffice-preferences-seamlessly-convert-to-microsoft-office-formats/"><u>Setting Up LibreOffice Preferences: Seamlessly Convert to Microsoft Office Formats</u></a></li>
 </ul></div>
 

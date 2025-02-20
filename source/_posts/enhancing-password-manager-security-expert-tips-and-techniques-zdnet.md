@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]"
-date: 2025-02-04T01:48:20.563Z
-updated: 2025-02-09T19:19:52.229Z
+date: 2025-02-18T03:44:41.782Z
+updated: 2025-02-19T22:14:08.713Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ Creating and remembering a unique and complex password for each of your accounts
 A good password manager will create, store, and apply strong and complex passwords across the board, thereby securing your accounts. I've used a password manager for years and wouldn't be able to juggle all my online accounts without it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -46,7 +46,7 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -66,7 +66,7 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -90,7 +90,7 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -139,17 +139,22 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-10-best-free-selfie-apps-for-iphone-x87-plus/"><u>[New] 2024 Approved 10 Best Free Selfie Apps for iPhone X/8/7 Plus</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-best-youtube-equipment-what-you-need-to-start-your-channel/"><u>[Updated] In 2024, The Best YouTube Equipment What You Need to Start Your Channel</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-recalibrating-youtube-rearranging-with-ease-and-speed-for-2024/"><u>[Updated] Recalibrating YouTube Rearranging with Ease and Speed for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-pinterest-a-players-sharing-snapchat-stories/"><u>2024 Approved Pinterest A-Players Sharing Snapchat Stories</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-points-exploring-how-generative-artificial-intelligence-is-revolutionizing-user-interface-design-featured-on-zdnet/"><u>Beyond Clicks & Points: Exploring How Generative Artificial Intelligence Is Revolutionizing User Interface Design | Featured on ZDNET</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-dreamlight-valley-stability-issues-top-6-troubleshooting-steps/"><u>Fix Dreamlight Valley Stability Issues: Top 6 Troubleshooting Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-not-getting-android-texts-expert-tips-and-fixes/"><u>How to Resolve iPhone Not Getting Android Texts – Expert Tips and Fixes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-web-hosting-providers-in-depth-analysis-by-professionals-pcmag/"><u>Leading Web Hosting Providers : In-Depth Analysis by Professionals | PCMag</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-ai-limitations-an-in-depth-look-at-precision-challenges-by-zdnet/"><u>Mastering AI Limitations: An In-Depth Look at Precision Challenges by ZDNet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-format-changes-seamless-transformation-of-video-and-audio-files/"><u>Mastering Format Changes: Seamless Transformation of Video and Audio Files</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-digital-defense-the-urgent-call-for-enhanced-cybersecurity-expertise-amidst-legacy-system-challenges/"><u>Navigating the Digital Defense: The Urgent Call for Enhanced Cybersecurity Expertise Amidst Legacy System Challenges</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-your-netgear-devices-julys-ultimate-2024-default-password-collection/"><u>Unlocking Your NETGEAR Devices: July's Ultimate 2024 Default Password Collection</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-techniques-for-vimeo-video-insertion-into-corporate-presentations/"><u>[New] In 2024, Techniques for Vimeo Video Insertion Into Corporate Presentations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apache-introduces-security-fix-in-version-2170-for-log4js-dos-issue-tech-news-by-zdnet/"><u>Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-ideas-to-talk-about-in-daily-vlogging/"><u>Fresh Ideas to Talk About in Daily Vlogging</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-free-download-of-the-intel-dual-band-ac-7260-wifi-card-driver-now/"><u>Get Your [Free Download] of the Intel Dual Band AC 7260 WiFi Card Driver Now!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/getting-started-with-vn-video-editor-on-pc-a-review/"><u>Getting Started with VN Video Editor on PC A Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808355366-how-to-convert-soundcloud-to-mp3-quickly-and-easily/"><u>How to Convert SoundCloud to MP3 - Quickly & Easily!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-youtube-a-guide-for-gamers-live-broadcasts/"><u>In 2024, Mastering YouTube A Guide for Gamers' Live Broadcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-compreehers-guide-to-srt-file-flexibility/"><u>In 2024, The Compreeher’s Guide to SRT File Flexibility</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-1password-why-this-top-tier-password-safe-is-a-smart-investment-tech-insights-from-zdnet/"><u>In-Depth Analysis of 1Password: Why This Top-Tier Password Safe Is a Smart Investment - Tech Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-asus-ax6000-rt-ax88u-the-ultimate-smart-wi-fi-6-router/"><u>In-Depth Analysis of the Asus AX6000 (RT-AX88U) - The Ultimate Smart Wi-Fi 6 Router</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-1password-leading-the-pack-expert-evaluation-of-premium-digital-key-management-solutions-by-zdnet/"><u>Is 1Password Leading the Pack? Expert Evaluation of Premium Digital Key Management Solutions by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-password-manager-solutions-for-2cy2024-thoroughly-reviewed-by-tech-gurus-at-zdnet/"><u>Leading Password Manager Solutions for 2CY2024: Thoroughly Reviewed by Tech Gurus at ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-your-privacy-avoid-hidden-crypto-mining-risks-while-downloading-spider-man-no-way-home-using-bittorrent-insights-from-zdnet/"><u>Protect Your Privacy: Avoid Hidden Crypto Mining Risks While Downloading Spider-Man: No Way Home Using BitTorrent - Insights From ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revived-lenovo-interactive-screen-functionality/"><u>Revived Lenovo Interactive Screen Functionality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/security-breach-lastpass-compromised-once-more-critical-update-from-zdnet/"><u>Security Breach: LastPass Compromised Once More - Critical Update From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/slash-your-costs-secure-a-whopping-50-discount-on-dashlanes-elite-password-manager-now/"><u>Slash Your Costs: Secure a Whopping 50% Discount on Dashlane's Elite Password Manager - Now!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/switch-from-lastpass-to-icloud-passwords-on-windows-a-step-by-step-guide-zdnet/"><u>Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet</u></a></li>
 </ul></div>
 

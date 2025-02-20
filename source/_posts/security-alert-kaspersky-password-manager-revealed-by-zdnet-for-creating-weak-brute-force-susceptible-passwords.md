@@ -1,7 +1,7 @@
 ---
 title: "Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords"
-date: 2025-02-04T17:43:49.932Z
-updated: 2025-02-09T18:14:45.411Z
+date: 2025-02-13T00:51:51.491Z
+updated: 2025-02-19T16:39:53.251Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Suppose you are in the business of generating passwords, it would probably be a 
 In a [blog post](https://donjon.ledger.com/kaspersky-password-manager/) to cap off an almost two year saga, Ledger Donjon head of security research Jean-Baptiste Bédrune showed KPM was doing just that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,7 +66,7 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -92,17 +92,24 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-mac-basics-for-creating-attractive-first-youtube-videos/"><u>[New] In 2024, Mac Basics for Creating Attractive First Youtube Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/busting-top-5-fallacies-on-profiting-from-your-data-insights-zdnet/"><u>Busting Top 5 Fallacies on Profiting From Your Data Insights - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fitness-coaching-revolution-integrating-gpt-solutions/"><u>Fitness Coaching Revolution: Integrating GPT Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-grok-ventures-acquisition-of-a-significant-stake-foils-agl-demerger-attempts-with-mike-cannon-brookes-at-helm-zdnet/"><u>How Grok Ventures' Acquisition of a Significant Stake Foils AGL DeMerger Attempts with Mike Cannon-Brookes at Helm | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-might-machine-learning-impact-future-opportunities-in-the-field-of-cybersecurity/"><u>How Might Machine Learning Impact Future Opportunities in the Field of Cybersecurity?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-se-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone SE</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-challenges-in-leveraging-ai-for-significant-commercial-gains-insights-from-zdnet/"><u>Overcoming Challenges in Leveraging AI for Significant Commercial Gains - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-challenges-to-unlock-the-economic-potential-of-ai-in-business-insights-from-zdnet/"><u>Overcoming Challenges to Unlock the Economic Potential of AI in Business - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-impact-of-luts-on-professional-photography/"><u>The Impact of LUTs on Professional Photography</u></a></li>
-<li><a href="https://discover-help.techidaily.com/troubleshooting-physical-computer-malfunctions-in-windows-operating-systems-tips-and-strategies-by-yl-software-professionals/"><u>Troubleshooting Physical Computer Malfunctions in Windows Operating Systems - Tips and Strategies by YL Software Professionals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-solving-the-absent-openal32dll-error/"><u>Troubleshooting Steps for Solving the Absent openAL32.dll Error</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-top-obstacle-of-generative-ai-demonstrating-a-tangible-return-on-investment-roi-zdnet-insights/"><u>Unveiling the Top Obstacle of Generative AI: Demonstrating a Tangible Return on Investment (ROI) | ZDNet Insights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-beyond-advertisements-a-direct-look-at-recordcast/"><u>[New] Beyond Advertisements A Direct Look at RecordCast</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-navigating-vlcs-features-for-mp4-and-diverse-format-changes/"><u>[Updated] 2024 Approved Navigating VLC's Features for MP4 & Diverse Format Changes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-enhancing-engagement-the-ultimate-guide-for-tiktok-unboxings/"><u>[Updated] In 2024, Enhancing Engagement The Ultimate Guide for TikTok Unboxings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-maximizing-learning-through-efficient-audio-capture-techniques-mac/"><u>[Updated] In 2024, Maximizing Learning Through Efficient Audio Capture Techniques (Mac)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-on-managing-your-iphones-icloud-storage-backup-restoration-and-deletion-tips/"><u>Complete Guide on Managing Your iPhone's iCloud Storage: Backup, Restoration & Deletion Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-syncing-your-chats-with-icloud-via-whatsapp/"><u>Comprehensive Guide: Syncing Your Chats with iCloud via WhatsApp</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/detailed-steps-to-correctly-resolve-chrome-could-not-load-plugin-on-windows-10-machines/"><u>Detailed Steps to Correctly Resolve 'Chrome Could Not Load Plugin' On Windows 10 Machines</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138593228-9781449743178-diamond-in-the-sky/"><u>Diamond in the Sky | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/efficiently-clear-out-icloud-book-collections-the-ultimate-guide-to-saving-cloud-storage/"><u>Efficiently Clear Out iCloud Book Collections: The Ultimate Guide to Saving Cloud Storage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-steps-to-save-whatsapp-chat-videos-across-iphone-android-devices-and-laptops/"><u>Effortless Steps to Save WhatsApp Chat Videos Across iPhone, Android Devices, and Laptops</u></a></li>
+<li><a href="https://app-tips.techidaily.com/fixing-your-missing-whatsapp-backups-unveiling-reasons-behind-and-effective-solutions-to-try/"><u>Fixing Your Missing WhatsApp Backups: Unveiling Reasons Behind and Effective Solutions to Try</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-accessing-your-icloud-keychain-passwords-across-iphone-ipad-and-mac/"><u>Guide: Accessing Your iCloud Keychain Passwords Across iPhone, iPad & Mac</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/how-to-transfer-data-from-hdd-to-samsung-ssd-on-windows-11107/"><u>How to Transfer Data From HDD to Samsung SSD on Windows 11/10/7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-note-12t-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Xiaomi Redmi Note 12T Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oppo-k11x-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo K11x Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamlessly-reduce-your-whatsapp-audio-files-with-these-proven-strategies/"><u>Seamlessly Reduce Your WhatsApp Audio Files with These Proven Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-completely-removing-your-whatsapp-profile-from-ios-devices/"><u>Step-by-Step Guide: Completely Removing Your WhatsApp Profile From iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264415-troubleshoot-your-icloud-picture-sharing-problems-for-ios-devices-and-macbook-computers-essential-steps/"><u>Troubleshoot Your iCloud Picture Sharing Problems for iOS Devices and MacBook Computers - Essential Steps!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-addressing-the-resolved-windows-11-update-data-base-problem/"><u>Understanding & Addressing the Resolved Windows 11 Update Data Base Problem</u></a></li>
 </ul></div>
 

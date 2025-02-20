@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Building an Excel Drop-Down Menu Swiftly & Simply - Tips From ZDNet"
-date: 2025-02-06T00:49:14.947Z
-updated: 2025-02-09T23:16:28.518Z
+date: 2025-02-18T00:58:46.298Z
+updated: 2025-02-20T04:42:25.059Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/adapting-office-gadgets-for-the-age-of-artificial-intelligence-zdnet/"><u>Adapting Office Gadgets for the Age of Artificial Intelligence | ZDNET</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/delicious-directives-the-7-secrets-of-epic-food-vids/"><u>Delicious Directives The 7 Secrets of Epic Food Vids</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-fresh-hp-printer-drivers-for-windows-1011-users/"><u>Effortless Installation: Fresh HP Printer Drivers for Windows 10/11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-fixes-overcoming-bluetooth-not-working-challenges-on-windows-11/"><u>Expert Fixes: Overcoming 'Bluetooth Not Working' Challenges on Windows 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-new-capabilities-unveiled-with-the-latest-version-of-windows-11-zdnet-insights/"><u>Exploring the New Capabilities Unveiled with the Latest Version of Windows 11 | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-skill-enhancement-and-robust-security-shape-the-future-of-cloud-native-solutions-insights-from-zdnet/"><u>How Skill Enhancement & Robust Security Shape the Future of Cloud-Native Solutions - Insights From ZDNet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-resolve-xbox-controller-connection-problems-in-windows-7-8-and-11/"><u>How to Resolve Xbox Controller Connection Problems in Windows 7, 8 & 11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/obs-and-wirecast-bout-which-broadcast-tool-is-king/"><u>OBS and Wirecast Bout Which Broadcast Tool Is King?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/personalized-computing-choices-is-building-or-shopping-for-a-new-pc-best-for-you/"><u>Personalized Computing Choices: Is Building Or Shopping For A New PC Best for You?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/screencaptureelite-the-5-star-apeaksoft-evaluation-for-2024/"><u>ScreenCaptureElite – The 5-Star Apeaksoft Evaluation for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-hottest-developer-positions-and-rising-programming-languages-predictions-for-the-tech-industry-insights-from-zdnet/"><u>The Hottest Developer Positions & Rising Programming Languages: Predictions for the Tech Industry | Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ssentials-for-launching-a-youtube-success-story-for-2024/"><u>Top Essentials for Launching a YouTube Success Story for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-limitations-of-ai-in-programming-insights-from-zdnet/"><u>Understanding the Limitations of AI in Programming - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-companies-face-difficulty-in-harnessing-generative-ai-key-findings-from-deloittes-research-zdnet/"><u>Why Companies Face Difficulty in Harnessing Generative AI: Key Findings From Deloitte's Research | ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-fine-tuning-windows-photos-app-incorporate-filters-and-sync-music-streaming/"><u>[New] 2024 Approved Fine-Tuning Windows Photos App Incorporate Filters & Sync Music Streaming</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-local-labor-costs-the-availability-and-rates-of-skilled-electricians-in-the-area-can-affect-labor-costs-significantly/"><u>[Updated] 2024 Approved __Local Labor Costs__ The Availability and Rates of Skilled Electricians in the Area Can Affect Labor Costs Significantly</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-top-secret-instagram-stories-viewer-apps/"><u>[Updated] 2024 Approved Top Secret Instagram Stories Viewer Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-macs-finest-choices-for-mkv-file-handling/"><u>[Updated] In 2024, Mac's Finest Choices for MKV File Handling</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unleashing-the-potential-of-instavids-planning-for-success-for-2024/"><u>[Updated] Unleashing the Potential of InstaVids Planning for Success for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-apps-to-enhance-your-android-devices-speed-and-efficiency/"><u>Best 10 Apps to Enhance Your Android Device's Speed and Efficiency</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-no-cost-android-tracking-programs-top-5-picks-for-smartphone-surveillance/"><u>Best No-Cost Android Tracking Programs: Top 5 Picks for Smartphone Surveillance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-eq-tools-for-android-devices-top-5-selections/"><u>Discover the Ultimate List of Free EQ Tools for Android Devices - Top 5 Selections</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dive-into-retro-and-modern-gaming-effortlessly-play-ps-classics-using-ps3-ps4-and-ps5-emulators-on-pc/"><u>Dive Into Retro and Modern Gaming: Effortlessly Play PS Classics Using PS3, PS4, and PS5 Emulators on PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-insight-into-vllo-video-editing-suite-features-performance-and-user-experience-reviewed/"><u>In-Depth Insight Into VLLO Video Editing Suite: Features, Performance, and User Experience Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-brother-mfc-7860dw-running-smoothly-download-and-update-drivers-on-windows/"><u>Keep Your Brother MFC-7860DW Running Smoothly: Download & Update Drivers on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/master-the-art-of-dvd-ripping-convert-your-dvds-into-crystal-clear-wmv-files-using-windows-tools/"><u>Master the Art of DVD Ripping: Convert Your DVDs Into Crystal Clear WMV Files Using Windows Tools</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-finest-text-to-speech-male-voice-tools-for-natural-output-for-2024/"><u>New Finest Text-to-Speech Male Voice Tools for Natural Output for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-free-messaging-apps-as-great-substitutes-for-whatsapp/"><u>Top 10 Free Messaging Apps as Great Substitutes for WhatsApp</u></a></li>
 </ul></div>
 

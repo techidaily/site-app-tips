@@ -1,7 +1,7 @@
 ---
 title: Why Companies Find It Hard to Utilize Generative AI - Unveiling Survey Results by Deloitte as Featured on ZDNet
-date: 2025-01-27T18:31:45.117Z
-updated: 2025-01-29T16:18:25.601Z
+date: 2025-02-19T01:54:22.472Z
+updated: 2025-02-20T03:51:28.003Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-easy-way-to-download-and-use-the-ifunny-meme-app/"><u>[New] In 2024, The Easy Way to Download and Use the iFunny Meme App</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unveiling-the-top-10-video-editing-apps-for-instagram-magic/"><u>[New] In 2024, Unveiling the Top 10 Video Editing Apps for Instagram Magic</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-whatsapp-broadcasting-share-your-tweets-video-style/"><u>[New] WhatsApp Broadcasting Share Your Tweets Video-Style</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-ios-excellence-leading-apps-to-unlock-youtube-videos/"><u>[Updated] 2024 Approved IOS Excellence Leading Apps to Unlock YouTube Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/advanced-hd-screen-documentation-gadgets/"><u>Advanced HD Screen Documentation Gadgets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/end-of-an-era-what-to-do-with-your-windows-10-computer-explore-5-alternatives/"><u>End of an Era: What to Do with Your Windows 10 Computer - Explore 5 Alternatives</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-pricepoint-nimbus-economical-mass-storage-haven/"><u>In 2024, PricePoint Nimbus - Economical Mass Storage Haven</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-cloud-platforms-reviewed-comparing-aws-microsoft-azure-and-google-cloud-exploring-hybrid-saas-options-on-zdnet/"><u>Leading Cloud Platforms Reviewed: Comparing AWS, Microsoft Azure, & Google Cloud – Exploring Hybrid, SaaS Options on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-3b-five-facts-about-antenna-radiation-patterns/"><u>Section 3B: Five Facts About Antenna Radiation Patterns</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-ultimate-motion-capturer-polaroids-camplus-action-wrap-up-for-2024/"><u>The Ultimate Motion Capturer Polaroid's Cam+ Action Wrap-Up for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tidying-up-linux-and-open-source-manuals-discover-the-ultimate-fix/"><u>Tidying Up Linux & Open Source Manuals: Discover the Ultimate Fix!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-recommended-web-hosts-of-2024-comprehensive-expert-analysis-and-rankings-techradar/"><u>Top Recommended Web Hosts of 2024: Comprehensive Expert Analysis & Rankings - TechRadar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-your-access-steps-to-score-free-study-streaming-with-tidal/"><u>Unlock Your Access: Steps to Score Free Study Streaming with Tidal</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-alert-microsoft-faces-critical-challenge-with-windows-10-only-a-year-leftzdnet/"><u>Urgent Alert: Microsoft Faces Critical Challenge with Windows 10 - Only a Year Left![ZDNet]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-crisis-looms-for-microsoft-only-a-year-remaining-to-address-major-issues-insights-from-zdnet/"><u>Windows 11 Crisis Looms for Microsoft - Only a Year Remaining to Address Major Issues | Insights From ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-streamlining-controls/"><u>'God of War': Streamlining Controls</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-online-presence-a-guide-to-thriving-youtube-branding/"><u>[New] 2024 Approved Elevate Your Online Presence A Guide to Thriving YouTube Branding</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-zoom-optimization-coordinating-remote-gatherings-for-2024/"><u>[New] Zoom Optimization Coordinating Remote Gatherings for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-how-to-see-your-subscribers-on-youtube/"><u>2024 Approved How to See Your Subscribers on YouTube?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-what-phone-is-compatible-with-gear-vr/"><u>2024 Approved What Phone Is Compatible With Gear VR?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/asf/"><u>無造作ASFファイルを簡単に変換する方法：詳細ガイド</u></a></li>
+<li><a href="https://app-tips.techidaily.com/access-vmwares-professional-tools-free-personal-licenses-for-fusion-pro-and-workstation-pro-available-get-setup-guide/"><u>Access VMware's Professional Tools: Free Personal Licenses for Fusion Pro & Workstation Pro Available - Get Setup Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-teams-efficiency-embrace-the-developer-mindset-zdnet/"><u>Boost Your Team's Efficiency: Embrace the Developer Mindset | ZDNet</u></a></li>
+<li><a href="https://solve-info.techidaily.com/comment-faciliter-la-recuperation-de-donnees-dun-disque-dur-exterieur-toshiba-tutoriel-detaille/"><u>Comment Faciliter La Récupération De Données D'un Disque Dur Extérieur Toshiba - Tutoriel Détaillé</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-as-an-influencer-5-must-know-techniques-and-case-studies/"><u>Mastering Instagram As An Influencer 5 Must-Know Techniques and Case Studies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723003814479-overcoming-the-persistent-issue-of-microsoft-edge-freezing-in-windows-11-problem-solved/"><u>Overcoming the Persistent Issue of Microsoft Edge Freezing in Windows 11 - Problem Solved!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/save-big-get-your-hands-on-ashampoos-3d-cad-pro-software-at-a-steal-just-40-today/"><u>Save Big: Get Your Hands on Ashampoo's 3D CAD Pro Software at a Steal - Just $40 Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-3a-antenna-radiation-patterns-and-design-principles/"><u>Section 3A: Antenna Radiation Patterns and Design Principles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-secure-encryption-apps-of-2022-to-safeguard-your-information-insights-by-zdnet/"><u>Top Secure Encryption Apps of 2022 to Safeguard Your Information - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-crucial-impact-of-tech-experts-on-businesses-embracing-a-no-tech-approach-insights-from-zdnet/"><u>Unveiling the Crucial Impact of Tech Experts on Businesses Embracing a No-Tech Approach: Insights From ZDNet</u></a></li>
 </ul></div>
 

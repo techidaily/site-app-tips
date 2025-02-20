@@ -1,7 +1,7 @@
 ---
 title: "Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet"
-date: 2025-02-08T17:56:45.262Z
-updated: 2025-02-09T16:34:09.010Z
+date: 2025-02-17T21:50:32.603Z
+updated: 2025-02-19T21:57:38.099Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Suppose you are in the business of generating passwords, it would probably be a 
 In a [blog post](https://donjon.ledger.com/kaspersky-password-manager/) to cap off an almost two year saga, Ledger Donjon head of security research Jean-Baptiste Bédrune showed KPM was doing just that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,7 +66,7 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -92,22 +92,15 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-gold-class-selection-of-unseen-video-extractors/"><u>[New] Gold-Class Selection of Unseen Video Extractors</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-nailing-the-art-of-ppt-video-reproduction/"><u>[New] In 2024, Nailing the Art of PPT Video Reproduction</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-recording-techniques-with-adobe-presenter/"><u>[Updated] 2024 Approved Mastering Recording Techniques with Adobe Presenter</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-10-mobile-chat-applications-the-ultimate-list-for-ios-and-android-devices/"><u>Best 10 Mobile Chat Applications: The Ultimate List for iOS & Android Devices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/complete-guide-transforming-your-wtv-files-into-top-video-formats/"><u>Complete Guide: Transforming Your WTV Files Into Top Video Formats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-your-cinematic-journey-with-the-ultimate-list-of-15-vr-film-apps-for-mobile-devices/"><u>Enhance Your Cinematic Journey with the Ultimate List of 15 VR Film Apps for Mobile Devices</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/flash-sale-ends-may-31st-save-on-karaoke-systems-and-get-karaoke-file-renamer-free/"><u>Flash Sale Ends May 31St - Save on Karaoke Systems & Get Karaoke File Renamer Free!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193676-get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ios-tracker-application-monitor-your-iphone-with-ease/"><u>IOS Tracker Application: Monitor Your iPhone with Ease</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/tech-savvy-academics-recording-education-talks-with-macos-for-2024/"><u>Tech-Savvy Academics Recording Education Talks with MacOS for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-most-effective-android-management-software-from-pc-updated-top-picks/"><u>The Most Effective Android Management Software From PC - Updated Top Picks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-5-samsung-gear-360-camera-alternatives/"><u>Top 5 Samsung Gear 360 Camera Alternatives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-free-online-and-mobile-apps-for-crafting-hilarious-memes-effortlessly/"><u>Top Free Online & Mobile Apps for Crafting Hilarious Memes Effortlessly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-no-cost-ios-radio-application-best-choice-for-iphone-ipad-and-ipod-touch/"><u>Top No-Cost iOS Radio Application: Best Choice for iPhone, iPad & iPod Touch</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-summary-and-expert-take-on-gopro-quik-your-essential-reading-for-this-year/"><u>Ultimate Summary and Expert Take on GoPro Quik – Your Essential Reading for This Year</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/vishakhas-specialty-masterful-data-revival-methods/"><u>Vishakha's Specialty: Masterful Data Revival Methods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unveiling-the-secrets-to-a-successful-fb-giveaway/"><u>[New] 2024 Approved Unveiling the Secrets to a Successful FB Giveaway</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-hidden-pathway-to-logging-in-depth-whatsapp-chats/"><u>[New] The Hidden Pathway to Logging In-Depth WhatsApp Chats</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beyond-entertainment-vrs-utility/"><u>2024 Approved Beyond Entertainment VR's Utility</u></a></li>
+<li><a href="https://win-dash.techidaily.com/epson-gt-s50-printer-software-download-compatible-with-windows-7-8-and-10/"><u>Epson GT-S50 Printer Software Download: Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-low-code-development-for-enhanced-employer-branding-a-look-at-zdnet-perspectives/"><u>Leveraging Low-Code Development for Enhanced Employer Branding: A Look at ZDnet Perspectives</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-videography-stabilizers-enhancing-mobile-and-dslr-shots-for-2024/"><u>Premier Videography Stabilizers Enhancing Mobile & DSLR Shots for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/scaling-your-business-with-anthropics-revolutionary-claude-platform-unleash-the-power-of-ai/"><u>Scaling Your Business with Anthropic's Revolutionary Claude Platform: Unleash the Power of AI</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oppo-k11-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo K11 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://app-tips.techidaily.com/verizon-enhances-enterprise-solutions-with-celonas-innovative-5g-technology/"><u>Verizon Enhances Enterprise Solutions with Celona's Innovative 5G Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-5-main-options-for-continued-use/"><u>Windows 10 End of Life Approaching: Discover Your 5 Main Options for Continued Use</u></a></li>
 </ul></div>
 

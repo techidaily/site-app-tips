@@ -1,7 +1,7 @@
 ---
 title: Linux Vendor Kernel Security Compromised? Recent Research Confirms & Suggests Remedies | ZDNet
-date: 2025-01-23T17:47:06.145Z
-updated: 2025-01-29T17:15:31.097Z
+date: 2025-02-14T21:59:30.651Z
+updated: 2025-02-19T20:32:09.161Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-tips-for-inserting-captions-in-youtube-videos/"><u>[New] 2024 Approved Tips for Inserting Captions in YouTube Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-asmr-insights-harnessing-soundscapes-for-slumber-for-2024/"><u>[New] ASMR Insights Harnessing Soundscapes for Slumber for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-free-chants-and-sounds-a-guide-to-peaceful-meditation/"><u>2024 Approved Top Free Chants & Sounds A Guide to Peaceful Meditation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2024s-ultimate-guide-to-free-password-management-tools-professional-insights-and-ratings/"><u>2024'S Ultimate Guide to Free Password Management Tools: Professional Insights & Ratings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvd-windows-10-t17252908042183/"><u>免費DVD上色軟件 高效便利 - Windows 10版本特別釋出,點選報名直接獎賞!</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/abbyy-empowers-land-registrys-ascent-to-global-prominence-in-digital-service-innovation/"><u>ABBYY Empowers Land Registry's Ascent to Global Prominence in Digital Service Innovation</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-google-pixel-8-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Google Pixel 8 Pro to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-protons-latest-innovation-a-fully-secured-password-safe-with-unbreakable-end-to-end-encryption/"><u>Introducing Proton's Latest Innovation: A Fully Secured Password Safe With Unbreakable End-to-End Encryption</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protonmail-unveils-new-secure-password-management-tool-featuring-military-grade-encryption/"><u>ProtonMail Unveils New Secure Password Management Tool Featuring Military-Grade Encryption</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protonmail-unveils-secure-password-manager-featuring-military-grade-encryption-latest-tech-news-on-zdnet/"><u>ProtonMail Unveils Secure Password Manager Featuring Military-Grade Encryption - Latest Tech News on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-and-simplify-enhance-safety-and-convenience-of-your-online-accounts-with-our-top-rated-30-password-manager-zdnet-recommended/"><u>Secure & Simplify: Enhance Safety & Convenience of Your Online Accounts with Our Top-Rated $30 Password Manager (ZDNet Recommended)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-entire-team-with-1password-unbeatable-group-plan-at-just-1995month-explore-the-benefits-on-zdnet/"><u>Secure Your Entire Team with 1Password: Unbeatable Group Plan at Just $19.95/Month - Explore the Benefits on ZDNet</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/scapes-in-hd-techniques-for-precision-recording/"><u>Soundscapes in HD Techniques for Precision Recording</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-macos-privacy-easy-steps-to-retrieve-stored-passwords-from-apples-keychain/"><u>Unlocking macOS Privacy: Easy Steps to Retrieve Stored Passwords From Apple’s Keychain</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-xiaomi-redmi-13c-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Redmi 13C 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-from-footage-to-frames-screen-and-webcam-capturing-with-vimeo/"><u>[New] In 2024, From Footage to Frames Screen & Webcam Capturing with Vimeo</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-action-sequence-alerts-mastering-4-techniques-on-the-xbox-one/"><u>[Updated] Action Sequence Alerts Mastering 4 Techniques on the Xbox One</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieve-sql-mastery-with-premier-course-selections-comprehensive-guide-by-zdnet/"><u>Achieve SQL Mastery with Premier Course Selections - Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-compelling-documentary-narratives-for-2024/"><u>Crafting Compelling Documentary Narratives for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exhaustion-amongst-it-specialists-positive-developments-in-sight/"><u>Exhaustion Amongst IT Specialists - Positive Developments in Sight</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/heif-vs-jpeg-compared-a-comprehensive-guide-for-photographers/"><u>HEIF Vs. JPEG Compared: A Comprehensive Guide for Photographers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-speech-tuning-made-simple-on-sony-playstation-consoles/"><u>In 2024, Speech Tuning Made Simple on Sony PlayStation Consoles</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/leicht-upgraden-ssd-modifikation-fur-lenovo-thinkpad-yoga-2-gen-perfekt-einfach/"><u>Leicht Upgraden: SSD Modifikation Für Lenovo ThinkPad Yoga (2. Gen.) - Perfekt Einfach</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-visibility-tips-for-linking-and-sharing-chatbot-talks/"><u>Maximizing Visibility: Tips for Linking and Sharing Chatbot Talks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/optimal-video-sizing-for-an-instagram-standout-for-2024/"><u>Optimal Video Sizing for an Instagram Standout for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-premier-linux-learning-experiences-exploring-elite-bootcamps-and-training-opportun-2-engaging-with-the-pioneers-of-tech-a-deep-dive-in82/"><u>The Ultimate Guide to Premier Linux Learning Experiences: Exploring Elite Bootcamps & Training Opportun 2. Engaging with the Pioneers of Tech: A Deep Dive Into Linux Mastery Courses</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-enterprise-ai-potential-discover-anthropics-revolutionary-claude-plan-as-featured-on-zdnet/"><u>Unleashing Enterprise AI Potential: Discover Anthropic's Revolutionary Claude Plan as Featured on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-red-hats-enhanced-enterprise-linux-innovative-tools-for-simplifying-hybrid-cloud-management-zdnet/"><u>Unveiling Red Hat's Enhanced Enterprise Linux: Innovative Tools for Simplifying Hybrid Cloud Management | ZDNet</u></a></li>
 </ul></div>
 

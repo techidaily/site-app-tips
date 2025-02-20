@@ -1,7 +1,7 @@
 ---
 title: "Phishers' Favorite Targets Revealed: How DHL, Microsoft & WhatsApp Top SEO Lists for Brand Fraud | ZDNet Insights"
-date: 2025-02-07T02:45:18.849Z
-updated: 2025-02-09T22:40:16.610Z
+date: 2025-02-12T20:57:45.225Z
+updated: 2025-02-19T20:21:11.502Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 ## Phishers' Favorite Targets Revealed: How DHL, Microsoft & WhatsApp Top SEO Lists for Brand Fraud | ZDNet Insights
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,15 +77,18 @@ Check Point Research
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/1-nvidia-unveils-new-accelerated-instruction-modules-aims-for-enhanced-gen-ai-performance-tech-news-on-zdnet/"><u>1. NVIDIA Unveils New Accelerated Instruction Modules (AIMs) for Enhanced GEN AI Performance - Tech News on ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/aumenta-il-fattore-di-impatto-del-tuo-contenuto-video-usando-winxvideo-ai-per-una-migliore-nitidezza-e-precisione/"><u>Aumenta Il Fattore Di Impatto Del Tuo Contenuto Video Usando Winxvideo AI per Una Migliore Nitidezza E Precisione</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-pc-experience-transitioning-from-windows-home-to-pro-key-benefits-explained/"><u>Elevate Your PC Experience: Transitioning From Windows Home to Pro - Key Benefits Explained</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enterprise-evolution-exploring-the-role-of-decentralized-networks-and-web3-technologies-in-modern-companies-zdnet-analysis/"><u>Enterprise Evolution: Exploring the Role of Decentralized Networks and Web3 Technologies in Modern Companies | ZDNET Analysis</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/exploring-the-capabilities-of-logitechs-4k-pro-webcam-for-2024/"><u>Exploring the Capabilities of Logitech's 4K Pro Webcam for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/google-bard-vs-bing-chat-showdown-determining-the-leading-ai-conversationalist/"><u>Google Bard Vs. Bing Chat Showdown: Determining the Leading AI Conversationalist</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-11x-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme 11X 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-recent-patch-might-escalate-evening-tech-woes-experts-at-zdnet-caution/"><u>Microsoft's Recent Patch Might Escalate Evening Tech Woes, Experts at ZDNet Caution</u></a></li>
-<li><a href="https://fox-that.techidaily.com/problems-with-your-iphone-control-center-here-are-8-fixes-to-try/"><u>Problems with Your iPhone Control Center? Here Are 8 Fixes to Try!</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-modern-way-tweeting-videos-to-whatsapp/"><u>[New] In 2024, The Modern Way Tweeting Videos to WhatsApp</u></a></li>
+<li><a href="https://fox-search.techidaily.com/download-hd-clip-video-files-in-high-quality-formats-mp4movavi-from-hclpix/"><u>Download HD Clip Video Files in High-Quality Formats (MP4/MOV/AVI) From Hclpix</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-ai-highlight-creators-introduction-and-key-features-of-top-tools/"><u>Exploring AI Highlight Creators: Introduction & Key Features of Top Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-power-of-ai-an-in-depth-look-into-openais-sora-capabilities-and-constraints/"><u>Exploring the Power of AI: An In-Depth Look Into OpenAI's Sora - Capabilities and Constraints</u></a></li>
+<li><a href="https://app-tips.techidaily.com/hugging-face-community-advanced-text-to-video-transformation-techniques/"><u>Hugging Face Community: Advanced Text-to-Video Transformation Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-stable-diffusion-ai-exploring-the-capabilities-of-a-cutting-edge-image-synthesis-tool/"><u>In-Depth Analysis of Stable Diffusion AI - Exploring the Capabilities of a Cutting-Edge Image Synthesis Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-workflow-keep-gmail-pinned-for-easy-viewing/"><u>Optimize Your Workflow: Keep Gmail Pinned for Easy Viewing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-repair-a-corrupted-windows-store-cache/"><u>Resolved: How to Repair a Corrupted Windows Store Cache</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-launches-worlds-first-photo-recovery-and-repair-software-news-of-stellar/"><u>Stellar Launches World's First Photo Recovery & Repair Software - News of Stellar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>The Best 8 VPN Hardware Devices Reviewed On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-tecno-spark-20c-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Tecno Spark 20C without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-recommended-smartphone-stabilizers-a-comprehensive-guide/"><u>Top Recommended Smartphone Stabilizers : A Comprehensive Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unlocking-the-potential-of-sound-in-your-powerpoint-sessions-for-2024/"><u>Unlocking the Potential of Sound in Your PowerPoint Sessions for 2024</u></a></li>
 </ul></div>
 
